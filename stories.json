@@ -1,63 +1,65 @@
 {
- "generated": "2026-08-23T14:41:24.205567+00:00",
+ "generated": "2026-08-23T15:37:19.717281+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "eb07c7b868",
-   "topic": "Politics",
-   "summary": "On the political survival game everyone in Westminster\u2019s playing, I discovered an unnerving reflection of our country\u2019s atmosphere of mistrust No 10: Full Confidence is the game all the lobby journalists and backbenchers are playing on their phones. Westminster hasn\u2019t been so united by an app since the early 2010s, when everyone was trying to figure out what David Cameron saw in Angry Birds . The game is quite engrossing: you are the prime minister, taking office, and your name is Yusuf Dunmore. Popularity starts high in all the important areas \u2013 cabinet, backbenchers, the media, the public. But from there, every decision you are called upon to make, from nominating a chancellor to your answers at PMQs, confronts you with an invidious choice between one crisis and another. Zoe Williams is a Guardian columnist Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "4760bb9563",
+   "topic": "Business & Economy",
+   "summary": "As Europe grapples with its own China shock , the U.S. has largely given up on trying to persuade Beijing to change the export-heavy economic model that's helping fuel it. It's a sharp break from years of U.S. economic diplomacy \u2014 including most recently during the Biden administration . What they're saying: \"We did that for 25 years with our best people, and everything got worse,\" U.S. Trade Representative Jamieson Greer told Axios in an interview this week, referring to efforts to persuade China to shift toward greater consumption. \"All these things where they say, 'Well, let's do more engagement. Let's talk more about savings and investment,'\" Greer said. \"That's crazy to me.\" \"If we continued to do what they were saying, we would have 0% growth, like Canada, like the U.K., like Germany,\" Greer said. (Germany barely grew last year, while Canada grew 1.7% and the U.K. 1.3%, compared\u2026",
+   "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 7,
-    "indieCount": 7,
+    "bigCount": 9,
+    "indieCount": 9,
     "big": [
-     "trading"
+     "economy",
+     "best",
+     "biden"
     ],
     "indie": [
-     "imposed",
-     "deal",
+     "donald",
+     "friday",
+     "us-canada",
      "escalates",
-     "nation",
-     "washington",
-     "worth"
+     "deal",
+     "sides"
     ]
    },
    "people": [],
    "absent": [
     "coop"
    ],
-   "headline": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
-   "updated": "2026-08-23T13:41:45+00:00",
-   "outletCount": 11,
+   "headline": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+   "updated": "2026-08-23T14:59:31+00:00",
+   "outletCount": 14,
    "counts": {
-    "family": 4,
-    "pub": 2,
-    "corp": 3,
-    "nonprofit": 5
+    "corp": 7,
+    "nonprofit": 5,
+    "family": 2,
+    "pub": 4
    },
-   "newsCount": 13,
+   "newsCount": 17,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "What Canadian Goods Will Take Trump\u2019s 50% Tariffs? Some Pretty Strange Items.",
-     "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
-     "author": "Ian Austen",
+     "outlet": "thehill",
+     "title": "Pence: 'Last thing' US economy needs is trade war with Canada",
+     "url": "https://thehill.com/business/6045613-pence-last-thing-us-economy-needs-is-trade-war-with-canada/",
+     "author": "Max Rego",
      "kind": "news",
-     "published": "2026-08-23T13:41:45+00:00",
-     "summary": "Buoys, dog muzzles, capes, national flags and \u201cbase metal statuettes\u201d from Canada are now more expensive for U.S. shoppers."
+     "published": "2026-08-23T14:59:31+00:00",
+     "summary": "Former Vice President Mike Pence said Sunday the trade war between the U.S. and Canada could damage the American economy. \u201cAmerican businesses and American consumers pay American tariffs, and I think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,\u201d Pence told..."
     },
     {
-     "outlet": "nypost",
-     "title": "Canadian PM Mark Carney claims country \u2018at war\u2019 with Trump on trade after tariffs: \u2018We got attacked\u2019",
-     "url": "https://nypost.com/2026/08/23/us-news/canadian-pm-mark-carney-says-country-at-war-with-president-trump-on-trade-we-got-attacked/",
-     "author": "Ryan King",
+     "outlet": "guardian",
+     "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+     "author": "Lauren Almeida",
      "kind": "news",
-     "published": "2026-08-23T13:22:13+00:00",
-     "summary": "The gloves are coming off."
+     "published": "2026-08-23T11:00:16+00:00",
+     "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading..."
     },
     {
      "outlet": "nyt",
@@ -78,6 +80,15 @@
      "summary": "Canada and the US were closing in on a trade deal earlier this week until the negotiations fell apart. Both sides blame each other for last-minute changes to the terms. Canada\u2019s Prime Minister Mark Carney has announced retaliatory tariffs on the United States after Washington imposed a 50 percent levy on 20-billion-dollars worth of Canadian goods. On Saturday, he addressed the nation for the first time since the talks collapsed, as Charlotte Lam explains."
     },
     {
+     "outlet": "newsweek",
+     "title": "Trump Says Canada Wants \u2018Benefits of Being a State\u2019 After Trade Talks Collapse",
+     "url": "https://www.newsweek.com/trump-issues-first-response-after-us-canada-trade-deal-collapses-12356928",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T08:27:42+00:00",
+     "summary": "\u201cCanada wants the benefits of being a State, without being one,\u201d the U.S. president posted on Truth Social."
+    },
+    {
      "outlet": "dw",
      "title": "Trump hits out at Canada over retaliatory tariffs",
      "url": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
@@ -85,6 +96,15 @@
      "kind": "news",
      "published": "2026-08-23T07:31:00+00:00",
      "summary": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are threatening new tariffs after the collapse of talks on Friday."
+    },
+    {
+     "outlet": "france24",
+     "title": "Trump says Canada wants 'benefits of being a State, without being one' as trade war deepens",
+     "url": "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-23T06:56:30+00:00",
+     "summary": "US President Donald Trump slammed Canada on Sunday, saying the country wanted \"the benefits of being a State, without being one\", in response to Canadian Prime Minister Mark Carney announcing retaliatory tariffs following failed trade negotiations."
     },
     {
      "outlet": "cbsnews",
@@ -96,40 +116,22 @@
      "summary": "The U.S. and Canada have wrangled for decades over trade, and somehow, they still managed to remain friends, allies and trading partners."
     },
     {
-     "outlet": "thehill",
-     "title": "Collins asks White House to consider 'negative impact' of Canada trade war",
-     "url": "https://thehill.com/homenews/senate/6045413-susan-collins-canada-trade-war-negative-impact/",
-     "author": "Mira Bhakta",
+     "outlet": "bbc",
+     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-23T02:07:04+00:00",
-     "summary": "Sen. Susan Collins (R-Maine) pushed the Trump administration to \u201cconsider the negative impact\" that engaging in a tariff war with Canada may have on American constituents, straying away from some of her GOP peers. Republican lawmakers were split Saturday after negotiations between Canada and the U.S. fell through, causing the White House to impose a..."
+     "published": "2026-08-23T05:46:43+00:00",
+     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
-     "url": "https://www.pbs.org/newshour/economy/what-to-know-about-trumps-50-tariffs-on-canadian-goods-that-just-went-into-effect",
-     "author": "Wyatte Grantham-Philips, Associated Press",
+     "outlet": "npr",
+     "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
+     "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
+     "author": "Scott Simon",
      "kind": "news",
-     "published": "2026-08-22T21:24:51+00:00",
-     "summary": "The new levies are expected to affect about 5% of Canada's annual exports to the U.S., roughly $20 billion in goods ranging from hockey sticks to agricultural products."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Canada Sets US Counter-Tariffs Sept. 8 to Mirror Trump Levy",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/canada-unveils-20-billion-counter-tariffs-to-mirror-trump-levy",
-     "author": "Thomas Seal and Derek Decloet",
-     "kind": "news",
-     "published": "2026-08-22T15:22:17+00:00",
-     "summary": "Prime Minister Mark Carney said Canada will apply counter-tariffs on $20 billion of US products on Sept. 8, escalating the feud rocking one of the world\u2019s biggest trading relationships."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
-     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-     "author": "William Christou, Edward Helmore and agencies",
-     "kind": "news",
-     "published": "2026-08-22T14:04:57+00:00",
-     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country\u2019s prime minister, has vowed to match them \u201cdollar for dollar\u201d after the collapse of trade talks. The tariffs came into force on roughly $20bn (\u00a314.6bn) of goods \u2013 ranging from hockey sticks to tongue depressors \u2013 at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading..."
+     "published": "2026-08-22T11:43:25+00:00",
+     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
     },
     {
      "outlet": "npr",
@@ -150,6 +152,24 @@
      "summary": "A new wave of tariffs will hit Canada early Saturday morning, with steep 50% duties in effect at the stroke of midnight."
     },
     {
+     "outlet": "abcnews",
+     "title": "Trump announces temporary pause of beef import tariffs in effort to lower prices",
+     "url": "https://abcnews.com/Politics/trump-announces-temporary-pause-beef-import-tariffs-effort/story?id=135841581",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T20:39:58+00:00",
+     "summary": "Farmers and lawmakers have raised concerns over increasing foreign beef imports."
+    },
+    {
+     "outlet": "axios",
+     "title": "U.S. trade chief calls trying to change China's economy \"crazy\"",
+     "url": "https://www.axios.com/2026/08/21/greer-china-trade-economy",
+     "author": "Courtenay Brown",
+     "kind": "news",
+     "published": "2026-08-21T16:35:05+00:00",
+     "summary": "As Europe grapples with its own China shock , the U.S. has largely given up on trying to persuade Beijing to change the export-heavy economic model that's helping fuel it. It's a sharp break from years of U.S. economic diplomacy \u2014 including most recently during the Biden administration . What they're saying: \"We did that for 25 years with our best people, and everything got worse,\" U.S. Trade Representative Jamieson Greer told Axios in an interview this week, referring to efforts to persuade China to shift toward greater consumption. \"All these things where they say, 'Well, let's do more engagement. Let's talk more about savings and investment,'\" Greer said. \"That's crazy to me.\" \"If we continued to do what they were saying, we would have 0% growth, like Canada, like the U.K., like Germany,\" Greer said. (Germany barely grew last year, while Canada grew 1.7% and the U.K. 1.3%, compared with 2.1% in the U.S.) The big picture: The U.S. has spent years building a tariff wall against a slew of Chinese goods. Biden officials largely kept those tariffs in place and increased duties on other Chinese products, including electric vehicles. President Trump has gone further in his second term,"
+    },
+    {
      "outlet": "guardian",
      "title": "JD Vance reportedly mocks Carney for trying to \u2018out-tough\u2019 Trump on trade",
      "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
@@ -157,296 +177,6 @@
      "kind": "news",
      "published": "2026-08-21T15:22:48+00:00",
      "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to \u201cout-tough\u201d Donald Trump. The recording, which was reportedly made at a fundraiser and shared with the Canadian Press , comes in the last stretch of a difficult negotiation in which the US president has threatened to impose 50% tariffs on Canada. Continue reading..."
-    },
-    {
-     "outlet": "guardian",
-     "title": "I put myself in the prime minister\u2019s shoes \u2013 and learned some uncomfortable lessons | Zoe Williams",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/prime-ministers-political-survival-game",
-     "author": "Zoe Williams",
-     "kind": "opinion",
-     "published": "2026-08-21T07:00:28+00:00",
-     "summary": "On the political survival game everyone in Westminster\u2019s playing, I discovered an unnerving reflection of our country\u2019s atmosphere of mistrust No 10: Full Confidence is the game all the lobby journalists and backbenchers are playing on their phones. Westminster hasn\u2019t been so united by an app since the early 2010s, when everyone was trying to figure out what David Cameron saw in Angry Birds . The game is quite engrossing: you are the prime minister, taking office, and your name is Yusuf Dunmore. Popularity starts high in all the important areas \u2013 cabinet, backbenchers, the media, the public. But from there, every decision you are called upon to make, from nominating a chancellor to your answers at PMQs, confronts you with an invidious choice between one crisis and another. Zoe Williams is a Guardian columnist Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "04f4efba9c",
-   "topic": "Politics",
-   "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit including a .4-mile front stretch along Pennsylvania Avenue near the White\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 8,
-    "indieCount": 3,
-    "big": [
-     "streets",
-     "trump",
-     "indycars",
-     "washington",
-     "city",
-     "around"
-    ],
-    "indie": [
-     "part"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
-   "updated": "2026-08-23T13:05:49+00:00",
-   "outletCount": 11,
-   "counts": {
-    "family": 4,
-    "corp": 4,
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 11,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "IndyCars Whiz Through DC Streets Today In Freedom 250 Grand Prix: What To Know",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/23/indycars-whiz-through-dc-streets-today-in-freedom-250-grand-prix-what-to-know/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-23T13:05:49+00:00",
-     "summary": "Racers will drive down Pennsylvania Avenue and zip past landmarks and museums along the National Mall."
-    },
-    {
-     "outlet": "nypost",
-     "title": "How to watch IndyCar Freedom 250 Grand Prix for free, including Trump lap of honor",
-     "url": "https://nypost.com/2026/08/23/sports/heres-how-to-watch-indycar-freedom-250-grand-prix-live-for-free/",
-     "author": "Angela Tricarico",
-     "kind": "news",
-     "published": "2026-08-23T13:00:00+00:00",
-     "summary": "Washington, D.C. is the latest American city to be transformed into an auto racing circuit."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
-     "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T12:44:47+00:00",
-     "summary": "Twenty-five cars traveling at top speeds approaching 180 mph are zooming around the National Mall this weekend as IndyCar takes over downtown D.C."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "White House revs up \u2018iconic\u2019 Freedom 250 race as IndyCars prepare to unleash American muscle on DC streets",
-     "url": "https://www.foxnews.com/politics/white-house-revs-up-iconic-freedom-250-race-indycars-prepare-unleash-american-muscle-dc-streets",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T12:00:07+00:00",
-     "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit including a .4-mile front stretch along Pennsylvania Avenue near the White House. \"The historic IndyCar race set to take place in our Nation\u2019s Capital will be one of the greatest and most iconic races in history,\" Ingle said. \"The President will leave his imprint on this historic race in a way that only he can.\" RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'TH"
-    },
-    {
-     "outlet": "wapo",
-     "title": "IndyCar drivers prepare to zoom 185 mph on D.C. streets in Trump-hosted race",
-     "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
-     "author": "Les Carpenter, Liam Bowman, Cleve R. Wootson Jr., Ben Conarck",
-     "kind": "news",
-     "published": "2026-08-23T10:00:01+00:00",
-     "summary": "The Freedom 250 Grand Prix, expected to draw around 140,000 spectators, is the culmination of events the president launched to mark the country\u2019s birthday."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "At Trump\u2019s Freedom 250 Grand Prix, Two Americas Collide. Or Do They?",
-     "url": "https://www.newsweek.com/freedom-250-grand-prix-indycar-trump-12356961",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T10:00:00+00:00",
-     "summary": "IndyCar's D.C. street race pits a \"red state\" sport against the bluest city\u2014but the divide isn't all that it seems."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "IndyCars set to race on streets of nation's capital. Here's what to know",
-     "url": "https://abcnews.com/Sports/weekends-indycar-race-streets-nations-capital/story?id=135743374",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T19:59:51+00:00",
-     "summary": "President Donald Trump is transforming the streets around the National Mall in Washington, D.C., this weekend into an IndyCar motorsports mecca for the first time."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Karoline Leavitt to work for Trump-affiliated super PAC after leaving White House",
-     "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
-     "author": "Kyla Guilfoil",
-     "kind": "news",
-     "published": "2026-08-21T23:02:10+00:00",
-     "summary": "Leavitt, the youngest press secretary in history, announced her departure from the White House Aug. 12."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
-     "url": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
-     "author": "Doug Adams",
-     "kind": "news",
-     "published": "2026-08-21T22:55:27+00:00",
-     "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
-     "url": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T21:50:27+00:00",
-     "summary": "The Freedom 250 Grand Prix is part of the nation\u2019s 250th anniversary celebrations and the first major auto race in the US capital in more than 24 years."
-    },
-    {
-     "outlet": "npr",
-     "title": "What to know about this weekend's IndyCar race on the National Mall",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-     "author": "Rachel Treisman",
-     "kind": "news",
-     "published": "2026-08-21T09:01:00+00:00",
-     "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
-    }
-   ]
-  },
-  {
-   "id": "4760bb9563",
-   "topic": "Politics",
-   "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 6,
-    "big": [
-     "jamieson",
-     "greer",
-     "representative",
-     "offered",
-     "details",
-     "interview"
-    ],
-    "indie": [
-     "hockey",
-     "tongue",
-     "depressors",
-     "sticks",
-     "retaliatory",
-     "announcing"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
-   "updated": "2026-08-23T12:39:05+00:00",
-   "outletCount": 11,
-   "counts": {
-    "family": 4,
-    "corp": 3,
-    "nonprofit": 4,
-    "pub": 2
-   },
-   "newsCount": 12,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Trump\u2019s Top Trade Representative Details Offer That Canada Rejected",
-     "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
-     "author": "Ana Swanson",
-     "kind": "news",
-     "published": "2026-08-23T12:39:05+00:00",
-     "summary": "In an interview, Jamieson Greer, President Trump\u2019s trade representative, laid out details of what the United States offered to Canada before talks crumbled."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Live updates: US-Canada trade war details surface; Trump to take honor lap in IndyCar Grand Prix",
-     "url": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
-     "author": "The Hill Staff",
-     "kind": "news",
-     "published": "2026-08-23T12:32:59+00:00",
-     "summary": "The details of the failed trade negotiations between the U.S. and Canada, which sparked tit-for-tat 50 percent tariffs on certain goods between the two countries, are now coming to light. U.S. Trade Representative Jamieson Greer said in a Saturday evening interview with The New York Times that, before this weekend, officials had offered to reduce..."
-    },
-    {
-     "outlet": "guardian",
-     "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-     "author": "Lauren Almeida",
-     "kind": "news",
-     "published": "2026-08-23T11:00:16+00:00",
-     "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading..."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Trump Says Canada Wants \u2018Benefits of Being a State\u2019 After Trade Talks Collapse",
-     "url": "https://www.newsweek.com/trump-issues-first-response-after-us-canada-trade-deal-collapses-12356928",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T08:27:42+00:00",
-     "summary": "\u201cCanada wants the benefits of being a State, without being one,\u201d the U.S. president posted on Truth Social."
-    },
-    {
-     "outlet": "france24",
-     "title": "Trump says Canada wants 'benefits of being a State, without being one' as trade war deepens",
-     "url": "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-23T06:56:30+00:00",
-     "summary": "US President Donald Trump slammed Canada on Sunday, saying the country wanted \"the benefits of being a State, without being one\", in response to Canadian Prime Minister Mark Carney announcing retaliatory tariffs following failed trade negotiations."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T05:46:43+00:00",
-     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
-    },
-    {
-     "outlet": "axios",
-     "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
-     "url": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
-     "author": "Courtenay Brown",
-     "kind": "news",
-     "published": "2026-08-22T15:58:20+00:00",
-     "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said late Friday that Canada had made last-minute demands that upset the pact, Bloomberg reported . Canadian Prime Minister Mark Carney, in a statement posted to X, alleged it was the U.S. that had made late changes to the terms, and said he had decided to suspend the negotiations. Friction point: \"Canada w"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Canada Demand for Trucks Tariff Relief Imperiled Trade Talks",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/canada-demand-for-tariff-relief-on-trucks-imperiled-trade-talks",
-     "author": "Josh Wingrove",
-     "kind": "news",
-     "published": "2026-08-22T15:56:48+00:00",
-     "summary": "Trade talks between the US and Canada collapsed Friday in part amid a last-minute standoff over cutting US tariffs on Canadian medium- and heavy-duty vehicles, people familiar with the matter said."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "U.S. and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
-     "url": "https://www.pbs.org/newshour/world/u-s-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-canada-says-it-will-retaliate",
-     "author": "Rob Gillies, Associated Press",
-     "kind": "news",
-     "published": "2026-08-22T15:30:49+00:00",
-     "summary": "President Donald Trump's import taxes will hit about 5% of what Canada ships to the United States every year, including products ranging from hockey sticks to tongue depressors."
-    },
-    {
-     "outlet": "time",
-     "title": "Canada to Match Trump\u2019s 50% Tariffs, Dollar for Dollar",
-     "url": "https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-22T14:43:20+00:00",
-     "summary": "Dominic LeBlanc, Canada's minister in charge of trade with the United States, exits the office of U.S. Trade Representative Jamieson Greer after a meeting in Washington, D.C., on Aug. 20, 2026. \u2014Mandel NGAN\u2014AFP Trade talks between the United States and Canada collapsed Friday. With President Donald Trump\u2019s 50% tariffs taking effect the following day, Prime Minister Mark Carney quickly responded with retaliatory measures that go into effect in September. U.S. Customs and Border Protection sent out guidance for importers saying that the tariffs, which Trump first announced last month, would go into effect Saturday. They impact about $20 billion of Canadian goods, including hockey sticks, building materials, clothing, beer, and cheese. Negotiators from both countries had worked for weeks to reach a trade deal, leading up to a three-day extension of the original tariff deadline. At the time, Trump suggested that an agreement had been reached, writing on Truth Social on Tuesday that he had \u201cpaused\u201d the tariffs because the two countries \u201chave a DEAL!\u201d But in a statement just before midnight on Friday, Carney said that \u201cprogress has not been enough to meet our objectives for Canadians.\u201d R"
-    },
-    {
-     "outlet": "npr",
-     "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
-     "author": "Scott Simon",
-     "kind": "news",
-     "published": "2026-08-22T11:43:25+00:00",
-     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
     },
     {
      "outlet": "time",
@@ -465,50 +195,61 @@
      "kind": "opinion",
      "published": "2026-08-21T12:00:35+00:00",
      "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
+    },
+    {
+     "outlet": "politico",
+     "title": "The nation\u2019s cartoonists on the week in politics",
+     "url": "https://www.politico.com/gallery/2026/08/21/the-nations-cartoonists-on-the-week-in-politics-01045203",
+     "author": "By POLITICO Staff",
+     "kind": "news",
+     "published": "2026-08-21T09:00:00+00:00",
+     "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker."
     }
    ]
   },
   {
    "id": "df7ede4cc1",
    "topic": "Politics",
-   "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s\u2026",
-   "summaryFrom": "zeteo",
+   "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust\u2026",
+   "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 3,
-    "indieCount": 5,
+    "bigCount": 6,
+    "indieCount": 4,
     "big": [
-     "lower",
-     "halted",
-     "building",
-     "friday",
      "stay",
-     "roberts"
+     "friday",
+     "issued",
+     "chief",
+     "lower",
+     "administrative"
     ],
-    "indie": [
-     "continues",
-     "getty",
-     "images",
-     "temporary",
-     "comes",
-     "halt"
-    ]
+    "indie": []
    },
    "people": [],
    "absent": [],
    "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
-   "updated": "2026-08-22T00:01:15+00:00",
-   "outletCount": 8,
+   "updated": "2026-08-23T14:35:20+00:00",
+   "outletCount": 10,
    "counts": {
+    "family": 3,
     "coop": 1,
     "pub": 1,
-    "corp": 2,
-    "nonprofit": 3,
-    "family": 1
+    "corp": 3,
+    "nonprofit": 2
    },
-   "newsCount": 7,
+   "newsCount": 9,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "time",
+     "title": "The Supreme Court Let Trump\u2019s Ballroom Proceed\u2014for Now. Here\u2019s What That Means",
+     "url": "https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-23T14:35:20+00:00",
+     "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust for Historic Preservation, which argues that a President cannot unilaterally make a major, permanent change to federally owned property when Congress has not authorized it, pointing toward the Property Clause of the Constitution. \u201cWe reiterated that the Administration has no unilateral legal authority\u2014"
+    },
     {
      "outlet": "zeteo",
      "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
@@ -528,6 +269,15 @@
      "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
     },
     {
+     "outlet": "vox",
+     "title": "Trump\u2019s ballroom survives \u2014 for now",
+     "url": "https://www.vox.com/the-logoff-newsletter-trump/500218/trump-east-wing-ballroom-construction-scotus-roberts",
+     "author": "Cameron Peters",
+     "kind": "news",
+     "published": "2026-08-21T21:35:00+00:00",
+     "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other judges said? Earlier this month, the DC Circuit Court of Appeals upheld a previous district court ruling that Trump had exceeded his authority in unilaterally pursuing the ballroom project and would need to seek congressional approval to continue. (Trump, meanwhile, has attempted to justify the projec"
+    },
+    {
      "outlet": "axios",
      "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
      "url": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
@@ -535,6 +285,15 @@
      "kind": "news",
      "published": "2026-08-21T21:12:53+00:00",
      "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. What they're saying: \"We are grateful for the Decision of the United States Supreme Court,\" President Trump said in a Friday post on Truth Social. \"The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND!\" \"It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule.\" Catch up quick: The administration turned to the Supreme Co"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Supreme Court says Trump can continue ballroom work as it weighs case",
+     "url": "https://www.washingtonpost.com/politics/2026/08/21/supreme-court-says-trump-can-continue-ballroom-work-it-weighs-case/",
+     "author": "Justin Jouvenal, Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-21T20:55:34+00:00",
+     "summary": "The administrative stay gives the court more time to weigh an emergency appeal by the Trump administration in a lawsuit challenging the project."
     },
     {
      "outlet": "abcnews",
@@ -553,15 +312,6 @@
      "kind": "news",
      "published": "2026-08-21T18:47:48+00:00",
      "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation. (Image credit: Alex Wong)"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Supreme Court chief justice allows work on Trump's $400M White House ballroom to continue for now",
-     "url": "https://www.pbs.org/newshour/politics/supreme-court-chief-justice-allows-work-on-trumps-400m-white-house-ballroom-to-continue-for-now",
-     "author": "Michael Kunzelman, Associated Press",
-     "kind": "news",
-     "published": "2026-08-21T18:42:55+00:00",
-     "summary": "The temporary order comes hours before lower-court rulings would have forced a halt to aboveground construction."
     },
     {
      "outlet": "dailywire",
@@ -589,34 +339,35 @@
    "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 3,
+    "bigCount": 4,
     "indieCount": 4,
     "big": [
-     "struck"
+     "struck",
+     "district"
     ],
     "indie": [
      "because",
-     "nationality",
-     "public",
-     "issuing",
      "likely",
-     "basis"
+     "ruled",
+     "nationality",
+     "issuing",
+     "public"
     ]
    },
    "people": [],
    "absent": [
-    "corp",
     "pub"
    ],
    "headline": "Trump administration's 75-country visa ban was illegal, judge rules",
    "updated": "2026-08-22T21:54:39+00:00",
-   "outletCount": 7,
+   "outletCount": 8,
    "counts": {
     "family": 3,
     "nonprofit": 3,
+    "corp": 1,
     "coop": 1
    },
-   "newsCount": 7,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -657,6 +408,15 @@
      "summary": "The judge ruled that Secretary of State Marco Rubio exceeded his authority by issuing the policy, which \"runs afoul\" of the Immigration and Nationality Act by mandating \"the refusal of visas to eligible applicants without any basis in law.\""
     },
     {
+     "outlet": "abcnews",
+     "title": "Trump policy that suspended visas for 75 countries struck down",
+     "url": "https://abcnews.com/Politics/judge-strikes-trump-administration-policy-suspended-immigrant-visas/story?id=135862935",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T16:47:09+00:00",
+     "summary": "A U.S. district judge said the policy \"is contrary to law and was issued in excess of Secretary Rubio's statutory authority.\""
+    },
+    {
      "outlet": "motherjones",
      "title": "Federal Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
      "url": "https://www.motherjones.com/politics/2026/08/federal-judge-strikes-down-trumps-75-country-visa-ban/",
@@ -686,105 +446,240 @@
    ]
   },
   {
-   "id": "e23b1cf341",
-   "topic": "Culture & Sport",
-   "summary": "The world's fastest man record was shattered on the first day of the World Humanoid Robot Games in Beijing on Saturday. Jamaican Usain Bolt's 100-meter dash record of 9.58 set in 2009 was edged by a Beijing-based X-Humanoid robot named Lightning Bolt, which ran 100 meters at 9:39 seconds before smashing into a blue wall. Before the opening, a humanoid robot from Chinese smartphone company Honor completed a 100-meter sprint in a record of 9.32 seconds during a trial of the games, the company said, at a peak speed of 14.5 meters per second. After smashing into the wall, the robots were placed on a stretcher, unlike Bolt, who was able to jog a lap to celebrate human achievement in 2009. ROBOTS BEAT HUMANS IN HALF MARATHON The World Humanoid Robot Games, in its second year, features more than 2,000 robots in 51 events and 1,000 competitions like running, table tennis and soccer. The\u2026",
+   "id": "04f4efba9c",
+   "topic": "Politics",
+   "summary": "Early Sunday morning, hours before the IndyCar Freedom 250 Grand Prix , several teams and drivers are already on the back foot after being assessed penalties. Nolan Siegel\u2019s No. 5 Arrow McLaren Chevrolet, Marcus Ericsson\u2019s No. 28 Andretti Global Honda, and Mick Schumacher\u2019s No. 47 Rahal Letterman Lanigan Honda were all assessed six-place grid penalties for unapproved engine changes. Those three join Santino Ferrucci in the No. 14 AJ Foyt Racing Chevrolet with unapproved engine grid penalties. CLICK HERE FOR MORE OUTKICK SPORTS COVERAGE It\u2019s not unusual to see teams take penalties like this late in the season, especially because teams are only permitted to use a certain number of engines per season. But it could be an especially tough break on a circuit where whether overtaking is possible is still a bit of an unknown. If you're six places farther down the grid, that's a lot more work\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 2,
-    "indieCount": 5,
-    "big": [],
-    "indie": [
-     "race",
-     "football",
-     "sprinting",
-     "boxing"
-    ]
+    "bigCount": 6,
+    "indieCount": 2,
+    "big": [
+     "washington",
+     "streets",
+     "indycars",
+     "trump",
+     "today",
+     "racers"
+    ],
+    "indie": []
    },
    "people": [],
    "absent": [
     "coop",
-    "nonprofit"
+    "pub"
    ],
-   "headline": "Kejelcha breaks men's half marathon world record by 29 seconds",
-   "updated": "2026-08-23T14:01:30+00:00",
-   "outletCount": 5,
+   "headline": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
+   "updated": "2026-08-23T14:40:47+00:00",
+   "outletCount": 7,
    "counts": {
-    "family": 1,
-    "pub": 5,
-    "corp": 1
+    "family": 3,
+    "corp": 3,
+    "nonprofit": 2
    },
-   "newsCount": 7,
+   "newsCount": 8,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
      "outlet": "foxnews",
-     "title": "Chinese humanoid robot breaks Usain Bolt's 100m dash record at 9.39 seconds",
-     "url": "https://www.foxnews.com/tech/chinese-humanoid-robot-breaks-usain-bolt-100m-dash-record-9-39-seconds",
+     "title": "Several drivers hit with penalties ahead of IndyCar Freedom 250 Grand Prix in Washington, DC",
+     "url": "https://www.foxnews.com/outkick-sports/drivers-hit-penalties-indycar-freedom-250-grand-prix-washington-dc",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T14:01:30+00:00",
-     "summary": "The world's fastest man record was shattered on the first day of the World Humanoid Robot Games in Beijing on Saturday. Jamaican Usain Bolt's 100-meter dash record of 9.58 set in 2009 was edged by a Beijing-based X-Humanoid robot named Lightning Bolt, which ran 100 meters at 9:39 seconds before smashing into a blue wall. Before the opening, a humanoid robot from Chinese smartphone company Honor completed a 100-meter sprint in a record of 9.32 seconds during a trial of the games, the company said, at a peak speed of 14.5 meters per second. After smashing into the wall, the robots were placed on a stretcher, unlike Bolt, who was able to jog a lap to celebrate human achievement in 2009. ROBOTS BEAT HUMANS IN HALF MARATHON The World Humanoid Robot Games, in its second year, features more than 2,000 robots in 51 events and 1,000 competitions like running, table tennis and soccer. The five-day event highlights China's rapid progress in robotics amid a heated tech race with the U.S. The games, which are taking place in the National Speed Skating Oval built for the 2022 Winter Olympics, opened the same week Beijing was holding the 2026 World Robot Conference , where companies showcased aro"
+     "published": "2026-08-23T14:40:47+00:00",
+     "summary": "Early Sunday morning, hours before the IndyCar Freedom 250 Grand Prix , several teams and drivers are already on the back foot after being assessed penalties. Nolan Siegel\u2019s No. 5 Arrow McLaren Chevrolet, Marcus Ericsson\u2019s No. 28 Andretti Global Honda, and Mick Schumacher\u2019s No. 47 Rahal Letterman Lanigan Honda were all assessed six-place grid penalties for unapproved engine changes. Those three join Santino Ferrucci in the No. 14 AJ Foyt Racing Chevrolet with unapproved engine grid penalties. CLICK HERE FOR MORE OUTKICK SPORTS COVERAGE It\u2019s not unusual to see teams take penalties like this late in the season, especially because teams are only permitted to use a certain number of engines per season. But it could be an especially tough break on a circuit where whether overtaking is possible is still a bit of an unknown. If you're six places farther down the grid, that's a lot more work you have to do if you want to make your way to the front. All three of the cars assessed penalties Sunday morning have shown speed at various times this weekend. Ericsson even said Saturday that he believed overtaking would be possible. Well, now he gets a chance to prove it. HOW TO WATCH INDYCAR\u2019S FRE"
     },
     {
-     "outlet": "bbc",
-     "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-     "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-     "author": null,
+     "outlet": "forbes",
+     "title": "IndyCars Whiz Through DC Streets Today In Freedom 250 Grand Prix: What To Know",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/23/indycars-whiz-through-dc-streets-today-in-freedom-250-grand-prix-what-to-know/",
+     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
      "kind": "news",
-     "published": "2026-08-23T13:35:06+00:00",
-     "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Robot boxing, football and sprinting at World Humanoid Games",
-     "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T12:47:06+00:00",
-     "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
-    },
-    {
-     "outlet": "france24",
-     "title": "Humanoid robots break human records at World Robot Games in Beijing",
-     "url": "https://www.france24.com/en/asia-pacific/20260823-humanoid-robots-break-records-at-competition-in-beijing",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-23T11:45:17+00:00",
-     "summary": "Humanoid robots smashed sprinting records and competed in boxing, football and martial arts at Beijing\u2019s World Robot Games. While some machines stumbled, toppled or failed to start, the robo-athletes drew cheers from hundreds of spectators and showcased China\u2019s growing dominance in humanoid robotics."
+     "published": "2026-08-23T13:05:49+00:00",
+     "summary": "Racers will drive down Pennsylvania Avenue and zip past landmarks and museums along the National Mall."
     },
     {
      "outlet": "cbsnews",
-     "title": "Chinese humanoid robot beats Usain Bolt's sprint world record",
-     "url": "https://www.cbsnews.com/news/china-robot-usain-bolt-sprint-run-record-faster/",
+     "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
+     "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T05:40:15+00:00",
-     "summary": "Two human records were smashed by robots competing in the Olympics-like World Humanoid Robot Games in China."
+     "published": "2026-08-23T12:44:47+00:00",
+     "summary": "Twenty-five cars traveling at top speeds approaching 180 mph are zooming around the National Mall this weekend as IndyCar takes over downtown D.C."
     },
     {
-     "outlet": "bbc",
-     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-     "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+     "outlet": "foxnews",
+     "title": "White House revs up \u2018iconic\u2019 Freedom 250 race as IndyCars prepare to unleash American muscle on DC streets",
+     "url": "https://www.foxnews.com/politics/white-house-revs-up-iconic-freedom-250-race-indycars-prepare-unleash-american-muscle-dc-streets",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T17:02:06+00:00",
-     "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
+     "published": "2026-08-23T12:00:07+00:00",
+     "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the White House. \"The historic IndyCar race set to take place in our Nation\u2019s Capital will be one of the greatest and most iconic races in history,\" Ingle said. \"The President will leave his imprint on this historic race in a way that only he can.\" RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'T"
     },
     {
-     "outlet": "dw",
-     "title": "Chinese robot beats Usain Bolt's 100m world record",
-     "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-rdf",
+     "outlet": "newsweek",
+     "title": "At Trump\u2019s Freedom 250 Grand Prix, Two Americas Collide. Or Do They?",
+     "url": "https://www.newsweek.com/freedom-250-grand-prix-indycar-trump-12356961",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T12:41:00+00:00",
-     "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race."
+     "published": "2026-08-23T10:00:00+00:00",
+     "summary": "IndyCar's D.C. street race pits a \"red state\" sport against the bluest city\u2014but the divide isn't all that it seems."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "IndyCars set to race on streets of nation's capital. Here's what to know",
+     "url": "https://abcnews.com/Sports/weekends-indycar-race-streets-nations-capital/story?id=135743374",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T19:59:51+00:00",
+     "summary": "President Donald Trump is transforming the streets around the National Mall in Washington, D.C., this weekend into an IndyCar motorsports mecca for the first time."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
+     "url": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
+     "author": "Doug Adams",
+     "kind": "news",
+     "published": "2026-08-21T22:55:27+00:00",
+     "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
+    },
+    {
+     "outlet": "npr",
+     "title": "What to know about this weekend's IndyCar race on the National Mall",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+     "author": "Rachel Treisman",
+     "kind": "news",
+     "published": "2026-08-21T09:01:00+00:00",
+     "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
     }
    ]
   },
   {
-   "id": "b9c68cd1fe",
+   "id": "a23a33e6df",
+   "topic": "World",
+   "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 4,
+    "big": [
+     "trump",
+     "friday",
+     "tariff",
+     "trading",
+     "collapsed"
+    ],
+    "indie": [
+     "ranging",
+     "sticks",
+     "hockey",
+     "trump's",
+     "expected",
+     "roughly"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
+   "updated": "2026-08-23T13:41:45+00:00",
+   "outletCount": 7,
+   "counts": {
+    "family": 4,
+    "nonprofit": 3,
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 9,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "What Canadian Goods Will Take Trump\u2019s 50% Tariffs? Some Pretty Strange Items.",
+     "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
+     "author": "Ian Austen",
+     "kind": "news",
+     "published": "2026-08-23T13:41:45+00:00",
+     "summary": "Buoys, dog muzzles, capes, national flags and \u201cbase metal statuettes\u201d from Canada are now more expensive for U.S. shoppers."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
+     "url": "https://www.pbs.org/newshour/economy/what-to-know-about-trumps-50-tariffs-on-canadian-goods-that-just-went-into-effect",
+     "author": "Wyatte Grantham-Philips, Associated Press",
+     "kind": "news",
+     "published": "2026-08-22T21:24:51+00:00",
+     "summary": "The new levies are expected to affect about 5% of Canada's annual exports to the U.S., roughly $20 billion in goods ranging from hockey sticks to agricultural products."
+    },
+    {
+     "outlet": "axios",
+     "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+     "url": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
+     "author": "Courtenay Brown",
+     "kind": "news",
+     "published": "2026-08-22T15:58:20+00:00",
+     "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said late Friday that Canada had made last-minute demands that upset the pact, Bloomberg reported . Canadian Prime Minister Mark Carney, in a statement posted to X, alleged it was the U.S. that had made late changes to the terms, and said he had decided to suspend the negotiations. Friction point: \"Canada w"
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Canada Demand for Trucks Tariff Relief Imperiled Trade Talks",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/canada-demand-for-tariff-relief-on-trucks-imperiled-trade-talks",
+     "author": "Josh Wingrove",
+     "kind": "news",
+     "published": "2026-08-22T15:56:48+00:00",
+     "summary": "Trade talks between the US and Canada collapsed Friday in part amid a last-minute standoff over cutting US tariffs on Canadian medium- and heavy-duty vehicles, people familiar with the matter said."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "U.S. and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+     "url": "https://www.pbs.org/newshour/world/u-s-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-canada-says-it-will-retaliate",
+     "author": "Rob Gillies, Associated Press",
+     "kind": "news",
+     "published": "2026-08-22T15:30:49+00:00",
+     "summary": "President Donald Trump's import taxes will hit about 5% of what Canada ships to the United States every year, including products ranging from hockey sticks to tongue depressors."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Canada Sets US Counter-Tariffs Sept. 8 to Mirror Trump Levy",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/canada-unveils-20-billion-counter-tariffs-to-mirror-trump-levy",
+     "author": "Thomas Seal and Derek Decloet",
+     "kind": "news",
+     "published": "2026-08-22T15:22:17+00:00",
+     "summary": "Prime Minister Mark Carney said Canada will apply counter-tariffs on $20 billion of US products on Sept. 8, escalating the feud rocking one of the world\u2019s biggest trading relationships."
+    },
+    {
+     "outlet": "time",
+     "title": "Canada to Match Trump\u2019s 50% Tariffs, Dollar for Dollar",
+     "url": "https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-22T14:43:20+00:00",
+     "summary": "Dominic LeBlanc, Canada's minister in charge of trade with the United States, exits the office of U.S. Trade Representative Jamieson Greer after a meeting in Washington, D.C., on Aug. 20, 2026. \u2014Mandel NGAN\u2014AFP Trade talks between the United States and Canada collapsed Friday. With President Donald Trump\u2019s 50% tariffs taking effect the following day, Prime Minister Mark Carney quickly responded with retaliatory measures that go into effect in September. U.S. Customs and Border Protection sent out guidance for importers saying that the tariffs, which Trump first announced last month, would go into effect Saturday. They impact about $20 billion of Canadian goods, including hockey sticks, building materials, clothing, beer, and cheese. Negotiators from both countries had worked for weeks to reach a trade deal, leading up to a three-day extension of the original tariff deadline. At the time, Trump suggested that an agreement had been reached, writing on Truth Social on Tuesday that he had \u201cpaused\u201d the tariffs because the two countries \u201chave a DEAL!\u201d But in a statement just before midnight on Friday, Carney said that \u201cprogress has not been enough to meet our objectives for Canadians.\u201d R"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
+     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+     "author": "William Christou, Edward Helmore and agencies",
+     "kind": "news",
+     "published": "2026-08-22T14:04:57+00:00",
+     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country\u2019s prime minister, has vowed to match them \u201cdollar for dollar\u201d after the collapse of trade talks. The tariffs came into force on roughly $20bn (\u00a314.6bn) of goods \u2013 ranging from hockey sticks to tongue depressors \u2013 at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T12:20:46+00:00",
+     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+    }
+   ]
+  },
+  {
+   "id": "c06a81312f",
    "topic": "Politics",
    "summary": "A fast-moving brush fire exploded across more than 10,500 acres outside Reno, Nevada , on Saturday, threatening roughly 1,000 homes and prompting evacuations as powerful winds fueled the flames. Nevada Gov. Joe Lombardo declared a state of emergency for Washoe County as the Hawk Fire grew quickly throughout the day. Strong, gusty winds, low humidity and dry vegetation helped fuel the flames, according to the Truckee Meadows Fire Protection District. About 400 firefighters and other personnel from local, state and federal agencies were working the fire Saturday evening, both on the ground and from the air. Three helicopters were set to fly overnight as crews worked to protect homes and other property. AI FIREFIGHTING DRONES TAKE AIM AT WILDFIRES \"The Hawk Fire is a very dynamic incident for us as it's being driven by the winds,\" Truckee Meadows Fire and Rescue Chief Richard Edwards said\u2026",
    "summaryFrom": "foxnews",
@@ -795,33 +690,24 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
-   "updated": "2026-08-23T13:48:34+00:00",
+   "headline": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
+   "updated": "2026-08-23T15:30:55+00:00",
    "outletCount": 5,
    "counts": {
-    "family": 2,
-    "corp": 3
+    "corp": 3,
+    "family": 2
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
-     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
-     "author": "Lowell Cauffiel",
-     "kind": "news",
-     "published": "2026-08-23T13:48:34+00:00",
-     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
-    },
-    {
      "outlet": "cbsnews",
      "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
      "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T13:32:06+00:00",
+     "published": "2026-08-23T15:30:55+00:00",
      "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
     },
     {
@@ -830,8 +716,17 @@
      "url": "https://abcnews.com/US/fast-growing-hawk-fire-explodes-2500-acres-spurs/story?id=135876227",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T12:54:04+00:00",
+     "published": "2026-08-23T15:04:00+00:00",
      "summary": "About 1,000 homes were threatened, authorities said."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
+     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
+     "author": "Lowell Cauffiel",
+     "kind": "news",
+     "published": "2026-08-23T13:48:34+00:00",
+     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
     },
     {
      "outlet": "foxnews",
@@ -854,6 +749,76 @@
    ]
   },
   {
+   "id": "c42f0eac18",
+   "topic": "Politics",
+   "summary": "President sharply criticises proposal, saying \u2018elections right now are a tsunami for the state that will split Ukraine\u2019 Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers. The Ukrainian president, responding for the first time to a demand made by the sacked former defence minister Mykhailo Fedorov, sharply criticised an idea that he said was impractical given Russia appeared to have no interest in a ceasefire. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+   "updated": "2026-08-23T14:49:42+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+     "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-23T14:49:42+00:00",
+     "summary": "Ukrainian President Volodymyr Zelensky has said that holding elections during wartime would pose a threat to the country, following a controversial call by his former defense minister to pave the way for an election. According to the latest opinion poll by the Kyiv Institute of Sociology carried out this summer, only 15 per cent of those surveyed want an election to be held at this time. Details by Eliza Herbert."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Zelenskyy says wartime elections could \u2018destroy\u2019 Ukraine",
+     "url": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T12:19:12+00:00",
+     "summary": "The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' that would 'split' the country."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+     "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+     "author": "Dan Sabbagh in Dnipro",
+     "kind": "news",
+     "published": "2026-08-23T11:50:12+00:00",
+     "summary": "President sharply criticises proposal, saying \u2018elections right now are a tsunami for the state that will split Ukraine\u2019 Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers. The Ukrainian president, responding for the first time to a demand made by the sacked former defence minister Mykhailo Fedorov, sharply criticised an idea that he said was impractical given Russia appeared to have no interest in a ceasefire. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine: Zelenskyy rejects wartime elections",
+     "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T10:23:00+00:00",
+     "summary": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to mobilize hundreds of thousands of troops after September polls there."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+     "url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T08:59:04+00:00",
+     "summary": "After Ukraine's fired defense minister publicly called for wartime elections, Zelenskyy said it would risk splitting the country."
+    }
+   ]
+  },
+  {
    "id": "a7bdc022c4",
    "topic": "Climate & Energy",
    "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading...",
@@ -864,10 +829,10 @@
     "big": [],
     "indie": [
      "flooding",
-     "bear",
      "brunt",
-     "saturday",
-     "winds"
+     "winds",
+     "bear",
+     "saturday"
     ]
    },
    "people": [],
@@ -931,76 +896,6 @@
      "kind": "news",
      "published": "2026-08-22T19:15:24+00:00",
      "summary": "As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke's rain and heavy winds as it passes south of a direct hit late Saturday into early Sunday."
-    }
-   ]
-  },
-  {
-   "id": "5a813a08e2",
-   "topic": "Politics",
-   "summary": "President sharply criticises proposal, saying \u2018elections right now are a tsunami for the state that will split Ukraine\u2019 Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers. The Ukrainian president, responding for the first time to a demand made by the sacked former defence minister Mykhailo Fedorov, sharply criticised an idea that he said was impractical given Russia appeared to have no interest in a ceasefire. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "President Zelensky says having elections in Ukraine would 'destroy the country'",
-   "updated": "2026-08-23T13:07:13+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "President Zelensky says having elections in Ukraine would 'destroy the country'",
-     "url": "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-23T13:07:13+00:00",
-     "summary": "In remarks on Sunday, Ukrainian President Volodymyr Zelensky spoke out against holding war time elections. He believes it would be too dangerous for the country, that would \u2018split\u2019 Ukraine. The remarks came after his former defense minister publicly called for a vote. Details and analysis by FRANCE 24 correspondent in Kyiv, Emmanuelle Chaze."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Zelenskyy says wartime elections could \u2018destroy\u2019 Ukraine",
-     "url": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T12:19:12+00:00",
-     "summary": "The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' that would 'split' the country."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-     "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-     "author": "Dan Sabbagh in Dnipro",
-     "kind": "news",
-     "published": "2026-08-23T11:50:12+00:00",
-     "summary": "President sharply criticises proposal, saying \u2018elections right now are a tsunami for the state that will split Ukraine\u2019 Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers. The Ukrainian president, responding for the first time to a demand made by the sacked former defence minister Mykhailo Fedorov, sharply criticised an idea that he said was impractical given Russia appeared to have no interest in a ceasefire. Continue reading..."
-    },
-    {
-     "outlet": "dw",
-     "title": "Ukraine: Zelenskyy rejects wartime elections",
-     "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T10:23:00+00:00",
-     "summary": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to mobilize hundreds of thousands of troops after September polls there."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
-     "url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T08:59:04+00:00",
-     "summary": "After Ukraine's fired defense minister publicly called for wartime elections, Zelenskyy said it would risk splitting the country."
     }
    ]
   },
@@ -1087,63 +982,81 @@
    ]
   },
   {
-   "id": "917c8c68b1",
-   "topic": "Other",
-   "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "e23b1cf341",
+   "topic": "World",
+   "summary": "The world's fastest man record was shattered on the first day of the World Humanoid Robot Games in Beijing on Saturday. Jamaican Usain Bolt's 100-meter dash record of 9.58 set in 2009 was edged by a Beijing-based X-Humanoid robot named Lightning Bolt, which ran 100 meters at 9:39 seconds before smashing into a blue wall. Before the opening, a humanoid robot from Chinese smartphone company Honor completed a 100-meter sprint in a record of 9.32 seconds during a trial of the games, the company said, at a peak speed of 14.5 meters per second. After smashing into the wall, the robots were placed on a stretcher, unlike Bolt, who was able to jog a lap to celebrate human achievement in 2009. ROBOTS BEAT HUMANS IN HALF MARATHON The World Humanoid Robot Games, in its second year, features more than 2,000 robots in 51 events and 1,000 competitions like running, table tennis and soccer. The\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
-    "family",
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Sydney Marathon organisers not running away from \u2018unfortunate\u2019 medal error",
-   "updated": "2026-08-23T11:44:18+00:00",
+   "headline": "Kejelcha breaks men's half marathon world record by 29 seconds",
+   "updated": "2026-08-23T14:01:30+00:00",
    "outletCount": 4,
    "counts": {
-    "pub": 3,
-    "nonprofit": 1
+    "family": 1,
+    "pub": 5
    },
-   "newsCount": 4,
+   "newsCount": 6,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "Sydney Marathon organisers not running away from \u2018unfortunate\u2019 medal error",
-     "url": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
+     "outlet": "foxnews",
+     "title": "Chinese humanoid robot breaks Usain Bolt's 100m dash record at 9.39 seconds",
+     "url": "https://www.foxnews.com/tech/chinese-humanoid-robot-breaks-usain-bolt-100m-dash-record-9-39-seconds",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T11:44:18+00:00",
-     "summary": "The medal features the Allianz Arena in Munich, instead of Sydney's Allianz Stadium, as one of the city's landmarks."
-    },
-    {
-     "outlet": "dw",
-     "title": "Sydney Marathon medal wrongly shows German landmark",
-     "url": "https://www.dw.com/en/sydney-marathon-medal-wrongly-shows-german-landmark/a-78473705?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T06:35:00+00:00",
-     "summary": "A medal minted for finishers in the Sydney Marathon features a skyline of the city \u2014 with one landmark from rather far away. Organizers say the muddle only makes the medal \"a little more unique.\""
+     "published": "2026-08-23T14:01:30+00:00",
+     "summary": "The world's fastest man record was shattered on the first day of the World Humanoid Robot Games in Beijing on Saturday. Jamaican Usain Bolt's 100-meter dash record of 9.58 set in 2009 was edged by a Beijing-based X-Humanoid robot named Lightning Bolt, which ran 100 meters at 9:39 seconds before smashing into a blue wall. Before the opening, a humanoid robot from Chinese smartphone company Honor completed a 100-meter sprint in a record of 9.32 seconds during a trial of the games, the company said, at a peak speed of 14.5 meters per second. After smashing into the wall, the robots were placed on a stretcher, unlike Bolt, who was able to jog a lap to celebrate human achievement in 2009. ROBOTS BEAT HUMANS IN HALF MARATHON The World Humanoid Robot Games, in its second year, features more than 2,000 robots in 51 events and 1,000 competitions like running, table tennis and soccer. The five-day event highlights China's rapid progress in robotics amid a heated tech race with the U.S. The games, which are taking place in the National Speed Skating Oval built for the 2022 Winter Olympics, opened the same week Beijing was holding the 2026 World Robot Conference , where companies showcased aro"
     },
     {
      "outlet": "bbc",
-     "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-     "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+     "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+     "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T03:44:19+00:00",
-     "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
+     "published": "2026-08-23T13:35:06+00:00",
+     "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires."
     },
     {
-     "outlet": "guardian",
-     "title": "Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as race highlight",
-     "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
-     "author": "Stephanie Convery",
+     "outlet": "bbc",
+     "title": "Robot boxing, football and sprinting at World Humanoid Games",
+     "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-23T02:14:52+00:00",
-     "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading..."
+     "published": "2026-08-23T12:47:06+00:00",
+     "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
+    },
+    {
+     "outlet": "france24",
+     "title": "Humanoid robot breaks Usain Bolt's 100m record in China",
+     "url": "https://www.france24.com/en/asia-pacific/20260823-humanoid-robots-break-records-at-competition-in-beijing",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-23T11:45:17+00:00",
+     "summary": "Humanoid robots smashed sprinting records and competed in boxing, football and martial arts at Beijing\u2019s World Robot Games, including running legend Usain Bolt's record for the 100-metre dash. The robo-athletes drew cheers from hundreds of spectators and showcased China\u2019s growing dominance in humanoid robotics."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+     "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T17:02:06+00:00",
+     "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
+    },
+    {
+     "outlet": "dw",
+     "title": "Chinese robot beats Usain Bolt's 100m world record",
+     "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T12:41:00+00:00",
+     "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race."
     }
    ]
   },
@@ -1279,12 +1192,12 @@
     "indieCount": 3,
     "big": [],
     "indie": [
+     "alone",
+     "mount",
      "fuji",
      "tired",
-     "father",
-     "mount",
-     "leaves",
-     "alone"
+     "left",
+     "leaves"
     ]
    },
    "people": [],
@@ -1413,6 +1326,110 @@
    ]
   },
   {
+   "id": "7374ec7ffb",
+   "topic": "Politics",
+   "summary": "White House press secretary Karoline Leavitt confirmed Friday she will return to President Donald Trump\u2019s super PAC, MAGA Inc., after leaving her post in the administration. Leavitt, 28, told reporters aboard Air Force One that she plans to work for MAGA Inc., a Trump-aligned super PAC, though she did not specify her title or responsibilities. The move sends Leavitt back to a familiar political operation. She previously served as a spokesperson for MAGA Inc. before joining Trump\u2019s 2024 presidential campaign and later becoming White House press secretary. The White House and MAGA Inc. did not immediately respond to a request for comment on Leavitt's new role. TRUMP SAYS KAROLINE LEAVITT WILL LEAVE WHITE HOUSE PRESS SECRETARY ROLE, BECOME OUTSIDE ADVISOR \"You guys will still see me all the time,\" Leavitt told reporters on Friday, signaling she intends to remain active in Trump\u2019s political\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Karoline Leavitt reveals next role after leaving White House press secretary post",
+   "updated": "2026-08-23T15:21:39+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Karoline Leavitt reveals next role after leaving White House press secretary post",
+     "url": "https://www.foxnews.com/politics/karoline-leavitt-reveals-next-role-after-leaving-white-house-press-secretary-post",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T15:21:39+00:00",
+     "summary": "White House press secretary Karoline Leavitt confirmed Friday she will return to President Donald Trump\u2019s super PAC, MAGA Inc., after leaving her post in the administration. Leavitt, 28, told reporters aboard Air Force One that she plans to work for MAGA Inc., a Trump-aligned super PAC, though she did not specify her title or responsibilities. The move sends Leavitt back to a familiar political operation. She previously served as a spokesperson for MAGA Inc. before joining Trump\u2019s 2024 presidential campaign and later becoming White House press secretary. The White House and MAGA Inc. did not immediately respond to a request for comment on Leavitt's new role. TRUMP SAYS KAROLINE LEAVITT WILL LEAVE WHITE HOUSE PRESS SECRETARY ROLE, BECOME OUTSIDE ADVISOR \"You guys will still see me all the time,\" Leavitt told reporters on Friday, signaling she intends to remain active in Trump\u2019s political orbit as Republicans gear up for the midterm elections . Leavitt said Friday\u2019s trip was her last official Air Force One flight as press secretary. ALINA HABBA SHUTS DOWN SPECULATION SHE COULD REPLACE KAROLINE LEAVITT AS WHITE HOUSE PRESS SECRETARY Trump announced that Leavitt will leave her role at "
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Karoline Leavitt Announces Her Next Job, Says 'You Guys Will Still See Me All the Time'",
+     "url": "https://www.breitbart.com/politics/2026/08/22/karoline-leavitt-announces-her-next-job-says-you-guys-will-still-see-me-all-the-time/",
+     "author": "Lowell Cauffiel",
+     "kind": "news",
+     "published": "2026-08-22T14:38:01+00:00",
+     "summary": "Karoline Leavitt is leaving her job as White House press secretary, but she will still very much remain a presence in President Donald Trump\u2019s political orbit. The post Karoline Leavitt Announces Her Next Job, Says \u2018You Guys Will Still See Me All the Time\u2019 appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Karoline Leavitt to work for Trump-affiliated super PAC after leaving White House",
+     "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
+     "author": "Kyla Guilfoil",
+     "kind": "news",
+     "published": "2026-08-21T23:02:10+00:00",
+     "summary": "Leavitt, the youngest press secretary in history, announced her departure from the White House Aug. 12."
+    }
+   ]
+  },
+  {
+   "id": "4b44ad930c",
+   "topic": "Tech",
+   "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH)\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "The U.S. Now Uses Nearly 40% Of The World\u2019s Data Center Electricity",
+   "updated": "2026-08-23T15:00:09+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "The U.S. Now Uses Nearly 40% Of The World\u2019s Data Center Electricity",
+     "url": "https://www.forbes.com/sites/rrapier/2026/08/23/the-us-now-uses-nearly-40-of-the-worlds-data-center-electricity/",
+     "author": "Robert Rapier, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-23T15:00:09+00:00",
+     "summary": "U.S. data centers now use nearly 40% of global data center electricity as AI drives a historic surge in power demand, grid strain, and new infrastructure investment."
+    },
+    {
+     "outlet": "nyt",
+     "title": "The Data Center Backlash Bursts Into the Midterms",
+     "url": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+     "author": "Shane Goldmacher",
+     "kind": "opinion",
+     "published": "2026-08-23T09:01:58+00:00",
+     "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them."
+    },
+    {
+     "outlet": "vox",
+     "title": "The week the data center backlash exploded",
+     "url": "https://www.vox.com/today-explained-newsletter/500158/data-centers-2026-election-texas-ohio-michigan",
+     "author": "Dylan Scott",
+     "kind": "news",
+     "published": "2026-08-21T20:15:00+00:00",
+     "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH) launched an attack against her Republican challenger over his support for data centers. Pennsylvania Gov. Josh Shapiro, a likely contender for the 2028 Democratic presidential nomination who had previously touted data center investments, signed an executive order to limit their construction. He also bash"
+    }
+   ]
+  },
+  {
    "id": "9218a82cd2",
    "topic": "Politics",
    "summary": "Texas Gov. Greg Abbott announced Friday he had referred \"discriminatory\" religious facilities at two of the state's major airports to the Justice Department over the installation of Islamic foot-washing stations in its bathrooms. Last week, Abbott directed the state to conduct a review of grants to entities operating Dallas Fort Worth International Airport and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding over plans to install Islamic wudu washing facilities. He previously referred both airports to the U.S. Department of Transportation (DOT) for investigation and threatened state funding. DFW AIRPORT SCRAPS CONTROVERSIAL ISLAMIC FOOT-WASHING STATION PLAN AS TEXAS GOV ABBOTT TAKES AIM \"These ablution stations single out one subset of the population for special treatment based on religion ,\" Abbott said in a statement. \"They are not\u2026",
@@ -1425,7 +1442,7 @@
     "pub"
    ],
    "headline": "Texas Gov. Abbott says choice between Talarico and Paxton is 'easy'",
-   "updated": "2026-08-23T14:30:19+00:00",
+   "updated": "2026-08-23T14:52:02+00:00",
    "outletCount": 3,
    "counts": {
     "corp": 1,
@@ -1441,7 +1458,7 @@
      "url": "https://abcnews.com/Politics/gov-abbott-dismisses-gop-worries-texas-voters-rushing/story?id=135872747",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T14:30:19+00:00",
+     "published": "2026-08-23T14:52:02+00:00",
      "summary": "Abbott also spoke with ABC News\u2019 Jonathan Karl about Trump\u2019s job performance."
     },
     {
@@ -1513,58 +1530,6 @@
      "kind": "news",
      "published": "2026-08-21T14:42:50+00:00",
      "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
-    }
-   ]
-  },
-  {
-   "id": "f9cc0f5330",
-   "topic": "Other",
-   "summary": "Jamie Lowther-Pinkerton grew up knowing his mother had led an \"amazing life.\" But there was one chapter she rarely spoke about. After World War II, Sue Lowther-Pinkerton joined MI5 and worked in British intelligence during the Cold War. But she revealed little to her children about that part of her past. Decades ago, while watching a documentary with her children, Sue let something slip. KATE MIDDLETON SCALES UK'S THREE HIGHEST PEAKS IN 24 HOURS WITH A DEEPLY PERSONAL MESSAGE FOR CANCER SURVIVORS \"We were watching a documentary one afternoon about 30, 40 years ago,\" Lowther-Pinkerton recalled to Fox News Digital. \"And there was a thing called the \u2018Cambridge spy ring,\u2019 which were Soviet agents who had infiltrated the British system. And there was a great mystery about who the fifth man was. And up pops the documentary maker saying, \u2018Well, it could be Sir Roger Hollis.\u2019\" Hollis served as\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Kate Middleton smiles as she steps out with Prince William, King Charles days after Harry and Meghan\u2019s UK move bombshell",
-   "updated": "2026-08-23T13:38:07+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Kate Middleton smiles as she steps out with Prince William, King Charles days after Harry and Meghan\u2019s UK move bombshell",
-     "url": "https://pagesix.com/2026/08/23/royal-family/kate-middleton-steps-out-with-prince-william-king-charles-days-after-harry-and-meghans-uk-move-bombshell/",
-     "author": "Tamantha Ryan",
-     "kind": "news",
-     "published": "2026-08-23T13:38:07+00:00",
-     "summary": "The Princess of Wales was sitting shotgun as her husband drove them to Crathie Kirk, a Parish church in the Scottish village of Crathie."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Prince William, Harry\u2019s former royal mentor reveals mother\u2019s secret MI5 past after decades of silence",
-     "url": "https://www.foxnews.com/entertainment/prince-william-harry-former-royal-mentor-reveals-mother-secret-mi5-past-decades-silence",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T11:00:14+00:00",
-     "summary": "Jamie Lowther-Pinkerton grew up knowing his mother had led an \"amazing life.\" But there was one chapter she rarely spoke about. After World War II, Sue Lowther-Pinkerton joined MI5 and worked in British intelligence during the Cold War. But she revealed little to her children about that part of her past. Decades ago, while watching a documentary with her children, Sue let something slip. KATE MIDDLETON SCALES UK'S THREE HIGHEST PEAKS IN 24 HOURS WITH A DEEPLY PERSONAL MESSAGE FOR CANCER SURVIVORS \"We were watching a documentary one afternoon about 30, 40 years ago,\" Lowther-Pinkerton recalled to Fox News Digital. \"And there was a thing called the \u2018Cambridge spy ring,\u2019 which were Soviet agents who had infiltrated the British system. And there was a great mystery about who the fifth man was. And up pops the documentary maker saying, \u2018Well, it could be Sir Roger Hollis.\u2019\" Hollis served as director general of MI5 from 1956 to 1965. He later became the subject of allegations that he had secretly worked for the Soviet Union, claims that were investigated but never proven. Sue didn't hesitate. WATCH: PRINCE WILLIAM, HARRY\u2019S FORMER ROYAL AIDE REVEALS MOTHER'S SECRET PAST \"My mother, withou"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Prince Harry And Meghan Markle\u2019s Con Was Never Going To Last Forever",
-     "url": "https://www.dailywire.com/news/prince-harry-and-meghan-markles-con-was-never-going-to-last-forever",
-     "author": "Lauren Bair",
-     "kind": "opinion",
-     "published": "2026-08-23T08:14:36+00:00",
-     "summary": "Remember when Prince Harry and Meghan Markle thought they could alight upon California and trick us into treating them like America\u2019s most sympathetic Brit- ish royals? Well, it seems the stateside jig is up as the hucksters move on to plan B. After dragging the British monarchy through the mud and fleeing the U.K. for Montecito in 2020, Harry and Meghan plan this fall to schlep it back across the pond. Yep, to the place where Meghan once claimed the press treated her with such brutality, she \u201cdidn\u2019t want to be alive anymore.\u201d To the father Harry said was cold and distant, and the brother he alleged called Meghan \u201c rude \u201d and \u201cabrasive.\u201d Meghan even summoned crocodile tears to tell Oprah the royals were racists . Why would they voluntarily jump back into all of that? Well, maybe everyone stopped believing their lies. The couple plan to enroll their children, 7-year-old Archie and 5-year-old Lilibet at a U.K. school this September. Since they already regifted their official Frogmore Cottage back to the late queen, they\u2019ll remain royal-adjacent in an off-campus residence. We\u2019re supposed to believe this is a moving story of a broken family on the mend, the return of Britain\u2019s former f"
     }
    ]
   },
@@ -1673,54 +1638,54 @@
    ]
   },
   {
-   "id": "46a3b5915f",
-   "topic": "Tech",
-   "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH)\u2026",
-   "summaryFrom": "vox",
+   "id": "917c8c68b1",
+   "topic": "Other",
+   "summary": "A medal minted for finishers in the Sydney Marathon features a skyline of the city \u2014 with one landmark from rather far away. Organizers say the muddle only makes the medal \"a little more unique.\"",
+   "summaryFrom": "dw",
    "emphasis": null,
    "people": [],
    "absent": [
-    "nonprofit",
-    "pub"
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
    ],
-   "headline": "The Data Center Backlash Bursts Into the Midterms",
-   "updated": "2026-08-23T09:01:58+00:00",
+   "headline": "Sydney Marathon organisers not running away from \u2018unfortunate\u2019 medal error",
+   "updated": "2026-08-23T11:44:18+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 1,
-    "corp": 1,
-    "coop": 1
+    "pub": 3
    },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "The Data Center Backlash Bursts Into the Midterms",
-     "url": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
-     "author": "Shane Goldmacher",
-     "kind": "opinion",
-     "published": "2026-08-23T09:01:58+00:00",
-     "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them."
+     "outlet": "aljazeera",
+     "title": "Sydney Marathon organisers not running away from \u2018unfortunate\u2019 medal error",
+     "url": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T11:44:18+00:00",
+     "summary": "The medal features the Allianz Arena in Munich, instead of Sydney's Allianz Stadium, as one of the city's landmarks."
     },
     {
-     "outlet": "vox",
-     "title": "The week the data center backlash exploded",
-     "url": "https://www.vox.com/today-explained-newsletter/500158/data-centers-2026-election-texas-ohio-michigan",
-     "author": "Dylan Scott",
+     "outlet": "dw",
+     "title": "Sydney Marathon medal wrongly shows German landmark",
+     "url": "https://www.dw.com/en/sydney-marathon-medal-wrongly-shows-german-landmark/a-78473705?maca=en-rss-en-all-1573-rdf",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-21T20:15:00+00:00",
-     "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH) launched an attack against her Republican challenger over his support for data centers. Pennsylvania Gov. Josh Shapiro, a likely contender for the 2028 Democratic presidential nomination who had previously touted data center investments, signed an executive order to limit their construction. He also bash"
+     "published": "2026-08-23T06:35:00+00:00",
+     "summary": "A medal minted for finishers in the Sydney Marathon features a skyline of the city \u2014 with one landmark from rather far away. Organizers say the muddle only makes the medal \"a little more unique.\""
     },
     {
-     "outlet": "rangemedia",
-     "title": "Mobilizing for data center pause",
-     "url": "https://www.rangemedia.co/podcasts/mobilizing-for-data-center-pause/",
-     "author": "RANGE",
+     "outlet": "bbc",
+     "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+     "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-21T13:00:42+00:00",
-     "summary": "On this week\u2019s episode, we\u2019re bringing you a pre-recorded interview between RANGE reporter Aaron Hedge and Brittany Anderson, a local activist who\u2019s calling for governmental transparency about officials\u2019 conversations with data center developers. The two of them talked about: what brought Brittany into this work and why it\u2019s important to her, the information she learned from her public records requests and what it led her to, the moratorium on data center development at both the Spokane County and City levels and what they mean, and the continuing fight for transparency from the local government about data center development. Find relevant articles below: Spokane County approves four-month data center pause After public criticism, county commissioners unanimously approve a short moratorium on data center development. Commissioner Al French on data centers: \u2018Spokane County is not closed for business\u2019 Developers are eyeing Spokane County for new places to plant; French has been quietly tilling the field. Who? Where? We don\u2019t know, but Avista is entertaining a large data center After the utility was slow to tell the community about the project, local leaders are formally calling for a"
+     "published": "2026-08-23T03:44:19+00:00",
+     "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
     }
    ]
   },
@@ -2245,106 +2210,389 @@
    ]
   },
   {
-   "id": "e672fb4d9a",
+   "id": "67d3d016bf",
    "topic": "Justice & Policing",
-   "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other\u2026",
-   "summaryFrom": "vox",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump Once Promised International Students Green Cards. Now The Government Might Charge Them $100,000 To Work.",
-   "updated": "2026-08-21T21:35:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "vox",
-     "title": "Trump\u2019s ballroom survives \u2014 for now",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/500218/trump-east-wing-ballroom-construction-scotus-roberts",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-21T21:35:00+00:00",
-     "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other judges said? Earlier this month, the DC Circuit Court of Appeals upheld a previous district court ruling that Trump had exceeded his authority in unilaterally pursuing the ballroom project and would need to seek congressional approval to continue. (Trump, meanwhile, has attempted to justify the projec"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Supreme Court says Trump can continue ballroom work as it weighs case",
-     "url": "https://www.washingtonpost.com/politics/2026/08/21/supreme-court-says-trump-can-continue-ballroom-work-it-weighs-case/",
-     "author": "Justin Jouvenal, Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-21T20:55:34+00:00",
-     "summary": "The administrative stay gives the court more time to weigh an emergency appeal by the Trump administration in a lawsuit challenging the project."
-    },
-    {
-     "outlet": "reason",
-     "title": "Trump Once Promised International Students Green Cards. Now The Government Might Charge Them $100,000 To Work.",
-     "url": "https://reason.com/2026/08/21/trump-once-promised-international-students-green-cards-now-the-government-might-charge-them-100000-to-work/",
-     "author": "Billy Binion",
-     "kind": "opinion",
-     "published": "2026-08-21T20:24:04+00:00",
-     "summary": "The White House is officially reviewing a proposal from the Department of Homeland Security (DHS) to impose a $100,000 fee on international students who want to work in the U.S. after graduating from American universities, government records show. News of the initial proposal first broke late last month. Its progression to regulatory review , after the DHS formally submitted to the White House on Thursday, is a signal it is closer to succeeding. The fee would be attached to the Optional Practical Training (OPT) program, which currently allows international students to work in the U.S. on student visas for up to three years after graduation. It is a major source of talent, especially for employers who are hiring for jobs in advanced STEM fields. President Donald Trump campaigned heavily on combatting illegal immigration. But the new proposed rule is a stark departure from another one of his positions at the time. \"What I want to do and what I will do is you graduate from a college, I think you should get automatically as part of your diploma a green card to be able to stay in this country,\" he said in 2024 on an episode of the All-In podcast . \"And that includes junior colleges too,"
-    }
-   ]
-  },
-  {
-   "id": "a67771325a",
-   "topic": "World",
-   "summary": "A general view of the damaged car in which 5-year-old Hind Rajab and members of her family died after Israeli forces fired on the vehicle in the Tel al-Hawa neighborhood of Gaza City, Gaza. \u2014Dawoud Abo Alkas\u2014Anadolu/Getty Images The Israel Defense Forces (IDF) has acknowledged for the first time that its soldiers opened fire on a vehicle carrying 5-year-old Palestinian girl Hind Rajab and six of her relatives in Gaza, and said it would launch a criminal investigation into the incident. The admission, issued Wednesday as part of the IDF\u2019s review of roughly 150 \u201cexceptional\u201d incidents involving its troops during the war in Gaza, reverses the military\u2019s previous denial that its forces were in the area when Rajab and her relatives from the Hamada family were killed in January 2024. In findings published by its General Staff Fact-Finding and Assessment Mechanism (FFAM) , an internal IDF body\u2026",
-   "summaryFrom": "time",
+   "summary": "A Texas judge on Saturday dealt a crushing blow to convicted killer Karmelo Anthony, denying his bid for a new murder trial for fatally stabbing Austin Metcalf in the heart at a high school track meet. Judge Michael Chitty rejected Anthony\u2019s motion for a new trial following a two-day hearing after the judge who oversaw his murder conviction was removed from the case, local media reported .. Saturday\u2019s ruling marks a major setback for Anthony\u2019s appellate team, which cited several alleged errors during the trial, including claims that prosecutors violated a secret agreement with Anthony\u2019s trial defense team to keep certain evidence \u2014 including allegations of racism and violence \u2014 from being presented to jurors. The Collin County District Attorney\u2019s Office has maintained that prosecutors acted ethically throughout the trial, The Daily Wire previously reported . Anthony, 19, fatally stabbed\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
+    "coop",
+    "nonprofit",
     "pub"
    ],
-   "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-   "updated": "2026-08-20T19:15:09+00:00",
-   "outletCount": 3,
+   "headline": "A Murder Trial in Massachusetts",
+   "updated": "2026-08-23T15:30:19+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "A Murder Trial in Massachusetts",
+     "url": "https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html",
+     "author": "Shaila Dewan",
+     "kind": "news",
+     "published": "2026-08-23T15:30:19+00:00",
+     "summary": "How the trial of Lindsay Clancy has become a proxy for how people view society\u2019s ills."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Karmelo Anthony Denied New Murder Trial",
+     "url": "https://www.dailywire.com/news/karmelo-anthony-denied-new-murder-trial",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-22T17:05:34+00:00",
+     "summary": "A Texas judge on Saturday dealt a crushing blow to convicted killer Karmelo Anthony, denying his bid for a new murder trial for fatally stabbing Austin Metcalf in the heart at a high school track meet. Judge Michael Chitty rejected Anthony\u2019s motion for a new trial following a two-day hearing after the judge who oversaw his murder conviction was removed from the case, local media reported .. Saturday\u2019s ruling marks a major setback for Anthony\u2019s appellate team, which cited several alleged errors during the trial, including claims that prosecutors violated a secret agreement with Anthony\u2019s trial defense team to keep certain evidence \u2014 including allegations of racism and violence \u2014 from being presented to jurors. The Collin County District Attorney\u2019s Office has maintained that prosecutors acted ethically throughout the trial, The Daily Wire previously reported . Anthony, 19, fatally stabbed Metcalf at a track event in April 2025 in Frisco, Texas. Evidence presented at trial showed that Anthony refused to leave another team\u2019s tented area and, when confronted by the unarmed Metcalf, stabbed him directly in the heart. A Texas jury rejected his self-defense claim and sentenced Anthony to 3"
+    }
+   ]
+  },
+  {
+   "id": "64a4b46471",
+   "topic": "Other",
+   "summary": "FC Barcelona will travel to Elche on Sunday, to start the defense of back-to-back La Liga tiles while aiming for three in a row for the first time since 2011.",
+   "summaryFrom": "forbes",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Elche vs. Barcelona prediction: La Liga odds, picks, best bet for Sunday",
+   "updated": "2026-08-23T15:30:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Elche vs. Barcelona prediction: La Liga odds, picks, best bet for Sunday",
+     "url": "https://nypost.com/2026/08/23/betting/elche-vs-barcelona-prediction-la-liga-odds-picks-best-bet-for-sunday/",
+     "author": "Mike Turay",
+     "kind": "news",
+     "published": "2026-08-23T15:30:00+00:00",
+     "summary": "Two-time defending La Liga champions FC Barcelona take center stage."
+    },
+    {
+     "outlet": "forbes",
+     "title": "FC Barcelona Vs. Elche Line Up: Catalans Start La Liga Title Defense",
+     "url": "https://www.forbes.com/sites/tomsanderson/2026/08/23/fc-barcelona-vs-elche-line-up-catalans-start-la-liga-title-defense/",
+     "author": "Tom Sanderson, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-23T09:23:08+00:00",
+     "summary": "FC Barcelona will travel to Elche on Sunday, to start the defense of back-to-back La Liga tiles while aiming for three in a row for the first time since 2011."
+    }
+   ]
+  },
+  {
+   "id": "9383b3150b",
+   "topic": "World",
+   "summary": "Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.",
+   "summaryFrom": "aljazeera",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Pezeshkian says Iran \u2018has not become Venezuela\u2019 despite war and sanctions",
+   "updated": "2026-08-23T15:25:47+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Pezeshkian says Iran \u2018has not become Venezuela\u2019 despite war and sanctions",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T15:25:47+00:00",
+     "summary": "Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Iranian President Says Iran Should End War",
+     "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+     "author": "Daily Wire",
+     "kind": "opinion",
+     "published": "2026-08-21T09:45:33+00:00",
+     "summary": null
+    }
+   ]
+  },
+  {
+   "id": "5ab030d934",
+   "topic": "Politics",
+   "summary": "\"Their beautiful cars are going to make freedom roar. This will be a freedom that's roaring like never before,\" Trump said at the White House earlier this month as he promoted the event.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump will kick off the IndyCar race before cars zoom through Washington's streets",
+   "updated": "2026-08-23T15:21:21+00:00",
+   "outletCount": 2,
    "counts": {
     "nonprofit": 1,
-    "family": 1,
-    "coop": 1
+    "family": 1
    },
-   "newsCount": 3,
+   "newsCount": 2,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Trump will kick off the IndyCar race before cars zoom through Washington's streets",
+     "url": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
+     "author": "Michelle L. Price, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T15:21:21+00:00",
+     "summary": "\"Their beautiful cars are going to make freedom roar. This will be a freedom that's roaring like never before,\" Trump said at the White House earlier this month as he promoted the event."
+    },
+    {
+     "outlet": "wapo",
+     "title": "IndyCar drivers prepare to zoom 185 mph on D.C. streets in Trump-hosted race",
+     "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
+     "author": "Les Carpenter, Liam Bowman, Cleve R. Wootson Jr., Ben Conarck",
+     "kind": "news",
+     "published": "2026-08-23T10:00:01+00:00",
+     "summary": "The Freedom 250 Grand Prix, expected to draw around 140,000 spectators, is the culmination of events the president launched to mark the country\u2019s birthday."
+    }
+   ]
+  },
+  {
+   "id": "36516849d9",
+   "topic": "Justice & Policing",
+   "summary": "China has postponed its Chang\u2019e-7 lunar mission, which was due to launch in the coming days and search for water ice near the Moon\u2019s south pole, a government agency said Saturday. Officials said the mission did not meet launch conditions, without providing further details.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "China abruptly delays ambitious Chang\u2019e-7 mission to find water ice on moon",
+   "updated": "2026-08-23T15:05:39+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "China postpones moon launch as mission fails to meet launch conditions",
+     "url": "https://www.cbsnews.com/news/china-postpones-lunar-launch-mission-fails-to-meet-launch-conditions/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T15:05:39+00:00",
+     "summary": "China's mission was planned as the country vies with the U.S. to land astronauts on the moon and secure a near-permanent presence on its surface."
+    },
+    {
+     "outlet": "france24",
+     "title": "China abruptly delays ambitious Chang\u2019e-7 mission to find water ice on moon",
+     "url": "https://www.france24.com/en/asia-pacific/20260823-china-abruptly-delays-ambitious-chang-e-7-mission-to-find-water-ice-on-moon",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-23T14:23:11+00:00",
+     "summary": "China has postponed its Chang\u2019e-7 lunar mission, which was due to launch in the coming days and search for water ice near the Moon\u2019s south pole, a government agency said Saturday. Officials said the mission did not meet launch conditions, without providing further details."
+    }
+   ]
+  },
+  {
+   "id": "050cada1f1",
+   "topic": "World",
+   "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to two sources with knowledge of the matter. Why it matters: The meeting between Syrian Foreign Minister Asaad al-Shaibani and the director of Israel's Mossad spy agency, Roman Gofman, took place days after an Israeli strike on a Syrian airbase sharply escalated tensions between the two countries. The Israeli prime minister's office declined to comment and a spokesperson for al-Shaibani did not immediately respond to a request for comment.",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "U.S. ambassador responds to rising tensions between Israel, Turkey and Syria",
+   "updated": "2026-08-23T15:00:06+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
+     "url": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-23T15:00:06+00:00",
+     "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to two sources with knowledge of the matter. Why it matters: The meeting between Syrian Foreign Minister Asaad al-Shaibani and the director of Israel's Mossad spy agency, Roman Gofman, took place days after an Israeli strike on a Syrian airbase sharply escalated tensions between the two countries. The Israeli prime minister's office declined to comment and a spokesperson for al-Shaibani did not immediately respond to a request for comment."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "U.S. ambassador responds to rising tensions between Israel, Turkey and Syria",
+     "url": "https://www.pbs.org/newshour/show/u-s-ambassador-responds-to-rising-tensions-between-israel-turkey-and-syria",
+     "author": "Dan Sagalyn",
+     "kind": "news",
+     "published": "2026-08-21T22:35:17+00:00",
+     "summary": "The Israeli military bombed an airbase in Syria, far from the Israeli border, sparking condemnation not only from Syria, but also Turkey and the Trump administration. U.S. Ambassador to Turkey Tom Barrack accused Israel of an \"unnecessary escalation that does not advance regional stability.\" Nick Schifrin spoke with Barrack to discuss the tensions."
+    }
+   ]
+  },
+  {
+   "id": "d475fc9ed9",
+   "topic": "Other",
+   "summary": "Sen. Tim Scott (R-S.C.) said Sunday that \u201cthere\u2019s no doubt\u201d his fellow South Carolina Republican Darline Graham is qualified to be a senator after her recent debate slip-up on an answer about national security. \u201cSenator Scott, is Darline Graham qualified to be a U.S. senator?\u201d NBC News\u2019s Kristen Welker asked Scott on \u201cMeet the Press.\u201d...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Scott says \u2018there's no doubt\u2019 Darline Graham is qualified to be senator",
+   "updated": "2026-08-23T14:59:44+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Scott says \u2018there's no doubt\u2019 Darline Graham is qualified to be senator",
+     "url": "https://thehill.com/homenews/campaign/6045624-tim-scott-defends-darline-graham/",
+     "author": "Tara Suter",
+     "kind": "news",
+     "published": "2026-08-23T14:59:44+00:00",
+     "summary": "Sen. Tim Scott (R-S.C.) said Sunday that \u201cthere\u2019s no doubt\u201d his fellow South Carolina Republican Darline Graham is qualified to be a senator after her recent debate slip-up on an answer about national security. \u201cSenator Scott, is Darline Graham qualified to be a U.S. senator?\u201d NBC News\u2019s Kristen Welker asked Scott on \u201cMeet the Press.\u201d..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Tim Scott calls support for Darline Graham an \u2018easy choice\u2019 despite her debate flub",
+     "url": "https://www.nbcnews.com/politics/congress/tim-scott-darline-graham-easy-choice-debate-flub-rcna593983",
+     "author": "Alexandra Marquez",
+     "kind": "news",
+     "published": "2026-08-23T14:38:43+00:00",
+     "summary": "Sen. Tim Scott on Sunday defended fellow South Carolina Republican Sen."
+    }
+   ]
+  },
+  {
+   "id": "19511b46d8",
+   "topic": "Politics",
+   "summary": "Iran's president has said the country's economy needs a peace deal to attract investors. The Foreign Ministry said Pakistan's top army official will visit Tehran Monday as Islamabad seeks to mediate a resolution.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran: President defends deal with US as best option for peace",
+   "updated": "2026-08-23T14:50:12+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Iran's president defends U.S. memorandum of understanding as best path forward",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T14:50:12+00:00",
+     "summary": "The new head of Iran's supreme national security council issued the warning to countries who join the U.S.'s economic war on Tehran."
+    },
+    {
+     "outlet": "dw",
+     "title": "Iran: President defends deal with US as best option for peace",
+     "url": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T14:49:00+00:00",
+     "summary": "Iran's president has said the country's economy needs a peace deal to attract investors. The Foreign Ministry said Pakistan's top army official will visit Tehran Monday as Islamabad seeks to mediate a resolution."
+    }
+   ]
+  },
+  {
+   "id": "4bdef6bddc",
+   "topic": "Tech",
+   "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down. The incident involved a small-scale energy generator, according to the UK government, which said that at no point was there a risk to the wider energy system. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+   "updated": "2026-08-23T14:46:56+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
    "articles": [
     {
      "outlet": "guardian",
-     "title": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-     "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-     "author": "Jason Burke",
+     "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+     "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+     "author": "Ben Quinn Political correspondent",
      "kind": "news",
-     "published": "2026-08-20T19:15:09+00:00",
-     "summary": "Military orders criminal investigation into deaths of five-year-old and six family members in Gaza in 2024 The Israeli military admitted on Wednesday its troops had opened fire on a car carrying five-year-old Hind Rajab and six family members in Gaza in 2024, saying it had ordered a criminal investigation into the killing. The killing of Hind and her family was one of the most high profile of a series of incidents involving civilian casualties during the first months of the Gaza conflict which prompted international outrage. Continue reading..."
+     "published": "2026-08-23T14:46:56+00:00",
+     "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down. The incident involved a small-scale energy generator, according to the UK government, which said that at no point was there a risk to the wider energy system. Continue reading..."
     },
     {
-     "outlet": "time",
-     "title": "What to Know About Israel\u2019s Probe Into the Killing of Hind Rajab",
-     "url": "https://time.com/article/2026/08/19/israel-gaza-idf-hind-rajab-death-criminal-investigation/",
-     "author": "Connor Greene",
+     "outlet": "breitbart",
+     "title": "Iran Hacked and Shut Down a British Power Plant for Days: Report",
+     "url": "https://www.breitbart.com/europe/2026/08/23/iran-hacked-and-shut-down-a-british-power-plant-for-days-report/",
+     "author": "Kurt Zindulka",
      "kind": "news",
-     "published": "2026-08-20T18:48:21+00:00",
-     "summary": "A general view of the damaged car in which 5-year-old Hind Rajab and members of her family died after Israeli forces fired on the vehicle in the Tel al-Hawa neighborhood of Gaza City, Gaza. \u2014Dawoud Abo Alkas\u2014Anadolu/Getty Images The Israel Defense Forces (IDF) has acknowledged for the first time that its soldiers opened fire on a vehicle carrying 5-year-old Palestinian girl Hind Rajab and six of her relatives in Gaza, and said it would launch a criminal investigation into the incident. The admission, issued Wednesday as part of the IDF\u2019s review of roughly 150 \u201cexceptional\u201d incidents involving its troops during the war in Gaza, reverses the military\u2019s previous denial that its forces were in the area when Rajab and her relatives from the Hamada family were killed in January 2024. In findings published by its General Staff Fact-Finding and Assessment Mechanism (FFAM) , an internal IDF body tasked with conducting factual reviews of exceptional operational incidents, the IDF said Israeli troops fired on the Hamada family\u2019s vehicle as it approached them, killing five passengers. Rajab and her 15-year-old cousin Layan Hamada initially survived. Twelve days later, their bodies were recover"
-    },
-    {
-     "outlet": "zeteo",
-     "title": "Israel Finally Admits to Killing Hind Rajab. 933 Days Later",
-     "url": "https://zeteo.com/p/israel-finally-admits-to-killing",
-     "author": "Prem Thakker",
-     "kind": "news",
-     "published": "2026-08-20T16:01:39+00:00",
-     "summary": "It took Israel more than two and a half years to admit to what the world already knew: Israeli soldiers fired at the vehicle of Hind Rajab and her family. The admission comes after years of denials that were accepted with full embrace by U.S. State Department officials. There are very few journalists here in the U.S. who tried to hold those officials to account in the way Zeteo\u2019s political correspondent Prem Thakker did . Subscribe now \u201cAll the U.S. did was feign concern, defer to Israel to investigate itself for murder, and resist the facts over and over,\u201d says Thakker in his latest video on the case of Hind Rajab. The 5-year-old\u2019s harrowing story drew international outrage after her phone call recording with the Palestinian Red Crescent captured her final hours, sheltering from Israeli gunfire in a car with the bodies of her dead relatives around her. The Israeli army also killed the medics who were sent to save her. It took Israel 933 days to admit to a killing that went viral beyond headlines, one that inspired the Oscar-nominated film \u2018 The Voice of Hind Rajab ,\u2019 and in which the victim\u2019s testimony was caught on tape. Watch Prem reflect on what the admission means for Hind, an"
+     "published": "2026-08-23T09:57:38+00:00",
+     "summary": "The Islamist Iranian regime reportedly hacked into a British power plant and shut it down for multiple days in a deeply concerning demonstration of power. The post Iran Hacked and Shut Down a British Power Plant for Days: Report appeared first on Breitbart ."
     }
    ]
   },
@@ -2693,49 +2941,6 @@
    ]
   },
   {
-   "id": "56220d3c54",
-   "topic": "World",
-   "summary": "The Panama\u2011flagged Ocean Winner had 24 people on board when it sank in the Bay of Bengal. The ship is thought to have been carrying iron ore from India to Singapore.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Search resumes for 22 crew after cargo ship sinks off India",
-   "updated": "2026-08-23T13:23:58+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "2 rescued off India\u2019s eastern coast after distress alert from Panama-flagged cargo ship",
-     "url": "https://nypost.com/2026/08/23/world-news/2-rescued-off-indias-eastern-coast-after-distress-alert-from-panama-flagged-cargo-ship/",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T13:23:58+00:00",
-     "summary": "The Panama-flagged vessel had been traveling to China with iron ore."
-    },
-    {
-     "outlet": "dw",
-     "title": "Search resumes for 22 crew after cargo ship sinks off India",
-     "url": "https://www.dw.com/en/search-resumes-for-22-crew-after-cargo-ship-sinks-off-india/a-78472142?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T07:49:00+00:00",
-     "summary": "The Panama\u2011flagged Ocean Winner had 24 people on board when it sank in the Bay of Bengal. The ship is thought to have been carrying iron ore from India to Singapore."
-    }
-   ]
-  },
-  {
    "id": "a74e56f424",
    "topic": "Other",
    "summary": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
@@ -2775,49 +2980,6 @@
      "kind": "news",
      "published": "2026-08-23T11:50:59+00:00",
      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
-    }
-   ]
-  },
-  {
-   "id": "93bd28e38a",
-   "topic": "Other",
-   "summary": "Meghan Markle is no longer being considered for a role in Guy Ritchie\u2019s \"The Gentlemen,\" according to royal biographer Tina Brown. \"I learned this morning that the casting of Meghan Markle in season 3 of Guy Ritchie\u2019s Netflix series \u2018The Gentlemen\u2019 has been withdrawn,\" Brown, who is the former editor-in-chief of Vanity Fair and the New Yorker, wrote Saturday on her \" Fresh Hell \" Substack, The Hollywood Reporter reported. \"The backlash in the UK was so intense, it became untenable to go forward. This does not bode well for Meghan\u2019s acting comeback in the UK.\" Brown is also a best-selling author of 2007\u2019s \"The Diana Chronicles,\" and 2022's \"The Palace Papers: Inside the House of Windsor \u2013 the Truth and the Turmoil.\" MEGHAN MARKLE'S 'MASTERCHEF AUSTRALIA' CONTROVERSY MAY BE EXACTLY THE POINT: EXPERTS It was reported on Friday that Markle was in early talks to join the yet-to-be-announced\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Cut! Meghan Markle Exits Guy Ritchie Series After 'Intense' UK Fallout: Report",
-   "updated": "2026-08-23T13:06:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Cut! Meghan Markle Exits Guy Ritchie Series After 'Intense' UK Fallout: Report",
-     "url": "https://www.breitbart.com/entertainment/2026/08/23/cut-meghan-markle-exits-guy-ritchie-series-after-intense-uk-fallout-report/",
-     "author": "Simon Kent",
-     "kind": "news",
-     "published": "2026-08-23T13:06:38+00:00",
-     "summary": "Meghan Markle has been cut from consideration for a role in Guy Ritchie\u2019s The Gentlemen just days after the original idea was floated, according to royal biographer Tina Brown. The post Cut! Meghan Markle Exits Guy Ritchie Series After \u2018Intense\u2019 UK Fallout: Report appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Meghan Markle dropped from consideration for Guy Ritchie series after 'intense' UK backlash: report",
-     "url": "https://www.foxnews.com/entertainment/meghan-markle-dropped-consideration-guy-ritchie-series-intense-uk-backlash-tina-brown-says",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T10:00:59+00:00",
-     "summary": "Meghan Markle is no longer being considered for a role in Guy Ritchie\u2019s \"The Gentlemen,\" according to royal biographer Tina Brown. \"I learned this morning that the casting of Meghan Markle in season 3 of Guy Ritchie\u2019s Netflix series \u2018The Gentlemen\u2019 has been withdrawn,\" Brown, who is the former editor-in-chief of Vanity Fair and the New Yorker, wrote Saturday on her \" Fresh Hell \" Substack, The Hollywood Reporter reported. \"The backlash in the UK was so intense, it became untenable to go forward. This does not bode well for Meghan\u2019s acting comeback in the UK.\" Brown is also a best-selling author of 2007\u2019s \"The Diana Chronicles,\" and 2022's \"The Palace Papers: Inside the House of Windsor \u2013 the Truth and the Turmoil.\" MEGHAN MARKLE'S 'MASTERCHEF AUSTRALIA' CONTROVERSY MAY BE EXACTLY THE POINT: EXPERTS It was reported on Friday that Markle was in early talks to join the yet-to-be-announced third season of Guy Ritchie\u2019s British action-comedy Netflix series. A part in the series would have been Markle\u2019s first turn at acting since she married Prince Harry and joined the royal family in 2018. PRINCE HARRY, MEGHAN MARKLE\u2019S HOLLYWOOD DREAMS HIT WALL AS EXPERT WARNS OF \u2018TOXIC BRAND\u2019 STIGMA Af"
     }
    ]
   },
@@ -2941,7 +3103,7 @@
     },
     {
      "outlet": "dailywire",
-     "title": "Sophie Cunningham Fans Clash With Trans Activists Outside Fever Game In NYC",
+     "title": "WATCH: Sophie Cunningham Fans Clash With Trans Activists Outside Fever Game",
      "url": "https://www.dailywire.com/news/sophie-cunningham-fans-clash-with-trans-activists-outside-fever-game-in-nyc",
      "author": "Virginia Kruta",
      "kind": "opinion",
@@ -2980,7 +3142,7 @@
      "author": null,
      "kind": "news",
      "published": "2026-08-23T12:35:50+00:00",
-     "summary": "The U.S. president announced a deal to flood the U.S. market with foreign ground beef."
+     "summary": "The president's beef import deal promises lower prices, but which countries are involved and how will savings reach shoppers?"
     },
     {
      "outlet": "time",
@@ -3076,49 +3238,6 @@
      "kind": "news",
      "published": "2026-08-21T10:00:00+00:00",
      "summary": "Most of the state\u2019s GOP leaders have hedged on the White House's plans for the region, welcoming a construction pause without breaking from a president they're loath to cross."
-    }
-   ]
-  },
-  {
-   "id": "67d3d016bf",
-   "topic": "Justice & Policing",
-   "summary": "A Texas judge on Saturday dealt a crushing blow to convicted killer Karmelo Anthony, denying his bid for a new murder trial for fatally stabbing Austin Metcalf in the heart at a high school track meet. Judge Michael Chitty rejected Anthony\u2019s motion for a new trial following a two-day hearing after the judge who oversaw his murder conviction was removed from the case, local media reported .. Saturday\u2019s ruling marks a major setback for Anthony\u2019s appellate team, which cited several alleged errors during the trial, including claims that prosecutors violated a secret agreement with Anthony\u2019s trial defense team to keep certain evidence \u2014 including allegations of racism and violence \u2014 from being presented to jurors. The Collin County District Attorney\u2019s Office has maintained that prosecutors acted ethically throughout the trial, The Daily Wire previously reported . Anthony, 19, fatally stabbed\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "A Murder Trial in Massachusetts",
-   "updated": "2026-08-23T11:31:06+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "A Murder Trial in Massachusetts",
-     "url": "https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html",
-     "author": "Shaila Dewan",
-     "kind": "news",
-     "published": "2026-08-23T11:31:06+00:00",
-     "summary": "How the trial of Lindsay Clancy has become a proxy for how people view society\u2019s ills."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Karmelo Anthony Denied New Murder Trial",
-     "url": "https://www.dailywire.com/news/karmelo-anthony-denied-new-murder-trial",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-22T17:05:34+00:00",
-     "summary": "A Texas judge on Saturday dealt a crushing blow to convicted killer Karmelo Anthony, denying his bid for a new murder trial for fatally stabbing Austin Metcalf in the heart at a high school track meet. Judge Michael Chitty rejected Anthony\u2019s motion for a new trial following a two-day hearing after the judge who oversaw his murder conviction was removed from the case, local media reported .. Saturday\u2019s ruling marks a major setback for Anthony\u2019s appellate team, which cited several alleged errors during the trial, including claims that prosecutors violated a secret agreement with Anthony\u2019s trial defense team to keep certain evidence \u2014 including allegations of racism and violence \u2014 from being presented to jurors. The Collin County District Attorney\u2019s Office has maintained that prosecutors acted ethically throughout the trial, The Daily Wire previously reported . Anthony, 19, fatally stabbed Metcalf at a track event in April 2025 in Frisco, Texas. Evidence presented at trial showed that Anthony refused to leave another team\u2019s tented area and, when confronted by the unarmed Metcalf, stabbed him directly in the heart. A Texas jury rejected his self-defense claim and sentenced Anthony to 3"
     }
    ]
   },
@@ -3334,178 +3453,6 @@
      "kind": "news",
      "published": "2026-08-23T01:15:23+00:00",
      "summary": "Communism is once again stalking the United States. The threat is a combination of subversion and espionage from the Communist regime in China, as well as from the Democratic Socialists of America\u2014who are, in fact, not democratic and not socialists. The post Pinkerton: What We Can Learn from History as We Enter Cold War 2 appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "4bdef6bddc",
-   "topic": "Tech",
-   "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down. The incident involved a small-scale energy generator, according to the UK government, which said that at no point was there a risk to the wider energy system. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-   "updated": "2026-08-23T09:57:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Iran Hacked and Shut Down a British Power Plant for Days: Report",
-     "url": "https://www.breitbart.com/europe/2026/08/23/iran-hacked-and-shut-down-a-british-power-plant-for-days-report/",
-     "author": "Kurt Zindulka",
-     "kind": "news",
-     "published": "2026-08-23T09:57:38+00:00",
-     "summary": "The Islamist Iranian regime reportedly hacked into a British power plant and shut it down for multiple days in a deeply concerning demonstration of power. The post Iran Hacked and Shut Down a British Power Plant for Days: Report appeared first on Breitbart ."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-     "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-     "author": "Ben Quinn Political correspondent",
-     "kind": "news",
-     "published": "2026-08-23T09:07:44+00:00",
-     "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down. The incident involved a small-scale energy generator, according to the UK government, which said that at no point was there a risk to the wider energy system. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "d8e128c195",
-   "topic": "Politics",
-   "summary": "Transportation Secretary Sean Duffy; Interior Secretary Doug Burgum; Washington, D.C., Mayor Muriel Bowser; and Monica Crowley, chief of protocol at the State Department, unveil the new Freedom 250 Grand Prix Indycar during a news conference on the National Mall in Washington, D.C., on March 9, 2026. \u2014Matt McClain\u2014Bloomberg/Getty Images A slice of the nation\u2019s capital will be transformed into a race track over the weekend for President Donald Trump \u2019s final event commemorating the U.S.\u2019s 250th birthday . An IndyCar race consisting of 25 drivers will take place around the National Mall in the heart of Washington, D.C., on Saturday and Sunday. IndyCar is the top level of single-seater auto racing in the U.S., best known for the \u201cIndy 500,\u201d an annual 500 mile race in Indianapolis. \"This will be like no other race ever. This will get the highest ever ratings of any such race,\" Trump said in\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-   "updated": "2026-08-23T09:41:06+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-     "url": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
-     "author": "Karoun Demirjian",
-     "kind": "news",
-     "published": "2026-08-23T09:41:06+00:00",
-     "summary": "Race preparations have snarled traffic, rerouted flights and forced the National Gallery of Art to conduct vibration tests."
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About Trump\u2019s 250 Grand Prix",
-     "url": "https://time.com/article/2026/08/20/freedom-250-grand-prix-indycar-washington-dc-trump/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-20T18:35:42+00:00",
-     "summary": "Transportation Secretary Sean Duffy; Interior Secretary Doug Burgum; Washington, D.C., Mayor Muriel Bowser; and Monica Crowley, chief of protocol at the State Department, unveil the new Freedom 250 Grand Prix Indycar during a news conference on the National Mall in Washington, D.C., on March 9, 2026. \u2014Matt McClain\u2014Bloomberg/Getty Images A slice of the nation\u2019s capital will be transformed into a race track over the weekend for President Donald Trump \u2019s final event commemorating the U.S.\u2019s 250th birthday . An IndyCar race consisting of 25 drivers will take place around the National Mall in the heart of Washington, D.C., on Saturday and Sunday. IndyCar is the top level of single-seater auto racing in the U.S., best known for the \u201cIndy 500,\u201d an annual 500 mile race in Indianapolis. \"This will be like no other race ever. This will get the highest ever ratings of any such race,\" Trump said in July, when the top IndyCar drivers participating in the race visited the White House. Trump himself is scheduled to take a ride around the 1.7 mile race track in his presidential limousine, known as \u201cThe Beast\u201d before the competition begins, White House officials told multiple outlets . The event is"
-    }
-   ]
-  },
-  {
-   "id": "20443544f2",
-   "topic": "World",
-   "summary": "Treasury Secretary Scott Bessent plans to reveal on Monday \u201cexactly what we\u2019re going to do\u201d to ratchet up economic pressure on Iran, he told CNBC Thursday morning. \u201cIf you insist on doing business with them \u2014 either transferring money, buying their oil, or doing seaborne ship transfers \u2014 then the US Treasury \u2026 will put its full might and force toward enforcing against you,\u201d Bessent said. He suggested that the administration\u2019s new efforts could affect China, saying that \u201cit would do them a big service to get with the program.\u201d Bessent also teased a separate announcement on \u201can increased focus on fiscal consolidation,\u201d which he said he\u2019d make alongside White House budget chief Russ Vought in coming days. He also reiterated that forthcoming government bond buybacks could top $4 billion, adding that \u201cwe\u2019ll see what the conditions are and \u2026 analyze them then.\u201d \u2014 Eleanor Mueller",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran escalates threats as US pushes economic isolation",
-   "updated": "2026-08-23T09:02:14+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Iran escalates threats as US pushes economic isolation",
-     "url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-23T09:02:14+00:00",
-     "summary": "Tensions between Iran and the United States continue to escalate. Tehran is threatening to regard as enemies any countries that join the US sanctions, in response to Washington\u2019s calls to isolate its economy. A press conference is scheduled for Monday to outline the US strategy. Story by Camille Corcoran."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Bessent teases Iran economic pressure plan",
-     "url": "https://www.semafor.com/article/08/20/2026/bessent-teases-iran-economic-pressure-plan",
-     "author": "Eleanor Mueller",
-     "kind": "news",
-     "published": "2026-08-20T19:58:18+00:00",
-     "summary": "Treasury Secretary Scott Bessent plans to reveal on Monday \u201cexactly what we\u2019re going to do\u201d to ratchet up economic pressure on Iran, he told CNBC Thursday morning. \u201cIf you insist on doing business with them \u2014 either transferring money, buying their oil, or doing seaborne ship transfers \u2014 then the US Treasury \u2026 will put its full might and force toward enforcing against you,\u201d Bessent said. He suggested that the administration\u2019s new efforts could affect China, saying that \u201cit would do them a big service to get with the program.\u201d Bessent also teased a separate announcement on \u201can increased focus on fiscal consolidation,\u201d which he said he\u2019d make alongside White House budget chief Russ Vought in coming days. He also reiterated that forthcoming government bond buybacks could top $4 billion, adding that \u201cwe\u2019ll see what the conditions are and \u2026 analyze them then.\u201d \u2014 Eleanor Mueller"
-    }
-   ]
-  },
-  {
-   "id": "2ab1c27b36",
-   "topic": "World",
-   "summary": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
-   "summaryFrom": "nyt",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
-   "updated": "2026-08-23T09:00:19+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
-     "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
-     "author": "Farah Stockman and Ismaeel Naar",
-     "kind": "news",
-     "published": "2026-08-23T09:00:19+00:00",
-     "summary": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Iranian President Says Iran Should End War",
-     "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
-     "author": "Daily Wire",
-     "kind": "opinion",
-     "published": "2026-08-21T09:45:33+00:00",
-     "summary": null
     }
    ]
   }
