@@ -126,13 +126,13 @@
    "articles": 227,
    "stories": 60,
    "share": {
-    "nonprofit": 21.6,
-    "family": 33.0,
-    "pub": 16.7,
+    "family": 30.0,
     "corp": 23.8,
-    "coop": 4.8
+    "nonprofit": 21.1,
+    "pub": 20.7,
+    "coop": 4.4
    }
   }
  ],
- "updated": "2026-08-23T11:35:47.336936+00:00"
+ "updated": "2026-08-23T13:03:19.926612+00:00"
 }
