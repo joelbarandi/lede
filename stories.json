@@ -1,50 +1,75 @@
 {
- "generated": "2026-08-23T02:01:01.165173+00:00",
+ "generated": "2026-08-23T03:16:55.049823+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
    "id": "9804f44c26",
-   "topic": "Business & Economy",
+   "topic": "Politics",
    "summary": "Popular Canadian whisky brands will be hit by the new tariffs. GMVozd/Getty Images Trump's new 50% tariffs on some popular goods from Canada took effect Saturday morning. The tariffs apply to goods ranging from alcohol to construction materials to hockey equipment. Mark Carney later announced retaliatory tariffs at a news conference on Saturday. Your shots of Fireball could soon get pricier. The Trump administration's threatened 50% tariffs on some popular Canadian goods went into effect Saturday morning after trade talks with its northern ally fell apart the night before. Canadian Prime Minister Mark Carney later announced a series of dollar-for-dollar counter-tariffs on imported US goods. Those tariffs will apply to industries including dairy, steel, appliances, agricultural equipment, pulp and paper, and electronics, Carney said at a press conference in Ottawa. \"We take this step\u2026",
    "summaryFrom": "businessinsider",
    "emphasis": {
-    "bigCount": 11,
-    "indieCount": 6,
+    "bigCount": 10,
+    "indieCount": 7,
     "big": [
-     "administration",
      "saturday",
+     "administration",
      "goods",
-     "percent",
-     "conference",
-     "morning"
+     "morning",
+     "negotiations",
+     "some"
     ],
     "indie": [
      "collapse",
      "starting",
-     "worth",
-     "hours",
-     "iran"
+     "iran",
+     "hours"
     ]
    },
    "people": [],
-   "absent": [
-    "coop"
-   ],
+   "absent": [],
    "headline": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-   "updated": "2026-08-23T00:55:39+00:00",
-   "outletCount": 12,
+   "updated": "2026-08-23T03:08:00+00:00",
+   "outletCount": 14,
    "counts": {
-    "corp": 7,
     "pub": 4,
+    "corp": 6,
     "family": 4,
-    "nonprofit": 2
+    "nonprofit": 2,
+    "coop": 1
    },
    "newsCount": 17,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "dw",
+     "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
+     "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T03:08:00+00:00",
+     "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+     "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T02:34:49+00:00",
+     "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Collins asks White House to consider 'negative impact' of Canada trade war",
+     "url": "https://thehill.com/homenews/senate/6045413-susan-collins-canada-trade-war-negative-impact/",
+     "author": "Mira Bhakta",
+     "kind": "news",
+     "published": "2026-08-23T02:07:04+00:00",
+     "summary": "Sen. Susan Collins (R-Maine) pushed the Trump administration to \u201cconsider the negative impact\" that engaging in a tariff war with Canada may have on American constituents, straying away from some of her GOP peers. Republican lawmakers were split Saturday after negotiations between Canada and the U.S. fell through, causing the White House to impose a..."
+    },
     {
      "outlet": "cbsnews",
      "title": "Canada says it will begin retaliatory tariffs on U.S. goods after Labor Day",
@@ -64,24 +89,6 @@
      "summary": "The Trump administration is imposing 50 percent tariffs on a variety of Canadian goods after trade talks between the U.S. and Canada collapsed late Friday night. NBC News\u2019 Yamiche Alcindor breaks down what this means for Americans\u2019 wallets."
     },
     {
-     "outlet": "thehill",
-     "title": "Sunday shows preview: Canada faces off in trade \u2018war\u2019 with U.S. amid national debt woes; Republicans gear up for upcoming primaries",
-     "url": "https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries/",
-     "author": "Mira Bhakta",
-     "kind": "news",
-     "published": "2026-08-22T23:00:55+00:00",
-     "summary": "Negotiations between the United States and Canada fell through this weekend, causing the Trump administration to impose a 50 percent tariff on its northern neighbor. But Canadian Prime Minister Mark Carney swiftly responded with his own retaliatory tariff on the U.S. The prime minister said during a Saturday press conference that Canada will \u201cmatch Washington\u2019s..."
-    },
-    {
-     "outlet": "dw",
-     "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-     "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T22:12:00+00:00",
-     "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks."
-    },
-    {
      "outlet": "bbc",
      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -89,15 +96,6 @@
      "kind": "news",
      "published": "2026-08-22T20:10:00+00:00",
      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Carney faces crucial test after walking away from Trump's deal",
-     "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T20:02:46+00:00",
-     "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
     },
     {
      "outlet": "nyt",
@@ -163,6 +161,15 @@
      "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month. (Image credit: Graham Hughes)"
     },
     {
+     "outlet": "zeteo",
+     "title": "Here\u2019s a Blueprint for What Democrats Should Do If They Take Back the House",
+     "url": "https://zeteo.com/p/heres-a-blueprint-for-what-democrats",
+     "author": "Kim Wehle",
+     "kind": "news",
+     "published": "2026-08-21T19:01:30+00:00",
+     "summary": "House Minority Leader Hakeem Jeffries speaks to reporters at the U.S. Capitol on March 19, 2026. Photo by Chip Somodevilla/Getty Images During a live broadcast on X late last month, Alex Jones declared that \u201c[t]he big issue\u201d right now is \u201chow to stop Trump.\u201d \u201cI mean,\u201d he quipped, \u201cthis is absolutely out of control.\u201d Jones invoked the \u201c25 th Amendment, impeachment, whatever needs to happen . . . to get control over the country.\u201d Congressional Democrats should take note. Jones, the former owner of the right-wing conspiracy outlet InfoWars, is incensed over Trump\u2019s illegal war in Iran, which, according to White House press secretary Karoline Leavitt, could ultimately involve a draft. \u201cThey want us in a total war so they can censor and take our freedoms, nationalize everything, and push us aside with AI \u2014 total liability, immunity, and protection. This is a disaster. We are facing tyranny,\u201d Jones said. \u201cWe\u2019ve got to come together and transcend left and right, and we have to say no to an expanded war that will definitely destroy the economy and kill a bunch of our troops. They\u2019re preparing a massive ground invasion. It\u2019s all confirmed. This is going down right now.\u201d Jones hardly deserve"
+    },
+    {
      "outlet": "axios",
      "title": "U.S. trade chief calls trying to change China's economy \"crazy\"",
      "url": "https://www.axios.com/2026/08/21/greer-china-trade-economy",
@@ -170,15 +177,6 @@
      "kind": "news",
      "published": "2026-08-21T16:35:05+00:00",
      "summary": "As Europe grapples with its own China shock , the U.S. has largely given up on trying to persuade Beijing to change the export-heavy economic model that's helping fuel it. It's a sharp break from years of U.S. economic diplomacy \u2014 including most recently during the Biden administration . What they're saying: \"We did that for 25 years with our best people, and everything got worse,\" U.S. Trade Representative Jamieson Greer told Axios in an interview this week, referring to efforts to persuade China to shift toward greater consumption. \"All these things where they say, 'Well, let's do more engagement. Let's talk more about savings and investment,'\" Greer said. \"That's crazy to me.\" \"If we continued to do what they were saying, we would have 0% growth, like Canada, like the U.K., like Germany,\" Greer said. (Germany barely grew last year, while Canada grew 1.7% and the U.K. 1.3%, compared with 2.1% in the U.S.) The big picture: The U.S. has spent years building a tariff wall against a slew of Chinese goods. Biden officials largely kept those tariffs in place and increased duties on other Chinese products, including electric vehicles. President Trump has gone further in his second term,"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "The Garmin Instinct 3 is at its back at its Prime Day low \u2014 it\u2019s $150 off",
-     "url": "https://www.nbcnews.com/select/shopping/garmin-instinct-3-deal-of-the-day-2026-rcna593724",
-     "author": "Harry Rabinowitz",
-     "kind": "news",
-     "published": "2026-08-21T14:56:39+00:00",
-     "summary": "The latest Garmin Instinct 3 is at its lowest price ever at Amazon and Dick\u2019s. It\u2019s a rugged, outdoor fitness tracker with extra long battery life."
     },
     {
      "outlet": "time",
@@ -201,157 +199,6 @@
    ]
   },
   {
-   "id": "13cfbffff9",
-   "topic": "Justice & Policing",
-   "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 5,
-    "big": [
-     "district",
-     "struck",
-     "pause",
-     "found",
-     "vargas",
-     "jeannette"
-    ],
-    "indie": [
-     "public",
-     "nationality",
-     "basis",
-     "because",
-     "processing",
-     "exceeded"
-    ]
-   },
-   "people": [],
-   "absent": [],
-   "headline": "Trump administration's 75-country visa ban was illegal, judge rules",
-   "updated": "2026-08-22T21:54:39+00:00",
-   "outletCount": 11,
-   "counts": {
-    "family": 5,
-    "nonprofit": 3,
-    "corp": 2,
-    "coop": 1,
-    "pub": 1
-   },
-   "newsCount": 11,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "wapo",
-     "title": "Trump\u2019s visa ban on 75 countries struck down by federal judge",
-     "url": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
-     "author": "Teo Armus",
-     "kind": "news",
-     "published": "2026-08-22T21:54:39+00:00",
-     "summary": "A federal judge said the indefinite pause, which affected nationals of countries in every corner of the globe, ran afoul of antidiscrimination protections."
-    },
-    {
-     "outlet": "npr",
-     "title": "Trump administration's 75-country visa ban was illegal, judge rules",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
-     "author": "Michael Copley",
-     "kind": "news",
-     "published": "2026-08-22T20:53:19+00:00",
-     "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality. (Image credit: David J. Phillip)"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Federal judge blasts Rubio\u2019s 75-country visa freeze as \u2018Orwellian,\u2019 strikes down policy",
-     "url": "https://www.foxnews.com/politics/federal-judge-blasts-rubio-75-country-visa-freeze-orwellian-strikes-down-policy",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T20:27:01+00:00",
-     "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the Middle East. BOASBERG DELIVERS FRESH IMMIGRATION SETBACK TO TRUMP IN FREE-SPEECH CLASH Rubio\u2019s policy instructed consular officers to review each applicant individually. But even applicants who passed that review showed \"additional evidence that demonstrates he or she overcomes the public charge refusal"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
-     "url": "https://www.pbs.org/newshour/politics/federal-judge-vacates-trump-policy-that-suspended-processing-of-immigration-visas-from-75-countries",
-     "author": "Michael Casey, Associated Press",
-     "kind": "news",
-     "published": "2026-08-22T16:50:24+00:00",
-     "summary": "The judge ruled that Secretary of State Marco Rubio exceeded his authority by issuing the policy, which \"runs afoul\" of the Immigration and Nationality Act by mandating \"the refusal of visas to eligible applicants without any basis in law.\""
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump policy that suspended visas for 75 countries struck down",
-     "url": "https://abcnews.com/Politics/judge-strikes-trump-administration-policy-suspended-immigrant-visas/story?id=135862935",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T16:47:09+00:00",
-     "summary": "A U.S. district judge said the policy \"is contrary to law and was issued in excess of Secretary Rubio's statutory authority.\""
-    },
-    {
-     "outlet": "motherjones",
-     "title": "Federal Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
-     "url": "https://www.motherjones.com/politics/2026/08/federal-judge-strikes-down-trumps-75-country-visa-ban/",
-     "author": "Sophie Hurwitz",
-     "kind": "news",
-     "published": "2026-08-22T16:22:02+00:00",
-     "summary": "This January, Secretary of State Marco Rubio directed consular officers to refuse to process immigration visas for people from 75 countries because, he said, those immigrants would be more likely than others to \u201cextract wealth\u201d or \u201ctake welfare and public benefits\u201d from the US. Since January, people from those 75 countries\u2014all located in Africa, Latin America, the Middle East, or Eastern Europe\u2014have had their visa applications frozen or denied. On August 21, though, a federal judge in New York struck down this blanket visa ban, on the grounds that it violates the Immigration and Nationality Act of 1965\u2019s prohibition on nationality-based discrimination in issuing a visa. As my colleague Julia M\u00e9traux reported earlier this year , these \u201cpublic charge\u201d bans are in part based on eugenicist ideas. Since the 19th century, the United States has used \u201cpublic charge\u201d rules to restrict entry, alleging that immigrants and even visitors would strain public services\u2014reasoning very much rooted in the eugenicist and ableist thinking that shaped key aspects of public policy in the 19th and early 20th centuries, including the claim that so-called \u201cdefective\u201d people would produce \u201cdefective\u201d childre"
-    },
-    {
-     "outlet": "thehill",
-     "title": "Federal judge rules against Trump's 75-country visa ban",
-     "url": "https://thehill.com/homenews/administration/6045057-federal-judge-blocks-trump-visa-ban/",
-     "author": "Sarah Davis",
-     "kind": "news",
-     "published": "2026-08-22T15:38:14+00:00",
-     "summary": "A federal judge ruled against the Trump administration\u2019s pause on issuing visas to immigrants from 75 countries on Friday. In a 61-page decision, U.S. District Judge Jeannette Vargas found that this policy was \u201ccontrary to law\u201d and was \u201cin excess\u201d of Secretary of State Marco Rubio\u2019s legal authority. The visa pause order was announced by..."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "Trump-Appointed Federal Judge Says, \u2018To Be American Is to Be a Zionist\u2019",
-     "url": "https://zeteo.com/p/judge-roy-altman-trump-israel",
-     "author": "Prem Thakker",
-     "kind": "news",
-     "published": "2026-08-22T13:02:17+00:00",
-     "summary": "Judge Roy Altman speaks about his book at the American Enterprise Institute. Photo via C-SPAN2 . A federal judge appointed by Donald Trump has, in recent months, repeatedly broadcast live from his office, appearing on pro-Israel and right-wing programs to promote his book denying Israel\u2019s genocide. On one such broadcast, the judge, Roy Altman, called the traditional Palestinian keffiyeh scarf a \u201cterrorism scarf.\u201d He\u2019s participated in events with a group that purports to combat \u201clawful Islamism\u201d in the U.S. All the while, he has bragged about taking 10% of the federal judicial branch on trips to Israel, and helping ensure that other federal judges see the situation in Israel and Gaza the way he does. This week, a Florida attorney filed a complaint with the U.S. Court of Appeals, accusing Altman, a judge in the Southern District of Florida, of violating judicial ethics codes. \u2018No Genocide\u2019 Born in Venezuela, Altman was nominated in April 2018 by President Donald Trump, and was eventually confirmed by the Senate the next year, by a 66-33 vote. At the time, he was the youngest federal district court judge in the U.S. He\u2019s ruled on a variety of high-profile cases, including dismissing a"
-    },
-    {
-     "outlet": "france24",
-     "title": "'Contrary to law': US judge strikes down Trump's 75-country visa ban",
-     "url": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-22T12:44:07+00:00",
-     "summary": "A US federal judge has overturned a Trump administration policy suspending immigrant visa processing for nationals of 75 countries, ruling that the measure was \"contrary to law\" and exceeded the State Department\u2019s legal authority. The decision on Friday marks a setback to Trump's immigration crackdown, though the government can appeal."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
-     "url": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
-     "author": "Mattathias Schwartz",
-     "kind": "news",
-     "published": "2026-08-22T02:12:17+00:00",
-     "summary": "Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump-appointed judge blocks blue state's crackdown on ICE detention center",
-     "url": "https://www.foxnews.com/politics/trump-appointed-judge-blocks-blue-states-crackdown-ice-detention-center",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:18:17+00:00",
-     "summary": "A Trump-appointed federal judge dealt a blow to Colorado\u2019s effort to ramp up oversight of an ICE detention center by temporarily blocking key provisions in a state law after finding the state likely overstepped its authority. Chief U.S. District Judge Daniel Domenico issued the preliminary injunction Thursday, ruling that Colorado likely crossed a constitutional line in a state law by imposing new requirements specifically targeting the GEO Group\u2019s Aurora ICE Processing Center, which operates under a federal contract and is the state's lone ICE detention center. \"Here, GEO has shown that it is singled out for a special bill that applies to no other facility,\" Domenico wrote. \"That other facilities might have some similar regulatory burdens does not change the fact that none of them are required to comply with HB 1276. As GEO notes, the extent of the additional burden is irrelevant for purposes of this test.\" BLUE STATE\u2019S ANTI-ICE PLEDGE COLLAPSES AS GOP WARNS OF NEW SANCTUARY \u2018CONFEDERACY\u2019 Democratic Colorado Gov. Jared Polis signed House Bill 26-1276 into law June 4, expanding state and local oversight of immigration detention centers. In his order, Domenico noted that GEO\u2019s Auror"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Stops Giving Hormones To Trans-Identifying Illegal Immigrants In ICE Detention",
-     "url": "https://www.dailywire.com/news/trump-stops-giving-hormones-to-trans-identifying-illegal-immigrants-in-ice-detention",
-     "author": "Jennie Taer",
-     "kind": "opinion",
-     "published": "2026-08-21T14:14:33+00:00",
-     "summary": "Trans-identifying illegal immigrants being held in federal immigration detention centers will no longer have access to hormones aiding their so-called transitions. Specialized treatment for transgender detainees in the custody of Immigration and Customs Enforcement (ICE) has ended altogether under the Trump administration, The New York Times reported . \u201cTo be clear: we will NOT waste taxpayer dollars to provide hormone therapy to illegal aliens seeking to change their sex,\u201d DHS said in an X post on Thursday. The number of ICE detainees who identify as transgender makes up a small percentage of those being held. Between October 2023 and September 2024, ICE held 244 detainees who identified as transgender, according to agency data. The agency no longer shares that data, but ICE\u2019s last public count listed 47 transgender detainees in ICE custody as of January, according to The New York Times. The Department of Homeland Security (DHS) also scrubbed an Obama-era policy \u201con the care of transgender individuals in custody\u201d from its website. Meanwhile, activists have reported instances of harassment, abuse, and retaliation against trans-identifying detainees from ICE agents and fellow detain"
-    }
-   ]
-  },
-  {
    "id": "a5e527dae5",
    "topic": "World",
    "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
@@ -361,16 +208,16 @@
     "indieCount": 7,
     "big": [
      "friday",
-     "retaliate",
      "deadline",
-     "fell",
+     "retaliate",
      "tariff",
+     "fell",
      "apart"
     ],
     "indie": [
      "ranging",
-     "hockey",
      "sticks",
+     "hockey",
      "force",
      "dollar'",
      "deal"
@@ -532,8 +379,8 @@
     "big": [
      "president",
      "stay",
-     "lower",
      "project",
+     "lower",
      "donald",
      "administrative"
     ],
@@ -660,37 +507,179 @@
    ]
   },
   {
+   "id": "13cfbffff9",
+   "topic": "Justice & Policing",
+   "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 6,
+    "indieCount": 5,
+    "big": [
+     "struck",
+     "district",
+     "issued",
+     "york",
+     "customs",
+     "detention"
+    ],
+    "indie": [
+     "public",
+     "issuing",
+     "nationality",
+     "ruled",
+     "because",
+     "basis"
+    ]
+   },
+   "people": [],
+   "absent": [],
+   "headline": "Trump administration's 75-country visa ban was illegal, judge rules",
+   "updated": "2026-08-22T21:54:39+00:00",
+   "outletCount": 10,
+   "counts": {
+    "family": 5,
+    "nonprofit": 3,
+    "corp": 1,
+    "coop": 1,
+    "pub": 1
+   },
+   "newsCount": 10,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "Trump\u2019s visa ban on 75 countries struck down by federal judge",
+     "url": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
+     "author": "Teo Armus",
+     "kind": "news",
+     "published": "2026-08-22T21:54:39+00:00",
+     "summary": "A federal judge said the indefinite pause, which affected nationals of countries in every corner of the globe, ran afoul of antidiscrimination protections."
+    },
+    {
+     "outlet": "npr",
+     "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+     "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+     "author": "Michael Copley",
+     "kind": "news",
+     "published": "2026-08-22T20:53:19+00:00",
+     "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality. (Image credit: David J. Phillip)"
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Federal judge blasts Rubio\u2019s 75-country visa freeze as \u2018Orwellian,\u2019 strikes down policy",
+     "url": "https://www.foxnews.com/politics/federal-judge-blasts-rubio-75-country-visa-freeze-orwellian-strikes-down-policy",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T20:27:01+00:00",
+     "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the Middle East. BOASBERG DELIVERS FRESH IMMIGRATION SETBACK TO TRUMP IN FREE-SPEECH CLASH Rubio\u2019s policy instructed consular officers to review each applicant individually. But even applicants who passed that review showed \"additional evidence that demonstrates he or she overcomes the public charge refusal"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
+     "url": "https://www.pbs.org/newshour/politics/federal-judge-vacates-trump-policy-that-suspended-processing-of-immigration-visas-from-75-countries",
+     "author": "Michael Casey, Associated Press",
+     "kind": "news",
+     "published": "2026-08-22T16:50:24+00:00",
+     "summary": "The judge ruled that Secretary of State Marco Rubio exceeded his authority by issuing the policy, which \"runs afoul\" of the Immigration and Nationality Act by mandating \"the refusal of visas to eligible applicants without any basis in law.\""
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump policy that suspended visas for 75 countries struck down",
+     "url": "https://abcnews.com/Politics/judge-strikes-trump-administration-policy-suspended-immigrant-visas/story?id=135862935",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T16:47:09+00:00",
+     "summary": "A U.S. district judge said the policy \"is contrary to law and was issued in excess of Secretary Rubio's statutory authority.\""
+    },
+    {
+     "outlet": "motherjones",
+     "title": "Federal Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
+     "url": "https://www.motherjones.com/politics/2026/08/federal-judge-strikes-down-trumps-75-country-visa-ban/",
+     "author": "Sophie Hurwitz",
+     "kind": "news",
+     "published": "2026-08-22T16:22:02+00:00",
+     "summary": "This January, Secretary of State Marco Rubio directed consular officers to refuse to process immigration visas for people from 75 countries because, he said, those immigrants would be more likely than others to \u201cextract wealth\u201d or \u201ctake welfare and public benefits\u201d from the US. Since January, people from those 75 countries\u2014all located in Africa, Latin America, the Middle East, or Eastern Europe\u2014have had their visa applications frozen or denied. On August 21, though, a federal judge in New York struck down this blanket visa ban, on the grounds that it violates the Immigration and Nationality Act of 1965\u2019s prohibition on nationality-based discrimination in issuing a visa. As my colleague Julia M\u00e9traux reported earlier this year , these \u201cpublic charge\u201d bans are in part based on eugenicist ideas. Since the 19th century, the United States has used \u201cpublic charge\u201d rules to restrict entry, alleging that immigrants and even visitors would strain public services\u2014reasoning very much rooted in the eugenicist and ableist thinking that shaped key aspects of public policy in the 19th and early 20th centuries, including the claim that so-called \u201cdefective\u201d people would produce \u201cdefective\u201d childre"
+    },
+    {
+     "outlet": "zeteo",
+     "title": "Trump-Appointed Federal Judge Says, \u2018To Be American Is to Be a Zionist\u2019",
+     "url": "https://zeteo.com/p/judge-roy-altman-trump-israel",
+     "author": "Prem Thakker",
+     "kind": "news",
+     "published": "2026-08-22T13:02:17+00:00",
+     "summary": "Judge Roy Altman speaks about his book at the American Enterprise Institute. Photo via C-SPAN2 . A federal judge appointed by Donald Trump has, in recent months, repeatedly broadcast live from his office, appearing on pro-Israel and right-wing programs to promote his book denying Israel\u2019s genocide. On one such broadcast, the judge, Roy Altman, called the traditional Palestinian keffiyeh scarf a \u201cterrorism scarf.\u201d He\u2019s participated in events with a group that purports to combat \u201clawful Islamism\u201d in the U.S. All the while, he has bragged about taking 10% of the federal judicial branch on trips to Israel, and helping ensure that other federal judges see the situation in Israel and Gaza the way he does. This week, a Florida attorney filed a complaint with the U.S. Court of Appeals, accusing Altman, a judge in the Southern District of Florida, of violating judicial ethics codes. \u2018No Genocide\u2019 Born in Venezuela, Altman was nominated in April 2018 by President Donald Trump, and was eventually confirmed by the Senate the next year, by a 66-33 vote. At the time, he was the youngest federal district court judge in the U.S. He\u2019s ruled on a variety of high-profile cases, including dismissing a"
+    },
+    {
+     "outlet": "france24",
+     "title": "'Contrary to law': US judge strikes down Trump's 75-country visa ban",
+     "url": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-22T12:44:07+00:00",
+     "summary": "A US federal judge has overturned a Trump administration policy suspending immigrant visa processing for nationals of 75 countries, ruling that the measure was \"contrary to law\" and exceeded the State Department\u2019s legal authority. The decision on Friday marks a setback to Trump's immigration crackdown, though the government can appeal."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
+     "url": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
+     "author": "Mattathias Schwartz",
+     "kind": "news",
+     "published": "2026-08-22T02:12:17+00:00",
+     "summary": "Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump-appointed judge blocks blue state's crackdown on ICE detention center",
+     "url": "https://www.foxnews.com/politics/trump-appointed-judge-blocks-blue-states-crackdown-ice-detention-center",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T19:18:17+00:00",
+     "summary": "A Trump-appointed federal judge dealt a blow to Colorado\u2019s effort to ramp up oversight of an ICE detention center by temporarily blocking key provisions in a state law after finding the state likely overstepped its authority. Chief U.S. District Judge Daniel Domenico issued the preliminary injunction Thursday, ruling that Colorado likely crossed a constitutional line in a state law by imposing new requirements specifically targeting the GEO Group\u2019s Aurora ICE Processing Center, which operates under a federal contract and is the state's lone ICE detention center. \"Here, GEO has shown that it is singled out for a special bill that applies to no other facility,\" Domenico wrote. \"That other facilities might have some similar regulatory burdens does not change the fact that none of them are required to comply with HB 1276. As GEO notes, the extent of the additional burden is irrelevant for purposes of this test.\" BLUE STATE\u2019S ANTI-ICE PLEDGE COLLAPSES AS GOP WARNS OF NEW SANCTUARY \u2018CONFEDERACY\u2019 Democratic Colorado Gov. Jared Polis signed House Bill 26-1276 into law June 4, expanding state and local oversight of immigration detention centers. In his order, Domenico noted that GEO\u2019s Auror"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Stops Giving Hormones To Trans-Identifying Illegal Immigrants In ICE Detention",
+     "url": "https://www.dailywire.com/news/trump-stops-giving-hormones-to-trans-identifying-illegal-immigrants-in-ice-detention",
+     "author": "Jennie Taer",
+     "kind": "opinion",
+     "published": "2026-08-21T14:14:33+00:00",
+     "summary": "Trans-identifying illegal immigrants being held in federal immigration detention centers will no longer have access to hormones aiding their so-called transitions. Specialized treatment for transgender detainees in the custody of Immigration and Customs Enforcement (ICE) has ended altogether under the Trump administration, The New York Times reported . \u201cTo be clear: we will NOT waste taxpayer dollars to provide hormone therapy to illegal aliens seeking to change their sex,\u201d DHS said in an X post on Thursday. The number of ICE detainees who identify as transgender makes up a small percentage of those being held. Between October 2023 and September 2024, ICE held 244 detainees who identified as transgender, according to agency data. The agency no longer shares that data, but ICE\u2019s last public count listed 47 transgender detainees in ICE custody as of January, according to The New York Times. The Department of Homeland Security (DHS) also scrubbed an Obama-era policy \u201con the care of transgender individuals in custody\u201d from its website. Meanwhile, activists have reported instances of harassment, abuse, and retaliation against trans-identifying detainees from ICE agents and fellow detain"
+    }
+   ]
+  },
+  {
    "id": "309d390857",
    "topic": "Politics",
    "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 2,
+    "bigCount": 3,
     "indieCount": 6,
     "big": [],
     "indie": [
-     "police",
-     "swedish",
      "killed",
      "boys",
      "aged",
-     "victim"
+     "brinell",
+     "student",
+     "students"
     ]
    },
    "people": [],
    "absent": [
-    "corp",
     "coop"
    ],
    "headline": "Swedish sword attack victim was 17-year-old girl, police say",
    "updated": "2026-08-23T01:34:15+00:00",
-   "outletCount": 7,
+   "outletCount": 8,
    "counts": {
     "pub": 4,
     "family": 2,
-    "nonprofit": 2
+    "nonprofit": 2,
+    "corp": 1
    },
-   "newsCount": 8,
+   "newsCount": 9,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
@@ -740,6 +729,15 @@
      "summary": "An 18-year-old man armed with a sword carried out the attack at the Brinell School in Fagersta, northwest of Stockholm, while classes were in session on Friday. One person was killed and three others were wounded, two of them severely."
     },
     {
+     "outlet": "abcnews",
+     "title": "Victim of sword attack at Swedish school was a 17-year-old girl",
+     "url": "https://abcnews.com/International/wireStory/victim-sword-attack-swedish-school-17-year-girl-135861734",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T13:54:21+00:00",
+     "summary": "Police in Sweden say the victim of a deadly sword attack at a school was a 17-year-old girl"
+    },
+    {
      "outlet": "bloomberg",
      "title": "Sweden\u2019s Kristersson Cancels Campaign Speech After School Attack",
      "url": "https://www.bloomberg.com/news/articles/2026-08-22/sweden-s-kristersson-cancels-campaign-speech-after-school-attack",
@@ -778,15 +776,15 @@
     "indieCount": 5,
     "big": [
      "pressure",
-     "campaign",
-     "washington"
+     "washington",
+     "campaign"
     ],
     "indie": [
-     "warns",
      "joining",
+     "warns",
      "considered",
-     "countries",
      "enemies",
+     "countries",
      "official"
     ]
    },
@@ -882,6 +880,104 @@
    ]
   },
   {
+   "id": "04f4efba9c",
+   "topic": "Politics",
+   "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 3,
+    "big": [
+     "work",
+     "justice",
+     "john",
+     "roberts",
+     "chief"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [],
+   "headline": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
+   "updated": "2026-08-22T20:08:16+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 3,
+    "family": 1,
+    "coop": 1,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "President Trump: White House ballroom construction 'under budget,' 'ahead of schedule'",
+     "url": "https://thehill.com/homenews/administration/6045262-trump-white-house-ballroom-update/",
+     "author": "Sarah Davis",
+     "kind": "news",
+     "published": "2026-08-22T20:08:16+00:00",
+     "summary": "President Trump touted progress on the White House ballroom project on Saturday morning, a day after the Supreme Court temporarily permitted construction work to continue. \u201cTremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House!\u201d the president wrote on Truth Social, alongside a photo of the..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Supreme Court temporarily allows work on White House ballroom to continue",
+     "url": "https://www.cbsnews.com/news/supreme-court-white-house-ballroom-john-roberts/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T14:04:00+00:00",
+     "summary": "Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Trump Thanks Supreme Court for Allowing White House Ballroom Construction to Continue",
+     "url": "https://www.breitbart.com/politics/2026/08/21/trump-thanks-supreme-court-for-allowing-white-house-ballroom-construction-to-continue/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-22T02:11:44+00:00",
+     "summary": "President Donald Trump thanked the Supreme Court on Friday after Chief Justice John Roberts allowed construction on his $400 million White House ballroom to continue. The post Trump Thanks Supreme Court for Allowing White House Ballroom Construction to Continue appeared first on Breitbart ."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
+     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-22T00:01:15+00:00",
+     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Karoline Leavitt to work for Trump-affiliated super PAC after leaving White House",
+     "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
+     "author": "Kyla Guilfoil",
+     "kind": "news",
+     "published": "2026-08-21T23:02:10+00:00",
+     "summary": "Leavitt, the youngest press secretary in history, announced her departure from the White House Aug. 12."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
+     "url": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
+     "author": "Doug Adams",
+     "kind": "news",
+     "published": "2026-08-21T22:55:27+00:00",
+     "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T22:02:10+00:00",
+     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
+    }
+   ]
+  },
+  {
    "id": "f247f8769c",
    "topic": "World",
    "summary": "Actress Anna Faris admitted this past week that she challenges her 14-year-old son, whom she shares with ex-husband Chris Pratt, on his pro-life and conservative beliefs. Speaking to comedian Chelsea Handler on her \u201cDear Chelsea\u201d podcast, Faris spoke lovingly of her son, Jack, but noted they have some differences when it comes to religion and politics. She told Handler that she challenges Jack\u2019s beliefs, specifically bringing up his pro-life views. \u201cI try to challenge him. I\u2019m like, \u2018Do you think it\u2019s a luxury that you get to be pro-life?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Maybe.\u2019\u201d \u201cHe is \u2026 religious,\u201d the 49-year-old said, sounding hesitant. Faris said she did not grow up with religion herself, but that Jack has developed strong religious beliefs. When she challenges him on his faith, she said she brings up what she views as religious \u201chypocrisy.\u201d \u201cI\u2019ll say, \u2018So, what do you think of this mega\u2026",
@@ -893,12 +989,12 @@
      "tackle"
     ],
     "indie": [
-     "hike",
-     "leaves",
      "alone",
-     "tired",
+     "mount",
      "father",
-     "fuji"
+     "hike",
+     "left",
+     "tired"
     ]
    },
    "people": [],
@@ -994,8 +1090,8 @@
     "big": [],
     "indie": [
      "interview",
-     "interference",
-     "reporter"
+     "reporter",
+     "interference"
     ]
    },
    "people": [],
@@ -1072,91 +1168,6 @@
    ]
   },
   {
-   "id": "04f4efba9c",
-   "topic": "Politics",
-   "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "work"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [],
-   "headline": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
-   "updated": "2026-08-22T20:08:16+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 2,
-    "family": 1,
-    "coop": 1,
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "President Trump: White House ballroom construction 'under budget,' 'ahead of schedule'",
-     "url": "https://thehill.com/homenews/administration/6045262-trump-white-house-ballroom-update/",
-     "author": "Sarah Davis",
-     "kind": "news",
-     "published": "2026-08-22T20:08:16+00:00",
-     "summary": "President Trump touted progress on the White House ballroom project on Saturday morning, a day after the Supreme Court temporarily permitted construction work to continue. \u201cTremendous work has been done on the magnificent BALLROOM/MILITARY COMPLEX being built on the grounds of the White House!\u201d the president wrote on Truth Social, alongside a photo of the..."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Trump Thanks Supreme Court for Allowing White House Ballroom Construction to Continue",
-     "url": "https://www.breitbart.com/politics/2026/08/21/trump-thanks-supreme-court-for-allowing-white-house-ballroom-construction-to-continue/",
-     "author": "Mariane Angela",
-     "kind": "news",
-     "published": "2026-08-22T02:11:44+00:00",
-     "summary": "President Donald Trump thanked the Supreme Court on Friday after Chief Justice John Roberts allowed construction on his $400 million White House ballroom to continue. The post Trump Thanks Supreme Court for Allowing White House Ballroom Construction to Continue appeared first on Breitbart ."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
-     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-22T00:01:15+00:00",
-     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Karoline Leavitt to work for Trump-affiliated super PAC after leaving White House",
-     "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
-     "author": "Kyla Guilfoil",
-     "kind": "news",
-     "published": "2026-08-21T23:02:10+00:00",
-     "summary": "Leavitt, the youngest press secretary in history, announced her departure from the White House Aug. 12."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
-     "url": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
-     "author": "Doug Adams",
-     "kind": "news",
-     "published": "2026-08-21T22:55:27+00:00",
-     "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T22:02:10+00:00",
-     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
-    }
-   ]
-  },
-  {
    "id": "f9d3625cf8",
    "topic": "Justice & Policing",
    "summary": "The Justice Department and TikTok , along with parent company ByteDance , have reached a $400 million settlement to resolve allegations of violating children's online privacy laws, per an announcement first shared with Axios. Why it matters: The Biden administration's DOJ first filed the suit in 2024. TikTok will clear the allegations it violated the Children's Online Privacy Act by paying a total of $400 million, without undergoing further litigation or admitting wrongdoing. Since the lawsuit was filed, \"TikTok has undergone significant changes to its ownership, management, compliance functions, and privacy practices,\" per the DOJ release. The settlement is one of the largest recoveries ever obtained in a case under the privacy law, the DOJ release states. What they're saying: \"This settlement is a major victory for American children and parents,\" associate attorney general Stanley\u2026",
@@ -1166,8 +1177,8 @@
     "indieCount": 3,
     "big": [
      "announced",
-     "violating",
-     "filed"
+     "filed",
+     "violating"
     ],
     "indie": [
      "largest"
@@ -1327,10 +1338,10 @@
     "big": [
      "rogers",
      "mike",
-     "aipac",
+     "shelved",
+     "abdul",
      "tuchin",
-     "democratic",
-     "el-sayed"
+     "michigan's"
     ],
     "indie": []
    },
@@ -1399,9 +1410,9 @@
    ]
   },
   {
-   "id": "9ffa7949dd",
+   "id": "c1baf27381",
    "topic": "Climate & Energy",
-   "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was devastated by Hurricane Lala . The tropical storm is gathering strength as it advances west, according to the National Weather Service (NWS). Continue reading...",
+   "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
@@ -1409,13 +1420,13 @@
     "family",
     "coop"
    ],
-   "headline": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-   "updated": "2026-08-23T01:55:59+00:00",
+   "headline": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+   "updated": "2026-08-23T03:14:29+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 1,
-    "pub": 1,
-    "nonprofit": 2
+    "nonprofit": 2,
+    "pub": 1
    },
    "newsCount": 4,
    "opinionCount": 0,
@@ -1427,8 +1438,17 @@
      "url": "https://www.cbsnews.com/news/tropical-storm-moke-rain-hawaii-big-island/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T01:55:59+00:00",
+     "published": "2026-08-23T03:14:29+00:00",
      "summary": "Hawaii is still cleaning up from Hurricane Lala, which dumped massive amounts of rain on the islands."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+     "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+     "author": "Uwa Ede-Osifo",
+     "kind": "news",
+     "published": "2026-08-23T01:49:47+00:00",
+     "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading..."
     },
     {
      "outlet": "aljazeera",
@@ -1438,15 +1458,6 @@
      "kind": "news",
      "published": "2026-08-22T22:29:07+00:00",
      "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
-     "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
-     "author": "Uwa Ede-Osifo",
-     "kind": "news",
-     "published": "2026-08-22T21:52:05+00:00",
-     "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was devastated by Hurricane Lala . The tropical storm is gathering strength as it advances west, according to the National Weather Service (NWS). Continue reading..."
     },
     {
      "outlet": "pbsnewshour",
@@ -1582,67 +1593,6 @@
    ]
   },
   {
-   "id": "5089e26b6e",
-   "topic": "Culture & Sport",
-   "summary": "Deshaun Watson and the Cleveland Browns fan base weren\u2019t shy about showing their disdain for each other Saturday, even as the quarterback is locked in a competition with Shedeur Sanders for the starting job. So Watson is effectively fighting a two-front war now. Browns fans don't like that Watson has delivered only 19 touchdown passes in 19 games during his $230 million contract. They don't like that his time with the team has been punctuated by a suspension, a season-ending shoulder injury, a season-ending Achilles injury and another Achilles injury that kept him out all of last season. DESHAUN WATSON'S FIRST GAME SINCE 2024 A SUCCESS BECAUSE HE WASN'T AS BAD AS SHEDEUR SANDERS OR DILLON GABRIEL Watson is not their guy even though he's on their team. And in Watson's first game at Huntington Bank Field since 2024, he heard it from the fans as they booed him lustily. \"It sucks,\" coach\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Browns QB Deshaun Watson laments \u2018disrespectful\u2019 booing by team\u2019s own fans",
-   "updated": "2026-08-23T00:46:35+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Browns QB Deshaun Watson laments \u2018disrespectful\u2019 booing by team\u2019s own fans",
-     "url": "https://www.theguardian.com/sport/2026/aug/22/browns-qb-deshaun-watson-says-being-booed-by-teams-own-fans-is-disrespectful",
-     "author": "Guardian sport and agencies",
-     "kind": "news",
-     "published": "2026-08-23T00:46:35+00:00",
-     "summary": "Player booed during team\u2019s preseason loss to Bills QB has battled injuries during time in Cleveland Watson was suspended over sexual assault allegations Browns quarterback Deshaun Watson has called the booing he heard from the team\u2019s own fans during Saturday\u2019s home loss to Buffalo \u201cdisrespectful\u201d and \u201cpersonal.\u201d Watson, who has a complicated relationship with Cleveland fans because of injuries, off-field issues \u2013 including an NFL suspension in 2022 \u2013 and a massive, $230m contract, was booed repeatedly during the second half of the 31-7 loss to the Bills. Continue reading..."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Deshaun Watson rips \u2018disrespectful\u2019 Browns fans booing as \u2018personal\u2019 in preseason return to Cleveland",
-     "url": "https://nypost.com/2026/08/22/sports/deshaun-watson-rips-disrespectful-browns-fans-booing-as-personal-in-preseason-return-to-cleveland/",
-     "author": "Thomas Gamba-Ellis",
-     "kind": "news",
-     "published": "2026-08-23T00:36:12+00:00",
-     "summary": "Deshaun Watson was met with a barrage of boos from Browns fans on Saturday."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Deshaun Watson booed by Browns fans, fires back after poor outing opens door for Shedeur Sanders",
-     "url": "https://www.foxnews.com/outkick-sports/deshaun-watson-booed-browns-fans-fires-back-poor-outing-opens-door-shedeur-sanders",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:22:23+00:00",
-     "summary": "Deshaun Watson and the Cleveland Browns fan base weren\u2019t shy about showing their disdain for each other Saturday, even as the quarterback is locked in a competition with Shedeur Sanders for the starting job. So Watson is effectively fighting a two-front war now. Browns fans don't like that Watson has delivered only 19 touchdown passes in 19 games during his $230 million contract. They don't like that his time with the team has been punctuated by a suspension, a season-ending shoulder injury, a season-ending Achilles injury and another Achilles injury that kept him out all of last season. DESHAUN WATSON'S FIRST GAME SINCE 2024 A SUCCESS BECAUSE HE WASN'T AS BAD AS SHEDEUR SANDERS OR DILLON GABRIEL Watson is not their guy even though he's on their team. And in Watson's first game at Huntington Bank Field since 2024, he heard it from the fans as they booed him lustily. \"It sucks,\" coach Todd Monken said of the fan reaction. Watson, meanwhile, made it clear that if Browns fans don't like him, the feeling is mutual. \"It's a disrespectful thing,\" Watson said of the fan reaction. \"So, yeah, I mean, I'm going to keep whatever I feel with me and my family internally on how I feel about that"
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Deshaun Watson Sounds off on 'Disrespectful' Browns Fans Booing Him",
-     "url": "https://www.newsweek.com/sports/nfl/deshaun-watson-sounds-off-on-disrespectful-browns-fans-booing-him-12356881",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:15:02+00:00",
-     "summary": "After Cleveland's preseason loss to the Buffalo Bills, Deshaun Watson spoke about \"disrespectful\" Browns fans booing him."
-    }
-   ]
-  },
-  {
    "id": "5fdde948ec",
    "topic": "Business & Economy",
    "summary": "A view over Lake Mead shows how far the lake's level has fallen. AP Photo/Ty ONeil In August 2026 the nation\u2019s two largest reservoirs, Lake Mead and Lake Powell, both on the Colorado River, hit their lowest levels since they first began to be filled in 1936 and 1963, respectively. The federal government and the seven Colorado River basin states \u2013 Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming \u2013 have been unable to reach an agreement about who should reduce water usage by how much to avoid catastrophic declines in lake levels. And the existing plans and commitments, including a federal outline announced in late July 2026 , don\u2019t get close to achieving what\u2019s needed to keep the river flowing. Here\u2019s a look at the key issues making an agreement so hard to reach. Big cuts are needed To stabilize the Colorado River system, seven states and Mexico need to reduce annual\u2026",
@@ -1712,8 +1662,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "emotional",
-     "president"
+     "president",
+     "emotional"
     ],
     "indie": [
      "media"
@@ -1786,9 +1736,9 @@
      "force"
     ],
     "indie": [
-     "house",
      "ballroom",
-     "white"
+     "white",
+     "house"
     ]
    },
    "people": [],
@@ -1895,6 +1845,58 @@
      "kind": "news",
      "published": "2026-08-21T09:01:00+00:00",
      "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
+    }
+   ]
+  },
+  {
+   "id": "5089e26b6e",
+   "topic": "Culture & Sport",
+   "summary": "Deshaun Watson and the Cleveland Browns fan base weren\u2019t shy about showing their disdain for each other Saturday, even as the quarterback is locked in a competition with Shedeur Sanders for the starting job. So Watson is effectively fighting a two-front war now. Browns fans don't like that Watson has delivered only 19 touchdown passes in 19 games during his $230 million contract. They don't like that his time with the team has been punctuated by a suspension, a season-ending shoulder injury, a season-ending Achilles injury and another Achilles injury that kept him out all of last season. DESHAUN WATSON'S FIRST GAME SINCE 2024 A SUCCESS BECAUSE HE WASN'T AS BAD AS SHEDEUR SANDERS OR DILLON GABRIEL Watson is not their guy even though he's on their team. And in Watson's first game at Huntington Bank Field since 2024, he heard it from the fans as they booed him lustily. \"It sucks,\" coach\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Browns QB Deshaun Watson laments \u2018disrespectful\u2019 booing by team\u2019s own fans",
+   "updated": "2026-08-23T00:46:35+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Browns QB Deshaun Watson laments \u2018disrespectful\u2019 booing by team\u2019s own fans",
+     "url": "https://www.theguardian.com/sport/2026/aug/22/browns-qb-deshaun-watson-says-being-booed-by-teams-own-fans-is-disrespectful",
+     "author": "Guardian sport and agencies",
+     "kind": "news",
+     "published": "2026-08-23T00:46:35+00:00",
+     "summary": "Player booed during team\u2019s preseason loss to Bills QB has battled injuries during time in Cleveland Watson was suspended over sexual assault allegations Browns quarterback Deshaun Watson has called the booing he heard from the team\u2019s own fans during Saturday\u2019s home loss to Buffalo \u201cdisrespectful\u201d and \u201cpersonal.\u201d Watson, who has a complicated relationship with Cleveland fans because of injuries, off-field issues \u2013 including an NFL suspension in 2022 \u2013 and a massive, $230m contract, was booed repeatedly during the second half of the 31-7 loss to the Bills. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Deshaun Watson booed by Browns fans, fires back after poor outing opens door for Shedeur Sanders",
+     "url": "https://www.foxnews.com/outkick-sports/deshaun-watson-booed-browns-fans-fires-back-poor-outing-opens-door-shedeur-sanders",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:22:23+00:00",
+     "summary": "Deshaun Watson and the Cleveland Browns fan base weren\u2019t shy about showing their disdain for each other Saturday, even as the quarterback is locked in a competition with Shedeur Sanders for the starting job. So Watson is effectively fighting a two-front war now. Browns fans don't like that Watson has delivered only 19 touchdown passes in 19 games during his $230 million contract. They don't like that his time with the team has been punctuated by a suspension, a season-ending shoulder injury, a season-ending Achilles injury and another Achilles injury that kept him out all of last season. DESHAUN WATSON'S FIRST GAME SINCE 2024 A SUCCESS BECAUSE HE WASN'T AS BAD AS SHEDEUR SANDERS OR DILLON GABRIEL Watson is not their guy even though he's on their team. And in Watson's first game at Huntington Bank Field since 2024, he heard it from the fans as they booed him lustily. \"It sucks,\" coach Todd Monken said of the fan reaction. Watson, meanwhile, made it clear that if Browns fans don't like him, the feeling is mutual. \"It's a disrespectful thing,\" Watson said of the fan reaction. \"So, yeah, I mean, I'm going to keep whatever I feel with me and my family internally on how I feel about that"
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Deshaun Watson Sounds off on 'Disrespectful' Browns Fans Booing Him",
+     "url": "https://www.newsweek.com/sports/nfl/deshaun-watson-sounds-off-on-disrespectful-browns-fans-booing-him-12356881",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:15:02+00:00",
+     "summary": "After Cleveland's preseason loss to the Buffalo Bills, Deshaun Watson spoke about \"disrespectful\" Browns fans booing him."
     }
    ]
   },
@@ -2636,58 +2638,6 @@
    ]
   },
   {
-   "id": "bb3f55a467",
-   "topic": "World",
-   "summary": "Imagine, for a minute, that everyone in your neighborhood is paying your rent, and then, one day, you accuse them all of being racist bullies and move away. Imagine you accused your own family, too. You\u2019re a grown man, and you tell your brother, who\u2019s got three kids under the age of 10, that he wasn\u2019t supportive enough. You complain because your father won\u2019t let you use his credit card anymore. Back home, the neighborhood whispers that you left because your elderly grandmother\u2019s late, beloved husband was a bigot\u2014and you let everybody believe it. You\u2019re gone five years, and in that time your grandmother dies, your brother\u2019s wife has cancer, and so does your father. You have two kids. In your glamorous, expensive new community, you keep telling everyone how terrible your family treats you, how unhappy you were in your old neighborhood, and how unsafe it was. You try to start a high-flying\u2026",
-   "summaryFrom": "freepress",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Harry and Meghan moving back to Britain: reports",
-   "updated": "2026-08-21T22:10:33+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "pub": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "freepress",
-     "title": "Prince Harry Said Returning to Britain Was \u2018Impossible\u2019",
-     "url": "https://www.thefp.com/p/prince-harry-meghan-markle-return-great-britain",
-     "author": "Kara Kennedy",
-     "kind": "news",
-     "published": "2026-08-21T22:10:33+00:00",
-     "summary": "Imagine, for a minute, that everyone in your neighborhood is paying your rent, and then, one day, you accuse them all of being racist bullies and move away. Imagine you accused your own family, too. You\u2019re a grown man, and you tell your brother, who\u2019s got three kids under the age of 10, that he wasn\u2019t supportive enough. You complain because your father won\u2019t let you use his credit card anymore. Back home, the neighborhood whispers that you left because your elderly grandmother\u2019s late, beloved husband was a bigot\u2014and you let everybody believe it. You\u2019re gone five years, and in that time your grandmother dies, your brother\u2019s wife has cancer, and so does your father. You have two kids. In your glamorous, expensive new community, you keep telling everyone how terrible your family treats you, how unhappy you were in your old neighborhood, and how unsafe it was. You try to start a high-flying career, but it\u2019s harder than you thought. People start laughing at you. In the beautiful place you tried to make home, people are whispering that you\u2019ve got no talent, and you don\u2019t belong. So, what do you do? You pack your bags. You announce you\u2019re coming home, to the place you rejected. This week,"
-    },
-    {
-     "outlet": "dw",
-     "title": "Harry and Meghan moving back to Britain: reports",
-     "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T03:10:00+00:00",
-     "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:00:51+00:00",
-     "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
-    }
-   ]
-  },
-  {
    "id": "e2052c77b8",
    "topic": "Other",
    "summary": "A very interesting piece in the Chronicle of Higher Education . Here are two brief excerpts, but they can't do justice to the whole piece, which covers much more ground: {[W]hen a mainstream journalist [investigated Arday], he was threatened with lawsuits , visited by the police , and subsequently instructed by his editors to bury the story\u2014and he sheepishly complied. Arday was exposed by a \"race realist\" Substack writer because reporters wouldn't cover the story until after it had already become common knowledge . It seems to defeat the purpose of the journalistic profession to tell people what they've already learned by other means, but that was the position U.K. media outlets and journalists took: radio silence until \"others\" started the conversation. And, somehow, the main lesson many seem to be taking from the way things played out is that we need even more media censorship\u2026",
@@ -2792,45 +2742,88 @@
    ]
   },
   {
-   "id": "8457782f3b",
-   "topic": "Justice & Policing",
-   "summary": "A 15-year-old boy has been arrested in connection to a gang-related shooting that left a 17-year-old dead during a high school football game in Bakersfield, California , authorities told Fox News Digital. The shooting happened shortly after 8 p.m. Friday at Independence High School as the school hosted Centennial High School for its season opener, according to the Bakersfield Police Department. Neither the suspect nor the victim attended Independence High School, police confirmed to Fox News Digital. Police said that while the shooting was not directly related to the football game, it happened while the game was underway. The shooting occurred within the exterior fence of the football stadium, but outside the chain-link barrier surrounding the field and track. CALIFORNIA HIGH SCHOOL GRADUATION SHOOTING KILLS TEEN, INJURES CHILD AND TWO OTHERS Officers found the 17-year-old suffering\u2026",
-   "summaryFrom": "foxnews",
+   "id": "7fb107388f",
+   "topic": "Other",
+   "summary": "Follow live Victorian Labor expands on free dental care election promise The Victorian premier, Ben Carroll , and health minister, Ingrid Stitt , have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November . You can\u2019t use a Medicare card for dental unless you\u2019ve got a healthcare card or you are a category of a particular citizen, it is very difficult \u2026 I\u2019ve been visiting a lot of dentists over the past few weeks. There [are] waiting lists. People are in enormous, unbearable pain. This will be a cost of living measure but it will also make sure that we deal with the healthcare of some of the most vulnerable Victorians. This is really going to fill the gap that\u2019s been there for decades. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Australia news live: Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as highlight of course",
+   "updated": "2026-08-23T03:14:25+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Australia news live: Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as highlight of course",
+     "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+     "author": "Stephanie Convery",
+     "kind": "news",
+     "published": "2026-08-23T03:14:25+00:00",
+     "summary": "Follow live Victorian Labor expands on free dental care election promise The Victorian premier, Ben Carroll , and health minister, Ingrid Stitt , have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November . You can\u2019t use a Medicare card for dental unless you\u2019ve got a healthcare card or you are a category of a particular citizen, it is very difficult \u2026 I\u2019ve been visiting a lot of dentists over the past few weeks. There [are] waiting lists. People are in enormous, unbearable pain. This will be a cost of living measure but it will also make sure that we deal with the healthcare of some of the most vulnerable Victorians. This is really going to fill the gap that\u2019s been there for decades. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+     "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T07:53:57+00:00",
+     "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal."
+    }
+   ]
+  },
+  {
+   "id": "0a7019c54f",
+   "topic": "Justice & Policing",
+   "summary": "A Texas judge denied Karmelo Anthony a new trial Saturday, after his attorneys argued that courtroom restrictions, hearings held without Anthony present and the handling of an unwritten agreement between his former lawyers and prosecutors violated his rights. Retired District Judge Michael Chitty denied Anthony\u2019s request after reviewing the motion, court record, evidence and arguments, briefs and relevant case law, according to his order. The order did not detail his reasoning for the decision. The decision leaves Anthony\u2019s murder conviction and 35-year prison sentence in place. His challenge will continue on direct appeal. UNTAPPED KARMELO ANTHONY EVIDENCE CACHE SHOWED HE STALKED EX-GIRLFRIEND, HAD 'KNIVES' OBSESSION: PROSECUTORS Collin County District Attorney Greg Willis said his office expected the decision and remains confident in the case. \"We respect, and expected, the court\u2019s\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Police make arrest after gunfire during California high school football game leaves 1 dead",
-   "updated": "2026-08-23T01:53:37+00:00",
+   "headline": "Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf",
+   "updated": "2026-08-23T02:54:34+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 2
+    "corp": 1,
+    "family": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "foxnews",
-     "title": "Police make arrest after gunfire during California high school football game leaves 1 dead",
-     "url": "https://www.foxnews.com/us/police-arrest-gunfire-california-high-school-football-game-1-dead",
+     "outlet": "cbsnews",
+     "title": "Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf",
+     "url": "https://www.cbsnews.com/news/karmelo-anthony-new-trial-decision-austin-metcalf-8-22-2026/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T01:53:37+00:00",
-     "summary": "A 15-year-old boy has been arrested in connection to a gang-related shooting that left a 17-year-old dead during a high school football game in Bakersfield, California , authorities told Fox News Digital. The shooting happened shortly after 8 p.m. Friday at Independence High School as the school hosted Centennial High School for its season opener, according to the Bakersfield Police Department. Neither the suspect nor the victim attended Independence High School, police confirmed to Fox News Digital. Police said that while the shooting was not directly related to the football game, it happened while the game was underway. The shooting occurred within the exterior fence of the football stadium, but outside the chain-link barrier surrounding the field and track. CALIFORNIA HIGH SCHOOL GRADUATION SHOOTING KILLS TEEN, INJURES CHILD AND TWO OTHERS Officers found the 17-year-old suffering from gunshot wounds. He was taken to Kern Medical, where he was pronounced dead. Authorities have not publicly identified the victim. Police announced the arrest of the 15-year-old suspect Saturday on suspicion of murder, firearm-related offenses and participating in a criminal street gang , police told"
+     "published": "2026-08-23T02:54:34+00:00",
+     "summary": "The decision comes after both prosecutors and Anthony's new defense team revealed more details in a tense two-day hearing."
     },
     {
-     "outlet": "latimes",
-     "title": "High school football: Top performers in the Southland",
-     "url": "https://www.latimes.com/sports/highschool/story/2026-08-22/southland-prep-football-top-performers-week-0",
-     "author": "Eric Sondheimer",
+     "outlet": "foxnews",
+     "title": "Judge denies Karmelo Anthony's bid for new trial after ex-lawyers detail dispute that kept him from testifying",
+     "url": "https://www.foxnews.com/us/judge-denies-karmelo-anthonys-bid-new-trial-after-ex-lawyers-detail-dispute-kept-him-testifying",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-22T19:07:12+00:00",
-     "summary": "A look at the top performers from City and Southern Section football games this week."
+     "published": "2026-08-22T21:00:26+00:00",
+     "summary": "A Texas judge denied Karmelo Anthony a new trial Saturday, after his attorneys argued that courtroom restrictions, hearings held without Anthony present and the handling of an unwritten agreement between his former lawyers and prosecutors violated his rights. Retired District Judge Michael Chitty denied Anthony\u2019s request after reviewing the motion, court record, evidence and arguments, briefs and relevant case law, according to his order. The order did not detail his reasoning for the decision. The decision leaves Anthony\u2019s murder conviction and 35-year prison sentence in place. His challenge will continue on direct appeal. UNTAPPED KARMELO ANTHONY EVIDENCE CACHE SHOWED HE STALKED EX-GIRLFRIEND, HAD 'KNIVES' OBSESSION: PROSECUTORS Collin County District Attorney Greg Willis said his office expected the decision and remains confident in the case. \"We respect, and expected, the court\u2019s decision denying the motion for a new trial. The jury\u2019s guilty verdict stands, and we remain confident in the process,\" his statement said. \"Every defendant has the right to appeal, and our thoughts and prayers remain with the Metcalf family in the painful wake of last week\u2019s hearing.\" Chitty heard two"
     }
    ]
   },
@@ -2874,49 +2867,6 @@
      "kind": "opinion",
      "published": "2026-08-21T14:00:29+00:00",
      "summary": "Never interrupt your enemy when they\u2019re making a mistake. And never, ever interrupt the Left when they\u2019re being spectacularly, self-immolatingly stupid. On Thursday, the New York Times published a piece that was supposed to manufacture outrage. Instead, it handed the entire country a gift-wrapped argument for deportation. \u201cTrans Migrants in ICE Detention Are Losing Their Rights and Medical Care\u201d Translation: Biological men who entered the country illegally, some with criminal records at home, some with criminal records here, who had been receiving taxpayer-funded cross-sex hormones, are now no longer receiving those hormones\u2026 and are being removed. I\u2019m struggling to locate the tragedy. The Department of Homeland Security responded with this clarity: [The NYT] is more concerned about us not providing hormone therapy for these criminals than the countless Americans who have been victimized by illegal aliens. To be clear: we are NOT wasting taxpayer dollars to provide hormone therapy to illegal aliens seeking to change their sex. The national debt just crossed $40 trillion. Saving money by declining to medically cosplay for foreign criminals seems, to the average Joe, like basic adult"
-    }
-   ]
-  },
-  {
-   "id": "0a7019c54f",
-   "topic": "Justice & Policing",
-   "summary": "A Texas judge denied Karmelo Anthony a new trial Saturday, after his attorneys argued that courtroom restrictions, hearings held without Anthony present and the handling of an unwritten agreement between his former lawyers and prosecutors violated his rights. Retired District Judge Michael Chitty denied Anthony\u2019s request after reviewing the motion, court record, evidence and arguments, briefs and relevant case law, according to his order. The order did not detail his reasoning for the decision. The decision leaves Anthony\u2019s murder conviction and 35-year prison sentence in place. His challenge will continue on direct appeal. UNTAPPED KARMELO ANTHONY EVIDENCE CACHE SHOWED HE STALKED EX-GIRLFRIEND, HAD 'KNIVES' OBSESSION: PROSECUTORS Collin County District Attorney Greg Willis said his office expected the decision and remains confident in the case. \"We respect, and expected, the court\u2019s\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf",
-   "updated": "2026-08-23T01:35:18+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf",
-     "url": "https://www.cbsnews.com/news/karmelo-anthony-new-trial-decision-austin-metcalf-8-22-2026/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T01:35:18+00:00",
-     "summary": "The decision comes after both prosecutors and Anthony's new defense team revealed more details in a tense two-day hearing."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Judge denies Karmelo Anthony's bid for new trial after ex-lawyers detail dispute that kept him from testifying",
-     "url": "https://www.foxnews.com/us/judge-denies-karmelo-anthonys-bid-new-trial-after-ex-lawyers-detail-dispute-kept-him-testifying",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T21:00:26+00:00",
-     "summary": "A Texas judge denied Karmelo Anthony a new trial Saturday, after his attorneys argued that courtroom restrictions, hearings held without Anthony present and the handling of an unwritten agreement between his former lawyers and prosecutors violated his rights. Retired District Judge Michael Chitty denied Anthony\u2019s request after reviewing the motion, court record, evidence and arguments, briefs and relevant case law, according to his order. The order did not detail his reasoning for the decision. The decision leaves Anthony\u2019s murder conviction and 35-year prison sentence in place. His challenge will continue on direct appeal. UNTAPPED KARMELO ANTHONY EVIDENCE CACHE SHOWED HE STALKED EX-GIRLFRIEND, HAD 'KNIVES' OBSESSION: PROSECUTORS Collin County District Attorney Greg Willis said his office expected the decision and remains confident in the case. \"We respect, and expected, the court\u2019s decision denying the motion for a new trial. The jury\u2019s guilty verdict stands, and we remain confident in the process,\" his statement said. \"Every defendant has the right to appeal, and our thoughts and prayers remain with the Metcalf family in the painful wake of last week\u2019s hearing.\" Chitty heard two"
     }
    ]
   },
@@ -3786,6 +3736,49 @@
      "kind": "opinion",
      "published": "2026-08-21T07:00:00+00:00",
      "summary": "The post Open Thread appeared first on Reason.com ."
+    }
+   ]
+  },
+  {
+   "id": "3355b0549a",
+   "topic": "World",
+   "summary": "Indiana Fever players Caitlin Clark, left, and Sophie Cunningham, right, during a WNBA game against the Atlanta Dream on August 16, 2026, in Atlanta, Georgia. | Rich von Biberstein/Icon Sportswire via Getty Images On the court, the WNBA is thriving. After 30 years, its players are receiving a historic payout , along with a massive TV distribution deal that will mean more games, and hopefully even more fans. But off the court, all that attention has some downsides. Most recently, it means that the culture war has come for the WNBA. Specifically, the league has found itself at the center of a debate over transgender athletes and women\u2019s sports, one that Indiana Fever guard Sophie Cunningham ignited last month. Cunningham, 30, has gained a reputation as an \u201cenforcer\u201d for her All-Star teammate, Caitlin Clark. In July, she told ESPN that \u201cI think that I am here to extend love, but I also\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "The Culture War Is Coming For The WNBA",
+   "updated": "2026-08-22T07:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "slate",
+     "title": "The Culture War Is Coming For The WNBA",
+     "url": "https://slate.com/podcasts/icymi/2026/08/racist-and-transphobic-trolls-are-ruining-the-wnba?via=rss",
+     "author": "Kate Lindsay",
+     "kind": "news",
+     "published": "2026-08-22T07:00:00+00:00",
+     "summary": "The rise of the WNBA has come with unintended consequences."
+    },
+    {
+     "outlet": "vox",
+     "title": "Sophie Cunningham and the WNBA culture wars",
+     "url": "https://www.vox.com/podcasts/499833/wnba-culture-wars-trans-athletes-sophie-cunningham-caitlin-clark",
+     "author": "Noel King",
+     "kind": "news",
+     "published": "2026-08-20T20:55:00+00:00",
+     "summary": "Indiana Fever players Caitlin Clark, left, and Sophie Cunningham, right, during a WNBA game against the Atlanta Dream on August 16, 2026, in Atlanta, Georgia. | Rich von Biberstein/Icon Sportswire via Getty Images On the court, the WNBA is thriving. After 30 years, its players are receiving a historic payout , along with a massive TV distribution deal that will mean more games, and hopefully even more fans. But off the court, all that attention has some downsides. Most recently, it means that the culture war has come for the WNBA. Specifically, the league has found itself at the center of a debate over transgender athletes and women\u2019s sports, one that Indiana Fever guard Sophie Cunningham ignited last month. Cunningham, 30, has gained a reputation as an \u201cenforcer\u201d for her All-Star teammate, Caitlin Clark. In July, she told ESPN that \u201cI think that I am here to extend love, but I also think that with love is truth, being honest. And I want to protect young girls in a locker room or young girls in sport who shouldn\u2019t have to go against biological men.\u201d No known trans athletes have ever played in the WNBA, but that hasn\u2019t much deterred pundits from weighing in. It\u2019s the latest instance"
     }
    ]
   }
