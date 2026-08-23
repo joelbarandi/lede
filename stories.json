@@ -1,50 +1,59 @@
 {
- "generated": "2026-08-23T10:42:29.927623+00:00",
+ "generated": "2026-08-23T11:35:47.330925+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "eb07c7b868",
+   "id": "4760bb9563",
    "topic": "Politics",
    "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s\u2026",
    "summaryFrom": "zeteo",
    "emphasis": {
     "bigCount": 15,
-    "indieCount": 11,
+    "indieCount": 10,
     "big": [
+     "dollar",
      "administration",
      "work",
-     "triggering",
      "retaliate",
-     "know",
-     "social"
+     "triggering",
+     "truth"
     ],
     "indie": [
+     "collapse",
      "imposed",
      "escalates",
-     "worth",
-     "other",
+     "both",
      "sides",
-     "both"
+     "accused"
     ]
    },
    "people": [],
    "absent": [],
-   "headline": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
-   "updated": "2026-08-23T09:47:28+00:00",
-   "outletCount": 17,
+   "headline": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+   "updated": "2026-08-23T11:00:16+00:00",
+   "outletCount": 18,
    "counts": {
-    "family": 7,
-    "pub": 7,
-    "corp": 8,
-    "nonprofit": 2,
-    "coop": 2
+    "nonprofit": 3,
+    "family": 6,
+    "pub": 6,
+    "corp": 9,
+    "coop": 1
    },
    "newsCount": 25,
-   "opinionCount": 1,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "guardian",
+     "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+     "author": "Lauren Almeida",
+     "kind": "news",
+     "published": "2026-08-23T11:00:16+00:00",
+     "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading..."
+    },
     {
      "outlet": "nyt",
      "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
@@ -118,15 +127,6 @@
      "summary": "Provincial premiers have joined Canada\u2019s Prime Minister Mark Carney, firing back after US President imposed tariffs."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-     "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T02:34:49+00:00",
-     "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products."
-    },
-    {
      "outlet": "thehill",
      "title": "Collins asks White House to consider 'negative impact' of Canada trade war",
      "url": "https://thehill.com/homenews/senate/6045413-susan-collins-canada-trade-war-negative-impact/",
@@ -191,12 +191,12 @@
     },
     {
      "outlet": "npr",
-     "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-     "author": "Miguel Macias",
+     "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
+     "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
+     "author": "Scott Simon",
      "kind": "news",
-     "published": "2026-08-22T04:36:27+00:00",
-     "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month. (Image credit: Graham Hughes)"
+     "published": "2026-08-22T11:43:25+00:00",
+     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
     },
     {
      "outlet": "breitbart",
@@ -244,40 +244,31 @@
      "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
     },
     {
-     "outlet": "zeteo",
-     "title": "Here\u2019s a Blueprint for What Democrats Should Do If They Take Back the House",
-     "url": "https://zeteo.com/p/heres-a-blueprint-for-what-democrats",
-     "author": "Kim Wehle",
-     "kind": "news",
-     "published": "2026-08-21T19:01:30+00:00",
-     "summary": "House Minority Leader Hakeem Jeffries speaks to reporters at the U.S. Capitol on March 19, 2026. Photo by Chip Somodevilla/Getty Images During a live broadcast on X late last month, Alex Jones declared that \u201c[t]he big issue\u201d right now is \u201chow to stop Trump.\u201d \u201cI mean,\u201d he quipped, \u201cthis is absolutely out of control.\u201d Jones invoked the \u201c25 th Amendment, impeachment, whatever needs to happen . . . to get control over the country.\u201d Congressional Democrats should take note. Jones, the former owner of the right-wing conspiracy outlet InfoWars, is incensed over Trump\u2019s illegal war in Iran, which, according to White House press secretary Karoline Leavitt, could ultimately involve a draft. \u201cThey want us in a total war so they can censor and take our freedoms, nationalize everything, and push us aside with AI \u2014 total liability, immunity, and protection. This is a disaster. We are facing tyranny,\u201d Jones said. \u201cWe\u2019ve got to come together and transcend left and right, and we have to say no to an expanded war that will definitely destroy the economy and kill a bunch of our troops. They\u2019re preparing a massive ground invasion. It\u2019s all confirmed. This is going down right now.\u201d Jones hardly deserve"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Democrats can take the lead on one of the nation\u2019s top issues \u2013 data centers",
-     "url": "https://www.foxnews.com/opinion/democrats-take-lead-nations-top-issues-data-centers",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-21T09:00:43+00:00",
-     "summary": "Elected officials see angry voters cram into local meeting rooms and line streets to oppose data centers and feel an irresistible urge to cater to the populist anger. The next thing they do is hit the pause button. However, leadership requires thinking through consequences. Moratoria on new data center construction will arrest innovation, cede the future of artificial intelligence to Beijing and threaten our national security. Blanket opposition deprives hardworking Americans of hundreds of millions of dollars in future wages per year. It shackles the most vibrant sector in commercial construction and eliminates a tax revenue lifeline that is currently funding local police departments, roads and teacher salaries in counties across the nation. If Democrats want to regain the trust of the American people, we must have a defined vision for the future that brings prosperity to all \u2013 not just the ultrarich \u2013 and we have to be for something not just saying, \"No.\" We need to offer a constructive solution that doesn't succumb to fearmongering, and prove that the party of the New Deal, the Great Society and the Apollo program is the party of solutions and sound policy, not demagoguery. FROM"
-    },
-    {
      "outlet": "time",
-     "title": "State Farm Is Sending $5 Billion in Dividend Payments to Customers. Here\u2019s How to Know If You\u2019re Eligible",
-     "url": "https://time.com/article/2026/08/20/state-farm-5-billion-dividend-payments/",
-     "author": "Connor Greene",
+     "title": "How Much the National Debt Grew Under Trump and Biden",
+     "url": "https://time.com/article/2026/08/21/national-debt-trump-biden/",
+     "author": "Chantelle Lee",
      "kind": "news",
-     "published": "2026-08-20T22:37:39+00:00",
-     "summary": "A State Farm logo is seen in front of a State Farm insurance office in San Rafael, California, on February 3, 2025. \u2014Justin Sullivan\u2014Getty Images Tens of millions of State Farm customers are eligible to receive payments as part of a $5 billion dividend from the company\u2019s Mutual Automobile Insurance, which State Farm has already begun doling out. The dividend, first announced in February, is the largest in the company\u2019s history. \u201cThis dividend is possible due to State Farm Mutual\u2019s financial strength and a stronger than expected underwriting performance, which has been reported industry wide,\u201d the company wrote at the time of the initial announcement. Here\u2019s what to know about the dividend payments, and how to see if you\u2019re eligible to receive one. Who\u2019s eligible? More than 49 million vehicle owners across State Farm\u2019s network are set to get dividend payments this summer, the company said. Customers who had a State Farm personal auto insurance policy active at any time in 2025. You do not need to be currently insured by State Farm to receive a payment. To receive a payment, customers' share of the dividend based on their premium payments and state must be $10 or more. Qualifying cus"
+     "published": "2026-08-21T14:27:57+00:00",
+     "summary": "The U.S. Treasury building in Washington, D.C., on June 17, 2025. \u2014Al Drago\u2014Bloomberg/Getty Images The U.S.\u2019s national debt surpassed $40 trillion for the first time ever this week\u2014more than double what it was a decade ago. The record-breaking figure comes after the government reported in March that the total debt reached $39 trillion, meaning that the debt grew by $1 trillion in less than half a year. Just a few months before that, in October, that figure was $38 trillion. And the country has reached the $40 trillion milestone earlier than experts had previously predicted; in 2023, the Congressional Budget Office estimated that the total debt wouldn\u2019t hit that figure until 2028. The debt has been increasing for decades, but much of the current total has been accumulated over the past ten years, during the administrations of President Donald Trump and former President Joe Biden. Here\u2019s how much the debt grew under each of their terms in the White House. Trump\u2019s first term When Trump took office for his first term in January 2017, the total debt was about $19.95 trillion. When his presidency ended four years later, the debt stood at roughly $27.75 trillion, meaning that the debt ros"
     },
     {
-     "outlet": "semafor",
-     "title": "Saudi intensifies $13.3 billion buildout of indoor entertainment centers",
-     "url": "https://www.semafor.com/article/08/20/2026/saudi-intensifies-133-billion-buildout-of-indoor-entertainment-centers",
-     "author": "Manal Albarakati",
+     "outlet": "theatlantic",
+     "title": "President Trump Has a Pet-Project Docket at the National Parks",
+     "url": "https://www.theatlantic.com/politics/2026/08/trump-national-parks-projects/688338/?utm_source=feed",
+     "author": "Michael Scherer",
      "kind": "news",
-     "published": "2026-08-20T14:07:08+00:00",
-     "summary": "Even as some economic diversification projects are put on the back burner, Saudi Arabia is intensifying its $13.3 billion push to build indoor entertainment centers across the country. The kingdom is starting with its underserved second-tier cities, which are often in areas that attract year-round tourism because of their cooler climate. SEVEN, the Saudi developer owned by the kingdom\u2019s sovereign wealth fund, builds indoor entertainment centers that bundle cinemas, bowling, karting, and rides: Its latest effort is in Tabuk, a northern city near the mountains that catch winter snow. There, SEVEN pairs Hot Wheels go-karts with a Discovery-branded adventure zone . The company\u2019s multibillion-dollar program aims to create a longer tourism calendar to keep Saudis holidaying, and spending, at home. SEVEN plans at least three openings a year through 2028. \u2014 Manal Albarakati"
+     "published": "2026-08-20T19:42:00+00:00",
+     "summary": "P resident Trump gets what he wants, when he wants it, from the National Park Service. One and a half million dollars to replace brick pavers in Lafayette Park, across from the White House? Contracting officials at the NPS Washington headquarters found the money within five days last month. A $170,000 request to remove a fence around the Hains Point golf course, preparing the ground for a new \u201cchampionship-quality\u201d layout? Six days this summer. And the more\u2013than\u2013$5 million project to gild equine statues along the nearby Memorial Bridge? That took 12 days. The rapid-approval system is specific to projects Trump wants, thanks to a reorganization at the Interior Department led by Secretary Doug Burgum . Trump issued an executive order to make the District of Columbia \u201csafe and beautiful,\u201d justifying the creation of an NPS docket of \u201cWhite House priorities\u201d that is handled separately from other park projects and is prioritized both for funding and contracting resources, according to documents I obtained and interviews with five current or former NPS officials. Meanwhile, many other projects throughout the nationwide system of parks are languishing. The list I received includes Trump\u2019s "
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump admin moves to allow logging and construction in national forests",
+     "url": "https://abcnews.com/US/trump-admin-moves-logging-construction-national-forests/story?id=135811046",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T19:38:54+00:00",
+     "summary": "The USDA, which oversees the U.S. Forest Service, filed the proposed rule and corresponding draft environmental impact statement in the Federal Register on Tuesday."
     }
    ]
   },
@@ -288,37 +279,36 @@
    "summaryFrom": "businessinsider",
    "emphasis": {
     "bigCount": 11,
-    "indieCount": 7,
+    "indieCount": 8,
     "big": [
      "friday",
+     "deadline",
      "retaliate",
      "morning",
-     "deadline",
-     "apply",
-     "here"
+     "saturday",
+     "apply"
     ],
     "indie": [
      "sticks",
-     "roughly",
      "expected",
-     "force",
-     "dollar'"
+     "roughly",
+     "imposed",
+     "force"
     ]
    },
    "people": [],
-   "absent": [
-    "coop"
-   ],
+   "absent": [],
    "headline": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
    "updated": "2026-08-23T09:44:57+00:00",
-   "outletCount": 13,
+   "outletCount": 14,
    "counts": {
     "family": 8,
-    "nonprofit": 5,
+    "nonprofit": 6,
     "corp": 3,
-    "pub": 2
+    "pub": 1,
+    "coop": 1
    },
-   "newsCount": 16,
+   "newsCount": 17,
    "opinionCount": 2,
    "underreported": false,
    "articles": [
@@ -422,13 +412,13 @@
      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
     },
     {
-     "outlet": "france24",
-     "title": "Canada says will match new US 50% tariffs 'dollar for dollar'",
-     "url": "https://www.france24.com/en/canada-says-will-match-new-us-50-tariffs-dollar-for-dollar",
-     "author": "FRANCE24",
+     "outlet": "npr",
+     "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+     "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+     "author": "Miguel Macias",
      "kind": "news",
-     "published": "2026-08-22T10:40:26+00:00",
-     "summary": "The trade war between Washington and Ottawa is once again escalating. On Saturday, the US implemented 50% tariffs on certain Canadian goods, just hours after Donald Trump claimed he had a good relationship with his Canadian counterpart and that he thought a deal could be reached. The tariffs were initially set to go into effect on Wednesday but the US president gave negotiators three days to reach an agreement. Details by Eliza Herbert."
+     "published": "2026-08-22T04:36:27+00:00",
+     "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month. (Image credit: Graham Hughes)"
     },
     {
      "outlet": "bloomberg",
@@ -447,6 +437,15 @@
      "kind": "news",
      "published": "2026-08-22T02:54:10+00:00",
      "summary": "Iran vowed a \u201cdevastating\u201d military response Friday as the United States enters a new phase of economic warfare against Tehran, with the Trump administration preparing the \u201ctoughest sanctions in history\u201d as part of an escalating campaign Treasury Secretary Scott Bessent says will \u201ccollapse\u201d the Iranian regime. The post Iran Vows \u2018Devastating\u2019 Military Response: U.S. Readies to Unleash Toughest Sanctions to \u2018Collapse\u2019 Regime appeared first on Breitbart ."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "Here\u2019s a Blueprint for What Democrats Should Do If They Take Back the House",
+     "url": "https://zeteo.com/p/heres-a-blueprint-for-what-democrats",
+     "author": "Kim Wehle",
+     "kind": "news",
+     "published": "2026-08-21T19:01:30+00:00",
+     "summary": "House Minority Leader Hakeem Jeffries speaks to reporters at the U.S. Capitol on March 19, 2026. Photo by Chip Somodevilla/Getty Images During a live broadcast on X late last month, Alex Jones declared that \u201c[t]he big issue\u201d right now is \u201chow to stop Trump.\u201d \u201cI mean,\u201d he quipped, \u201cthis is absolutely out of control.\u201d Jones invoked the \u201c25 th Amendment, impeachment, whatever needs to happen . . . to get control over the country.\u201d Congressional Democrats should take note. Jones, the former owner of the right-wing conspiracy outlet InfoWars, is incensed over Trump\u2019s illegal war in Iran, which, according to White House press secretary Karoline Leavitt, could ultimately involve a draft. \u201cThey want us in a total war so they can censor and take our freedoms, nationalize everything, and push us aside with AI \u2014 total liability, immunity, and protection. This is a disaster. We are facing tyranny,\u201d Jones said. \u201cWe\u2019ve got to come together and transcend left and right, and we have to say no to an expanded war that will definitely destroy the economy and kill a bunch of our troops. They\u2019re preparing a massive ground invasion. It\u2019s all confirmed. This is going down right now.\u201d Jones hardly deserve"
     },
     {
      "outlet": "guardian",
@@ -487,136 +486,6 @@
    ]
   },
   {
-   "id": "330421c7d8",
-   "topic": "Politics",
-   "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other\u2026",
-   "summaryFrom": "vox",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 3,
-    "big": [
-     "stay",
-     "lower",
-     "project",
-     "administrative",
-     "john",
-     "roberts"
-    ],
-    "indie": [
-     "comes",
-     "halt"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
-   "updated": "2026-08-21T21:35:00+00:00",
-   "outletCount": 10,
-   "counts": {
-    "corp": 4,
-    "family": 3,
-    "nonprofit": 3
-   },
-   "newsCount": 9,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "vox",
-     "title": "Trump\u2019s ballroom survives \u2014 for now",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/500218/trump-east-wing-ballroom-construction-scotus-roberts",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-21T21:35:00+00:00",
-     "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other judges said? Earlier this month, the DC Circuit Court of Appeals upheld a previous district court ruling that Trump had exceeded his authority in unilaterally pursuing the ballroom project and would need to seek congressional approval to continue. (Trump, meanwhile, has attempted to justify the projec"
-    },
-    {
-     "outlet": "axios",
-     "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
-     "url": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
-     "author": "Josephine Walker",
-     "kind": "news",
-     "published": "2026-08-21T21:12:53+00:00",
-     "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. Catch up quick: The administration turned to the Supreme Court after a divided federal appeals court panel blocked construction earlier this month, saying Trump needed congressional approval on the project. That court suspended its decision for two weeks to give Trump's team time to appeal to the Supreme Court. Zoom in: \" This case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex, including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national se"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Supreme Court says Trump can continue ballroom work as it weighs case",
-     "url": "https://www.washingtonpost.com/politics/2026/08/21/supreme-court-says-trump-can-continue-ballroom-work-it-weighs-case/",
-     "author": "Justin Jouvenal, Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-21T20:55:34+00:00",
-     "summary": "The administrative stay gives the court more time to weigh an emergency appeal by the Trump administration in a lawsuit challenging the project."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Supreme Court chief justice allows construction on White House ballroom to continue",
-     "url": "https://abcnews.com/Politics/supreme-court-chief-justice-allows-construction-white-house/story?id=135846623",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:44:50+00:00",
-     "summary": "Chief Justice John Roberts issued an administrative stay of a lower court order."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Supreme Court allows Trump\u2019s White House ballroom construction to continue for now",
-     "url": "https://www.foxnews.com/politics/supreme-court-allows-trumps-white-house-ballroom-construction-continue",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:11:22+00:00",
-     "summary": "U.S. Supreme Court Chief Justice John Roberts temporarily allowed above-ground construction of President Donald Trump\u2019s White House ballroom to continue Friday, issuing a stay of a lower court injunction that would block the work. Roberts issued an administrative stay of a preliminary injunction entered April 16 by the U.S. District Court for the District of Columbia, putting the injunction on hold \"pending further order\" from Roberts or the Supreme Court. The move puts the case in a temporary holding pattern while the Supreme Court considers whether construction can continue and the underlying legal battle plays out. Above-ground construction can continue for now. JUDGE ORDERS TRUMP TO HALT WHITE HOUSE BALLROOM CONSTRUCTION, ESCALATING LEGAL FEUD Trump celebrated the decision Friday, saying he was \"grateful\" to the Supreme Court and touting the project as vital to national security. \"Construction is under budget and ahead of schedule,\" Trump wrote in a Truth Social post. \"Thank you for your attention to this matter!\" Trump called the project the \"Military/Ballroom Complex\" and said it would be \"THE GREATEST OF ITS KIND!\" He also claimed presidents have wanted such a facility for 1"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Chief Justice Makes Crucial Ruling on Future of Trump\u2019s Tacky Ballroom",
-     "url": "https://www.thedailybeast.com/chief-justice-makes-crucial-ruling-on-future-of-trumps-tacky-ballroom/",
-     "author": "Farrah Tomazin",
-     "kind": "news",
-     "published": "2026-08-21T18:49:15+00:00",
-     "summary": "Kevin Lamarque / Kevin Lamarque/Reuters The Supreme Court has given Donald Trump the green light to keep building his White House ballroom as it considers whether the project is unlawful. With a lower court injunction due to take effect within hours, Chief Justice John Roberts ruled that ballroom construction can proceed as the court ponders the president\u2019s emergency plea to intervene. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "npr",
-     "title": "Supreme Court allows Trump's ballroom construction to continue for now",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-     "author": "Deepa Shivaram",
-     "kind": "news",
-     "published": "2026-08-21T18:47:48+00:00",
-     "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation. (Image credit: Alex Wong)"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Supreme Court chief justice allows work on Trump's $400M White House ballroom to continue for now",
-     "url": "https://www.pbs.org/newshour/politics/supreme-court-chief-justice-allows-work-on-trumps-400m-white-house-ballroom-to-continue-for-now",
-     "author": "Michael Kunzelman, Associated Press",
-     "kind": "news",
-     "published": "2026-08-21T18:42:55+00:00",
-     "summary": "The temporary order comes hours before lower-court rulings would have forced a halt to aboveground construction."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
-     "url": "https://www.dailywire.com/news/scotus-gives-trump-green-light-to-keep-building-white-house-ballroom-for-now",
-     "author": "Drew Berkemeyer",
-     "kind": "opinion",
-     "published": "2026-08-21T15:39:02+00:00",
-     "summary": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump\u2019s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court\u2019s injunction from taking effect while the Supreme Court considers the Trump administration\u2019s emergency request. The order does not resolve the underlying legal dispute or determine whether Trump had the authority to construct the ballroom without congressional approval. The move is nevertheless a significant victory for the administration, which has argued that construction should be allowed to continue as the case makes its way through the courts. The dispute is likely to head to the full Supreme Court after the U.S. Court of Appeals for the D.C. Circuit ruled earlier this month that Trump could not proceed with the project without authorization from Congress. That 2-1 ruling by the appeals court held that the decision to construct the massive addition to the White House was ultimately Congress\u2019 to make. \u201cWhether or not a massive bal"
-    },
-    {
-     "outlet": "theconversation",
-     "title": "Is it illegal for the president to spend \u2018patriotic\u2019 donations on a White House ballroom or anything else?",
-     "url": "https://theconversation.com/is-it-illegal-for-the-president-to-spend-patriotic-donations-on-a-white-house-ballroom-or-anything-else-290107",
-     "author": "Ellen P. Aprill, Senior Scholar in Residence at the UCLA Law School's Lowell Milken Center For Philanthropy And Nonprofit Law, University of California, Los Angeles",
-     "kind": "news",
-     "published": "2026-08-20T22:08:40+00:00",
-     "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration could continue construction work while the court considers its request . As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation o"
-    }
-   ]
-  },
-  {
    "id": "13cfbffff9",
    "topic": "Justice & Policing",
    "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the\u2026",
@@ -627,17 +496,17 @@
     "big": [
      "struck",
      "district",
-     "customs",
      "york",
+     "customs",
      "detention"
     ],
     "indie": [
-     "basis",
-     "issuing",
+     "nationality",
      "public",
-     "because",
      "ruled",
-     "nationality"
+     "because",
+     "basis",
+     "issuing"
     ]
    },
    "people": [],
@@ -750,111 +619,123 @@
    ]
   },
   {
-   "id": "06a2f2927c",
-   "topic": "World",
-   "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world\u2019s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza,\u2026",
-   "summaryFrom": "guardian",
+   "id": "330421c7d8",
+   "topic": "Politics",
+   "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other\u2026",
+   "summaryFrom": "vox",
    "emphasis": {
-    "bigCount": 2,
-    "indieCount": 6,
-    "big": [],
+    "bigCount": 6,
+    "indieCount": 3,
+    "big": [
+     "stay",
+     "project",
+     "lower",
+     "building",
+     "administrative",
+     "roberts"
+    ],
     "indie": [
-     "palestinian",
-     "village",
-     "ethnic",
-     "french",
-     "urge",
-     "former"
+     "comes",
+     "halt"
     ]
    },
    "people": [],
    "absent": [
-    "corp"
+    "coop",
+    "pub"
    ],
-   "headline": "Israeli wounded in occupied West Bank stabbing",
-   "updated": "2026-08-23T09:00:02+00:00",
-   "outletCount": 7,
+   "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
+   "updated": "2026-08-21T21:35:00+00:00",
+   "outletCount": 9,
    "counts": {
+    "corp": 4,
     "family": 2,
-    "pub": 3,
-    "nonprofit": 2,
-    "coop": 1
+    "nonprofit": 3
    },
    "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": true,
+   "opinionCount": 1,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "bloomberg",
-     "title": "Israeli Settler Siege Highlights \u2018Grave\u2019 West Bank Reality",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/israeli-settler-siege-highlights-grave-west-bank-reality",
-     "author": "Fadwa Hodali",
+     "outlet": "vox",
+     "title": "Trump\u2019s ballroom survives \u2014 for now",
+     "url": "https://www.vox.com/the-logoff-newsletter-trump/500218/trump-east-wing-ballroom-construction-scotus-roberts",
+     "author": "Cameron Peters",
      "kind": "news",
-     "published": "2026-08-23T09:00:02+00:00",
-     "summary": "When Loui Ridi hugged his young daughter goodbye at Detroit Metro Airport, she clung to his arm and refused to let go. The 46-year-old businessman said she then asked the question he wanted to avoid: \u201cAre you going to be safe?\u201d"
+     "published": "2026-08-21T21:35:00+00:00",
+     "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other judges said? Earlier this month, the DC Circuit Court of Appeals upheld a previous district court ruling that Trump had exceeded his authority in unilaterally pursuing the ballroom project and would need to seek congressional approval to continue. (Trump, meanwhile, has attempted to justify the projec"
     },
     {
-     "outlet": "aljazeera",
-     "title": "Israeli wounded in occupied West Bank stabbing",
-     "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+     "outlet": "axios",
+     "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
+     "url": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
+     "author": "Josephine Walker",
+     "kind": "news",
+     "published": "2026-08-21T21:12:53+00:00",
+     "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. What they're saying: \"We are grateful for the Decision of the United States Supreme Court,\" President Trump said in a Friday post on Truth Social. \"The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND!\" \"It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule.\" Catch up quick: The administration turned to the Supreme Co"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Supreme Court says Trump can continue ballroom work as it weighs case",
+     "url": "https://www.washingtonpost.com/politics/2026/08/21/supreme-court-says-trump-can-continue-ballroom-work-it-weighs-case/",
+     "author": "Justin Jouvenal, Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-21T20:55:34+00:00",
+     "summary": "The administrative stay gives the court more time to weigh an emergency appeal by the Trump administration in a lawsuit challenging the project."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Supreme Court chief justice allows construction on White House ballroom to continue",
+     "url": "https://abcnews.com/Politics/supreme-court-chief-justice-allows-construction-white-house/story?id=135846623",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T08:38:01+00:00",
-     "summary": "Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja."
+     "published": "2026-08-21T19:44:50+00:00",
+     "summary": "Chief Justice John Roberts issued an administrative stay of a lower court order."
     },
     {
-     "outlet": "france24",
-     "title": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
-     "url": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
-     "author": "FRANCE24",
+     "outlet": "dailybeast",
+     "title": "Chief Justice Makes Crucial Ruling on Future of Trump\u2019s Tacky Ballroom",
+     "url": "https://www.thedailybeast.com/chief-justice-makes-crucial-ruling-on-future-of-trumps-tacky-ballroom/",
+     "author": "Farrah Tomazin",
      "kind": "news",
-     "published": "2026-08-22T14:50:57+00:00",
-     "summary": "Dozens of former senior French and UK diplomats on Saturday urged their governments to work together to uphold international law in the Palestinian territories, accusing Israel of seeking to \"destroy\" any prospect of a viable Palestinian state. Analysis by Matthew-Mary Caruchet, FRANCE 24 international affairs editor."
+     "published": "2026-08-21T18:49:15+00:00",
+     "summary": "Kevin Lamarque / Kevin Lamarque/Reuters The Supreme Court has given Donald Trump the green light to keep building his White House ballroom as it considers whether the project is unlawful. With a lower court injunction due to take effect within hours, Chief Justice John Roberts ruled that ballroom construction can proceed as the court ponders the president\u2019s emergency plea to intervene. Read more at The Daily Beast."
     },
     {
-     "outlet": "guardian",
-     "title": "Former British and French diplomats urge action over Israel\u2019s \u2018erasure\u2019 of Palestine",
-     "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-     "author": "Patrick Wintour Diplomatic editor",
+     "outlet": "npr",
+     "title": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+     "author": "Deepa Shivaram",
      "kind": "news",
-     "published": "2026-08-22T09:00:04+00:00",
-     "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world\u2019s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza, led by the UN Relief and Works Agency, other UN agencies and international NGOs, with consequences for non-compliance, and access too for journalists, diplomats and parliamentarians. Ban all trade with settlements, including goods, investment, insurance and other financial services. Warn potential bidd"
+     "published": "2026-08-21T18:47:48+00:00",
+     "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation. (Image credit: Alex Wong)"
     },
     {
-     "outlet": "bbc",
-     "title": "How Israel is expanding settlements in drive to reshape West Bank",
-     "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-     "author": null,
+     "outlet": "pbsnewshour",
+     "title": "Supreme Court chief justice allows work on Trump's $400M White House ballroom to continue for now",
+     "url": "https://www.pbs.org/newshour/politics/supreme-court-chief-justice-allows-work-on-trumps-400m-white-house-ballroom-to-continue-for-now",
+     "author": "Michael Kunzelman, Associated Press",
      "kind": "news",
-     "published": "2026-08-21T19:31:47+00:00",
-     "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
+     "published": "2026-08-21T18:42:55+00:00",
+     "summary": "The temporary order comes hours before lower-court rulings would have forced a halt to aboveground construction."
     },
     {
-     "outlet": "guardian",
-     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
-     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-21T06:00:26+00:00",
-     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
+     "outlet": "dailywire",
+     "title": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
+     "url": "https://www.dailywire.com/news/scotus-gives-trump-green-light-to-keep-building-white-house-ballroom-for-now",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-21T15:39:02+00:00",
+     "summary": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump\u2019s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court\u2019s injunction from taking effect while the Supreme Court considers the Trump administration\u2019s emergency request. The order does not resolve the underlying legal dispute or determine whether Trump had the authority to construct the ballroom without congressional approval. The move is nevertheless a significant victory for the administration, which has argued that construction should be allowed to continue as the case makes its way through the courts. The dispute is likely to head to the full Supreme Court after the U.S. Court of Appeals for the D.C. Circuit ruled earlier this month that Trump could not proceed with the project without authorization from Congress. That 2-1 ruling by the appeals court held that the decision to construct the massive addition to the White House was ultimately Congress\u2019 to make. \u201cWhether or not a massive bal"
     },
     {
-     "outlet": "semafor",
-     "title": "Israel clashes with allies over West Bank settlement project",
-     "url": "https://www.semafor.com/article/08/20/2026/israel-clashes-with-allies-over-west-bank-settlements",
-     "author": "Tasneem Nashrulla",
+     "outlet": "theconversation",
+     "title": "Is it illegal for the president to spend \u2018patriotic\u2019 donations on a White House ballroom or anything else?",
+     "url": "https://theconversation.com/is-it-illegal-for-the-president-to-spend-patriotic-donations-on-a-white-house-ballroom-or-anything-else-290107",
+     "author": "Ellen P. Aprill, Senior Scholar in Residence at the UCLA Law School's Lowell Milken Center For Philanthropy And Nonprofit Law, University of California, Los Angeles",
      "kind": "news",
-     "published": "2026-08-20T22:18:32+00:00",
-     "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla"
-    },
-    {
-     "outlet": "dropsite",
-     "title": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
-     "url": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
-     "author": "Zena Tahhan",
-     "kind": "news",
-     "published": "2026-08-20T19:48:07+00:00",
-     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can\u2019t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli soldiers and settlers have been besieging three Palestinian families in their homes in the village of Qusra in the occupied West Bank since August 9. Photo on August 14, 2026 by Issam Rimawi/Anadolu via Getty Images. RAMALLAH, Occupied West Bank\u2014For the 12th consecutive day, three Palestinian families, comprising 10 people, including two young children, have been trapped inside their homes in the occupied West Bank, besieged and terrorized by dozens of armed Israelis\u2014both settlers and soldiers. The family members have been stuck in separate homes, unable to shelter together or attend to their basic needs, with food supplies running dangerously low and without access to cooking gas or a fridge. While the siege on the three families has garnered international media attention and statements of condemnation, the attack is not the first of its kind, but rather a more prominent example of a growing tactic by Israeli settlers and soldiers working in tandem to dispossess Palestin"
+     "published": "2026-08-20T22:08:40+00:00",
+     "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration could continue construction work while the court considers its request . As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation o"
     }
    ]
   },
@@ -867,15 +748,15 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "victim",
-     "deadly"
+     "deadly",
+     "victim"
     ],
     "indie": [
      "boys",
      "aged",
+     "fagersta",
      "friday",
      "wounded",
-     "fagersta",
      "classes"
     ]
    },
@@ -966,11 +847,11 @@
     ],
     "indie": [
      "fuji",
-     "leaves",
-     "father",
-     "mount",
      "alone",
-     "tired"
+     "tired",
+     "left",
+     "father",
+     "hike"
     ]
    },
    "people": [],
@@ -1056,156 +937,72 @@
    ]
   },
   {
-   "id": "20443544f2",
-   "topic": "Politics",
-   "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 2,
-    "big": [
-     "trump",
-     "pressure",
-     "donald",
-     "force",
-     "president"
-    ],
-    "indie": [
-     "join",
-     "countries"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran escalates threats as US pushes economic isolation",
-   "updated": "2026-08-23T09:02:14+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 2,
-    "family": 3
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Iran escalates threats as US pushes economic isolation",
-     "url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-23T09:02:14+00:00",
-     "summary": "Tensions between Iran and the United States continue to escalate. Tehran is threatening to regard as enemies any countries that join the US sanctions, in response to Washington\u2019s calls to isolate its economy. A press conference is scheduled for Monday to outline the US strategy. Story by Camille Corcoran."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T23:56:32+00:00",
-     "summary": "Iran warns that countries joining the US economic war against Iran will face \u2018tit-for-tat\u2019 action."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump\u2019s Economic Isolation Plan Risks Iran Strikes Across Gulf",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/trump-s-economic-isolation-plan-risks-iran-strikes-across-gulf",
-     "author": "Eric Martin",
-     "kind": "news",
-     "published": "2026-08-22T13:01:45+00:00",
-     "summary": "President Donald Trump is betting new sanctions, a naval blockade and ramped-up economic pressure against Iran\u2019s trading partners can accomplish what thousands of bombs and missiles could not: force Tehran to accept a deal to end the war on US terms."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Bessent teases Iran economic pressure plan",
-     "url": "https://www.semafor.com/article/08/20/2026/bessent-teases-iran-economic-pressure-plan",
-     "author": "Eleanor Mueller",
-     "kind": "news",
-     "published": "2026-08-20T19:58:18+00:00",
-     "summary": "Treasury Secretary Scott Bessent plans to reveal on Monday \u201cexactly what we\u2019re going to do\u201d to ratchet up economic pressure on Iran, he told CNBC Thursday morning. \u201cIf you insist on doing business with them \u2014 either transferring money, buying their oil, or doing seaborne ship transfers \u2014 then the US Treasury \u2026 will put its full might and force toward enforcing against you,\u201d Bessent said. He suggested that the administration\u2019s new efforts could affect China, saying that \u201cit would do them a big service to get with the program.\u201d Bessent also teased a separate announcement on \u201can increased focus on fiscal consolidation,\u201d which he said he\u2019d make alongside White House budget chief Russ Vought in coming days. He also reiterated that forthcoming government bond buybacks could top $4 billion, adding that \u201cwe\u2019ll see what the conditions are and \u2026 analyze them then.\u201d \u2014 Eleanor Mueller"
-    },
-    {
-     "outlet": "time",
-     "title": "Iran Hits Back at Trump\u2019s Threat of a \u2018Crushing\u2019 Economic \u2018D-Day\u2019 Campaign",
-     "url": "https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/",
-     "author": "Tiago Ventura",
-     "kind": "news",
-     "published": "2026-08-20T16:44:37+00:00",
-     "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Trump did not specify what specific measures would be imposed on countries that continue to do business with Iran. TIME has reached out to the White House for comment. The President also called on U.S. allies to impose additional restrictions on"
-    }
-   ]
-  },
-  {
-   "id": "d3e235e0d1",
-   "topic": "World",
-   "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "06a2f2927c",
+   "topic": "Business & Economy",
+   "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can\u2019t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli soldiers and settlers have been besieging three Palestinian families in their homes in the village of Qusra in the occupied West Bank since August 9. Photo on August 14, 2026 by Issam Rimawi/Anadolu via Getty Images. RAMALLAH, Occupied West Bank\u2014For the 12th consecutive day, three Palestinian families, comprising 10 people, including two young children, have been trapped inside their homes in the occupied West Bank, besieged and terrorized by dozens of armed Israelis\u2014both settlers and soldiers. The family members have been stuck in separate homes, unable to shelter together or attend to their basic needs, with food supplies running dangerously low and without access to cooking\u2026",
+   "summaryFrom": "dropsite",
    "emphasis": null,
    "people": [],
    "absent": [
-    "family",
-    "coop"
+    "corp"
    ],
-   "headline": "Red faces as Sydney Marathon medal shows German stadium",
-   "updated": "2026-08-23T06:35:00+00:00",
+   "headline": "Israeli wounded in occupied West Bank stabbing",
+   "updated": "2026-08-23T09:00:02+00:00",
    "outletCount": 5,
    "counts": {
+    "family": 1,
     "pub": 2,
-    "nonprofit": 2,
-    "corp": 1
+    "nonprofit": 1,
+    "coop": 1
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "dw",
-     "title": "Red faces as Sydney Marathon medal shows German stadium",
-     "url": "https://www.dw.com/en/red-faces-as-sydney-marathon-medal-shows-german-stadium/a-78473705?maca=en-rss-en-all-1573-rdf",
-     "author": null,
+     "outlet": "bloomberg",
+     "title": "Israeli Settler Siege Highlights \u2018Grave\u2019 West Bank Reality",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/israeli-settler-siege-highlights-grave-west-bank-reality",
+     "author": "Fadwa Hodali",
      "kind": "news",
-     "published": "2026-08-23T06:35:00+00:00",
-     "summary": "A medal minted for finishers in the Sydney Marathon features a skyline of the city \u2014 with one landmark from rather far away. Organizers say the muddle only makes the medal \"a little more unique.\""
+     "published": "2026-08-23T09:00:02+00:00",
+     "summary": "When Loui Ridi hugged his young daughter goodbye at Detroit Metro Airport, she clung to his arm and refused to let go. The 46-year-old businessman said she then asked the question he wanted to avoid: \u201cAre you going to be safe?\u201d"
     },
     {
-     "outlet": "bbc",
-     "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-     "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "Israeli wounded in occupied West Bank stabbing",
+     "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T03:44:19+00:00",
-     "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
+     "published": "2026-08-23T08:38:01+00:00",
+     "summary": "Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja."
+    },
+    {
+     "outlet": "france24",
+     "title": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
+     "url": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-22T14:50:57+00:00",
+     "summary": "Dozens of former senior French and UK diplomats on Saturday urged their governments to work together to uphold international law in the Palestinian territories, accusing Israel of seeking to \"destroy\" any prospect of a viable Palestinian state. Analysis by Matthew-Mary Caruchet, FRANCE 24 international affairs editor."
     },
     {
      "outlet": "guardian",
-     "title": "Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as race highlight",
-     "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
-     "author": "Stephanie Convery",
+     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
+     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
      "kind": "news",
-     "published": "2026-08-23T02:14:52+00:00",
-     "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading..."
+     "published": "2026-08-21T06:00:26+00:00",
+     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
     },
     {
-     "outlet": "thehill",
-     "title": "Sunday shows preview: Canada faces off in trade \u2018war\u2019 with U.S. amid national debt woes; Republicans gear up for upcoming primaries",
-     "url": "https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries/",
-     "author": "Mira Bhakta",
+     "outlet": "dropsite",
+     "title": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
+     "url": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
+     "author": "Zena Tahhan",
      "kind": "news",
-     "published": "2026-08-22T23:00:55+00:00",
-     "summary": "Negotiations between the United States and Canada fell through this weekend, causing the Trump administration to impose a 50 percent tariff on its northern neighbor. But Canadian Prime Minister Mark Carney swiftly responded with his own retaliatory tariff on the U.S. The prime minister said during a Saturday press conference that Canada will \u201cmatch Washington\u2019s..."
-    },
-    {
-     "outlet": "npr",
-     "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
-     "author": "Scott Simon",
-     "kind": "news",
-     "published": "2026-08-22T11:43:25+00:00",
-     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
+     "published": "2026-08-20T19:48:07+00:00",
+     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can\u2019t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli soldiers and settlers have been besieging three Palestinian families in their homes in the village of Qusra in the occupied West Bank since August 9. Photo on August 14, 2026 by Issam Rimawi/Anadolu via Getty Images. RAMALLAH, Occupied West Bank\u2014For the 12th consecutive day, three Palestinian families, comprising 10 people, including two young children, have been trapped inside their homes in the occupied West Bank, besieged and terrorized by dozens of armed Israelis\u2014both settlers and soldiers. The family members have been stuck in separate homes, unable to shelter together or attend to their basic needs, with food supplies running dangerously low and without access to cooking gas or a fridge. While the siege on the three families has garnered international media attention and statements of condemnation, the attack is not the first of its kind, but rather a more prominent example of a growing tactic by Israeli settlers and soldiers working in tandem to dispossess Palestin"
     }
    ]
   },
@@ -1219,8 +1016,8 @@
     "indieCount": 3,
     "big": [],
     "indie": [
-     "bolt",
-     "seconds"
+     "seconds",
+     "bolt"
     ]
    },
    "people": [],
@@ -1297,11 +1094,11 @@
     "indieCount": 2,
     "big": [
      "settle",
-     "announced",
-     "allegations",
      "laws",
-     "violating",
-     "online"
+     "allegations",
+     "announced",
+     "online",
+     "violating"
     ],
     "indie": []
    },
@@ -1370,6 +1167,67 @@
    ]
   },
   {
+   "id": "e2052c77b8",
+   "topic": "Other",
+   "summary": "A memorial for former Cambridge professor Jason Arday was set up by students and staff outside the Senate House on August 17, 2026 in Cambridge, England. | Nordin Catic/Getty Images In March 2023, Jason Arday, a rising star in British academia, became a professor of sociology of education at the University of Cambridge. At 37, he was the youngest Black person ever appointed to a professorship in the university\u2019s history. Arday\u2019s personal story also attracted widespread attention. He claimed that autism left him unable to speak until he was 11 and unable to read or write until he was 18. Nonetheless, Arday eventually received a PhD from Liverpool John Moores University and continued to rise through the ranks of British higher education. Soon after starting his position at Cambridge, Arday was accused of plagiarizing portions of his 2015 doctoral thesis. And that was just the beginning.\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "pub"
+   ],
+   "headline": "Prof. Musa Al-Gharbi's \"Jason Arday and Me\"",
+   "updated": "2026-08-23T11:00:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 2,
+    "coop": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "vox",
+     "title": "The tragedy of Jason Arday",
+     "url": "https://www.vox.com/podcasts/500079/jason-arday-cambridge-death-racism-dei-academia",
+     "author": "Sean Rameswaram",
+     "kind": "news",
+     "published": "2026-08-23T11:00:00+00:00",
+     "summary": "A memorial for former Cambridge professor Jason Arday was set up by students and staff outside the Senate House on August 17, 2026 in Cambridge, England. | Nordin Catic/Getty Images In March 2023, Jason Arday, a rising star in British academia, became a professor of sociology of education at the University of Cambridge. At 37, he was the youngest Black person ever appointed to a professorship in the university\u2019s history. Arday\u2019s personal story also attracted widespread attention. He claimed that autism left him unable to speak until he was 11 and unable to read or write until he was 18. Nonetheless, Arday eventually received a PhD from Liverpool John Moores University and continued to rise through the ranks of British higher education. Soon after starting his position at Cambridge, Arday was accused of plagiarizing portions of his 2015 doctoral thesis. And that was just the beginning. The British press began to comb through his personal story and discovered there were more questionable claims. This all reached a fever pitch earlier this month, when Arday announced that he would be resigning his position, writing that the intense scrutiny and personal attacks had taken a profound to"
+    },
+    {
+     "outlet": "reason",
+     "title": "Prof. Musa Al-Gharbi's \"Jason Arday and Me\"",
+     "url": "https://reason.com/volokh/2026/08/21/prof-musa-al-gharbis-jason-arday-and-me/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-21T15:46:43+00:00",
+     "summary": "A very interesting piece in the Chronicle of Higher Education . Here are two brief excerpts, but they can't do justice to the whole piece, which covers much more ground: {[W]hen a mainstream journalist [investigated Arday], he was threatened with lawsuits , visited by the police , and subsequently instructed by his editors to bury the story\u2014and he sheepishly complied. Arday was exposed by a \"race realist\" Substack writer because reporters wouldn't cover the story until after it had already become common knowledge . It seems to defeat the purpose of the journalistic profession to tell people what they've already learned by other means, but that was the position U.K. media outlets and journalists took: radio silence until \"others\" started the conversation. And, somehow, the main lesson many seem to be taking from the way things played out is that we need even more media censorship downstream.} It is appropriate to give Arday's misconduct widespread attention because he, himself, relentlessly pursued the spotlight. The accuracy of his story matters because he sought fame and riches directly on the basis of his \"biography,\" and Cambridge quite overtly recruited , promoted , celebrated "
+    },
+    {
+     "outlet": "theconversation",
+     "title": "Jason Arday and the new politics of plagiarism",
+     "url": "https://theconversation.com/jason-arday-and-the-new-politics-of-plagiarism-290020",
+     "author": "Roger J. Kreuz, Associate Dean and Feinstone Interdisciplinary Research Professor\u200b, University of Memphis",
+     "kind": "news",
+     "published": "2026-08-21T09:36:06+00:00",
+     "summary": "Cambridge professor Jason Arday was found dead at his home in London on Aug. 14, 2026, days after he resigned from his position amid accusations of plagiarism, which he had denied. Nordin Catic/Getty Images After a meteoric rise to the top ranks of British academia, scholar Jason Arday was found dead at his London home on Aug. 14, 2026. Arday had spent weeks fighting plagiarism accusations. The way they took on a life of their own in the media ecosystem is a stark reminder of the steep price people can pay in a culture that has made originality a kind of moral virtue. In 2023, at age 38, he had been appointed to a professorship in sociology of education at the University of Cambridge, becoming the youngest Black professor in the institution\u2019s 800-year history. Nine days before his death, Arday had resigned from his faculty position. He was facing growing criticism about improbable and inconsistent details appearing in his memoir, scheduled to be released in the coming weeks by Simon & Schuster. Arday\u2019s publisher had stood by him, lauding the academic\u2019s \u201c professionalism and integrity .\u201d But the originality of Arday\u2019s dissertation and his other academic work was also coming under sc"
+    },
+    {
+     "outlet": "flaminghydra",
+     "title": "Jason Arday Was the Real Scholar",
+     "url": "https://flaminghydra.com/jason-arday-was-the-real-scholar/",
+     "author": "Maria Bustillos",
+     "kind": "news",
+     "published": "2026-08-20T23:28:21+00:00",
+     "summary": "After the tragic death of Cambridge professor Jason Arday last week, the racists came out to gloat. And there were a lot of them. Almost without exception, they didn\u2019t know anything about Arday\u2019s area of study, they hadn\u2019t read any of his work, and they hadn\u2019t talked to his colleagues. Nevertheless they were happy to round up a list of suspicious-sounding claims Arday had made over the course of his career, and eagerly accuse him of being an intellectual fraud and a \u201cDEI hire,\u201d that is, an underqualified person whom Cambridge University had hired simply because he was Black. A particularly glaring entry in this shameful genre was published in the New York Times by Harper\u2019s Letter signatory Michelle Goldberg. Her concern-trolling opinion piece insinuated that Arday was a plagiarist who had lied about his credentials, his athletic career, and even his autism. It also included a stunning remark about Times Higher Education journalist Jack Grove, who\u2019d written a piece accusing Arday of plagiarism, and who\u2019d been cautioned by police against getting back in touch with Arday as the scholar suffered through a blizzard of attacks on his integrity in the U.K. press: \u201cAn officer told him not "
+    }
+   ]
+  },
+  {
    "id": "313a93f8ef",
    "topic": "Politics",
    "summary": "Meghan Markle is no longer being considered for a role in Guy Ritchie\u2019s \"The Gentlemen,\" according to royal biographer Tina Brown. \"I learned this morning that the casting of Meghan Markle in season 3 of Guy Ritchie\u2019s Netflix series \u2018The Gentlemen\u2019 has been withdrawn,\" Brown, who is the former editor-in-chief of Vanity Fair and the New Yorker, wrote Saturday on her \" Fresh Hell \" Substack, The Hollywood Reporter reported. \"The backlash in the UK was so intense, it became untenable to go forward. This does not bode well for Meghan\u2019s acting comeback in the UK.\" Brown is also a best-selling author of 2007\u2019s \"The Diana Chronicles,\" and 2022's \"The Palace Papers: Inside the House of Windsor \u2013 the Truth and the Turmoil.\" MEGHAN MARKLE'S 'MASTERCHEF AUSTRALIA' CONTROVERSY MAY BE EXACTLY THE POINT: EXPERTS It was reported on Friday that Markle was in early talks to join the yet-to-be-announced\u2026",
@@ -1431,9 +1289,9 @@
    ]
   },
   {
-   "id": "c1baf27381",
-   "topic": "Climate & Energy",
-   "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading...",
+   "id": "d3e235e0d1",
+   "topic": "World",
+   "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
@@ -1441,53 +1299,53 @@
     "family",
     "coop"
    ],
-   "headline": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
-   "updated": "2026-08-23T03:14:29+00:00",
+   "headline": "Red faces as Sydney Marathon medal shows German stadium",
+   "updated": "2026-08-23T06:35:00+00:00",
    "outletCount": 4,
    "counts": {
-    "corp": 1,
-    "nonprofit": 2,
-    "pub": 1
+    "pub": 2,
+    "nonprofit": 1,
+    "corp": 1
    },
    "newsCount": 4,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii",
-     "url": "https://www.cbsnews.com/news/tropical-storm-moke-rain-hawaii-big-island/",
+     "outlet": "dw",
+     "title": "Red faces as Sydney Marathon medal shows German stadium",
+     "url": "https://www.dw.com/en/red-faces-as-sydney-marathon-medal-shows-german-stadium/a-78473705?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T03:14:29+00:00",
-     "summary": "Hawaii is still cleaning up from Hurricane Lala, which dumped massive amounts of rain on the islands."
+     "published": "2026-08-23T06:35:00+00:00",
+     "summary": "A medal minted for finishers in the Sydney Marathon features a skyline of the city \u2014 with one landmark from rather far away. Organizers say the muddle only makes the medal \"a little more unique.\""
+    },
+    {
+     "outlet": "bbc",
+     "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+     "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T03:44:19+00:00",
+     "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
     },
     {
      "outlet": "guardian",
-     "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
-     "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
-     "author": "Uwa Ede-Osifo",
+     "title": "Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as race highlight",
+     "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+     "author": "Stephanie Convery",
      "kind": "news",
-     "published": "2026-08-23T01:49:47+00:00",
-     "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading..."
+     "published": "2026-08-23T02:14:52+00:00",
+     "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading..."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-     "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
-     "author": null,
+     "outlet": "thehill",
+     "title": "Sunday shows preview: Canada faces off with US in trade \u2018war\u2019; Republicans gear up for upcoming primaries",
+     "url": "https://thehill.com/homenews/sunday-talk-shows/6045326-sunday-shows-trump-canada-trade-republican-primaries/",
+     "author": "Mira Bhakta",
      "kind": "news",
-     "published": "2026-08-22T22:29:07+00:00",
-     "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Tropical Storm Moke advances toward Hawaii as winds strengthen",
-     "url": "https://www.pbs.org/newshour/nation/tropical-storm-moke-advances-toward-hawaii-as-winds-strengthen",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-22T19:15:24+00:00",
-     "summary": "As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke's rain and heavy winds as it passes south of a direct hit late Saturday into early Sunday."
+     "published": "2026-08-22T23:00:55+00:00",
+     "summary": "Negotiations between the United States and Canada fell through this weekend, causing the Trump administration to impose a 50 percent tariff on its northern neighbor. But Canadian Prime Minister Mark Carney swiftly responded with his own retaliatory tariff on the U.S. The prime minister said during a Saturday press conference that Canada will \u201cmatch Washington\u2019s..."
     }
    ]
   },
@@ -1549,6 +1407,67 @@
      "kind": "news",
      "published": "2026-08-22T02:06:14+00:00",
      "summary": "Rule would require states to provide federal government with information on voters in return for delivering ballots The US Postal Service prepared to publish a final \u2060rule late \u2060on Friday to impose new requirements on states to provide the federal government with information on voters before the November \u2060midterm congressional elections, despite a pair of court \u200corders \u200cthat currently block the \u200cchanges from taking effect. The USPS acknowledged in the text of the final rule posted online Friday, which is scheduled to be published in the Federal Register next week, that two injunctions issued by federal courts in California and Massachusetts currently bar it from moving ahead with the changes to comply with a March executive order signed by Donald Trump. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "334a34f251",
+   "topic": "Politics",
+   "summary": "President Donald Trump announced his initiative to lower beef prices in the US on Friday. Kent NISHIMURA / AFP Trump announced a plan to lower beef prices for Americans ahead of the midterm elections. His administration will allow up to 300,000 metric tons of beef to be imported into the US. The National Cattlemen's Beef Association said the decision \"undermines American producers.\" America's largest trade association of cattle producers says President Donald Trump's plan to lower beef prices is political theater. The National Cattlemen's Beef Association, which represents more than 175,000 cattle producers and feeders, said on Friday that the strategy would do more harm than good for the industry. Earlier that day, Trump said the US would allow up to 300,000 metric tons of beef to be imported with no out-of-quota tariff over the next 90 days. \"Today's announcement is not about helping\u2026",
+   "summaryFrom": "businessinsider",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers",
+   "updated": "2026-08-22T18:55:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 3,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "businessinsider",
+     "title": "America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers",
+     "url": "https://www.businessinsider.com/trump-beef-prices-cattle-ranchers-farmers-2026-8",
+     "author": "Lauren Edmonds (ledmonds@businessinsider.com)",
+     "kind": "news",
+     "published": "2026-08-22T18:55:00+00:00",
+     "summary": "President Donald Trump announced his initiative to lower beef prices in the US on Friday. Kent NISHIMURA / AFP Trump announced a plan to lower beef prices for Americans ahead of the midterm elections. His administration will allow up to 300,000 metric tons of beef to be imported into the US. The National Cattlemen's Beef Association said the decision \"undermines American producers.\" America's largest trade association of cattle producers says President Donald Trump's plan to lower beef prices is political theater. The National Cattlemen's Beef Association, which represents more than 175,000 cattle producers and feeders, said on Friday that the strategy would do more harm than good for the industry. Earlier that day, Trump said the US would allow up to 300,000 metric tons of beef to be imported with no out-of-quota tariff over the next 90 days. \"Today's announcement is not about helping producers,\" the association said on X. \"It's not about putting their finger on the scale for one cattle industry group or another. It is 100% about the 74 days between now and the midterm elections.\" In the same X thread, the association said that encouraging more beef imports undermines American cat"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "GOP lawmakers criticize Trump\u2019s beef import plan amid blowback from ranchers",
+     "url": "https://www.nbcnews.com/politics/trump-administration/gop-lawmakers-ranchers-criticize-trump-tariff-beef-import-high-prices-rcna593879",
+     "author": "Alexandra Marquez",
+     "kind": "news",
+     "published": "2026-08-22T14:54:47+00:00",
+     "summary": "House and Senate Republicans criticized President Donald Trump\u2019s decision to suspend tariffs on ground beef imports, with lawmakers from agricultural states decrying the impact Trump\u2019s decision will have on farmers."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump announces temporary pause of beef import tariffs in effort to lower prices",
+     "url": "https://abcnews.com/Politics/trump-announces-temporary-pause-beef-import-tariffs-effort/story?id=135841581",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T20:39:58+00:00",
+     "summary": "Farmers and lawmakers have raised concerns over increasing foreign beef imports."
+    },
+    {
+     "outlet": "time",
+     "title": "With Beef Costs Skyrocketing, Trump Announces a Tariff Deal Aimed at Lowering Prices",
+     "url": "https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-21T19:28:12+00:00",
+     "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into the U.S. exceeds a certain quantity. Read More: Why Ground Beef Prices Are Hitting Record-Highs in the U.S. It\u2019s unclear who the deal is with or which countries will be importing the beef into the U.S. A White House official told TIME that Trump secured an agreement with foreign beef exporters to se"
     }
    ]
   },
@@ -1683,8 +1602,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "emotional",
-     "president"
+     "president",
+     "emotional"
     ],
     "indie": [
      "media"
@@ -1850,6 +1769,58 @@
    ]
   },
   {
+   "id": "20443544f2",
+   "topic": "World",
+   "summary": "Treasury Secretary Scott Bessent plans to reveal on Monday \u201cexactly what we\u2019re going to do\u201d to ratchet up economic pressure on Iran, he told CNBC Thursday morning. \u201cIf you insist on doing business with them \u2014 either transferring money, buying their oil, or doing seaborne ship transfers \u2014 then the US Treasury \u2026 will put its full might and force toward enforcing against you,\u201d Bessent said. He suggested that the administration\u2019s new efforts could affect China, saying that \u201cit would do them a big service to get with the program.\u201d Bessent also teased a separate announcement on \u201can increased focus on fiscal consolidation,\u201d which he said he\u2019d make alongside White House budget chief Russ Vought in coming days. He also reiterated that forthcoming government bond buybacks could top $4 billion, adding that \u201cwe\u2019ll see what the conditions are and \u2026 analyze them then.\u201d \u2014 Eleanor Mueller",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran escalates threats as US pushes economic isolation",
+   "updated": "2026-08-23T09:02:14+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Iran escalates threats as US pushes economic isolation",
+     "url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-23T09:02:14+00:00",
+     "summary": "Tensions between Iran and the United States continue to escalate. Tehran is threatening to regard as enemies any countries that join the US sanctions, in response to Washington\u2019s calls to isolate its economy. A press conference is scheduled for Monday to outline the US strategy. Story by Camille Corcoran."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump\u2019s Economic Isolation Plan Risks Iran Strikes Across Gulf",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/trump-s-economic-isolation-plan-risks-iran-strikes-across-gulf",
+     "author": "Eric Martin",
+     "kind": "news",
+     "published": "2026-08-22T13:01:45+00:00",
+     "summary": "President Donald Trump is betting new sanctions, a naval blockade and ramped-up economic pressure against Iran\u2019s trading partners can accomplish what thousands of bombs and missiles could not: force Tehran to accept a deal to end the war on US terms."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Bessent teases Iran economic pressure plan",
+     "url": "https://www.semafor.com/article/08/20/2026/bessent-teases-iran-economic-pressure-plan",
+     "author": "Eleanor Mueller",
+     "kind": "news",
+     "published": "2026-08-20T19:58:18+00:00",
+     "summary": "Treasury Secretary Scott Bessent plans to reveal on Monday \u201cexactly what we\u2019re going to do\u201d to ratchet up economic pressure on Iran, he told CNBC Thursday morning. \u201cIf you insist on doing business with them \u2014 either transferring money, buying their oil, or doing seaborne ship transfers \u2014 then the US Treasury \u2026 will put its full might and force toward enforcing against you,\u201d Bessent said. He suggested that the administration\u2019s new efforts could affect China, saying that \u201cit would do them a big service to get with the program.\u201d Bessent also teased a separate announcement on \u201can increased focus on fiscal consolidation,\u201d which he said he\u2019d make alongside White House budget chief Russ Vought in coming days. He also reiterated that forthcoming government bond buybacks could top $4 billion, adding that \u201cwe\u2019ll see what the conditions are and \u2026 analyze them then.\u201d \u2014 Eleanor Mueller"
+    }
+   ]
+  },
+  {
    "id": "46a3b5915f",
    "topic": "Tech",
    "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH)\u2026",
@@ -1956,25 +1927,25 @@
   {
    "id": "b045a199ba",
    "topic": "World",
-   "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading...",
-   "summaryFrom": "guardian",
+   "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
+   "summaryFrom": "time",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
-    "coop"
+    "coop",
+    "pub"
    ],
    "headline": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
    "updated": "2026-08-23T03:34:27+00:00",
    "outletCount": 3,
    "counts": {
     "nonprofit": 1,
-    "pub": 1,
-    "family": 1
+    "family": 2
    },
    "newsCount": 3,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
      "outlet": "guardian",
@@ -1986,15 +1957,6 @@
      "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading..."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:00:00+00:00",
-     "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation."
-    },
-    {
      "outlet": "semafor",
      "title": "US presses China to join economic pressure campaign against Iran",
      "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
@@ -2002,6 +1964,67 @@
      "kind": "news",
      "published": "2026-08-21T14:42:50+00:00",
      "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
+    },
+    {
+     "outlet": "time",
+     "title": "Iran Hits Back at Trump\u2019s Threat of a \u2018Crushing\u2019 Economic \u2018D-Day\u2019 Campaign",
+     "url": "https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/",
+     "author": "Tiago Ventura",
+     "kind": "news",
+     "published": "2026-08-20T16:44:37+00:00",
+     "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Trump did not specify what specific measures would be imposed on countries that continue to do business with Iran. TIME has reached out to the White House for comment. The President also called on U.S. allies to impose additional restrictions on"
+    }
+   ]
+  },
+  {
+   "id": "c1baf27381",
+   "topic": "Climate & Energy",
+   "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+   "updated": "2026-08-23T03:14:29+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii",
+     "url": "https://www.cbsnews.com/news/tropical-storm-moke-rain-hawaii-big-island/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T03:14:29+00:00",
+     "summary": "Hawaii is still cleaning up from Hurricane Lala, which dumped massive amounts of rain on the islands."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+     "url": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+     "author": "Uwa Ede-Osifo",
+     "kind": "news",
+     "published": "2026-08-23T01:49:47+00:00",
+     "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading..."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Tropical Storm Moke advances toward Hawaii as winds strengthen",
+     "url": "https://www.pbs.org/newshour/nation/tropical-storm-moke-advances-toward-hawaii-as-winds-strengthen",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-22T19:15:24+00:00",
+     "summary": "As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke's rain and heavy winds as it passes south of a direct hit late Saturday into early Sunday."
     }
    ]
   },
@@ -2214,58 +2237,6 @@
    ]
   },
   {
-   "id": "334a34f251",
-   "topic": "Politics",
-   "summary": "President Donald Trump announced his initiative to lower beef prices in the US on Friday. Kent NISHIMURA / AFP Trump announced a plan to lower beef prices for Americans ahead of the midterm elections. His administration will allow up to 300,000 metric tons of beef to be imported into the US. The National Cattlemen's Beef Association said the decision \"undermines American producers.\" America's largest trade association of cattle producers says President Donald Trump's plan to lower beef prices is political theater. The National Cattlemen's Beef Association, which represents more than 175,000 cattle producers and feeders, said on Friday that the strategy would do more harm than good for the industry. Earlier that day, Trump said the US would allow up to 300,000 metric tons of beef to be imported with no out-of-quota tariff over the next 90 days. \"Today's announcement is not about helping\u2026",
-   "summaryFrom": "businessinsider",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers",
-   "updated": "2026-08-22T18:55:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "businessinsider",
-     "title": "America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers",
-     "url": "https://www.businessinsider.com/trump-beef-prices-cattle-ranchers-farmers-2026-8",
-     "author": "Lauren Edmonds (ledmonds@businessinsider.com)",
-     "kind": "news",
-     "published": "2026-08-22T18:55:00+00:00",
-     "summary": "President Donald Trump announced his initiative to lower beef prices in the US on Friday. Kent NISHIMURA / AFP Trump announced a plan to lower beef prices for Americans ahead of the midterm elections. His administration will allow up to 300,000 metric tons of beef to be imported into the US. The National Cattlemen's Beef Association said the decision \"undermines American producers.\" America's largest trade association of cattle producers says President Donald Trump's plan to lower beef prices is political theater. The National Cattlemen's Beef Association, which represents more than 175,000 cattle producers and feeders, said on Friday that the strategy would do more harm than good for the industry. Earlier that day, Trump said the US would allow up to 300,000 metric tons of beef to be imported with no out-of-quota tariff over the next 90 days. \"Today's announcement is not about helping producers,\" the association said on X. \"It's not about putting their finger on the scale for one cattle industry group or another. It is 100% about the 74 days between now and the midterm elections.\" In the same X thread, the association said that encouraging more beef imports undermines American cat"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "GOP lawmakers criticize Trump\u2019s beef import plan amid blowback from ranchers",
-     "url": "https://www.nbcnews.com/politics/trump-administration/gop-lawmakers-ranchers-criticize-trump-tariff-beef-import-high-prices-rcna593879",
-     "author": "Alexandra Marquez",
-     "kind": "news",
-     "published": "2026-08-22T14:54:47+00:00",
-     "summary": "House and Senate Republicans criticized President Donald Trump\u2019s decision to suspend tariffs on ground beef imports, with lawmakers from agricultural states decrying the impact Trump\u2019s decision will have on farmers."
-    },
-    {
-     "outlet": "time",
-     "title": "With Beef Costs Skyrocketing, Trump Announces a Tariff Deal Aimed at Lowering Prices",
-     "url": "https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-21T19:28:12+00:00",
-     "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into the U.S. exceeds a certain quantity. Read More: Why Ground Beef Prices Are Hitting Record-Highs in the U.S. It\u2019s unclear who the deal is with or which countries will be importing the beef into the U.S. A White House official told TIME that Trump secured an agreement with foreign beef exporters to se"
-    }
-   ]
-  },
-  {
    "id": "0b6a029d2e",
    "topic": "World",
    "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil\u2026",
@@ -2474,110 +2445,6 @@
    ]
   },
   {
-   "id": "1e95d8d84e",
-   "topic": "Justice & Policing",
-   "summary": "On Friday, the defense rested in the murder trial of Lindsay Clancy, who has admitted to strangling her three young children to death. Closing arguments are expected early next week, after which the case will go to the jury. The 36-year-old former labor and delivery nurse is on trial for three counts of first-degree murder in the January 2023 deaths of her children at the family\u2019s home in Duxbury, Massachusetts. Clancy\u2019s children were 5 years old, 3 years old, and 8 months old. She has pleaded not guilty. The case has become a lightning rod with the public, largely because Clancy\u2019s defense argues that she had postpartum psychosis at the time of the killings. Clancy\u2019s defense team is relying on what\u2019s commonly referred to as the insanity defense to argue that she was not criminally responsible because of her mental state. The state says Clancy was aware of what she was doing when she\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "News Wrap: Defense rests in murder trial of Lindsay Clancy",
-   "updated": "2026-08-21T22:45:40+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "News Wrap: Defense rests in murder trial of Lindsay Clancy",
-     "url": "https://www.pbs.org/newshour/show/news-wrap-defense-rests-in-murder-trial-of-lindsay-clancy",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T22:45:40+00:00",
-     "summary": "In our news wrap Friday, the defense rested its case in the murder trial of Lindsay Clancy, the editor-in-chief of Stars and Stripes says the Pentagon has fired him and President Trump paused on ground beef tariffs in an attempt to lower prices."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "The Most Shocking Moments From The Lindsay Clancy Trial",
-     "url": "https://www.dailywire.com/news/the-most-shocking-moments-from-the-lindsay-clancy-trial",
-     "author": "Amanda Prestigiacomo",
-     "kind": "opinion",
-     "published": "2026-08-21T17:27:47+00:00",
-     "summary": "On Friday, the defense rested in the murder trial of Lindsay Clancy, who has admitted to strangling her three young children to death. Closing arguments are expected early next week, after which the case will go to the jury. The 36-year-old former labor and delivery nurse is on trial for three counts of first-degree murder in the January 2023 deaths of her children at the family\u2019s home in Duxbury, Massachusetts. Clancy\u2019s children were 5 years old, 3 years old, and 8 months old. She has pleaded not guilty. The case has become a lightning rod with the public, largely because Clancy\u2019s defense argues that she had postpartum psychosis at the time of the killings. Clancy\u2019s defense team is relying on what\u2019s commonly referred to as the insanity defense to argue that she was not criminally responsible because of her mental state. The state says Clancy was aware of what she was doing when she killed her children. Here are the most shocking moments from the trial so far: The 911 call One of the most emotional moments of the trial came when jurors heard Patrick Clancy\u2019s frantic 911 call after he returned home and discovered his three children had been strangled. The call has not been released "
-    },
-    {
-     "outlet": "the19th",
-     "title": "Keshia said it was self defense. She goes on trial for murder next week.",
-     "url": "https://19thnews.org/2026/08/keshia-golden-chicago-trial-domestic-violence/",
-     "author": "Jasmine Mithani",
-     "kind": "news",
-     "published": "2026-08-20T11:00:00+00:00",
-     "summary": "Content warning: This story references incidents of domestic violence. Keshia Golden, a Black mother from the West Side of Chicago, turned down a plea deal months ago even though it put her at risk of at least 20 years in prison. In October 2022, Golden was eight months pregnant and had just celebrated her baby shower. She says her boyfriend, Calvin Sidney, attacked her in the kitchen, slamming her head into the counter \u2014 her attorneys say that kind of violence was typical of their relationship, and resulted in dozens of police calls and multiple arrests. One of her public defenders said the fight moved into another room , and that\u2019s when Golden defended herself. \u201cI just wanted him to stop,\u201d Golden told the Chicago Sun-Times , reflecting on the moment when she said she grabbed a kitchen knife and stabbed Sidney in the leg. The blade hit his femoral artery, and he died in a hospital. Golden was charged with first-degree murder shortly after. Prosecutors offered her a chance to plead guilty to second-degree murder, also a felony, and avoid prison time by agreeing to probation for two years. But the cost was still too high. With a felony on her record in Illinois, Golden would lose op"
-    }
-   ]
-  },
-  {
-   "id": "e2052c77b8",
-   "topic": "Other",
-   "summary": "A very interesting piece in the Chronicle of Higher Education . Here are two brief excerpts, but they can't do justice to the whole piece, which covers much more ground: {[W]hen a mainstream journalist [investigated Arday], he was threatened with lawsuits , visited by the police , and subsequently instructed by his editors to bury the story\u2014and he sheepishly complied. Arday was exposed by a \"race realist\" Substack writer because reporters wouldn't cover the story until after it had already become common knowledge . It seems to defeat the purpose of the journalistic profession to tell people what they've already learned by other means, but that was the position U.K. media outlets and journalists took: radio silence until \"others\" started the conversation. And, somehow, the main lesson many seem to be taking from the way things played out is that we need even more media censorship\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "pub"
-   ],
-   "headline": "Prof. Musa Al-Gharbi's \"Jason Arday and Me\"",
-   "updated": "2026-08-21T15:46:43+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Prof. Musa Al-Gharbi's \"Jason Arday and Me\"",
-     "url": "https://reason.com/volokh/2026/08/21/prof-musa-al-gharbis-jason-arday-and-me/",
-     "author": "Eugene Volokh",
-     "kind": "opinion",
-     "published": "2026-08-21T15:46:43+00:00",
-     "summary": "A very interesting piece in the Chronicle of Higher Education . Here are two brief excerpts, but they can't do justice to the whole piece, which covers much more ground: {[W]hen a mainstream journalist [investigated Arday], he was threatened with lawsuits , visited by the police , and subsequently instructed by his editors to bury the story\u2014and he sheepishly complied. Arday was exposed by a \"race realist\" Substack writer because reporters wouldn't cover the story until after it had already become common knowledge . It seems to defeat the purpose of the journalistic profession to tell people what they've already learned by other means, but that was the position U.K. media outlets and journalists took: radio silence until \"others\" started the conversation. And, somehow, the main lesson many seem to be taking from the way things played out is that we need even more media censorship downstream.} It is appropriate to give Arday's misconduct widespread attention because he, himself, relentlessly pursued the spotlight. The accuracy of his story matters because he sought fame and riches directly on the basis of his \"biography,\" and Cambridge quite overtly recruited , promoted , celebrated "
-    },
-    {
-     "outlet": "theconversation",
-     "title": "Jason Arday and the new politics of plagiarism",
-     "url": "https://theconversation.com/jason-arday-and-the-new-politics-of-plagiarism-290020",
-     "author": "Roger J. Kreuz, Associate Dean and Feinstone Interdisciplinary Research Professor\u200b, University of Memphis",
-     "kind": "news",
-     "published": "2026-08-21T09:36:06+00:00",
-     "summary": "Cambridge professor Jason Arday was found dead at his home in London on Aug. 14, 2026, days after he resigned from his position amid accusations of plagiarism, which he had denied. Nordin Catic/Getty Images After a meteoric rise to the top ranks of British academia, scholar Jason Arday was found dead at his London home on Aug. 14, 2026. Arday had spent weeks fighting plagiarism accusations. The way they took on a life of their own in the media ecosystem is a stark reminder of the steep price people can pay in a culture that has made originality a kind of moral virtue. In 2023, at age 38, he had been appointed to a professorship in sociology of education at the University of Cambridge, becoming the youngest Black professor in the institution\u2019s 800-year history. Nine days before his death, Arday had resigned from his faculty position. He was facing growing criticism about improbable and inconsistent details appearing in his memoir, scheduled to be released in the coming weeks by Simon & Schuster. Arday\u2019s publisher had stood by him, lauding the academic\u2019s \u201c professionalism and integrity .\u201d But the originality of Arday\u2019s dissertation and his other academic work was also coming under sc"
-    },
-    {
-     "outlet": "flaminghydra",
-     "title": "Jason Arday Was the Real Scholar",
-     "url": "https://flaminghydra.com/jason-arday-was-the-real-scholar/",
-     "author": "Maria Bustillos",
-     "kind": "news",
-     "published": "2026-08-20T23:28:21+00:00",
-     "summary": "After the tragic death of Cambridge professor Jason Arday last week, the racists came out to gloat. And there were a lot of them. Almost without exception, they didn\u2019t know anything about Arday\u2019s area of study, they hadn\u2019t read any of his work, and they hadn\u2019t talked to his colleagues. Nevertheless they were happy to round up a list of suspicious-sounding claims Arday had made over the course of his career, and eagerly accuse him of being an intellectual fraud and a \u201cDEI hire,\u201d that is, an underqualified person whom Cambridge University had hired simply because he was Black. A particularly glaring entry in this shameful genre was published in the New York Times by Harper\u2019s Letter signatory Michelle Goldberg. Her concern-trolling opinion piece insinuated that Arday was a plagiarist who had lied about his credentials, his athletic career, and even his autism. It also included a stunning remark about Times Higher Education journalist Jack Grove, who\u2019d written a piece accusing Arday of plagiarism, and who\u2019d been cautioned by police against getting back in touch with Arday as the scholar suffered through a blizzard of attacks on his integrity in the U.K. press: \u201cAn officer told him not "
-    }
-   ]
-  },
-  {
    "id": "a67771325a",
    "topic": "World",
    "summary": "A general view of the damaged car in which 5-year-old Hind Rajab and members of her family died after Israeli forces fired on the vehicle in the Tel al-Hawa neighborhood of Gaza City, Gaza. \u2014Dawoud Abo Alkas\u2014Anadolu/Getty Images The Israel Defense Forces (IDF) has acknowledged for the first time that its soldiers opened fire on a vehicle carrying 5-year-old Palestinian girl Hind Rajab and six of her relatives in Gaza, and said it would launch a criminal investigation into the incident. The admission, issued Wednesday as part of the IDF\u2019s review of roughly 150 \u201cexceptional\u201d incidents involving its troops during the war in Gaza, reverses the military\u2019s previous denial that its forces were in the area when Rajab and her relatives from the Hamada family were killed in January 2024. In findings published by its General Staff Fact-Finding and Assessment Mechanism (FFAM) , an internal IDF body\u2026",
@@ -2626,6 +2493,264 @@
      "kind": "news",
      "published": "2026-08-20T16:01:39+00:00",
      "summary": "It took Israel more than two and a half years to admit to what the world already knew: Israeli soldiers fired at the vehicle of Hind Rajab and her family. The admission comes after years of denials that were accepted with full embrace by U.S. State Department officials. There are very few journalists here in the U.S. who tried to hold those officials to account in the way Zeteo\u2019s political correspondent Prem Thakker did . Subscribe now \u201cAll the U.S. did was feign concern, defer to Israel to investigate itself for murder, and resist the facts over and over,\u201d says Thakker in his latest video on the case of Hind Rajab. The 5-year-old\u2019s harrowing story drew international outrage after her phone call recording with the Palestinian Red Crescent captured her final hours, sheltering from Israeli gunfire in a car with the bodies of her dead relatives around her. The Israeli army also killed the medics who were sent to save her. It took Israel 933 days to admit to a killing that went viral beyond headlines, one that inspired the Oscar-nominated film \u2018 The Voice of Hind Rajab ,\u2019 and in which the victim\u2019s testimony was caught on tape. Watch Prem reflect on what the admission means for Hind, an"
+    }
+   ]
+  },
+  {
+   "id": "e3c37efe6c",
+   "topic": "Tech",
+   "summary": "Flock cameras are joining data centers as a top midterm boogeyman, with members of Congress and congressional candidates trying to harness a sudden groundswell of grassroots anger over the AI surveillance tool. Why it matters: This blowup over the country's massive network of license plate readers illustrates how rapidly AI has morphed from a peripheral issue in national politics toward the center of the midterm campaign. Data centers have become a major issue in the midterms, with candidates racing to one-up each other in their opposition to building the energy-hungry facilities. Super PACs affiliated with AI companies have also spent tens of millions of dollars clashing with each other in congressional elections over the degree to which the federal government should regulate the technology. Now, surveillance cameras are opening a new front in the debate over AI. Driving the news:\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+   "updated": "2026-08-23T11:20:11+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+     "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+     "author": "Andrew Solender",
+     "kind": "news",
+     "published": "2026-08-23T11:20:11+00:00",
+     "summary": "Flock cameras are joining data centers as a top midterm boogeyman, with members of Congress and congressional candidates trying to harness a sudden groundswell of grassroots anger over the AI surveillance tool. Why it matters: This blowup over the country's massive network of license plate readers illustrates how rapidly AI has morphed from a peripheral issue in national politics toward the center of the midterm campaign. Data centers have become a major issue in the midterms, with candidates racing to one-up each other in their opposition to building the energy-hungry facilities. Super PACs affiliated with AI companies have also spent tens of millions of dollars clashing with each other in congressional elections over the degree to which the federal government should regulate the technology. Now, surveillance cameras are opening a new front in the debate over AI. Driving the news: Abdul El-Sayed, the Democratic nominee for Senate in Michigan, posted a video to X Wednesday tying his Republican opponent, former Rep. Mike Rogers, to Flock cameras. \"There's been this mass proliferation of Flock cameras, any and everywhere, watching your every move to collect information without you ev"
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Democrats can take the lead on one of the nation\u2019s top issues \u2013 data centers",
+     "url": "https://www.foxnews.com/opinion/democrats-take-lead-nations-top-issues-data-centers",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-21T09:00:43+00:00",
+     "summary": "Elected officials see angry voters cram into local meeting rooms and line streets to oppose data centers and feel an irresistible urge to cater to the populist anger. The next thing they do is hit the pause button. However, leadership requires thinking through consequences. Moratoria on new data center construction will arrest innovation, cede the future of artificial intelligence to Beijing and threaten our national security. Blanket opposition deprives hardworking Americans of hundreds of millions of dollars in future wages per year. It shackles the most vibrant sector in commercial construction and eliminates a tax revenue lifeline that is currently funding local police departments, roads and teacher salaries in counties across the nation. If Democrats want to regain the trust of the American people, we must have a defined vision for the future that brings prosperity to all \u2013 not just the ultrarich \u2013 and we have to be for something not just saying, \"No.\" We need to offer a constructive solution that doesn't succumb to fearmongering, and prove that the party of the New Deal, the Great Society and the Apollo program is the party of solutions and sound policy, not demagoguery. FROM"
+    }
+   ]
+  },
+  {
+   "id": "e944770f9c",
+   "topic": "World",
+   "summary": "A shoe lies among bloodstains and debris following an Israeli strike along the seashore in Gaza City on Aug. 18, 2026. Photo by Mohammed Al Qumsan/Middle East Images/AFP via Getty Images \u201cWe found people in pieces.\u201d The comment is striking, even if increasingly familiar after nearly three years of Israel\u2019s genocide in Gaza. It\u2019s how a witness to Tuesday\u2019s Israeli strike on a Gaza City seaside cafe described to Drop Site the aftermath of an attack that killed at least six people, including a child, and reportedly pushed people nearby into the sea. One victim\u2019s body was so mangled, officials said, they could not immediately identify them. The strike took place one day after Donald Trump\u2019s Middle East envoy, Jared Kushner, left the region, failing to make a breakthrough in efforts to implement the next stages of the so-called \u201cceasefire,\u201d as Israel continues to reject the Trump plan.\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "nonprofit"
+   ],
+   "headline": "Israel\u2019s war on Gaza forces Palestinians to rely on \u2018Stone Age\u2019 toilets",
+   "updated": "2026-08-23T11:00:18+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "coop": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Israel\u2019s war on Gaza forces Palestinians to rely on \u2018Stone Age\u2019 toilets",
+     "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T11:00:18+00:00",
+     "summary": "The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Palestine: Israel Kills At Least 17 Palestinians in Gaza in Days After Kushner Meeting",
+     "url": "https://zeteo.com/p/this-week-in-palestine-israel-kills-gaza-kushner-settlers",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-22T17:01:09+00:00",
+     "summary": "A shoe lies among bloodstains and debris following an Israeli strike along the seashore in Gaza City on Aug. 18, 2026. Photo by Mohammed Al Qumsan/Middle East Images/AFP via Getty Images \u201cWe found people in pieces.\u201d The comment is striking, even if increasingly familiar after nearly three years of Israel\u2019s genocide in Gaza. It\u2019s how a witness to Tuesday\u2019s Israeli strike on a Gaza City seaside cafe described to Drop Site the aftermath of an attack that killed at least six people, including a child, and reportedly pushed people nearby into the sea. One victim\u2019s body was so mangled, officials said, they could not immediately identify them. The strike took place one day after Donald Trump\u2019s Middle East envoy, Jared Kushner, left the region, failing to make a breakthrough in efforts to implement the next stages of the so-called \u201cceasefire,\u201d as Israel continues to reject the Trump plan. Unsurprisingly, according to Haaretz , Israeli officials left their meeting with Kushner with an agreement that Israel could continue \u201ctargeted\u201d strikes on the enclave. Subscribe now Meanwhile, in the occupied West Bank, Israeli settlers\u2019 siege of the Palestinian village of Qusra continued; Israeli settle"
+    }
+   ]
+  },
+  {
+   "id": "e335f07347",
+   "topic": "Other",
+   "summary": "\u201cIf you want to defend the South and Western civilization from the Jew and his dark-skinned allies, be at Charlottesville on 12 August.\u201d Nine years ago, that message spread across the internet. The call was answered by several hundred white supremacists, who marched through the University of Virginia. The rage-filled men carried torches, chanting, \u201cJews will not replace us.\u201d They swarmed around the historic rotunda, arriving at a statue of the school\u2019s founder, Thomas Jefferson. There they met a tiny band of student counterprotesters who responded with their own chant: \u201cBlack lives matter.\u201d That evening turned violent, the first act in a deadly weekend. Most Americans remember the torches, the rage, the death. But those clashing chants also revealed a gap between the targets of hatred and the words available to name it. Race is the wound America sees. Anti-Semitism is the one it\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "The Hatred That Broke American Politics",
+   "updated": "2026-08-23T11:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "theatlantic",
+     "title": "The Hatred That Broke American Politics",
+     "url": "https://www.theatlantic.com/ideas/2026/08/charlottesville-antisemitism-race-legacy/688325/?utm_source=feed",
+     "author": "James Loeffler",
+     "kind": "news",
+     "published": "2026-08-23T11:00:00+00:00",
+     "summary": "\u201cIf you want to defend the South and Western civilization from the Jew and his dark-skinned allies, be at Charlottesville on 12 August.\u201d Nine years ago, that message spread across the internet. The call was answered by several hundred white supremacists, who marched through the University of Virginia. The rage-filled men carried torches, chanting, \u201cJews will not replace us.\u201d They swarmed around the historic rotunda, arriving at a statue of the school\u2019s founder, Thomas Jefferson. There they met a tiny band of student counterprotesters who responded with their own chant: \u201cBlack lives matter.\u201d That evening turned violent, the first act in a deadly weekend. Most Americans remember the torches, the rage, the death. But those clashing chants also revealed a gap between the targets of hatred and the words available to name it. Race is the wound America sees. Anti-Semitism is the one it doesn\u2019t. Jews have frequently been imagined as a colorless minority whose great persecution took place elsewhere, or as a group whose Christian-adjacent faith flourished with the religious freedom they found in the United States. But their in-betweenness has always been part of the danger: Jews have never f"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Why Polling Chaos Could Create Big Problems for American Politics",
+     "url": "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html",
+     "author": "Reid J. Epstein",
+     "kind": "opinion",
+     "published": "2026-08-22T12:50:24+00:00",
+     "summary": "Polls fueled a widespread belief that Representative Haley Stevens, a moderate Democrat, was a major underdog in Michigan\u2019s primary for Senate to Dr. Abdul El-Sayed, a progressive. She ended up losing by just a percentage point."
+    }
+   ]
+  },
+  {
+   "id": "499591f87f",
+   "topic": "Other",
+   "summary": "Real Madrid boss Jose Mourinho accused the public of \"bullying\" his player Vinicius Jr. after controversial incidents during Saturday's 2-1 win over Mourinho.",
+   "summaryFrom": "forbes",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Mourinho decries alleged bullying of Vinicius in Real\u2019s win at Espanyol",
+   "updated": "2026-08-23T10:56:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Mourinho decries alleged bullying of Vinicius in Real\u2019s win at Espanyol",
+     "url": "https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T10:56:21+00:00",
+     "summary": "'Vinicius is no saint, but what they're doing to him was too much,' Mourinho said after Real's first match of La Liga."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Real Madrid Boss Mourinho Slams \u2018Bullying\u2019 Of Vinicius After Espanyol",
+     "url": "https://www.forbes.com/sites/tomsanderson/2026/08/22/real-madrid-boss-mourinho-slams-bullying-on-vinicius-after-espanyol/",
+     "author": "Tom Sanderson, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-22T22:17:22+00:00",
+     "summary": "Real Madrid boss Jose Mourinho accused the public of \"bullying\" his player Vinicius Jr. after controversial incidents during Saturday's 2-1 win over Mourinho."
+    }
+   ]
+  },
+  {
+   "id": "9eb50a6a4b",
+   "topic": "Politics",
+   "summary": "A democracy cannot exist as a permanent form of government . Those words are widely attributed to Alexander Tytler, the Scottish judge and historian who lived from 1747 to 1813. There is, however, some debate over the attribution. Historians and researchers have questioned whether Tytler actually wrote the passage in the form in which it is commonly quoted, whether he expressed a similar idea that was later expanded and attributed to him, or whether the passage originated elsewhere. The exact authorship may be debatable. The warning itself is not. Here is the prophetic quote: \"A democracy cannot exist as a permanent form of government. It can only exist until the voters discover that they can vote themselves largesse from the public treasury. From that moment on, the majority always votes for the candidates promising the most benefits from the public treasury with the result that a\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+   "updated": "2026-08-23T10:53:53+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+     "url": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
+     "author": "Heather Stewart",
+     "kind": "news",
+     "published": "2026-08-23T10:53:53+00:00",
+     "summary": "Treasury secretary Scott Bessent\u2019s attempt to calm bond markets is a sign of weakness not strength \u201cLook, there\u2019s nothing magic about that $40tn number,\u201d the US Treasury secretary, Scott Bessent, told CNBC insouciantly last week, as the country\u2019s debt mountain surpassed another bleak record. Yet Bessent\u2019s decision to intervene in government bond markets in an effort to combat soaring yields, belied his studied calm in TV interviews \u2013 and reignited fears the US may be on the road to a debt crisis. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Washington is driving America toward a debt crisis we can't ignore any longer",
+     "url": "https://www.foxnews.com/opinion/washington-driving-america-toward-debt-crisis-cant-ignore-longer",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-21T09:00:58+00:00",
+     "summary": "A democracy cannot exist as a permanent form of government . Those words are widely attributed to Alexander Tytler, the Scottish judge and historian who lived from 1747 to 1813. There is, however, some debate over the attribution. Historians and researchers have questioned whether Tytler actually wrote the passage in the form in which it is commonly quoted, whether he expressed a similar idea that was later expanded and attributed to him, or whether the passage originated elsewhere. The exact authorship may be debatable. The warning itself is not. Here is the prophetic quote: \"A democracy cannot exist as a permanent form of government. It can only exist until the voters discover that they can vote themselves largesse from the public treasury. From that moment on, the majority always votes for the candidates promising the most benefits from the public treasury with the result that a democracy always collapses over loose fiscal policy, always followed by a dictatorship. The average age of the world's greatest civilizations has been 200 years. These nations have progressed through this sequence: From bondage to spiritual faith; From spiritual faith to great courage; From courage to li"
+    }
+   ]
+  },
+  {
+   "id": "2c2e11091f",
+   "topic": "Justice & Policing",
+   "summary": "Two Connecticut police officers were shot, and a suspect was killed, after an attempted arrest led to a car chase and exchange of gunfire near Hartford late Friday, authorities said. Hartford police officers were investigating what the department described as illegal activity at about 11:07 p.m., when a male suspect ran from the scene. An officer chased the suspect and attempted to take him into custody. During a struggle, the officer felt what he believed was a gun in the suspect's waistband, according to Hartford police . The suspect managed to get into a car and drive away, prompting officers to chase him through the city as information about the vehicle was shared with surrounding police departments. TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT The chase eventually reached Webster Court in Newington, a town south of\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "\u2018These were brave officers\u2019: tributes paid to police among seven killed in A66 crash",
+   "updated": "2026-08-23T10:43:55+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "\u2018These were brave officers\u2019: tributes paid to police among seven killed in A66 crash",
+     "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+     "author": "Mark Brown North of England correspondent",
+     "kind": "news",
+     "published": "2026-08-23T10:43:55+00:00",
+     "summary": "Redcar MP says Teesside community is \u2018reeling\u2019 as PM offers condolences and asks public to avoid speculation Tributes are being paid to two police officers who died on Teesside when a car travelling the wrong way along the A66 crashed head-on into their vehicle, also killing five young men. PC Matthew Blades, 37, and PC Tom Clough, 38, were killed when the marked armed response vehicle they were in was struck by a Volkswagen Passat in the early hours of Saturday morning. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
+     "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T23:52:13+00:00",
+     "summary": "Two Connecticut police officers were shot, and a suspect was killed, after an attempted arrest led to a car chase and exchange of gunfire near Hartford late Friday, authorities said. Hartford police officers were investigating what the department described as illegal activity at about 11:07 p.m., when a male suspect ran from the scene. An officer chased the suspect and attempted to take him into custody. During a struggle, the officer felt what he believed was a gun in the suspect's waistband, according to Hartford police . The suspect managed to get into a car and drive away, prompting officers to chase him through the city as information about the vehicle was shared with surrounding police departments. TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT The chase eventually reached Webster Court in Newington, a town south of Hartford near the Rocky Hill town line. After the suspect got out of the car, there was an exchange of gunfire that left two officers wounded and the suspect dead, police said. The wounded officers were identified as Hartford Police Officer Alex Diaz and Rocky Hill Police Officer Jon Escobar. Both officers "
     }
    ]
   },
@@ -3103,49 +3228,6 @@
    ]
   },
   {
-   "id": "2c2e11091f",
-   "topic": "Justice & Policing",
-   "summary": "Two Connecticut police officers were shot, and a suspect was killed, after an attempted arrest led to a car chase and exchange of gunfire near Hartford late Friday, authorities said. Hartford police officers were investigating what the department described as illegal activity at about 11:07 p.m., when a male suspect ran from the scene. An officer chased the suspect and attempted to take him into custody. During a struggle, the officer felt what he believed was a gun in the suspect's waistband, according to Hartford police . The suspect managed to get into a car and drive away, prompting officers to chase him through the city as information about the vehicle was shared with surrounding police departments. TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT The chase eventually reached Webster Court in Newington, a town south of\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "\u2018These were brave officers\u2019: tributes paid to police among seven killed in A66 crash",
-   "updated": "2026-08-23T08:30:15+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "\u2018These were brave officers\u2019: tributes paid to police among seven killed in A66 crash",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
-     "author": "Mark Brown North of England correspondent",
-     "kind": "news",
-     "published": "2026-08-23T08:30:15+00:00",
-     "summary": "Redcar MP says Teesside community is \u2018reeling\u2019 as PM offers condolences and asks public to avoid speculation Tributes are being paid to two police officers who died on Teesside when a car travelling the wrong way along the A66 crashed head-on into their vehicle, also killing five young men. PC Matthew Blades, 37, and PC Tom Clough, 38, were killed when the marked armed response vehicle they were in was struck by a Volkswagen Passat in the early hours of Saturday morning. Continue reading..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
-     "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T23:52:13+00:00",
-     "summary": "Two Connecticut police officers were shot, and a suspect was killed, after an attempted arrest led to a car chase and exchange of gunfire near Hartford late Friday, authorities said. Hartford police officers were investigating what the department described as illegal activity at about 11:07 p.m., when a male suspect ran from the scene. An officer chased the suspect and attempted to take him into custody. During a struggle, the officer felt what he believed was a gun in the suspect's waistband, according to Hartford police . The suspect managed to get into a car and drive away, prompting officers to chase him through the city as information about the vehicle was shared with surrounding police departments. TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT The chase eventually reached Webster Court in Newington, a town south of Hartford near the Rocky Hill town line. After the suspect got out of the car, there was an exchange of gunfire that left two officers wounded and the suspect dead, police said. The wounded officers were identified as Hartford Police Officer Alex Diaz and Rocky Hill Police Officer Jon Escobar. Both officers "
-    }
-   ]
-  },
-  {
    "id": "34bc495229",
    "topic": "Other",
    "summary": "A couple's anniversary getaway took a wild turn when a bear strolled into a Gatlinburg tea shop and began rummaging through merchandise before suddenly jumping onto the counter in a startling encounter caught on video. The couple, Victoria Puyol and Joshua Card, were visiting Gatlinburg to celebrate their seventh anniversary when they stopped at The Spice & Tea Exchange on Friday, which is where Card spotted an unexpected visitor near the entrance. \"There's a bear,\" Card recalled saying. At first, Puyol said she didn't quite process what was happening, but when Card and the store clerk repeated themselves, she turned and saw the animal standing in the doorway. HIDDEN DANGER AT POPULAR US NATIONAL PARK FORCES TRAIL CLOSURES AS BEAR SIGHTINGS CLIMB The couple recalled guidance to back away from bears , but as they stepped away, the bear ventured farther into the store. The clerk directed\u2026",
@@ -3465,92 +3547,6 @@
    ]
   },
   {
-   "id": "f788beaa72",
-   "topic": "Politics",
-   "summary": "FIRST ON FOX: Democratic Senate nominee and former Rep. Mary Peltola, D- Alaska , missed nearly one in five votes in the Alaska House of Representatives and more than a third of Bethel City Council meetings during her time in office, records show. Peltola missed 794 of 4,265 state House votes, or 18.6%, during her five terms from 1999 to 2009, according to legislative records, and 22 of 60 city council meetings, or 36.67%, from 2011 to 2013, according to city records. Her attendance record is now raising questions about her commitment to public service as she advances to Alaska\u2019s four-candidate general election, a closely watched race that could affect control of the U.S. Senate . \"Alaskans deserve an all-the-time workhorse like Dan Sullivan , not someone like Peltola who knifes Alaskans in the back when she even bothers to show up,\" Republican National Committee spokesperson Nick Poche\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Alaska Dem Senate hopeful Mary Peltola racked up hundreds of missed votes during stops at multiple taxpayer-serving jobs",
-   "updated": "2026-08-23T05:58:07+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Alaska Dem Senate hopeful Mary Peltola racked up hundreds of missed votes during stops at multiple taxpayer-serving jobs",
-     "url": "https://nypost.com/2026/08/23/us-news/alaska-dem-senate-hopeful-mary-peltola-racked-up-hundreds-of-missed-votes-while-holding-taxpayer-funded-jobs/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-23T05:58:07+00:00",
-     "summary": "Peltola missed 794 of 4,265 state House votes, or 18.6%, during her five terms from 1999 to 2009, according to legislative records."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Dem Senate hopeful racked up hundreds of missed votes during stops at multiple taxpayer-serving jobs",
-     "url": "https://www.foxnews.com/politics/dem-senate-hopeful-racked-hundreds-missed-votes-stops-multiple-taxpayer-serving-jobs",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T12:00:05+00:00",
-     "summary": "FIRST ON FOX: Democratic Senate nominee and former Rep. Mary Peltola, D- Alaska , missed nearly one in five votes in the Alaska House of Representatives and more than a third of Bethel City Council meetings during her time in office, records show. Peltola missed 794 of 4,265 state House votes, or 18.6%, during her five terms from 1999 to 2009, according to legislative records, and 22 of 60 city council meetings, or 36.67%, from 2011 to 2013, according to city records. Her attendance record is now raising questions about her commitment to public service as she advances to Alaska\u2019s four-candidate general election, a closely watched race that could affect control of the U.S. Senate . \"Alaskans deserve an all-the-time workhorse like Dan Sullivan , not someone like Peltola who knifes Alaskans in the back when she even bothers to show up,\" Republican National Committee spokesperson Nick Poche said in a statement sent to Fox News Digital. MORNING GLORY: ALASKA\u2019S 'REAL' SENATOR DAN SULLIVAN STOOD UP OVER CHALLENGER Records show Peltola\u2019s highest number of absences came during the 23rd Legislature from 2003 to 2004, when she missed 334 of 1,019 Alaska House votes. She also missed nine of 22"
-    }
-   ]
-  },
-  {
-   "id": "0a7019c54f",
-   "topic": "Justice & Policing",
-   "summary": "A Texas judge denied Karmelo Anthony a new trial Saturday, after his attorneys argued that courtroom restrictions, hearings held without Anthony present and the handling of an unwritten agreement between his former lawyers and prosecutors violated his rights. Retired District Judge Michael Chitty denied Anthony\u2019s request after reviewing the motion, court record, evidence and arguments, briefs and relevant case law, according to his order. The order did not detail his reasoning for the decision. The decision leaves Anthony\u2019s murder conviction and 35-year prison sentence in place. His challenge will continue on direct appeal. UNTAPPED KARMELO ANTHONY EVIDENCE CACHE SHOWED HE STALKED EX-GIRLFRIEND, HAD 'KNIVES' OBSESSION: PROSECUTORS Collin County District Attorney Greg Willis said his office expected the decision and remains confident in the case. \"We respect, and expected, the court\u2019s\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf",
-   "updated": "2026-08-23T04:15:34+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Judge denies Karmelo Anthony's appeal for a new trial in killing of Austin Metcalf",
-     "url": "https://www.cbsnews.com/news/karmelo-anthony-new-trial-decision-austin-metcalf-8-22-2026/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T04:15:34+00:00",
-     "summary": "The decision comes after both prosecutors and Anthony's new defense team revealed more details in a tense two-day hearing."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Judge denies Karmelo Anthony's bid for new trial after ex-lawyers detail dispute that kept him from testifying",
-     "url": "https://www.foxnews.com/us/judge-denies-karmelo-anthonys-bid-new-trial-after-ex-lawyers-detail-dispute-kept-him-testifying",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T21:00:26+00:00",
-     "summary": "A Texas judge denied Karmelo Anthony a new trial Saturday, after his attorneys argued that courtroom restrictions, hearings held without Anthony present and the handling of an unwritten agreement between his former lawyers and prosecutors violated his rights. Retired District Judge Michael Chitty denied Anthony\u2019s request after reviewing the motion, court record, evidence and arguments, briefs and relevant case law, according to his order. The order did not detail his reasoning for the decision. The decision leaves Anthony\u2019s murder conviction and 35-year prison sentence in place. His challenge will continue on direct appeal. UNTAPPED KARMELO ANTHONY EVIDENCE CACHE SHOWED HE STALKED EX-GIRLFRIEND, HAD 'KNIVES' OBSESSION: PROSECUTORS Collin County District Attorney Greg Willis said his office expected the decision and remains confident in the case. \"We respect, and expected, the court\u2019s decision denying the motion for a new trial. The jury\u2019s guilty verdict stands, and we remain confident in the process,\" his statement said. \"Every defendant has the right to appeal, and our thoughts and prayers remain with the Metcalf family in the painful wake of last week\u2019s hearing.\" Chitty heard two"
-    }
-   ]
-  },
-  {
    "id": "95cec127fb",
    "topic": "Politics",
    "summary": "NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier, named after a Black WWII war hero, and had considered President Trump's name as a replacement. Johnson wrote in a social media post that the alleged talks surrounding the USS Doris Miller's name are \u201ca slap in...",
@@ -3676,92 +3672,6 @@
      "kind": "news",
      "published": "2026-08-21T10:00:00+00:00",
      "summary": "Most of the state\u2019s GOP leaders have hedged on the White House's plans for the region, welcoming a construction pause without breaking from a president they're loath to cross."
-    }
-   ]
-  },
-  {
-   "id": "cb1aa60977",
-   "topic": "Other",
-   "summary": "One passenger received medical attention after a laptop battery caught fire aboard an American Airlines flight on Friday.",
-   "summaryFrom": "cbsnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Laptop catches fire on US flight, with passenger treated at airport",
-   "updated": "2026-08-23T01:19:30+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Laptop battery sparks fire on American Airlines flight",
-     "url": "https://www.cbsnews.com/video/laptop-battery-sparks-fire-on-american-airlines-flight/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T01:19:30+00:00",
-     "summary": "One passenger received medical attention after a laptop battery caught fire aboard an American Airlines flight on Friday."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Laptop catches fire on US flight, with passenger treated at airport",
-     "url": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T10:27:25+00:00",
-     "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely."
-    }
-   ]
-  },
-  {
-   "id": "60417de510",
-   "topic": "World",
-   "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran warns countries against joining US 'economic war'",
-   "updated": "2026-08-23T00:50:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Iran warns countries against joining US 'economic war'",
-     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:50:00+00:00",
-     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran warns of retaliation against countries joining US \u2018economic war\u2019",
-     "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T23:26:15+00:00",
-     "summary": "Warning comes after Trump said he will impose 'most crushing' sanctions to isolate Iran and weaken its government."
     }
    ]
   }
