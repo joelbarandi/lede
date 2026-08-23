@@ -1,17 +1,17 @@
 {
- "generated": "2026-08-23T08:49:49.466534+00:00",
+ "generated": "2026-08-23T09:44:41.941482+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "2d80ae0afd",
+   "id": "eb07c7b868",
    "topic": "Politics",
    "summary": "Popular Canadian whisky brands will be hit by the new tariffs. GMVozd/Getty Images Trump's new 50% tariffs on some popular goods from Canada took effect Saturday morning. The tariffs apply to goods ranging from alcohol to construction materials to hockey equipment. Mark Carney later announced retaliatory tariffs at a news conference on Saturday. Your shots of Fireball could soon get pricier. The Trump administration's threatened 50% tariffs on some popular Canadian goods went into effect Saturday morning after trade talks with its northern ally fell apart the night before. Canadian Prime Minister Mark Carney later announced a series of dollar-for-dollar counter-tariffs on imported US goods. Those tariffs will apply to industries including dairy, steel, appliances, agricultural equipment, pulp and paper, and electronics, Carney said at a press conference in Ottawa. \"We take this step\u2026",
    "summaryFrom": "businessinsider",
    "emphasis": {
     "bigCount": 33,
-    "indieCount": 21,
+    "indieCount": 23,
     "big": [
      "post",
      "senate",
@@ -21,30 +21,39 @@
      "appeared"
     ],
     "indie": [
-     "starting",
      "imposed",
-     "sticks",
      "escalates",
-     "accused",
-     "ottawa"
+     "worth",
+     "starting",
+     "sticks",
+     "much"
     ]
    },
    "people": [],
    "absent": [],
-   "headline": "Trump hits out at Canada over retaliatory tariffs",
-   "updated": "2026-08-23T08:27:42+00:00",
+   "headline": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
+   "updated": "2026-08-23T09:02:22+00:00",
    "outletCount": 25,
    "counts": {
+    "pub": 11,
     "corp": 14,
-    "pub": 10,
     "family": 19,
     "nonprofit": 9,
-    "coop": 2
+    "coop": 3
    },
-   "newsCount": 51,
-   "opinionCount": 3,
+   "newsCount": 52,
+   "opinionCount": 4,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "france24",
+     "title": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
+     "url": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-23T09:02:22+00:00",
+     "summary": "Canada and the US were closing in on a trade deal earlier this week until the negotiations fell apart. Both sides blame each other for last-minute changes to the terms. Canada\u2019s Prime Minister Mark Carney has announced retaliatory tariffs on the United States after Washington imposed a 50 percent levy on 20-billion-dollars worth of Canadian goods. On Saturday, he addressed the nation for the first time since the talks collapsed, as Charlotte Lam explains."
+    },
     {
      "outlet": "newsweek",
      "title": "Trump Hits Out After Mark Carney Rejects US-Canada Trade Deal",
@@ -352,15 +361,6 @@
      "summary": "President Donald Trump thanked the Supreme Court on Friday after Chief Justice John Roberts allowed construction on his $400 million White House ballroom to continue. The post Trump Thanks Supreme Court for Allowing White House Ballroom Construction to Continue appeared first on Breitbart ."
     },
     {
-     "outlet": "dw",
-     "title": "US imposes 50% tariffs on some Canadian products as trade talks fail",
-     "url": "https://www.dw.com/en/us-imposes-50-tariffs-on-some-canadian-products-as-trade-talks-fail/a-78466352?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T01:26:00+00:00",
-     "summary": "US Trade Representative Jamieson Greer said Canada had declined to finalize a trade deal, minutes before fresh Trump tariffs were due to take effect. Canada's Mark Carney said the terms proposed were \"unfair.\""
-    },
-    {
      "outlet": "breitbart",
      "title": "Report: Socialist Angie Nixon, Florida Democrat Chair Erupt in Shouting Match",
      "url": "https://www.breitbart.com/politics/2026/08/21/socialist-angie-nixon-florida-democrat-chair-erupt-shouting-match/",
@@ -368,6 +368,15 @@
      "kind": "news",
      "published": "2026-08-22T01:10:15+00:00",
      "summary": "Florida Democrat Senate candidate Angie Nixon reportedly clashed with state party chair Nikki Fried during a tense phone call Friday over Nixon\u2019s socialist ties and the party\u2019s support for her campaign. The post Report: Socialist Angie Nixon, Florida Democrat Chair Erupt in Shouting Match appeared first on Breitbart ."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
+     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-22T00:01:15+00:00",
+     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
     },
     {
      "outlet": "nbcnews",
@@ -388,13 +397,13 @@
      "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
     },
     {
-     "outlet": "nyt",
-     "title": "Prison Firm Donated to Trump\u2019s PAC After ICE Gave It $165 Million a Year in Contracts",
-     "url": "https://www.nytimes.com/2026/08/21/us/politics/geo-group-maga-inc-donations-ice-contracts.html",
-     "author": "Kenneth P. Vogel and Hamed Aleaziz",
+     "outlet": "bbc",
+     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-21T21:34:35+00:00",
-     "summary": "The GEO Group has profited from the administration\u2019s mass deportation campaign. A subsidiary donated more than $1.4 million to the president\u2019s super PAC last month."
+     "published": "2026-08-21T22:02:10+00:00",
+     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
     },
     {
      "outlet": "zeteo",
@@ -458,6 +467,15 @@
      "kind": "opinion",
      "published": "2026-08-21T09:45:33+00:00",
      "summary": null
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Meet The Fraud Pollster Who Boosted Socialist With Fake Stats",
+     "url": "https://www.dailywire.com/news/meet-the-fraud-pollster-who-boosted-socialist-with-fake-stats",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-21T09:21:52+00:00",
+     "summary": "A 21-year-old has identified himself as the man behind the fake polling operation that presented itself as an independent polling firm before admitting its surveys were fabricated. Rahil Prakash told the Guardian Thursday that he created Median Strategies by himself as a \u201csocial experiment\u201d to see whether fabricated polling could spread through the political media without being independently verified. \u201cI wanted to see if fake polls could really penetrate the ecosystem that easily,\u201d Prakash said. \u201cAnd as it turned out, it could.\u201d The experiment, however, had already produced real-world consequences before Prakash revealed himself. Median released fake polls showing Los Angeles Mayor Karen Bass leading democratic socialist challenger Nithya Raman by 12 points. Bass subsequently touted the poll before deleting the post after the polling operation was exposed as fraudulent. The group also released a poll claiming socialist Francesca Hong was leading the Wisconsin Democratic gubernatorial primary by more than 20 points, as well as a survey showing Republican Nevada Governor Joe Lombardo leading his re-election race. Median abruptly withdrew all of its polling earlier this week, claiming"
     },
     {
      "outlet": "axios",
@@ -539,18 +557,19 @@
    "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other\u2026",
    "summaryFrom": "vox",
    "emphasis": {
-    "bigCount": 8,
-    "indieCount": 2,
+    "bigCount": 7,
+    "indieCount": 3,
     "big": [
-     "president",
      "stay",
      "lower",
      "project",
-     "donald",
-     "administrative"
+     "administrative",
+     "roberts",
+     "john"
     ],
     "indie": [
-     "comes"
+     "comes",
+     "halt"
     ]
    },
    "people": [],
@@ -563,8 +582,8 @@
    "outletCount": 10,
    "counts": {
     "corp": 4,
-    "family": 4,
-    "nonprofit": 2
+    "family": 3,
+    "nonprofit": 3
    },
    "newsCount": 9,
    "opinionCount": 1,
@@ -596,15 +615,6 @@
      "kind": "news",
      "published": "2026-08-21T20:55:34+00:00",
      "summary": "The administrative stay gives the court more time to weigh an emergency appeal by the Trump administration in a lawsuit challenging the project."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Chief Justice Allows Trump to Continue White House Ballroom Construction, for Now",
-     "url": "https://www.nytimes.com/2026/08/21/us/politics/supreme-court-trump-ballroom.html",
-     "author": "Ann E. Marimow",
-     "kind": "news",
-     "published": "2026-08-21T20:42:44+00:00",
-     "summary": "The 90,000-square-foot ballroom project has grown in size and scope, with the president\u2019s lawyers saying it is intertwined with the renovation of an underground military bunker."
     },
     {
      "outlet": "abcnews",
@@ -659,6 +669,15 @@
      "kind": "opinion",
      "published": "2026-08-21T15:39:02+00:00",
      "summary": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump\u2019s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court\u2019s injunction from taking effect while the Supreme Court considers the Trump administration\u2019s emergency request. The order does not resolve the underlying legal dispute or determine whether Trump had the authority to construct the ballroom without congressional approval. The move is nevertheless a significant victory for the administration, which has argued that construction should be allowed to continue as the case makes its way through the courts. The dispute is likely to head to the full Supreme Court after the U.S. Court of Appeals for the D.C. Circuit ruled earlier this month that Trump could not proceed with the project without authorization from Congress. That 2-1 ruling by the appeals court held that the decision to construct the massive addition to the White House was ultimately Congress\u2019 to make. \u201cWhether or not a massive bal"
+    },
+    {
+     "outlet": "theconversation",
+     "title": "Is it illegal for the president to spend \u2018patriotic\u2019 donations on a White House ballroom or anything else?",
+     "url": "https://theconversation.com/is-it-illegal-for-the-president-to-spend-patriotic-donations-on-a-white-house-ballroom-or-anything-else-290107",
+     "author": "Ellen P. Aprill, Senior Scholar in Residence at the UCLA Law School's Lowell Milken Center For Philanthropy And Nonprofit Law, University of California, Los Angeles",
+     "kind": "news",
+     "published": "2026-08-20T22:08:40+00:00",
+     "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration could continue construction work while the court considers its request . As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation o"
     }
    ]
   },
@@ -673,17 +692,17 @@
     "big": [
      "struck",
      "district",
-     "customs",
      "york",
+     "customs",
      "detention"
     ],
     "indie": [
-     "issuing",
-     "public",
      "because",
-     "nationality",
+     "public",
      "ruled",
-     "basis"
+     "basis",
+     "issuing",
+     "nationality"
     ]
    },
    "people": [],
@@ -796,6 +815,115 @@
    ]
   },
   {
+   "id": "06a2f2927c",
+   "topic": "World",
+   "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world\u2019s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza,\u2026",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 6,
+    "big": [],
+    "indie": [
+     "palestinian",
+     "village",
+     "senior",
+     "ethnic",
+     "action",
+     "french"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "corp"
+   ],
+   "headline": "Israeli wounded in occupied West Bank stabbing",
+   "updated": "2026-08-23T09:00:02+00:00",
+   "outletCount": 7,
+   "counts": {
+    "family": 2,
+    "pub": 3,
+    "nonprofit": 2,
+    "coop": 1
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Israeli Settler Siege Highlights \u2018Grave\u2019 West Bank Reality",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/israeli-settler-siege-highlights-grave-west-bank-reality",
+     "author": "Fadwa Hodali",
+     "kind": "news",
+     "published": "2026-08-23T09:00:02+00:00",
+     "summary": "When Loui Ridi hugged his young daughter goodbye at Detroit Metro Airport, she clung to his arm and refused to let go. The 46-year-old businessman said she then asked the question he wanted to avoid: \u201cAre you going to be safe?\u201d"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Israeli wounded in occupied West Bank stabbing",
+     "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T08:38:01+00:00",
+     "summary": "Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja."
+    },
+    {
+     "outlet": "france24",
+     "title": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
+     "url": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-22T14:50:57+00:00",
+     "summary": "Dozens of former senior French and UK diplomats on Saturday urged their governments to work together to uphold international law in the Palestinian territories, accusing Israel of seeking to \"destroy\" any prospect of a viable Palestinian state. Analysis by Matthew-Mary Caruchet, FRANCE 24 international affairs editor."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Former British and French diplomats urge action over Israel\u2019s \u2018erasure\u2019 of Palestine",
+     "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
+     "author": "Patrick Wintour Diplomatic editor",
+     "kind": "news",
+     "published": "2026-08-22T09:00:04+00:00",
+     "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world\u2019s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza, led by the UN Relief and Works Agency, other UN agencies and international NGOs, with consequences for non-compliance, and access too for journalists, diplomats and parliamentarians. Ban all trade with settlements, including goods, investment, insurance and other financial services. Warn potential bidd"
+    },
+    {
+     "outlet": "bbc",
+     "title": "How Israel is expanding settlements in drive to reshape West Bank",
+     "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T19:31:47+00:00",
+     "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
+     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-21T06:00:26+00:00",
+     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Israel clashes with allies over West Bank settlement project",
+     "url": "https://www.semafor.com/article/08/20/2026/israel-clashes-with-allies-over-west-bank-settlements",
+     "author": "Tasneem Nashrulla",
+     "kind": "news",
+     "published": "2026-08-20T22:18:32+00:00",
+     "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla"
+    },
+    {
+     "outlet": "dropsite",
+     "title": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
+     "url": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
+     "author": "Zena Tahhan",
+     "kind": "news",
+     "published": "2026-08-20T19:48:07+00:00",
+     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can\u2019t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli soldiers and settlers have been besieging three Palestinian families in their homes in the village of Qusra in the occupied West Bank since August 9. Photo on August 14, 2026 by Issam Rimawi/Anadolu via Getty Images. RAMALLAH, Occupied West Bank\u2014For the 12th consecutive day, three Palestinian families, comprising 10 people, including two young children, have been trapped inside their homes in the occupied West Bank, besieged and terrorized by dozens of armed Israelis\u2014both settlers and soldiers. The family members have been stuck in separate homes, unable to shelter together or attend to their basic needs, with food supplies running dangerously low and without access to cooking gas or a fridge. While the siege on the three families has garnered international media attention and statements of condemnation, the attack is not the first of its kind, but rather a more prominent example of a growing tactic by Israeli settlers and soldiers working in tandem to dispossess Palestin"
+    }
+   ]
+  },
+  {
    "id": "149bcbff58",
    "topic": "Politics",
    "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading...",
@@ -808,11 +936,11 @@
      "victim"
     ],
     "indie": [
-     "boys",
      "aged",
+     "boys",
+     "fagersta",
      "classes",
      "friday",
-     "fagersta",
      "wounded"
     ]
    },
@@ -899,109 +1027,6 @@
    ]
   },
   {
-   "id": "e28a20612c",
-   "topic": "Politics",
-   "summary": "The United States Postal Service (USPS) published a rule Friday that would require states to provide lists of voters who received mail-in ballots to the agency. The USPS rule , first proposed June 2, moves to align the agency with President Donald Trump's March 31 executive order, which, among other things, ordered the agency to mandate that all states that plan to use USPS to send mail-in ballots notify the agency at least 90 days before an election and to send USPS a list of eligible voters the state plans on providing a mail-in ballot to at least 60 days before the election. \"Any state that intends to receive mail-in or absentee ballots from individual voters through the Postal Service must ensure that such individuals have been enrolled with the Postal Service for inclusion on the state's Mail-In and Absentee Participation List,\" the new rule states. To be included on the list, an\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 3,
-    "big": [
-     "executive",
-     "rule",
-     "ballots",
-     "states",
-     "march",
-     "block"
-    ],
-    "indie": [
-     "ballroom",
-     "construction"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "nonprofit"
-   ],
-   "headline": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-   "updated": "2026-08-22T20:49:17+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 2,
-    "corp": 1,
-    "family": 3,
-    "coop": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-     "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T20:49:17+00:00",
-     "summary": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections."
-    },
-    {
-     "outlet": "thehill",
-     "title": "US Postal Service issues rule to tighten requirements for mail-in voting despite courts looking to block",
-     "url": "https://thehill.com/homenews/administration/6045248-usps-mail-in-voting-guidelines-tighten/",
-     "author": "Mira Bhakta",
-     "kind": "news",
-     "published": "2026-08-22T20:12:18+00:00",
-     "summary": "The United States Postal Service (USPS) announced Friday new eligibility guidelines for mail-in ballots, complying with President Trump's March executive order restricting the practice \u2014 despite a federal court later striking it down. USPS's 95-page unpublished report, slated for an official release on Aug. 26, detailed how it would distribute mail-in ballots for November's midterms...."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump-Aligned Mail Ballot Rules Readied for High Court Decision",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/trump-aligned-mail-ballot-rules-readied-for-high-court-decision",
-     "author": "Mar\u00eda Paula Mijares Torres",
-     "kind": "news",
-     "published": "2026-08-22T18:00:38+00:00",
-     "summary": "The US Postal Service finalized a rule that would add extra hurdles to mail-in voting, pressing ahead with one of President Donald Trump\u2019s priorities even as court orders keep the push on hold."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
-     "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-     "author": "Adam Sella",
-     "kind": "news",
-     "published": "2026-08-22T17:31:21+00:00",
-     "summary": "The plan, which complies with President Trump\u2019s executive order to curtail mail voting, will only go into effect if the Supreme Court rules in the order\u2019s favor."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "USPS publishes rule to block mail-in ballots from states that don't provide voter lists",
-     "url": "https://www.foxnews.com/politics/usps-publishes-rule-block-mail-in-ballots-states-dont-provide-voter-lists",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T14:00:37+00:00",
-     "summary": "The United States Postal Service (USPS) published a rule Friday that would require states to provide lists of voters who received mail-in ballots to the agency. The USPS rule , first proposed June 2, moves to align the agency with President Donald Trump's March 31 executive order, which, among other things, ordered the agency to mandate that all states that plan to use USPS to send mail-in ballots notify the agency at least 90 days before an election and to send USPS a list of eligible voters the state plans on providing a mail-in ballot to at least 60 days before the election. \"Any state that intends to receive mail-in or absentee ballots from individual voters through the Postal Service must ensure that such individuals have been enrolled with the Postal Service for inclusion on the state's Mail-In and Absentee Participation List,\" the new rule states. To be included on the list, an voter's state must submit to the USPS the individual's name and address and include a \"uniquely serialized Intelligent Mail barcode (IMb)\" on both the outbound federal ballot and the return ballot sent to the individual. DHS PLANS COSTLY CRACKDOWN ON STATES THAT DON\u2019T COOPERATE ON ELECTION SECURITY Th"
-    },
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
-     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-22T00:01:15+00:00",
-     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
-    },
-    {
-     "outlet": "bbc",
-     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T22:02:10+00:00",
-     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
-    }
-   ]
-  },
-  {
    "id": "d3e235e0d1",
    "topic": "World",
    "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading...",
@@ -1011,12 +1036,12 @@
     "indieCount": 4,
     "big": [],
     "indie": [
+     "marathon",
+     "stadium",
      "german",
      "sydney",
-     "stadium",
      "medal",
-     "marathon",
-     "city"
+     "features"
     ]
    },
    "people": [],
@@ -1105,12 +1130,12 @@
      "tackle"
     ],
     "indie": [
-     "hike",
-     "left",
      "leaves",
-     "alone",
+     "tired",
      "father",
-     "tired"
+     "alone",
+     "hike",
+     "fuji"
     ]
    },
    "people": [],
@@ -1196,90 +1221,86 @@
    ]
   },
   {
-   "id": "76fb9810da",
-   "topic": "World",
-   "summary": "In an aerial view, the Pentagon, headquarters for the United States Department of Defense is seen in Arlington, Virginia, on Aug. 13, 2026. \u2014Kevin Carter\u2014Getty Images The Pentagon has fired the editor-in-chief and publisher of the U.S. military newspaper Stars and Stripes. On Friday, the Pentagon provided separation notices to editor-in-chief Erik Slavin and publisher Max Lederer, CBS News reported. The notices said that the two had five days to appeal the decision, according to CBS. Slavin told The Associated Press that he was dismissed for insubordination \u201cfor stating in a CBS interview that hypothetical censorship of news for service members would constitute a red line.\u201d In July, CBS published a story featuring an interview with Slavin, in which he stressed the importance of the newspaper\u2019s independence. \u201cWe need to be able to provide independent news to service members,\u201d he told\u2026",
+   "id": "20443544f2",
+   "topic": "Politics",
+   "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
    "summaryFrom": "time",
    "emphasis": {
     "bigCount": 3,
-    "indieCount": 3,
-    "big": [],
+    "indieCount": 2,
+    "big": [
+     "trump",
+     "donald",
+     "president",
+     "force",
+     "pressure"
+    ],
     "indie": [
-     "interview",
-     "interference",
-     "reporter"
+     "join",
+     "countries"
     ]
    },
    "people": [],
    "absent": [
     "corp",
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "US military newspaper editor voices censorship fears after being fired",
-   "updated": "2026-08-22T20:48:41+00:00",
-   "outletCount": 6,
+   "headline": "Iran escalates threats as US pushes economic isolation",
+   "updated": "2026-08-23T09:02:14+00:00",
+   "outletCount": 5,
    "counts": {
-    "family": 3,
     "pub": 2,
-    "nonprofit": 1
+    "family": 3
    },
-   "newsCount": 6,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "forbes",
-     "title": "Stars And Stripes Editor Says He\u2019s Worried About Military Censorship\u2014After Pentagon Fires Him For \u2018Insubordination\u2019",
-     "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/22/stars-and-stripes-editor-says-hes-worried-about-military-censorship-after-fires-him-for-insubordination/",
-     "author": "Mary Whitfill Roeloffs, Forbes Staff",
+     "outlet": "france24",
+     "title": "Iran escalates threats as US pushes economic isolation",
+     "url": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
+     "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-22T20:48:41+00:00",
-     "summary": "Stars And Stripes, a military newspaper, broke stories about living conditions aboard the USS Abraham Lincoln earlier this summer."
+     "published": "2026-08-23T09:02:14+00:00",
+     "summary": "Tensions between Iran and the United States continue to escalate. Tehran is threatening to regard as enemies any countries that join the US sanctions, in response to Washington\u2019s calls to isolate its economy. A press conference is scheduled for Monday to outline the US strategy. Story by Camille Corcoran."
     },
     {
-     "outlet": "bbc",
-     "title": "US military newspaper editor voices censorship fears after being fired",
-     "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T16:57:19+00:00",
-     "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\"."
+     "published": "2026-08-22T23:56:32+00:00",
+     "summary": "Iran warns that countries joining the US economic war against Iran will face \u2018tit-for-tat\u2019 action."
     },
     {
-     "outlet": "dw",
-     "title": "Pentagon fires military newspaper leadership for 'insubordination'",
-     "url": "https://www.dw.com/en/pentagon-fires-military-newspaper-leadership-for-insubordination/a-78466373?maca=en-rss-en-all-1573-rdf",
-     "author": null,
+     "outlet": "bloomberg",
+     "title": "Trump\u2019s Economic Isolation Plan Risks Iran Strikes Across Gulf",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/trump-s-economic-isolation-plan-risks-iran-strikes-across-gulf",
+     "author": "Eric Martin",
      "kind": "news",
-     "published": "2026-08-22T02:55:00+00:00",
-     "summary": "The editor-in-chief of Stars and Stripes said he was fired, alongside the newspaper's publisher and a reporter, for insubordination after he objected to potential editorial interference."
+     "published": "2026-08-22T13:01:45+00:00",
+     "summary": "President Donald Trump is betting new sanctions, a naval blockade and ramped-up economic pressure against Iran\u2019s trading partners can accomplish what thousands of bombs and missiles could not: force Tehran to accept a deal to end the war on US terms."
     },
     {
-     "outlet": "nyt",
-     "title": "Pentagon Fires Editor and Publisher of Independent Military Publication",
-     "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
-     "author": "Minho Kim",
+     "outlet": "semafor",
+     "title": "Bessent teases Iran economic pressure plan",
+     "url": "https://www.semafor.com/article/08/20/2026/bessent-teases-iran-economic-pressure-plan",
+     "author": "Eleanor Mueller",
      "kind": "news",
-     "published": "2026-08-22T02:37:47+00:00",
-     "summary": "The firings at Stars and Stripes also claimed a Middle East correspondent. They are the latest effort by the Pentagon to diminish the news outlet\u2019s editorial independence."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
-     "url": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview",
-     "author": "Jocelyn Noveck, Associated Press",
-     "kind": "news",
-     "published": "2026-08-21T23:42:26+00:00",
-     "summary": "The Pentagon on Friday fired the editor-in-chief of Stars and Stripes and a top reporter for insubordination after they spoke publicly against any interference by the Defense Department in the military news outlet that has a long history of editorial independence."
+     "published": "2026-08-20T19:58:18+00:00",
+     "summary": "Treasury Secretary Scott Bessent plans to reveal on Monday \u201cexactly what we\u2019re going to do\u201d to ratchet up economic pressure on Iran, he told CNBC Thursday morning. \u201cIf you insist on doing business with them \u2014 either transferring money, buying their oil, or doing seaborne ship transfers \u2014 then the US Treasury \u2026 will put its full might and force toward enforcing against you,\u201d Bessent said. He suggested that the administration\u2019s new efforts could affect China, saying that \u201cit would do them a big service to get with the program.\u201d Bessent also teased a separate announcement on \u201can increased focus on fiscal consolidation,\u201d which he said he\u2019d make alongside White House budget chief Russ Vought in coming days. He also reiterated that forthcoming government bond buybacks could top $4 billion, adding that \u201cwe\u2019ll see what the conditions are and \u2026 analyze them then.\u201d \u2014 Eleanor Mueller"
     },
     {
      "outlet": "time",
-     "title": "Pentagon Fires Editor and Publisher of U.S. Military Newspaper",
-     "url": "https://time.com/article/2026/08/21/pentagon-fires-editor-publisher-stars-and-stripes-military-newspaper/",
-     "author": "Chantelle Lee",
+     "title": "Iran Hits Back at Trump\u2019s Threat of a \u2018Crushing\u2019 Economic \u2018D-Day\u2019 Campaign",
+     "url": "https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/",
+     "author": "Tiago Ventura",
      "kind": "news",
-     "published": "2026-08-21T20:56:37+00:00",
-     "summary": "In an aerial view, the Pentagon, headquarters for the United States Department of Defense is seen in Arlington, Virginia, on Aug. 13, 2026. \u2014Kevin Carter\u2014Getty Images The Pentagon has fired the editor-in-chief and publisher of the U.S. military newspaper Stars and Stripes. On Friday, the Pentagon provided separation notices to editor-in-chief Erik Slavin and publisher Max Lederer, CBS News reported. The notices said that the two had five days to appeal the decision, according to CBS. Slavin told The Associated Press that he was dismissed for insubordination \u201cfor stating in a CBS interview that hypothetical censorship of news for service members would constitute a red line.\u201d In July, CBS published a story featuring an interview with Slavin, in which he stressed the importance of the newspaper\u2019s independence. \u201cWe need to be able to provide independent news to service members,\u201d he told CBS. \u201cIf we can\u2019t do that, if we were turned into something other than that, if we were public relations? Yeah, that's the foxhole.\u201d While Stars and Stripes receives part of its funding from the Pentagon, it has a years-long history of being editorially independent. In January, though, chief Pentagon sp"
+     "published": "2026-08-20T16:44:37+00:00",
+     "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Trump did not specify what specific measures would be imposed on countries that continue to do business with Iran. TIME has reached out to the White House for comment. The President also called on U.S. allies to impose additional restrictions on"
     }
    ]
   },
@@ -1293,8 +1314,8 @@
     "indieCount": 3,
     "big": [],
     "indie": [
-     "seconds",
-     "bolt"
+     "bolt",
+     "seconds"
     ]
    },
    "people": [],
@@ -1362,6 +1383,86 @@
    ]
   },
   {
+   "id": "76fb9810da",
+   "topic": "World",
+   "summary": "In an aerial view, the Pentagon, headquarters for the United States Department of Defense is seen in Arlington, Virginia, on Aug. 13, 2026. \u2014Kevin Carter\u2014Getty Images The Pentagon has fired the editor-in-chief and publisher of the U.S. military newspaper Stars and Stripes. On Friday, the Pentagon provided separation notices to editor-in-chief Erik Slavin and publisher Max Lederer, CBS News reported. The notices said that the two had five days to appeal the decision, according to CBS. Slavin told The Associated Press that he was dismissed for insubordination \u201cfor stating in a CBS interview that hypothetical censorship of news for service members would constitute a red line.\u201d In July, CBS published a story featuring an interview with Slavin, in which he stressed the importance of the newspaper\u2019s independence. \u201cWe need to be able to provide independent news to service members,\u201d he told\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "fires",
+     "publisher"
+    ],
+    "indie": [
+     "interview"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "US military newspaper editor voices censorship fears after being fired",
+   "updated": "2026-08-22T20:48:41+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 3,
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Stars And Stripes Editor Says He\u2019s Worried About Military Censorship\u2014After Pentagon Fires Him For \u2018Insubordination\u2019",
+     "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/22/stars-and-stripes-editor-says-hes-worried-about-military-censorship-after-fires-him-for-insubordination/",
+     "author": "Mary Whitfill Roeloffs, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-22T20:48:41+00:00",
+     "summary": "Stars And Stripes, a military newspaper, broke stories about living conditions aboard the USS Abraham Lincoln earlier this summer."
+    },
+    {
+     "outlet": "bbc",
+     "title": "US military newspaper editor voices censorship fears after being fired",
+     "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T16:57:19+00:00",
+     "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\"."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Pentagon Fires Editor and Publisher of Independent Military Publication",
+     "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
+     "author": "Minho Kim",
+     "kind": "news",
+     "published": "2026-08-22T02:37:47+00:00",
+     "summary": "The firings at Stars and Stripes also claimed a Middle East correspondent. They are the latest effort by the Pentagon to diminish the news outlet\u2019s editorial independence."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
+     "url": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview",
+     "author": "Jocelyn Noveck, Associated Press",
+     "kind": "news",
+     "published": "2026-08-21T23:42:26+00:00",
+     "summary": "The Pentagon on Friday fired the editor-in-chief of Stars and Stripes and a top reporter for insubordination after they spoke publicly against any interference by the Defense Department in the military news outlet that has a long history of editorial independence."
+    },
+    {
+     "outlet": "time",
+     "title": "Pentagon Fires Editor and Publisher of U.S. Military Newspaper",
+     "url": "https://time.com/article/2026/08/21/pentagon-fires-editor-publisher-stars-and-stripes-military-newspaper/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-21T20:56:37+00:00",
+     "summary": "In an aerial view, the Pentagon, headquarters for the United States Department of Defense is seen in Arlington, Virginia, on Aug. 13, 2026. \u2014Kevin Carter\u2014Getty Images The Pentagon has fired the editor-in-chief and publisher of the U.S. military newspaper Stars and Stripes. On Friday, the Pentagon provided separation notices to editor-in-chief Erik Slavin and publisher Max Lederer, CBS News reported. The notices said that the two had five days to appeal the decision, according to CBS. Slavin told The Associated Press that he was dismissed for insubordination \u201cfor stating in a CBS interview that hypothetical censorship of news for service members would constitute a red line.\u201d In July, CBS published a story featuring an interview with Slavin, in which he stressed the importance of the newspaper\u2019s independence. \u201cWe need to be able to provide independent news to service members,\u201d he told CBS. \u201cIf we can\u2019t do that, if we were turned into something other than that, if we were public relations? Yeah, that's the foxhole.\u201d While Stars and Stripes receives part of its funding from the Pentagon, it has a years-long history of being editorially independent. In January, though, chief Pentagon sp"
+    }
+   ]
+  },
+  {
    "id": "3b222c4878",
    "topic": "Politics",
    "summary": "Allies of Mike Rogers , Michigan's GOP nominee for the U.S. Senate, have asked AIPAC not to advertise on his behalf, triggering a rupture with the powerful but polarizing pro-Israel group. Rogers spoke with AIPAC chair Michael Tuchin in Los Angeles last week. The next day, AIPAC shelved an already-cut video ad targeting Rogers' Democratic rival, outspoken Israel critic Abdul El-Sayed. Why it matters: The extraordinary tension underscores how far AIPAC's political standing has fallen amid voters' anger over the war in Gaza. Even Rogers \u2014 a staunchly pro-Israel Republican \u2014 fears the group's public support could be a liability in the Nov. 3 election. Driving the news: The move by Rogers' team angered AIPAC officials, who had spent more than $30 million to try to defeat El-Sayed in the Democratic primary and prepared to spend millions more to help elect Rogers, according to people familiar\u2026",
@@ -1372,10 +1473,10 @@
     "big": [
      "rogers",
      "mike",
+     "asked",
      "tuchin",
      "nominee",
-     "abdul",
-     "asked"
+     "abdul"
     ],
     "indie": []
    },
@@ -1453,11 +1554,11 @@
     "indieCount": 2,
     "big": [
      "settle",
-     "allegations",
-     "announced",
      "laws",
+     "announced",
+     "allegations",
      "online",
-     "filed"
+     "violating"
     ],
     "indie": []
    },
@@ -1555,7 +1656,7 @@
      "author": "Tom Sykes",
      "kind": "opinion",
      "published": "2026-08-23T08:25:30+00:00",
-     "summary": "Pool / Getty Images Are Harry and Meghan really \u201cmoving back\u201d to the United Kingdom from California? Ever since the big royal story of the week was handed to grateful U.K. newspapers last Wednesday, suspicion has been growing that there\u2019s more to it than meets the eye. It\u2019s now clear that the family is not re-relocating, at least not in the way any normal person understands the words \u201cmoving back.\u201d Read more at The Daily Beast."
+     "summary": "Harold Cunningham / Getty Images Are Harry and Meghan really \u201cmoving back\u201d to the United Kingdom from California? Ever since the big royal story of the week was handed to grateful U.K. newspapers last Wednesday, suspicion has been growing that there\u2019s more to it than meets the eye. It\u2019s now clear that the family is not re-relocating, at least not in the way any normal person understands the words \u201cmoving back.\u201d Read more at The Daily Beast."
     },
     {
      "outlet": "nyt",
@@ -1709,79 +1810,6 @@
    ]
   },
   {
-   "id": "60417de510",
-   "topic": "Politics",
-   "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "campaign",
-     "washington"
-    ],
-    "indie": [
-     "warns",
-     "joining",
-     "countries"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran warns countries against joining US 'economic war'",
-   "updated": "2026-08-23T00:50:00+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 2,
-    "family": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Iran warns countries against joining US 'economic war'",
-     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:50:00+00:00",
-     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T23:56:32+00:00",
-     "summary": "Iran warns that countries joining the US economic war against Iran will face \u2018tit-for-tat\u2019 action."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US presses China to join economic pressure campaign against Iran",
-     "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-21T14:42:50+00:00",
-     "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
-    },
-    {
-     "outlet": "time",
-     "title": "Iran Hits Back at Trump\u2019s Threat of a \u2018Crushing\u2019 Economic \u2018D-Day\u2019 Campaign",
-     "url": "https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/",
-     "author": "Tiago Ventura",
-     "kind": "news",
-     "published": "2026-08-20T16:44:37+00:00",
-     "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Trump did not specify what specific measures would be imposed on countries that continue to do business with Iran. TIME has reached out to the White House for comment. The President also called on U.S. allies to impose additional restrictions on"
-    }
-   ]
-  },
-  {
    "id": "5fdde948ec",
    "topic": "Business & Economy",
    "summary": "A view over Lake Mead shows how far the lake's level has fallen. AP Photo/Ty ONeil In August 2026 the nation\u2019s two largest reservoirs, Lake Mead and Lake Powell, both on the Colorado River, hit their lowest levels since they first began to be filled in 1936 and 1963, respectively. The federal government and the seven Colorado River basin states \u2013 Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming \u2013 have been unable to reach an agreement about who should reduce water usage by how much to avoid catastrophic declines in lake levels. And the existing plans and commitments, including a federal outline announced in late July 2026 , don\u2019t get close to achieving what\u2019s needed to keep the river flowing. Here\u2019s a look at the key issues making an agreement so hard to reach. Big cuts are needed To stabilize the Colorado River system, seven states and Mexico need to reduce annual\u2026",
@@ -1910,6 +1938,58 @@
      "kind": "news",
      "published": "2026-08-21T17:07:00+00:00",
      "summary": "One of Donald Trump\u2019s closest and most devoted aides, Natalie Harp, has faced intense media scrutiny this week, after a Democratic senator, Jon Ossoff, name-checked her in a speech that went viral. So what do we know about Harp, who is often referred to as the \u2018human printer\u2019? And why is everybody talking about her relationship with Trump? Helen Pidd speaks to international news editor Paul Owen Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "46a3b5915f",
+   "topic": "Tech",
+   "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH)\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "The Data Center Backlash Bursts Into the Midterms",
+   "updated": "2026-08-23T09:01:57+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "The Data Center Backlash Bursts Into the Midterms",
+     "url": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+     "author": "Shane Goldmacher",
+     "kind": "opinion",
+     "published": "2026-08-23T09:01:57+00:00",
+     "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Rising data center backlash shakes up midterm races",
+     "url": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
+     "author": "Rachel Frazin",
+     "kind": "news",
+     "published": "2026-08-22T21:00:00+00:00",
+     "summary": "As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities. Key swing state candidates are scrambling to endorse stricter data center policies and accusing their opponents of being too cozy with the industry, as Americans become increasingly hostile to the rapid..."
+    },
+    {
+     "outlet": "vox",
+     "title": "The week the data center backlash exploded",
+     "url": "https://www.vox.com/today-explained-newsletter/500158/data-centers-2026-election-texas-ohio-michigan",
+     "author": "Dylan Scott",
+     "kind": "news",
+     "published": "2026-08-21T20:15:00+00:00",
+     "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH) launched an attack against her Republican challenger over his support for data centers. Pennsylvania Gov. Josh Shapiro, a likely contender for the 2028 Democratic presidential nomination who had previously touted data center investments, signed an executive order to limit their construction. He also bash"
     }
    ]
   },
@@ -2066,6 +2146,58 @@
      "kind": "news",
      "published": "2026-08-23T03:26:04+00:00",
      "summary": "Gov. Rub\u00e9n Rocha Moya of Mexico's Sinaloa state announced Saturday he is once again taking leave \u2014 a day after returning to office following a months-long absence after being indicted in the United States on drug-trafficking and other charges."
+    }
+   ]
+  },
+  {
+   "id": "b045a199ba",
+   "topic": "World",
+   "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
+   "updated": "2026-08-23T03:34:27+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
+     "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+     "author": "Staff and agencies",
+     "kind": "news",
+     "published": "2026-08-23T03:34:27+00:00",
+     "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:00:00+00:00",
+     "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US presses China to join economic pressure campaign against Iran",
+     "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-21T14:42:50+00:00",
+     "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
     }
    ]
   },
@@ -2330,84 +2462,23 @@
    ]
   },
   {
-   "id": "6bfe4a10b4",
-   "topic": "World",
-   "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world\u2019s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza,\u2026",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Israeli army and settlers injure several Palestinians across West Bank",
-   "updated": "2026-08-22T21:02:29+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Israeli army and settlers injure several Palestinians across West Bank",
-     "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T21:02:29+00:00",
-     "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction."
-    },
-    {
-     "outlet": "france24",
-     "title": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
-     "url": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-22T14:50:57+00:00",
-     "summary": "Dozens of former senior French and UK diplomats on Saturday urged their governments to work together to uphold international law in the Palestinian territories, accusing Israel of seeking to \"destroy\" any prospect of a viable Palestinian state. Analysis by Matthew-Mary Caruchet, FRANCE 24 international affairs editor."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Former British and French diplomats urge action over Israel\u2019s \u2018erasure\u2019 of Palestine",
-     "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-     "author": "Patrick Wintour Diplomatic editor",
-     "kind": "news",
-     "published": "2026-08-22T09:00:04+00:00",
-     "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world\u2019s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza, led by the UN Relief and Works Agency, other UN agencies and international NGOs, with consequences for non-compliance, and access too for journalists, diplomats and parliamentarians. Ban all trade with settlements, including goods, investment, insurance and other financial services. Warn potential bidd"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
-     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-21T06:00:26+00:00",
-     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "7768e464b8",
+   "id": "a64119ad64",
    "topic": "Politics",
-   "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH)\u2026",
-   "summaryFrom": "vox",
+   "summary": "The United States Postal Service (USPS) published a rule Friday that would require states to provide lists of voters who received mail-in ballots to the agency. The USPS rule , first proposed June 2, moves to align the agency with President Donald Trump's March 31 executive order, which, among other things, ordered the agency to mandate that all states that plan to use USPS to send mail-in ballots notify the agency at least 90 days before an election and to send USPS a list of eligible voters the state plans on providing a mail-in ballot to at least 60 days before the election. \"Any state that intends to receive mail-in or absentee ballots from individual voters through the Postal Service must ensure that such individuals have been enrolled with the Postal Service for inclusion on the state's Mail-In and Absentee Participation List,\" the new rule states. To be included on the list, an\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "people": [],
    "absent": [
-    "family",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Rising data center backlash shakes up midterm races",
-   "updated": "2026-08-22T21:00:00+00:00",
+   "headline": "US Postal Service issues rule to tighten requirements for mail-in voting despite courts looking to block",
+   "updated": "2026-08-22T20:12:18+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 3
+    "corp": 1,
+    "family": 2
    },
    "newsCount": 3,
    "opinionCount": 0,
@@ -2415,82 +2486,30 @@
    "articles": [
     {
      "outlet": "thehill",
-     "title": "Rising data center backlash shakes up midterm races",
-     "url": "https://thehill.com/homenews/campaign/6044618-ai-data-center-backlash-michigan-ohio-pennsylvania/",
-     "author": "Rachel Frazin",
+     "title": "US Postal Service issues rule to tighten requirements for mail-in voting despite courts looking to block",
+     "url": "https://thehill.com/homenews/administration/6045248-usps-mail-in-voting-guidelines-tighten/",
+     "author": "Mira Bhakta",
      "kind": "news",
-     "published": "2026-08-22T21:00:00+00:00",
-     "summary": "As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities. Key swing state candidates are scrambling to endorse stricter data center policies and accusing their opponents of being too cozy with the industry, as Americans become increasingly hostile to the rapid..."
+     "published": "2026-08-22T20:12:18+00:00",
+     "summary": "The United States Postal Service (USPS) announced Friday new eligibility guidelines for mail-in ballots, complying with President Trump's March executive order restricting the practice \u2014 despite a federal court later striking it down. USPS's 95-page unpublished report, slated for an official release on Aug. 26, detailed how it would distribute mail-in ballots for November's midterms...."
     },
     {
-     "outlet": "vox",
-     "title": "The week the data center backlash exploded",
-     "url": "https://www.vox.com/today-explained-newsletter/500158/data-centers-2026-election-texas-ohio-michigan",
-     "author": "Dylan Scott",
+     "outlet": "nyt",
+     "title": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+     "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+     "author": "Adam Sella",
      "kind": "news",
-     "published": "2026-08-21T20:15:00+00:00",
-     "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH) launched an attack against her Republican challenger over his support for data centers. Pennsylvania Gov. Josh Shapiro, a likely contender for the 2028 Democratic presidential nomination who had previously touted data center investments, signed an executive order to limit their construction. He also bash"
+     "published": "2026-08-22T17:31:21+00:00",
+     "summary": "The plan, which complies with President Trump\u2019s executive order to curtail mail voting, will only go into effect if the Supreme Court rules in the order\u2019s favor."
     },
     {
-     "outlet": "axios",
-     "title": "Data center uproar scrambles the midterm election",
-     "url": "https://www.axios.com/2026/08/20/data-center-uproar-2026-midterms",
-     "author": "Maria Curi",
-     "kind": "news",
-     "published": "2026-08-20T09:00:04+00:00",
-     "summary": "A new populist fever is coursing through the midterms, forcing campaigns to retreat and recalibrate as they confront a groundswell of hostility toward AI data centers. Why it matters: Grassroots pressure is breaking the bipartisan consensus that enabled America's AI buildout. Candidates in both parties are now racing to distance themselves from projects their own leaders spent years courting. The big picture: What started as scattered, localized NIMBYism is scaling into a national cross-partisan movement that could slow America's race for AI supremacy. In Ohio, former Democratic Sen. Sherrod Brown has spent millions on a summer ad campaign branding Republican Sen. Jon Husted as \"the face of data centers,\" weaponizing Husted's years of courting the industry as lieutenant governor. With major projects already underway, the National Republican Senatorial Committee (NRSC) privately warned AI companies a Husted loss could chill support for data centers nationwide. In Texas, Republican Gov. Greg Abbott \u2014 who once declared Texas \"the epicenter of AI development\" \u2014 is now pushing to restrict data centers in rural communities and strip away tax incentives after Democrat Gina Hinojosa brande"
-    }
-   ]
-  },
-  {
-   "id": "ed4324fed1",
-   "topic": "World",
-   "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Why is Israel building new illegal settlements?",
-   "updated": "2026-08-22T19:40:58+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Why is Israel building new illegal settlements?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+     "outlet": "foxnews",
+     "title": "USPS publishes rule to block mail-in ballots from states that don't provide voter lists",
+     "url": "https://www.foxnews.com/politics/usps-publishes-rule-block-mail-in-ballots-states-dont-provide-voter-lists",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T19:40:58+00:00",
-     "summary": "Israel opens construction bids for new illegal housing units in the occupied West Bank."
-    },
-    {
-     "outlet": "bbc",
-     "title": "How Israel is expanding settlements in drive to reshape West Bank",
-     "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:31:47+00:00",
-     "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Israel clashes with allies over West Bank settlement project",
-     "url": "https://www.semafor.com/article/08/20/2026/israel-clashes-with-allies-over-west-bank-settlements",
-     "author": "Tasneem Nashrulla",
-     "kind": "news",
-     "published": "2026-08-20T22:18:32+00:00",
-     "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla"
+     "published": "2026-08-22T14:00:37+00:00",
+     "summary": "The United States Postal Service (USPS) published a rule Friday that would require states to provide lists of voters who received mail-in ballots to the agency. The USPS rule , first proposed June 2, moves to align the agency with President Donald Trump's March 31 executive order, which, among other things, ordered the agency to mandate that all states that plan to use USPS to send mail-in ballots notify the agency at least 90 days before an election and to send USPS a list of eligible voters the state plans on providing a mail-in ballot to at least 60 days before the election. \"Any state that intends to receive mail-in or absentee ballots from individual voters through the Postal Service must ensure that such individuals have been enrolled with the Postal Service for inclusion on the state's Mail-In and Absentee Participation List,\" the new rule states. To be included on the list, an voter's state must submit to the USPS the individual's name and address and include a \"uniquely serialized Intelligent Mail barcode (IMb)\" on both the outbound federal ballot and the return ballot sent to the individual. DHS PLANS COSTLY CRACKDOWN ON STATES THAT DON\u2019T COOPERATE ON ELECTION SECURITY Th"
     }
    ]
   },
@@ -2595,58 +2614,6 @@
      "kind": "news",
      "published": "2026-08-20T13:42:12+00:00",
      "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
-    }
-   ]
-  },
-  {
-   "id": "7cd60c6f74",
-   "topic": "Politics",
-   "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration\u2026",
-   "summaryFrom": "theconversation",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-   "updated": "2026-08-22T13:01:45+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Trump\u2019s Economic Isolation Plan Risks Iran Strikes Across Gulf",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/trump-s-economic-isolation-plan-risks-iran-strikes-across-gulf",
-     "author": "Eric Martin",
-     "kind": "news",
-     "published": "2026-08-22T13:01:45+00:00",
-     "summary": "President Donald Trump is betting new sanctions, a naval blockade and ramped-up economic pressure against Iran\u2019s trading partners can accomplish what thousands of bombs and missiles could not: force Tehran to accept a deal to end the war on US terms."
-    },
-    {
-     "outlet": "npr",
-     "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-     "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-     "author": "Brittney Melton",
-     "kind": "news",
-     "published": "2026-08-21T11:25:10+00:00",
-     "summary": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom. (Image credit: Finn Gomez)"
-    },
-    {
-     "outlet": "theconversation",
-     "title": "Is it illegal for the president to spend \u2018patriotic\u2019 donations on a White House ballroom or anything else?",
-     "url": "https://theconversation.com/is-it-illegal-for-the-president-to-spend-patriotic-donations-on-a-white-house-ballroom-or-anything-else-290107",
-     "author": "Ellen P. Aprill, Senior Scholar in Residence at the UCLA Law School's Lowell Milken Center For Philanthropy And Nonprofit Law, University of California, Los Angeles",
-     "kind": "news",
-     "published": "2026-08-20T22:08:40+00:00",
-     "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration could continue construction work while the court considers its request . As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation o"
     }
    ]
   },
@@ -2963,6 +2930,135 @@
    ]
   },
   {
+   "id": "ec44a68351",
+   "topic": "Politics",
+   "summary": "Sen. John Fetterman , D-Pa., on Saturday dismissed \"AI doomsdaying,\" warning that China benefits from \"overreaction\" by the United States as the two countries compete for dominance in artificial intelligence. Fetterman shared an article on X highlighting a Bloomberg analysis examining what it described as the narrowing U.S. lead over China in the AI race and the faster pace at which Chinese companies are deploying advanced models. The Pennsylvania Democrat reacted to the report by arguing that advancements in AI are critical to national security . \"AI supremacy and energy dominance underpins our national security,\" Fetterman wrote. CHINA IS BUILDING AN AI WAR MACHINE. WASHINGTON MUST WAKE UP BEFORE IT\u2019S TOO LATE Fetterman added that pulling back on the emerging technology would only benefit America's competitors. \"China continues to fuel and benefit from our overreaction,\" he wrote. \"I\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Fetterman aligns with Trump on AI push, warns China benefits from US \u2018overreaction\u2019",
+   "updated": "2026-08-23T09:03:47+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Fetterman aligns with Trump on AI push, warns China benefits from US \u2018overreaction\u2019",
+     "url": "https://nypost.com/2026/08/23/us-news/fetterman-sides-with-trump-on-ai-national-security-push-with-chinese-warning/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-23T09:03:47+00:00",
+     "summary": "The Pennsylvania Democrat reacted to the report by arguing that advancements in AI are critical to national security."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Fetterman aligns with Trump on AI push, warns China benefits from US 'overreaction'",
+     "url": "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T06:52:01+00:00",
+     "summary": "Sen. John Fetterman , D-Pa., on Saturday dismissed \"AI doomsdaying,\" warning that China benefits from \"overreaction\" by the United States as the two countries compete for dominance in artificial intelligence. Fetterman shared an article on X highlighting a Bloomberg analysis examining what it described as the narrowing U.S. lead over China in the AI race and the faster pace at which Chinese companies are deploying advanced models. The Pennsylvania Democrat reacted to the report by arguing that advancements in AI are critical to national security . \"AI supremacy and energy dominance underpins our national security,\" Fetterman wrote. CHINA IS BUILDING AN AI WAR MACHINE. WASHINGTON MUST WAKE UP BEFORE IT\u2019S TOO LATE Fetterman added that pulling back on the emerging technology would only benefit America's competitors. \"China continues to fuel and benefit from our overreaction,\" he wrote. \"I reject the political pandering and hyperbole over data centers or AI doomsdaying.\" Saturday's post was Fetterman's latest call for the U.S. to aggressively pursue AI development. SEN BERNIE SANDERS: ARTIFICIAL INTELLIGENCE IS COMING FOR THE WORKING CLASS. WE MUST FIGHT BACK Fetterman's stance puts th"
+    }
+   ]
+  },
+  {
+   "id": "a7422fa9ec",
+   "topic": "Other",
+   "summary": "Trump transport chief\u2019s YouTube show vowed to \u2018celebrate America\u2019s story\u2019 \u2013 it\u2019s debatable whether it celebrates anything besides the Duffys themselves It would be fair to say that the Trump administration\u2019s celebration of the United States\u2019s 250th birthday has been unorthodox \u2013 involving, as it has, an Ultimate Fighting Championship (UFC) event at the White House, a poorly attended state fair, and a car race through Washington, before which the US president will take a lap of honor. On Tuesday, however, Donald Trump officials dropped perhaps their weirdest 250th offering yet: a six-part travel show in which the US secretary of transportation take his entire family on a startlingly self-involved, creatively funded road trip around the country. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Sean Duffy\u2019s family road-trip reality series: we watched it \u2013 will anyone else?",
+   "updated": "2026-08-23T09:02:03+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Sean Duffy\u2019s Reality Show: From \u2018The Real World\u2019 to the Deal World",
+     "url": "https://www.nytimes.com/2026/08/23/arts/television/sean-duffy-great-american-road-trip.html",
+     "author": "James Poniewozik",
+     "kind": "news",
+     "published": "2026-08-23T09:02:03+00:00",
+     "summary": "\u201cThe Great American Road Trip\u201d sends the transportation secretary and his family on a wholesome, dull tour, with a lot of help from their sponsors."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Sean Duffy\u2019s family road-trip reality series: we watched it \u2013 will anyone else?",
+     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/22/sean-duffy-reality-road-trip-tv-youtube",
+     "author": "Adam Gabbatt",
+     "kind": "news",
+     "published": "2026-08-22T10:00:01+00:00",
+     "summary": "Trump transport chief\u2019s YouTube show vowed to \u2018celebrate America\u2019s story\u2019 \u2013 it\u2019s debatable whether it celebrates anything besides the Duffys themselves It would be fair to say that the Trump administration\u2019s celebration of the United States\u2019s 250th birthday has been unorthodox \u2013 involving, as it has, an Ultimate Fighting Championship (UFC) event at the White House, a poorly attended state fair, and a car race through Washington, before which the US president will take a lap of honor. On Tuesday, however, Donald Trump officials dropped perhaps their weirdest 250th offering yet: a six-part travel show in which the US secretary of transportation take his entire family on a startlingly self-involved, creatively funded road trip around the country. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "cebc60cb14",
+   "topic": "Politics",
+   "summary": "Candidates from seven state-approved parties are taking part in the election, while opposition parties have been banned. Central Asia's largest nation, Kazakhstan maintains a delicate balance between Russia and the West.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Kazakhstan parliamentary vote to cement president's power",
+   "updated": "2026-08-23T08:54:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Kazakhstan parliamentary vote to cement president's power",
+     "url": "https://www.dw.com/en/kazakhstan-parliamentary-vote-to-cement-president-s-power/a-78474598?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T08:54:00+00:00",
+     "summary": "Candidates from seven state-approved parties are taking part in the election, while opposition parties have been banned. Central Asia's largest nation, Kazakhstan maintains a delicate balance between Russia and the West."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Kazakhstan holds parliamentary election expected to cement president\u2019s grip",
+     "url": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T07:38:42+00:00",
+     "summary": "Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul."
+    }
+   ]
+  },
+  {
    "id": "6274e3e945",
    "topic": "Other",
    "summary": "L\u00f3pez wins majority decision to claim WBA crown Romero brands judges\u2019 verdict a \u2018robbery\u2019 New champion adds to previous 135lb, 140lb belts Te\u00f3fimo L\u00f3pez became a three-division world champion on Saturday night, winning a 12-round majority decision over Rolando \u2018Rolly\u2019 Romero to claim the WBA welterweight title at T-Mobile Arena in Las Vegas. L\u00f3pez prevailed by scores of 115-113 and 116-112, while the third judge saw the fight even at 114-114. Romero, making the first defense of his title won against Ryan Garcia 15 months ago , disputed the result in the immediate aftermath. Continue reading...",
@@ -3088,49 +3184,6 @@
      "kind": "news",
      "published": "2026-08-23T03:56:29+00:00",
      "summary": "A couple's anniversary getaway took a wild turn when a bear strolled into a Gatlinburg tea shop and began rummaging through merchandise before suddenly jumping onto the counter in a startling encounter caught on video. The couple, Victoria Puyol and Joshua Card, were visiting Gatlinburg to celebrate their seventh anniversary when they stopped at The Spice & Tea Exchange on Friday, which is where Card spotted an unexpected visitor near the entrance. \"There's a bear,\" Card recalled saying. At first, Puyol said she didn't quite process what was happening, but when Card and the store clerk repeated themselves, she turned and saw the animal standing in the doorway. HIDDEN DANGER AT POPULAR US NATIONAL PARK FORCES TRAIL CLOSURES AS BEAR SIGHTINGS CLIMB The couple recalled guidance to back away from bears , but as they stepped away, the bear ventured farther into the store. The clerk directed them behind the register, where they had access to an emergency exit. The curious intruder appeared particularly interested in the shop's inventory, tearing into a sweet-tea blend and investigating tea diffusers as a crowd gathered outside. An employee from a neighboring store sounded an air horn, th"
-    }
-   ]
-  },
-  {
-   "id": "2623e4b87d",
-   "topic": "World",
-   "summary": "Iran on Saturday said that any country participating in the United States\u2019 \u201ceconomic war\u201d against the Islamic republic would be considered \u201can enemy\u201d. The warning came after President Masoud Pezeshkian said Friday the war with the US should end because the world had already accepted that Iran had won, according to Iranian state media.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran warns states joining US sanctions will be considered enemies",
-   "updated": "2026-08-23T07:47:05+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Iran says any country joining U.S. sanctions on Tehran is considered an \"enemy\"",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T07:47:05+00:00",
-     "summary": "The new head of Iran's supreme national security council issued the warning to countries who join the U.S.'s economic war on Tehran."
-    },
-    {
-     "outlet": "france24",
-     "title": "Iran warns states joining US sanctions will be considered enemies",
-     "url": "https://www.france24.com/en/middle-east/20260822-middle-east-live-iran-allows-several-iraqi-oil-tankers-to-pass-through-hormuz",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-22T09:48:45+00:00",
-     "summary": "Iran on Saturday said that any country participating in the United States\u2019 \u201ceconomic war\u201d against the Islamic republic would be considered \u201can enemy\u201d. The warning came after President Masoud Pezeshkian said Friday the war with the US should end because the world had already accepted that Iran had won, according to Iranian state media."
     }
    ]
   },
@@ -3454,92 +3507,6 @@
    ]
   },
   {
-   "id": "b045a199ba",
-   "topic": "World",
-   "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
-   "updated": "2026-08-23T03:34:27+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
-     "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-     "author": "Staff and agencies",
-     "kind": "news",
-     "published": "2026-08-23T03:34:27+00:00",
-     "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:00:00+00:00",
-     "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation."
-    }
-   ]
-  },
-  {
-   "id": "075217d8b9",
-   "topic": "Justice & Policing",
-   "summary": "A former twice-acting U.S. attorney was found dead this week in a downtown San Diego federal building. Andrew Haden, 48, a California native who headed the U.S. Attorney's Office for the Southern District of California, was found dead Wednesday in the Edward J. Schwartz Federal Building, which houses the prosecutor's office. Police officers responded and found Haden, who was reported missing before he was found. \"Out of an abundance of caution, SDPD investigators responded to the scene, and no foul play is suspected,\" the San Diego Police Department told Fox News Digital. TRUMP 'DRUG CZAR' WARNS OF DEADLY 'RHINO TRANQUILIZER' KILLING AMERICANS AS CARTEL CRACKDOWN ESCALATES \"This is one of the darkest days in our office\u2019s history, but there was nothing dark about Andrew Haden\u2019s life,\" U.S. Attorney for the Southern District of California Adam Gordon said in a statement to Fox News\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Woman found dead in Bronx apartment building \u2014 authorities investigating as possible homicide",
-   "updated": "2026-08-23T03:31:05+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Woman found dead in Bronx apartment building \u2014 authorities investigating as possible homicide",
-     "url": "https://nypost.com/2026/08/22/us-news/woman-found-dead-bronx-apartment-building-friday-authorities-investigating-possible-homicide/",
-     "author": "Tina Moore, Daniel Cody",
-     "kind": "news",
-     "published": "2026-08-23T03:31:05+00:00",
-     "summary": "A woman was found dead in a Bronx apartment on Friday afternoon \u2014 and authorities are eyeing her mentally ill son as a possible homicide suspect, according to sources."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Former acting US Attorney Andrew Haden found dead in San Diego federal building: police",
-     "url": "https://www.foxnews.com/politics/former-acting-us-attorney-andrew-haden-found-dead-san-diego-federal-building-police",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T21:33:14+00:00",
-     "summary": "A former twice-acting U.S. attorney was found dead this week in a downtown San Diego federal building. Andrew Haden, 48, a California native who headed the U.S. Attorney's Office for the Southern District of California, was found dead Wednesday in the Edward J. Schwartz Federal Building, which houses the prosecutor's office. Police officers responded and found Haden, who was reported missing before he was found. \"Out of an abundance of caution, SDPD investigators responded to the scene, and no foul play is suspected,\" the San Diego Police Department told Fox News Digital. TRUMP 'DRUG CZAR' WARNS OF DEADLY 'RHINO TRANQUILIZER' KILLING AMERICANS AS CARTEL CRACKDOWN ESCALATES \"This is one of the darkest days in our office\u2019s history, but there was nothing dark about Andrew Haden\u2019s life,\" U.S. Attorney for the Southern District of California Adam Gordon said in a statement to Fox News Digital. \"He was a beacon of light \u2014 full of laughter, friendship, integrity and an unwavering commitment to serving our community. We will honor his life and legacy by carrying his light forward, today and always.\" APPEALS COURT RULES TRUMP ADMIN UNLAWFULLY APPOINTED NEVADA'S TOP FEDERAL PROSECUTOR Haden "
-    }
-   ]
-  },
-  {
    "id": "95cec127fb",
    "topic": "Politics",
    "summary": "NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier, named after a Black WWII war hero, and had considered President Trump's name as a replacement. Johnson wrote in a social media post that the alleged talks surrounding the USS Doris Miller's name are \u201ca slap in...",
@@ -3708,6 +3675,49 @@
      "kind": "news",
      "published": "2026-08-22T10:27:25+00:00",
      "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely."
+    }
+   ]
+  },
+  {
+   "id": "60417de510",
+   "topic": "World",
+   "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran warns countries against joining US 'economic war'",
+   "updated": "2026-08-23T00:50:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Iran warns countries against joining US 'economic war'",
+     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:50:00+00:00",
+     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Iran warns of retaliation against countries joining US \u2018economic war\u2019",
+     "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T23:26:15+00:00",
+     "summary": "Warning comes after Trump said he will impose 'most crushing' sanctions to isolate Iran and weaken its government."
     }
    ]
   },
