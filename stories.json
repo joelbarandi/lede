@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T03:16:55.049823+00:00",
+ "generated": "2026-08-23T04:05:40.354550+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -17,14 +17,14 @@
      "administration",
      "goods",
      "morning",
-     "negotiations",
-     "some"
+     "fell",
+     "negotiations"
     ],
     "indie": [
      "collapse",
      "starting",
-     "iran",
-     "hours"
+     "hours",
+     "iran"
     ]
    },
    "people": [],
@@ -211,13 +211,13 @@
      "deadline",
      "retaliate",
      "tariff",
-     "fell",
-     "apart"
+     "apart",
+     "fell"
     ],
     "indie": [
+     "hockey",
      "ranging",
      "sticks",
-     "hockey",
      "force",
      "dollar'",
      "deal"
@@ -228,7 +228,7 @@
     "coop"
    ],
    "headline": "Canada to match US tariffs \u201cdollar for dollar,\u201d PM Carney says",
-   "updated": "2026-08-22T20:35:48+00:00",
+   "updated": "2026-08-22T20:35:49+00:00",
    "outletCount": 11,
    "counts": {
     "family": 5,
@@ -246,7 +246,7 @@
      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
      "author": "Ian Austen",
      "kind": "news",
-     "published": "2026-08-22T20:35:48+00:00",
+     "published": "2026-08-22T20:35:49+00:00",
      "summary": "Prime Minister Mark Carney of Canada said that he had pulled negotiators out of trade talks with the United States because the Trump administration had \u201casked too much and offered too little.\u201d"
     },
     {
@@ -379,8 +379,8 @@
     "big": [
      "president",
      "stay",
-     "project",
      "lower",
+     "project",
      "donald",
      "administrative"
     ],
@@ -512,38 +512,38 @@
    "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 6,
+    "bigCount": 5,
     "indieCount": 5,
     "big": [
      "struck",
      "district",
-     "issued",
-     "york",
      "customs",
+     "york",
      "detention"
     ],
     "indie": [
-     "public",
-     "issuing",
+     "basis",
      "nationality",
-     "ruled",
      "because",
-     "basis"
+     "ruled",
+     "public",
+     "issuing"
     ]
    },
    "people": [],
-   "absent": [],
+   "absent": [
+    "corp"
+   ],
    "headline": "Trump administration's 75-country visa ban was illegal, judge rules",
    "updated": "2026-08-22T21:54:39+00:00",
-   "outletCount": 10,
+   "outletCount": 9,
    "counts": {
     "family": 5,
     "nonprofit": 3,
-    "corp": 1,
     "coop": 1,
     "pub": 1
    },
-   "newsCount": 10,
+   "newsCount": 9,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -582,15 +582,6 @@
      "kind": "news",
      "published": "2026-08-22T16:50:24+00:00",
      "summary": "The judge ruled that Secretary of State Marco Rubio exceeded his authority by issuing the policy, which \"runs afoul\" of the Immigration and Nationality Act by mandating \"the refusal of visas to eligible applicants without any basis in law.\""
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump policy that suspended visas for 75 countries struck down",
-     "url": "https://abcnews.com/Politics/judge-strikes-trump-administration-policy-suspended-immigrant-visas/story?id=135862935",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T16:47:09+00:00",
-     "summary": "A U.S. district judge said the policy \"is contrary to law and was issued in excess of Secretary Rubio's statutory authority.\""
     },
     {
      "outlet": "motherjones",
@@ -661,9 +652,9 @@
      "killed",
      "boys",
      "aged",
-     "brinell",
      "student",
-     "students"
+     "brinell",
+     "fagersta"
     ]
    },
    "people": [],
@@ -767,119 +758,6 @@
    ]
   },
   {
-   "id": "60417de510",
-   "topic": "World",
-   "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 5,
-    "big": [
-     "pressure",
-     "washington",
-     "campaign"
-    ],
-    "indie": [
-     "joining",
-     "warns",
-     "considered",
-     "enemies",
-     "countries",
-     "official"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Iran warns countries against joining US 'economic war'",
-   "updated": "2026-08-23T00:50:00+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 4,
-    "corp": 1,
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Iran warns countries against joining US 'economic war'",
-     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:50:00+00:00",
-     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:00:00+00:00",
-     "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T23:56:32+00:00",
-     "summary": "Iran warns that countries joining the US economic war against Iran will face \u2018tit-for-tat\u2019 action."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Iran declares it has won the war as U.S. turns to economic warfare",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T20:55:33+00:00",
-     "summary": "Iran's president said Friday the world had \"approved\" the country's victory, as Vice President JD Vance declares economic pressure \"the most effective tool that we have.\""
-    },
-    {
-     "outlet": "france24",
-     "title": "Iran warns states joining US sanctions will be considered enemies",
-     "url": "https://www.france24.com/en/middle-east/20260822-middle-east-live-iran-allows-several-iraqi-oil-tankers-to-pass-through-hormuz",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-22T09:48:45+00:00",
-     "summary": "Iran on Saturday said that any country participating in the United States\u2019 \u201ceconomic war\u201d against the Islamic republic would be considered \u201can enemy\u201d. The warning came after President Masoud Pezeshkian said Friday the war with the US should end because the world had already accepted that Iran had won, according to Iranian state media."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US presses China to join economic pressure campaign against Iran",
-     "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-21T14:42:50+00:00",
-     "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
-    },
-    {
-     "outlet": "npr",
-     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-     "author": "NPR Staff",
-     "kind": "news",
-     "published": "2026-08-21T11:42:10+00:00",
-     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
-    },
-    {
-     "outlet": "time",
-     "title": "Iran Hits Back at Trump\u2019s Threat of a \u2018Crushing\u2019 Economic \u2018D-Day\u2019 Campaign",
-     "url": "https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/",
-     "author": "Tiago Ventura",
-     "kind": "news",
-     "published": "2026-08-20T16:44:37+00:00",
-     "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Trump did not specify what specific measures would be imposed on countries that continue to do business with Iran. TIME has reached out to the White House for comment. The President also called on U.S. allies to impose additional restrictions on"
-    }
-   ]
-  },
-  {
    "id": "04f4efba9c",
    "topic": "Politics",
    "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s\u2026",
@@ -889,8 +767,8 @@
     "indieCount": 3,
     "big": [
      "work",
-     "justice",
      "john",
+     "justice",
      "roberts",
      "chief"
     ],
@@ -989,12 +867,12 @@
      "tackle"
     ],
     "indie": [
-     "alone",
+     "tired",
      "mount",
+     "alone",
      "father",
      "hike",
-     "left",
-     "tired"
+     "left"
     ]
    },
    "people": [],
@@ -1090,8 +968,8 @@
     "big": [],
     "indie": [
      "interview",
-     "reporter",
-     "interference"
+     "interference",
+     "reporter"
     ]
    },
    "people": [],
@@ -1338,10 +1216,10 @@
     "big": [
      "rogers",
      "mike",
-     "shelved",
+     "michigan's",
+     "democratic",
      "abdul",
-     "tuchin",
-     "michigan's"
+     "aipac"
     ],
     "indie": []
    },
@@ -1410,6 +1288,128 @@
    ]
   },
   {
+   "id": "b045a199ba",
+   "topic": "World",
+   "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
+   "updated": "2026-08-23T03:34:27+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 2,
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
+     "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+     "author": "Staff and agencies",
+     "kind": "news",
+     "published": "2026-08-23T03:34:27+00:00",
+     "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Iran declares it has won the war as U.S. turns to economic warfare",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T03:33:54+00:00",
+     "summary": "Iran's president said Friday the world had \"approved\" the country's victory, as Vice President JD Vance declares economic pressure \"the most effective tool that we have.\""
+    },
+    {
+     "outlet": "france24",
+     "title": "Iran warns states joining US sanctions will be considered enemies",
+     "url": "https://www.france24.com/en/middle-east/20260822-middle-east-live-iran-allows-several-iraqi-oil-tankers-to-pass-through-hormuz",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-22T09:48:45+00:00",
+     "summary": "Iran on Saturday said that any country participating in the United States\u2019 \u201ceconomic war\u201d against the Islamic republic would be considered \u201can enemy\u201d. The warning came after President Masoud Pezeshkian said Friday the war with the US should end because the world had already accepted that Iran had won, according to Iranian state media."
+    },
+    {
+     "outlet": "npr",
+     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+     "author": "NPR Staff",
+     "kind": "news",
+     "published": "2026-08-21T11:42:10+00:00",
+     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
+    }
+   ]
+  },
+  {
+   "id": "4941ab4345",
+   "topic": "Justice & Policing",
+   "summary": "If you were worried about killer cyborgs taking over the world anytime soon, you can breathe a sigh of relief for the moment. Artificial intelligence may be getting smarter, but it turns out some supposedly high-tech robots still haven\u2019t figured out what a kindergarten kid learns on a bicycle: how to hit the brakes. A high-speed demonstration at Beijing\u2019s National Speed Skating Oval turned into an absolute comedy show when a state-of-the-art Chinese humanoid robot dashing around the track lost control and slammed headfirst into a barrier. The epic fail occurred during practice runs for the upcoming 2nd World Humanoid Robot Games. Unitree\u2019s \u201cH1\u201d model was showing off its insane speed inside the famous \u201cIce Ribbon\u201d stadium, tearing around the indoor track to prepare for the big event. Everything looked like a scene straight out of a sci-fi movie until the finish line. Instead of slowing\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Chinese robot beats Usain Bolt\u2019s 100m world record at humanoid games",
+   "updated": "2026-08-23T03:16:19+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 3,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Chinese robot beats Usain Bolt\u2019s 100m world record at humanoid games",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T03:16:19+00:00",
+     "summary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt\u2019s 9.58 second world record."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+     "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T17:02:06+00:00",
+     "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
+    },
+    {
+     "outlet": "dw",
+     "title": "Chinese robot beats Usain Bolt's 100m world record",
+     "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T12:41:00+00:00",
+     "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "WATCH: Terminator\u2019s Chinese Cousin Slams Into Wall During Humanoid Robot Trial Run",
+     "url": "https://www.dailywire.com/news/watch-terminators-chinese-cousin-slams-into-wall-during-humanoid-robot-trial-run",
+     "author": "Hank Berrien",
+     "kind": "opinion",
+     "published": "2026-08-21T07:50:45+00:00",
+     "summary": "If you were worried about killer cyborgs taking over the world anytime soon, you can breathe a sigh of relief for the moment. Artificial intelligence may be getting smarter, but it turns out some supposedly high-tech robots still haven\u2019t figured out what a kindergarten kid learns on a bicycle: how to hit the brakes. A high-speed demonstration at Beijing\u2019s National Speed Skating Oval turned into an absolute comedy show when a state-of-the-art Chinese humanoid robot dashing around the track lost control and slammed headfirst into a barrier. The epic fail occurred during practice runs for the upcoming 2nd World Humanoid Robot Games. Unitree\u2019s \u201cH1\u201d model was showing off its insane speed inside the famous \u201cIce Ribbon\u201d stadium, tearing around the indoor track to prepare for the big event. Everything looked like a scene straight out of a sci-fi movie until the finish line. Instead of slowing down, the robot veered off course and slammed into protective cushioning and equipment. The impact sent sparks flying as the robot violently folded in half before flopping onto its back. Footage of the mechanical wipeout instantly exploded across social media, sending internet onlookers into hysterics"
+    }
+   ]
+  },
+  {
    "id": "c1baf27381",
    "topic": "Climate & Energy",
    "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading...",
@@ -1471,67 +1471,6 @@
    ]
   },
   {
-   "id": "a481161e1b",
-   "topic": "Other",
-   "summary": "The skincare and cosmetics brand Neutrogena acknowledged making longtime spokeswoman Hayden Panettiere feel \u201cunsupported\u201d and pledged a significant investment in women\u2019s health after it faced backlash and boycott calls following the actress\u2019s death. Fans of Panettiere turned on the brand after her claims about Neutrogena\u2019s response to her publicly discussing postpartum depression resurfaced on social media. \u201cFor more than a decade, Hayden was a valued member of our Neutrogena community,\u201d the brand wrote in a statement shared on Instagram. \u201cWe are proud to have partnered with her and understand that we made her feel unsupported during a very difficult time. This is not what Neutrogena stands for or who we want to be.\u201d \u201cHayden\u2019s courage in sharing her challenges helped inspire important conversations and awareness,\u201d the post continued. \u201cWe are making a significant investment to a\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Rose McGowan calls for end to child stardom after fellow \u2018Scream\u2019 star Hayden Panettiere\u2019s death",
-   "updated": "2026-08-23T01:17:51+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "corp": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Rose McGowan calls for end to child stardom after fellow \u2018Scream\u2019 star Hayden Panettiere\u2019s death",
-     "url": "https://pagesix.com/2026/08/22/celebrity-news/rose-mcgowan-calls-to-end-child-stardom-after-hayden-panettieres-death/",
-     "author": "Audrey Rock",
-     "kind": "news",
-     "published": "2026-08-23T01:17:51+00:00",
-     "summary": "Panettiere died on Aug. 16 after a suspected overdose in Greenville, South Carolina."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "A former child star\u2019s death rattles Hollywood and U.S. debt balloons: The news quiz",
-     "url": "https://www.nbcnews.com/news/news-quiz/hayden-panettiere-news-quiz-rcna593573",
-     "author": "Ashley Mowreader",
-     "kind": "news",
-     "published": "2026-08-22T09:15:40+00:00",
-     "summary": "A drug ring headquartered at a frat house, a world leader catfished, and a classroom pet blamed for arson."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Neutrogena Breaks Silence on Hayden Panettiere Backlash Following Her Death",
-     "url": "https://www.thedailybeast.com/neutrogena-addresses-hayden-panettiere-backlash-following-her-death/",
-     "author": "Roosa Rahkonen",
-     "kind": "news",
-     "published": "2026-08-21T20:04:34+00:00",
-     "summary": "Danny Moloshok/Reuters Neutrogena has responded to widespread backlash and calls for a boycott sparked by Hayden Panettiere\u2019s claims about the brand, which resurfaced following her sudden death at 36. The late Nashville actress, who died on August 16, partnered with the beauty company from 2005 to 2015. Panettiere claimed in her 2026 memoir, This Is Me: A Reckoning , that the brand ended their partnership after she discussed her experience with postpartum depression on Live With Kelly and Michael in 2015 . Read more at The Daily Beast."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Neutrogena Addresses Backlash Over Hayden Panettiere Postpartum Controversy",
-     "url": "https://www.dailywire.com/news/neutrogena-addresses-backlash-over-hayden-panettiere-postpartum-controversy",
-     "author": "Amanda Harding",
-     "kind": "opinion",
-     "published": "2026-08-21T15:43:51+00:00",
-     "summary": "The skincare and cosmetics brand Neutrogena acknowledged making longtime spokeswoman Hayden Panettiere feel \u201cunsupported\u201d and pledged a significant investment in women\u2019s health after it faced backlash and boycott calls following the actress\u2019s death. Fans of Panettiere turned on the brand after her claims about Neutrogena\u2019s response to her publicly discussing postpartum depression resurfaced on social media. \u201cFor more than a decade, Hayden was a valued member of our Neutrogena community,\u201d the brand wrote in a statement shared on Instagram. \u201cWe are proud to have partnered with her and understand that we made her feel unsupported during a very difficult time. This is not what Neutrogena stands for or who we want to be.\u201d \u201cHayden\u2019s courage in sharing her challenges helped inspire important conversations and awareness,\u201d the post continued. \u201cWe are making a significant investment to a long-standing community health partner to help give more women access to the support they need, including care for postpartum depression. We will share more details with this community when plans are in place.\u201d At least one crisis PR manager says this is the exact wrong move for Neutrogena. \u201cNeutrogena emplo"
-    }
-   ]
-  },
-  {
    "id": "b9821431ee",
    "topic": "Climate & Energy",
    "summary": "33,124 residents still in the dark as utility company says it is working to restore power in north-west of state Thousands of residents of north-west Indiana on Saturday were headed for their 11th day without electric power after storms swept through the state, toppling trees and power lines, earlier in August. The powerless conditions have led to food lines, closed businesses, dead phones, no schools, spoiled food, dirty clothes, dry gas pumps and a multitude of other deleterious effects on life without energy. Continue reading...",
@@ -1589,6 +1528,89 @@
      "kind": "news",
      "published": "2026-08-22T10:00:01+00:00",
      "summary": "Residents are scrambling for generators, lining up for gas and bracing for a long recovery."
+    }
+   ]
+  },
+  {
+   "id": "60417de510",
+   "topic": "World",
+   "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [
+     "campaign",
+     "washington"
+    ],
+    "indie": [
+     "warns",
+     "joining",
+     "countries",
+     "considered"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran warns countries against joining US 'economic war'",
+   "updated": "2026-08-23T00:50:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 3,
+    "family": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Iran warns countries against joining US 'economic war'",
+     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:50:00+00:00",
+     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:00:00+00:00",
+     "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T23:56:32+00:00",
+     "summary": "Iran warns that countries joining the US economic war against Iran will face \u2018tit-for-tat\u2019 action."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US presses China to join economic pressure campaign against Iran",
+     "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-21T14:42:50+00:00",
+     "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
+    },
+    {
+     "outlet": "time",
+     "title": "Iran Hits Back at Trump\u2019s Threat of a \u2018Crushing\u2019 Economic \u2018D-Day\u2019 Campaign",
+     "url": "https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/",
+     "author": "Tiago Ventura",
+     "kind": "news",
+     "published": "2026-08-20T16:44:37+00:00",
+     "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Trump did not specify what specific measures would be imposed on countries that continue to do business with Iran. TIME has reached out to the White House for comment. The President also called on U.S. allies to impose additional restrictions on"
     }
    ]
   },
@@ -1662,8 +1684,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "president",
-     "emotional"
+     "emotional",
+     "president"
     ],
     "indie": [
      "media"
@@ -1725,74 +1747,54 @@
    ]
   },
   {
-   "id": "7cd60c6f74",
-   "topic": "Politics",
-   "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration\u2026",
-   "summaryFrom": "theconversation",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "force"
-    ],
-    "indie": [
-     "ballroom",
-     "white",
-     "house"
-    ]
-   },
+   "id": "51898bd20e",
+   "topic": "Culture & Sport",
+   "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
    "people": [],
    "absent": [
     "corp",
     "coop",
+    "nonprofit",
     "pub"
    ],
-   "headline": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-   "updated": "2026-08-22T13:01:45+00:00",
-   "outletCount": 4,
+   "headline": "Sophie Cunningham supporters, detractors, rally outside NYC arena during Liberty-Fever WNBA game",
+   "updated": "2026-08-23T03:17:53+00:00",
+   "outletCount": 3,
    "counts": {
-    "family": 2,
-    "nonprofit": 2
+    "family": 3
    },
-   "newsCount": 4,
-   "opinionCount": 0,
+   "newsCount": 2,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "bloomberg",
-     "title": "Trump\u2019s Economic Isolation Plan Risks Iran Strikes Across Gulf",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/trump-s-economic-isolation-plan-risks-iran-strikes-across-gulf",
-     "author": "Eric Martin",
+     "outlet": "nypost",
+     "title": "Sophie Cunningham supporters, detractors, rally outside NYC arena during Liberty-Fever WNBA game",
+     "url": "https://nypost.com/2026/08/22/us-news/sophie-cunningham-supporters-detractors-rally-outside-nyc-arena-during-liberty-v-fever-wnba-game-amid-trans-scandal/",
+     "author": "Marie Pohl, Ella Morrison",
      "kind": "news",
-     "published": "2026-08-22T13:01:45+00:00",
-     "summary": "President Donald Trump is betting new sanctions, a naval blockade and ramped-up economic pressure against Iran\u2019s trading partners can accomplish what thousands of bombs and missiles could not: force Tehran to accept a deal to end the war on US terms."
+     "published": "2026-08-23T03:17:53+00:00",
+     "summary": "A large group of protesters rallied outside Barclays Arena Saturday night in the midst of Sophie Cunningham's 'trans' scandal where she spoke up for protecting women in sports."
     },
     {
-     "outlet": "npr",
-     "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-     "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-     "author": "Brittney Melton",
+     "outlet": "breitbart",
+     "title": "ADF Warns WNBA: Silencing Sophie Cunningham Fans Could Bring Liability",
+     "url": "https://www.breitbart.com/sports/2026/08/22/adf-warns-wnba-silencing-sophie-cunningham-fans-legal-liability/",
+     "author": "Mariane Angela",
      "kind": "news",
-     "published": "2026-08-21T11:25:10+00:00",
-     "summary": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom. (Image credit: Finn Gomez)"
+     "published": "2026-08-22T17:56:33+00:00",
+     "summary": "Alliance Defending Freedom (ADF) warned WNBA Commissioner Cathy Engelbert on Friday that the league may expose itself to legal liability by silencing fans who support fairness in women\u2019s sports, citing two recent incidents involving supporters of Indiana Fever guard Sophie The post ADF Warns WNBA: Silencing Sophie Cunningham Fans Could Bring Liability appeared first on Breitbart ."
     },
     {
-     "outlet": "theconversation",
-     "title": "Is it illegal for the president to spend \u2018patriotic\u2019 donations on a White House ballroom or anything else?",
-     "url": "https://theconversation.com/is-it-illegal-for-the-president-to-spend-patriotic-donations-on-a-white-house-ballroom-or-anything-else-290107",
-     "author": "Ellen P. Aprill, Senior Scholar in Residence at the UCLA Law School's Lowell Milken Center For Philanthropy And Nonprofit Law, University of California, Los Angeles",
-     "kind": "news",
-     "published": "2026-08-20T22:08:40+00:00",
-     "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration could continue construction work while the court considers its request . As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation o"
-    },
-    {
-     "outlet": "semafor",
-     "title": "Bessent teases Iran economic pressure plan",
-     "url": "https://www.semafor.com/article/08/20/2026/bessent-teases-iran-economic-pressure-plan",
-     "author": "Eleanor Mueller",
-     "kind": "news",
-     "published": "2026-08-20T19:58:18+00:00",
-     "summary": "Treasury Secretary Scott Bessent plans to reveal on Monday \u201cexactly what we\u2019re going to do\u201d to ratchet up economic pressure on Iran, he told CNBC Thursday morning. \u201cIf you insist on doing business with them \u2014 either transferring money, buying their oil, or doing seaborne ship transfers \u2014 then the US Treasury \u2026 will put its full might and force toward enforcing against you,\u201d Bessent said. He suggested that the administration\u2019s new efforts could affect China, saying that \u201cit would do them a big service to get with the program.\u201d Bessent also teased a separate announcement on \u201can increased focus on fiscal consolidation,\u201d which he said he\u2019d make alongside White House budget chief Russ Vought in coming days. He also reiterated that forthcoming government bond buybacks could top $4 billion, adding that \u201cwe\u2019ll see what the conditions are and \u2026 analyze them then.\u201d \u2014 Eleanor Mueller"
+     "outlet": "foxnews",
+     "title": "BROADCAST BIAS: Sophie Cunningham takes a hit, but ABC, NBC dodge WNBA\u2019s transgender sports fight",
+     "url": "https://www.foxnews.com/opinion/broadcast-bias-sophie-cunningham-takes-hit-abc-nbc-dodge-wnbas-transgender-sports-fight",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-22T11:00:58+00:00",
+     "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t want to cover this development, either as a sportsmanship or culture war issue. There was one network willing to report a few times on the WNBA facing the issue of men in women\u2019s sports \u2014 CBS \u2014 which might explain why liberals cast aspersions on its editor-in-chief, Bari Weiss. On July 29, \"CBS Evenin"
     }
    ]
   },
@@ -1897,58 +1899,6 @@
      "kind": "news",
      "published": "2026-08-23T00:15:02+00:00",
      "summary": "After Cleveland's preseason loss to the Buffalo Bills, Deshaun Watson spoke about \"disrespectful\" Browns fans booing him."
-    }
-   ]
-  },
-  {
-   "id": "4ce7dd3838",
-   "topic": "Justice & Policing",
-   "summary": "Two Connecticut police officers were shot, and a suspect was killed, after an attempted arrest led to a car chase and exchange of gunfire near Hartford late Friday, authorities said. Hartford police officers were investigating what the department described as illegal activity at about 11:07 p.m., when a male suspect ran from the scene. An officer chased the suspect and attempted to take him into custody. During a struggle, the officer felt what he believed was a gun in the suspect's waistband, according to Hartford police . The suspect managed to get into a car and drive away, prompting officers to chase him through the city as information about the vehicle was shared with surrounding police departments. TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT The chase eventually reached Webster Court in Newington, a town south of\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Seven killed, including two police officers, in UK \u2018wrong-side\u2019 car crash",
-   "updated": "2026-08-22T23:52:13+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
-     "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T23:52:13+00:00",
-     "summary": "Two Connecticut police officers were shot, and a suspect was killed, after an attempted arrest led to a car chase and exchange of gunfire near Hartford late Friday, authorities said. Hartford police officers were investigating what the department described as illegal activity at about 11:07 p.m., when a male suspect ran from the scene. An officer chased the suspect and attempted to take him into custody. During a struggle, the officer felt what he believed was a gun in the suspect's waistband, according to Hartford police . The suspect managed to get into a car and drive away, prompting officers to chase him through the city as information about the vehicle was shared with surrounding police departments. TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT The chase eventually reached Webster Court in Newington, a town south of Hartford near the Rocky Hill town line. After the suspect got out of the car, there was an exchange of gunfire that left two officers wounded and the suspect dead, police said. The wounded officers were identified as Hartford Police Officer Alex Diaz and Rocky Hill Police Officer Jon Escobar. Both officers "
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Seven killed, including two police officers, in UK \u2018wrong-side\u2019 car crash",
-     "url": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T17:34:28+00:00",
-     "summary": "Accident follows similar crashes in Ireland where police highlighted social media trend driving in opposite direction."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Two police officers killed in North Yorkshire crash named",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
-     "author": "Geneva Abdul and Geraldine McKelvie",
-     "kind": "news",
-     "published": "2026-08-22T16:09:07+00:00",
-     "summary": "Watchdog launches inquiry into collision in which seven people died involving police car and another vehicle Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named. Police constables Matthew Blades and Tom Clough were among seven people killed after their marked police car collided with a Volkswagen Passat travelling the wrong way along the A66 in North Yorkshire. Continue reading..."
     }
    ]
   },
@@ -2326,58 +2276,6 @@
    ]
   },
   {
-   "id": "031aeb3883",
-   "topic": "Justice & Policing",
-   "summary": "If you were worried about killer cyborgs taking over the world anytime soon, you can breathe a sigh of relief for the moment. Artificial intelligence may be getting smarter, but it turns out some supposedly high-tech robots still haven\u2019t figured out what a kindergarten kid learns on a bicycle: how to hit the brakes. A high-speed demonstration at Beijing\u2019s National Speed Skating Oval turned into an absolute comedy show when a state-of-the-art Chinese humanoid robot dashing around the track lost control and slammed headfirst into a barrier. The epic fail occurred during practice runs for the upcoming 2nd World Humanoid Robot Games. Unitree\u2019s \u201cH1\u201d model was showing off its insane speed inside the famous \u201cIce Ribbon\u201d stadium, tearing around the indoor track to prepare for the big event. Everything looked like a scene straight out of a sci-fi movie until the finish line. Instead of slowing\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-   "updated": "2026-08-22T17:02:06+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-     "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T17:02:06+00:00",
-     "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
-    },
-    {
-     "outlet": "dw",
-     "title": "Chinese robot beats Usain Bolt's 100m world record",
-     "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T12:41:00+00:00",
-     "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "WATCH: Terminator\u2019s Chinese Cousin Slams Into Wall During Humanoid Robot Trial Run",
-     "url": "https://www.dailywire.com/news/watch-terminators-chinese-cousin-slams-into-wall-during-humanoid-robot-trial-run",
-     "author": "Hank Berrien",
-     "kind": "opinion",
-     "published": "2026-08-21T07:50:45+00:00",
-     "summary": "If you were worried about killer cyborgs taking over the world anytime soon, you can breathe a sigh of relief for the moment. Artificial intelligence may be getting smarter, but it turns out some supposedly high-tech robots still haven\u2019t figured out what a kindergarten kid learns on a bicycle: how to hit the brakes. A high-speed demonstration at Beijing\u2019s National Speed Skating Oval turned into an absolute comedy show when a state-of-the-art Chinese humanoid robot dashing around the track lost control and slammed headfirst into a barrier. The epic fail occurred during practice runs for the upcoming 2nd World Humanoid Robot Games. Unitree\u2019s \u201cH1\u201d model was showing off its insane speed inside the famous \u201cIce Ribbon\u201d stadium, tearing around the indoor track to prepare for the big event. Everything looked like a scene straight out of a sci-fi movie until the finish line. Instead of slowing down, the robot veered off course and slammed into protective cushioning and equipment. The impact sent sparks flying as the robot violently folded in half before flopping onto its back. Footage of the mechanical wipeout instantly exploded across social media, sending internet onlookers into hysterics"
-    }
-   ]
-  },
-  {
    "id": "0b6a029d2e",
    "topic": "World",
    "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil\u2026",
@@ -2426,6 +2324,58 @@
      "kind": "news",
      "published": "2026-08-20T13:42:12+00:00",
      "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
+    }
+   ]
+  },
+  {
+   "id": "7cd60c6f74",
+   "topic": "Politics",
+   "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration\u2026",
+   "summaryFrom": "theconversation",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+   "updated": "2026-08-22T13:01:45+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Trump\u2019s Economic Isolation Plan Risks Iran Strikes Across Gulf",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/trump-s-economic-isolation-plan-risks-iran-strikes-across-gulf",
+     "author": "Eric Martin",
+     "kind": "news",
+     "published": "2026-08-22T13:01:45+00:00",
+     "summary": "President Donald Trump is betting new sanctions, a naval blockade and ramped-up economic pressure against Iran\u2019s trading partners can accomplish what thousands of bombs and missiles could not: force Tehran to accept a deal to end the war on US terms."
+    },
+    {
+     "outlet": "npr",
+     "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+     "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+     "author": "Brittney Melton",
+     "kind": "news",
+     "published": "2026-08-21T11:25:10+00:00",
+     "summary": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom. (Image credit: Finn Gomez)"
+    },
+    {
+     "outlet": "theconversation",
+     "title": "Is it illegal for the president to spend \u2018patriotic\u2019 donations on a White House ballroom or anything else?",
+     "url": "https://theconversation.com/is-it-illegal-for-the-president-to-spend-patriotic-donations-on-a-white-house-ballroom-or-anything-else-290107",
+     "author": "Ellen P. Aprill, Senior Scholar in Residence at the UCLA Law School's Lowell Milken Center For Philanthropy And Nonprofit Law, University of California, Los Angeles",
+     "kind": "news",
+     "published": "2026-08-20T22:08:40+00:00",
+     "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration could continue construction work while the court considers its request . As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation o"
     }
    ]
   },
@@ -2742,45 +2692,131 @@
    ]
   },
   {
-   "id": "7fb107388f",
-   "topic": "Other",
-   "summary": "Follow live Victorian Labor expands on free dental care election promise The Victorian premier, Ben Carroll , and health minister, Ingrid Stitt , have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November . You can\u2019t use a Medicare card for dental unless you\u2019ve got a healthcare card or you are a category of a particular citizen, it is very difficult \u2026 I\u2019ve been visiting a lot of dentists over the past few weeks. There [are] waiting lists. People are in enormous, unbearable pain. This will be a cost of living measure but it will also make sure that we deal with the healthcare of some of the most vulnerable Victorians. This is really going to fill the gap that\u2019s been there for decades. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "dece53f58d",
+   "topic": "Politics",
+   "summary": "U.S.-Canada trade talks collapsed last night. Punitive Trump tariffs will now go into effect. Canada will reciprocate with retaliatory tariffs of its own. The story may not be over. Donald Trump is notorious for issuing threats, then reversing them. Wars are on, off, on again, off again, then on a third time\u2014but only as a \u201c little detour .\u201d This is not an administration that thinks even one move ahead. But without a supersized Trump TACO , the U.S.-Canada impasse likely won\u2019t resolve soon. The Trump administration has one big idea about Canada: The U.S. is larger, stronger, and richer than Canada, so Canada must sooner or later surrender to Trump\u2019s demands. That one big idea is wrong. Yes, Trump can hurt Canada more than Canada can hurt Trump. That part of Trump\u2019s thinking is true. But wars are not decided only by the question Who can inflict more pain? Wars are also decided by the\u2026",
+   "summaryFrom": "theatlantic",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
-    "family",
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Australia news live: Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as highlight of course",
-   "updated": "2026-08-23T03:14:25+00:00",
+   "headline": "\u2018You just can\u2019t trust Trump\u2019: Canadian premiers fire back in trade war",
+   "updated": "2026-08-23T03:42:22+00:00",
    "outletCount": 2,
    "counts": {
-    "nonprofit": 1,
-    "pub": 1
+    "pub": 1,
+    "family": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "Australia news live: Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as highlight of course",
-     "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-     "author": "Stephanie Convery",
-     "kind": "news",
-     "published": "2026-08-23T03:14:25+00:00",
-     "summary": "Follow live Victorian Labor expands on free dental care election promise The Victorian premier, Ben Carroll , and health minister, Ingrid Stitt , have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November . You can\u2019t use a Medicare card for dental unless you\u2019ve got a healthcare card or you are a category of a particular citizen, it is very difficult \u2026 I\u2019ve been visiting a lot of dentists over the past few weeks. There [are] waiting lists. People are in enormous, unbearable pain. This will be a cost of living measure but it will also make sure that we deal with the healthcare of some of the most vulnerable Victorians. This is really going to fill the gap that\u2019s been there for decades. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-     "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "\u2018You just can\u2019t trust Trump\u2019: Canadian premiers fire back in trade war",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T07:53:57+00:00",
-     "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal."
+     "published": "2026-08-23T03:42:22+00:00",
+     "summary": "Provincial premiers have joined Canada\u2019s Prime Minister Mark Carney, firing back after US President imposed tariffs."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "How to Lose a Trade War",
+     "url": "https://www.theatlantic.com/ideas/2026/08/why-us-canada-trade-talks-fell-apart/688386/?utm_source=feed",
+     "author": "David Frum",
+     "kind": "news",
+     "published": "2026-08-22T15:25:00+00:00",
+     "summary": "U.S.-Canada trade talks collapsed last night. Punitive Trump tariffs will now go into effect. Canada will reciprocate with retaliatory tariffs of its own. The story may not be over. Donald Trump is notorious for issuing threats, then reversing them. Wars are on, off, on again, off again, then on a third time\u2014but only as a \u201c little detour .\u201d This is not an administration that thinks even one move ahead. But without a supersized Trump TACO , the U.S.-Canada impasse likely won\u2019t resolve soon. The Trump administration has one big idea about Canada: The U.S. is larger, stronger, and richer than Canada, so Canada must sooner or later surrender to Trump\u2019s demands. That one big idea is wrong. Yes, Trump can hurt Canada more than Canada can hurt Trump. That part of Trump\u2019s thinking is true. But wars are not decided only by the question Who can inflict more pain? Wars are also decided by the question Who can endure more pain? Trump\u2019s failure to accept this truth is why he lost the Iran war\u2014and why he is losing his trade wars. Canadian Prime Minister Mark Carney has much more political permission to accept pain from a U.S.-Canadian trade war than Trump does. To read current Canadian polling i"
+    }
+   ]
+  },
+  {
+   "id": "5d29d7408b",
+   "topic": "Justice & Policing",
+   "summary": "A former twice-acting U.S. attorney was found dead this week in a downtown San Diego federal building. Andrew Haden, 48, a California native who headed the U.S. Attorney's Office for the Southern District of California, was found dead Wednesday in the Edward J. Schwartz Federal Building, which houses the prosecutor's office. Police officers responded and found Haden, who was reported missing before he was found. \"Out of an abundance of caution, SDPD investigators responded to the scene, and no foul play is suspected,\" the San Diego Police Department told Fox News Digital. TRUMP 'DRUG CZAR' WARNS OF DEADLY 'RHINO TRANQUILIZER' KILLING AMERICANS AS CARTEL CRACKDOWN ESCALATES \"This is one of the darkest days in our office\u2019s history, but there was nothing dark about Andrew Haden\u2019s life,\" U.S. Attorney for the Southern District of California Adam Gordon said in a statement to Fox News\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Woman found dead in Bronx apartment building on Friday \u2014 authorities investigating as possible homicide",
+   "updated": "2026-08-23T03:31:05+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Woman found dead in Bronx apartment building on Friday \u2014 authorities investigating as possible homicide",
+     "url": "https://nypost.com/2026/08/22/us-news/woman-found-dead-bronx-apartment-building-friday-authorities-investigating-possible-homicide/",
+     "author": "Tina Moore, Daniel Cody",
+     "kind": "news",
+     "published": "2026-08-23T03:31:05+00:00",
+     "summary": "A woman was found dead in a Bronx apartment on Friday afternoon \u2014 and authorities are eyeing her mentally ill son as a possible homicide suspect, according to sources."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Former acting US Attorney Andrew Haden found dead in San Diego federal building: police",
+     "url": "https://www.foxnews.com/politics/former-acting-us-attorney-andrew-haden-found-dead-san-diego-federal-building-police",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T21:33:14+00:00",
+     "summary": "A former twice-acting U.S. attorney was found dead this week in a downtown San Diego federal building. Andrew Haden, 48, a California native who headed the U.S. Attorney's Office for the Southern District of California, was found dead Wednesday in the Edward J. Schwartz Federal Building, which houses the prosecutor's office. Police officers responded and found Haden, who was reported missing before he was found. \"Out of an abundance of caution, SDPD investigators responded to the scene, and no foul play is suspected,\" the San Diego Police Department told Fox News Digital. TRUMP 'DRUG CZAR' WARNS OF DEADLY 'RHINO TRANQUILIZER' KILLING AMERICANS AS CARTEL CRACKDOWN ESCALATES \"This is one of the darkest days in our office\u2019s history, but there was nothing dark about Andrew Haden\u2019s life,\" U.S. Attorney for the Southern District of California Adam Gordon said in a statement to Fox News Digital. \"He was a beacon of light \u2014 full of laughter, friendship, integrity and an unwavering commitment to serving our community. We will honor his life and legacy by carrying his light forward, today and always.\" APPEALS COURT RULES TRUMP ADMIN UNLAWFULLY APPOINTED NEVADA'S TOP FEDERAL PROSECUTOR Haden "
+    }
+   ]
+  },
+  {
+   "id": "95cec127fb",
+   "topic": "Politics",
+   "summary": "NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier, named after a Black WWII war hero, and had considered President Trump's name as a replacement. Johnson wrote in a social media post that the alleged talks surrounding the USS Doris Miller's name are \u201ca slap in...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "NAACP slams Navy's reported talks to swap war hero's name on carrier with Trump's",
+   "updated": "2026-08-23T03:09:34+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "NAACP slams Navy's reported talks to swap war hero's name on carrier with Trump's",
+     "url": "https://thehill.com/policy/defense/6045429-naacp-navy-war-hero-trump-swap/",
+     "author": "Mira Bhakta",
+     "kind": "news",
+     "published": "2026-08-23T03:09:34+00:00",
+     "summary": "NAACP President Derrick Johnson bashed the Navy Friday following reports that it planned to rename an aircraft carrier, named after a Black WWII war hero, and had considered President Trump's name as a replacement. Johnson wrote in a social media post that the alleged talks surrounding the USS Doris Miller's name are \u201ca slap in..."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Navy mulls stripping Black war hero\u2019s name from aircraft carrier for Trump: Sources",
+     "url": "https://abcnews.com/Politics/navy-mulls-stripping-black-war-heros-aircraft-carrier/story?id=135836486",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T15:32:46+00:00",
+     "summary": "Sources familiar said that these discussions have been going on most of the summer."
     }
    ]
   },
@@ -2824,6 +2860,49 @@
      "kind": "news",
      "published": "2026-08-22T21:00:26+00:00",
      "summary": "A Texas judge denied Karmelo Anthony a new trial Saturday, after his attorneys argued that courtroom restrictions, hearings held without Anthony present and the handling of an unwritten agreement between his former lawyers and prosecutors violated his rights. Retired District Judge Michael Chitty denied Anthony\u2019s request after reviewing the motion, court record, evidence and arguments, briefs and relevant case law, according to his order. The order did not detail his reasoning for the decision. The decision leaves Anthony\u2019s murder conviction and 35-year prison sentence in place. His challenge will continue on direct appeal. UNTAPPED KARMELO ANTHONY EVIDENCE CACHE SHOWED HE STALKED EX-GIRLFRIEND, HAD 'KNIVES' OBSESSION: PROSECUTORS Collin County District Attorney Greg Willis said his office expected the decision and remains confident in the case. \"We respect, and expected, the court\u2019s decision denying the motion for a new trial. The jury\u2019s guilty verdict stands, and we remain confident in the process,\" his statement said. \"Every defendant has the right to appeal, and our thoughts and prayers remain with the Metcalf family in the painful wake of last week\u2019s hearing.\" Chitty heard two"
+    }
+   ]
+  },
+  {
+   "id": "aed8dacbb2",
+   "topic": "Other",
+   "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as race highlight",
+   "updated": "2026-08-23T02:14:52+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as race highlight",
+     "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+     "author": "Stephanie Convery",
+     "kind": "news",
+     "published": "2026-08-23T02:14:52+00:00",
+     "summary": "\u2018Landmarks\u2019 side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week\u2019s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past \u2013 plus one they definitely didn\u2019t. In what organisers have admitted was an \u201cunfortunate error\u201d, a stadium in Munich, Germany, was erroneously etched on to the event\u2019s participation medal instead of a local Sydney landmark. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+     "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T07:53:57+00:00",
+     "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal."
     }
    ]
   },
@@ -2953,6 +3032,49 @@
      "kind": "news",
      "published": "2026-08-22T10:27:25+00:00",
      "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely."
+    }
+   ]
+  },
+  {
+   "id": "031666b4a1",
+   "topic": "Justice & Policing",
+   "summary": "Two Connecticut police officers were shot, and a suspect was killed, after an attempted arrest led to a car chase and exchange of gunfire near Hartford late Friday, authorities said. Hartford police officers were investigating what the department described as illegal activity at about 11:07 p.m., when a male suspect ran from the scene. An officer chased the suspect and attempted to take him into custody. During a struggle, the officer felt what he believed was a gun in the suspect's waistband, according to Hartford police . The suspect managed to get into a car and drive away, prompting officers to chase him through the city as information about the vehicle was shared with surrounding police departments. TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT The chase eventually reached Webster Court in Newington, a town south of\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Two police officers killed in North Yorkshire crash named",
+   "updated": "2026-08-22T23:52:13+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
+     "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T23:52:13+00:00",
+     "summary": "Two Connecticut police officers were shot, and a suspect was killed, after an attempted arrest led to a car chase and exchange of gunfire near Hartford late Friday, authorities said. Hartford police officers were investigating what the department described as illegal activity at about 11:07 p.m., when a male suspect ran from the scene. An officer chased the suspect and attempted to take him into custody. During a struggle, the officer felt what he believed was a gun in the suspect's waistband, according to Hartford police . The suspect managed to get into a car and drive away, prompting officers to chase him through the city as information about the vehicle was shared with surrounding police departments. TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT The chase eventually reached Webster Court in Newington, a town south of Hartford near the Rocky Hill town line. After the suspect got out of the car, there was an exchange of gunfire that left two officers wounded and the suspect dead, police said. The wounded officers were identified as Hartford Police Officer Alex Diaz and Rocky Hill Police Officer Jon Escobar. Both officers "
+    },
+    {
+     "outlet": "guardian",
+     "title": "Two police officers killed in North Yorkshire crash named",
+     "url": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
+     "author": "Geneva Abdul and Geraldine McKelvie",
+     "kind": "news",
+     "published": "2026-08-22T16:09:07+00:00",
+     "summary": "Watchdog launches inquiry into collision in which seven people died involving police car and another vehicle Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named. Police constables Matthew Blades and Tom Clough were among seven people killed after their marked police car collided with a Volkswagen Passat travelling the wrong way along the A66 in North Yorkshire. Continue reading..."
     }
    ]
   },
@@ -3301,49 +3423,6 @@
    ]
   },
   {
-   "id": "bd5ea8e1e4",
-   "topic": "Other",
-   "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "ADF Warns WNBA: Silencing Sophie Cunningham Fans Could Bring Liability",
-   "updated": "2026-08-22T17:56:33+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "ADF Warns WNBA: Silencing Sophie Cunningham Fans Could Bring Liability",
-     "url": "https://www.breitbart.com/sports/2026/08/22/adf-warns-wnba-silencing-sophie-cunningham-fans-legal-liability/",
-     "author": "Mariane Angela",
-     "kind": "news",
-     "published": "2026-08-22T17:56:33+00:00",
-     "summary": "Alliance Defending Freedom (ADF) warned WNBA Commissioner Cathy Engelbert on Friday that the league may expose itself to legal liability by silencing fans who support fairness in women\u2019s sports, citing two recent incidents involving supporters of Indiana Fever guard Sophie The post ADF Warns WNBA: Silencing Sophie Cunningham Fans Could Bring Liability appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "BROADCAST BIAS: Sophie Cunningham takes a hit, but ABC, NBC dodge WNBA\u2019s transgender sports fight",
-     "url": "https://www.foxnews.com/opinion/broadcast-bias-sophie-cunningham-takes-hit-abc-nbc-dodge-wnbas-transgender-sports-fight",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-22T11:00:58+00:00",
-     "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t want to cover this development, either as a sportsmanship or culture war issue. There was one network willing to report a few times on the WNBA facing the issue of men in women\u2019s sports \u2014 CBS \u2014 which might explain why liberals cast aspersions on its editor-in-chief, Bari Weiss. On July 29, \"CBS Evenin"
-    }
-   ]
-  },
-  {
    "id": "c5103beb1a",
    "topic": "Politics",
    "summary": "A report released by thinktank Cap argues the deployment of the national guard failed to have a measurable impact on crime, despite costing billions The Center for American Progress (Cap) received a letter from Donald Trump\u2019s lawyer threatening a $5bn lawsuit unless the liberal research organization retracts a report criticizing the effectiveness of the president\u2019s National Guard rollout. The report released 13 July argues that the National Guard deployment in Washington DC, Memphis and Los Angeles failed to have a measurable impact on crime in these cities despite an estimated cost of $1.7bn. The report looks at the falling rate of crime in cities without a National Guard intervention and concludes that they are not statistically different from the rate of decrease in those that had the intervention, noting that violent crime began falling well before Trump took office in 2025.\u2026",
@@ -3641,144 +3720,6 @@
      "kind": "news",
      "published": "2026-08-21T10:00:00+00:00",
      "summary": "H ow many words does it take to trigger MAGA world? Three, it turns out. When Senator Jon Ossoff of Georgia said at a rally on Sunday that President Trump wants to \u201ctravel with Natalie\u201d\u2014implying an untoward relationship between the 80-year-old grandfather and his 35-year-old special assistant, Natalie Harp\u2014the outrage from Trump allies was as loud as it was predictable: Megyn Kelly, Newt Gingrich, and Laura Ingraham, among others, accused Ossoff of misogyny, despite having previously defended Trump\u2019s own sexist comments. (The word hypocrisy feels inadequate here.) But as this debate over propriety unfolds, a dedicated swath of the Democratic base is delighted. Since Trump\u2019s reelection, these voters have been hankering to see their leaders show, well, a little more fight. So far, most of that fight seems to have come from midterm candidates on the far left, who often target the Democratic Party itself or the so-called establishment. To hear Ossoff, a more moderate Democrat in a reddish-purple state, direct a sharp\u2014albeit petty\u2014jab directly at the president thrilled such voters. Some, in fact, found it almost cathartic. \u201cSomeone finally said something,\u201d a 52-year-old woman named Rebe"
-    }
-   ]
-  },
-  {
-   "id": "d51ca14ae0",
-   "topic": "Other",
-   "summary": "The brother of Hayden Panettiere\u2019s boyfriend broke his silence on Friday, revealing new details about the discovery of the 36-year-old actress unconscious and the desperate attempts to save her. Zach Hickerson said he had plans with his brother, Brian Hickerson, and Panettiere on the day of the actress\u2019 death. He said he was driving home from a Sunday church service to the Airbnb in Greenville, South Carolina, where Panettiere and Brian were staying. The three were supposed to leave for lunch and indoor golf. When Zach arrived, he said he knocked loudly and woke his brother. Zach and Brian then realized Panettiere was unconscious. Zach said he called 911 while his brother administered Narcan, a drug meant to reverse an opioid overdose, to Panettiere. \u201cI knocked loudly which apparently woke Brian up from a nap they were both taking on the pull out couch bed in the living room,\u201d Zach\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Hayden Panettiere\u2019s Boyfriend\u2019s Brother Reveals What He Did To Try To Save Her",
-   "updated": "2026-08-22T08:00:33+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailywire",
-     "title": "Hayden Panettiere\u2019s Boyfriend\u2019s Brother Reveals What He Did To Try To Save Her",
-     "url": "https://www.dailywire.com/news/hayden-panettieres-boyfriends-brother-reveals-what-he-did-to-try-to-save-her",
-     "author": "Amanda Prestigiacomo",
-     "kind": "opinion",
-     "published": "2026-08-22T08:00:33+00:00",
-     "summary": "The brother of Hayden Panettiere\u2019s boyfriend broke his silence on Friday, revealing new details about the discovery of the 36-year-old actress unconscious and the desperate attempts to save her. Zach Hickerson said he had plans with his brother, Brian Hickerson, and Panettiere on the day of the actress\u2019 death. He said he was driving home from a Sunday church service to the Airbnb in Greenville, South Carolina, where Panettiere and Brian were staying. The three were supposed to leave for lunch and indoor golf. When Zach arrived, he said he knocked loudly and woke his brother. Zach and Brian then realized Panettiere was unconscious. Zach said he called 911 while his brother administered Narcan, a drug meant to reverse an opioid overdose, to Panettiere. \u201cI knocked loudly which apparently woke Brian up from a nap they were both taking on the pull out couch bed in the living room,\u201d Zach recalled, according to TMZ. \u201cWhen we went in and tried to wake Hayden up for lunch, we realized she was unconscious.\u201d \u201cI immediately called 911 and Brian gave her Narcan,\u201d he said. \u201cWe then jointly performed CPR while 911 was on speaker until Fire and EMS arrived. At that point, we watched as they tried "
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Hayden Panettiere\u2019s Final Moments Revealed by Ex\u2019s Brother",
-     "url": "https://www.thedailybeast.com/obsessed/hayden-panettieres-final-moments-revealed-by-exs-brother-zach-hickerson/",
-     "author": "Eboni Boykin-Patterson",
-     "kind": "news",
-     "published": "2026-08-21T20:26:30+00:00",
-     "summary": "Mario Anzuoni / REUTERS More details about the moments leading up to actress Hayden Panettiere\u2019s death at 36 on Sunday have been revealed by the brother of the late star\u2019s ex, who was on the scene. Panettiere had traveled to South Carolina from Los Angeles with her on-again-off-again boyfriend Brian Hickerson just a day before she died at a luxury loft complex. Hickerson, who was in the loft with his brother Zach when EMS failed to revive her from a suspected overdose, was arrested multiple times for physically abusing the actress between 2018 and 2020. Read more at The Daily Beast."
-    }
-   ]
-  },
-  {
-   "id": "1950a3d7d2",
-   "topic": "Other",
-   "summary": "As we do every Friday, we're turning Racket over to you, the readers.",
-   "summaryFrom": "racket",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "pub"
-   ],
-   "headline": "Open Thread",
-   "updated": "2026-08-22T07:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 2,
-    "coop": 1
-   },
-   "newsCount": 0,
-   "opinionCount": 3,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Open Thread",
-     "url": "https://reason.com/volokh/2026/08/22/open-thread-304/",
-     "author": "Eugene Volokh",
-     "kind": "opinion",
-     "published": "2026-08-22T07:00:00+00:00",
-     "summary": "The post Open Thread appeared first on Reason.com ."
-    },
-    {
-     "outlet": "racket",
-     "title": "Let\u2019s Talk WFH in This Week\u2019s Open Thread",
-     "url": "https://racketmn.com/lets-talk-wfh-in-this-weeks-open-thread",
-     "author": "Keith Harris",
-     "kind": "opinion",
-     "published": "2026-08-21T14:31:37+00:00",
-     "summary": "As we do every Friday, we're turning Racket over to you, the readers."
-    },
-    {
-     "outlet": "reason",
-     "title": "Open Thread",
-     "url": "https://reason.com/volokh/2026/08/21/open-thread-303/",
-     "author": "Eugene Volokh",
-     "kind": "opinion",
-     "published": "2026-08-21T07:00:00+00:00",
-     "summary": "The post Open Thread appeared first on Reason.com ."
-    }
-   ]
-  },
-  {
-   "id": "3355b0549a",
-   "topic": "World",
-   "summary": "Indiana Fever players Caitlin Clark, left, and Sophie Cunningham, right, during a WNBA game against the Atlanta Dream on August 16, 2026, in Atlanta, Georgia. | Rich von Biberstein/Icon Sportswire via Getty Images On the court, the WNBA is thriving. After 30 years, its players are receiving a historic payout , along with a massive TV distribution deal that will mean more games, and hopefully even more fans. But off the court, all that attention has some downsides. Most recently, it means that the culture war has come for the WNBA. Specifically, the league has found itself at the center of a debate over transgender athletes and women\u2019s sports, one that Indiana Fever guard Sophie Cunningham ignited last month. Cunningham, 30, has gained a reputation as an \u201cenforcer\u201d for her All-Star teammate, Caitlin Clark. In July, she told ESPN that \u201cI think that I am here to extend love, but I also\u2026",
-   "summaryFrom": "vox",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "The Culture War Is Coming For The WNBA",
-   "updated": "2026-08-22T07:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "slate",
-     "title": "The Culture War Is Coming For The WNBA",
-     "url": "https://slate.com/podcasts/icymi/2026/08/racist-and-transphobic-trolls-are-ruining-the-wnba?via=rss",
-     "author": "Kate Lindsay",
-     "kind": "news",
-     "published": "2026-08-22T07:00:00+00:00",
-     "summary": "The rise of the WNBA has come with unintended consequences."
-    },
-    {
-     "outlet": "vox",
-     "title": "Sophie Cunningham and the WNBA culture wars",
-     "url": "https://www.vox.com/podcasts/499833/wnba-culture-wars-trans-athletes-sophie-cunningham-caitlin-clark",
-     "author": "Noel King",
-     "kind": "news",
-     "published": "2026-08-20T20:55:00+00:00",
-     "summary": "Indiana Fever players Caitlin Clark, left, and Sophie Cunningham, right, during a WNBA game against the Atlanta Dream on August 16, 2026, in Atlanta, Georgia. | Rich von Biberstein/Icon Sportswire via Getty Images On the court, the WNBA is thriving. After 30 years, its players are receiving a historic payout , along with a massive TV distribution deal that will mean more games, and hopefully even more fans. But off the court, all that attention has some downsides. Most recently, it means that the culture war has come for the WNBA. Specifically, the league has found itself at the center of a debate over transgender athletes and women\u2019s sports, one that Indiana Fever guard Sophie Cunningham ignited last month. Cunningham, 30, has gained a reputation as an \u201cenforcer\u201d for her All-Star teammate, Caitlin Clark. In July, she told ESPN that \u201cI think that I am here to extend love, but I also think that with love is truth, being honest. And I want to protect young girls in a locker room or young girls in sport who shouldn\u2019t have to go against biological men.\u201d No known trans athletes have ever played in the WNBA, but that hasn\u2019t much deterred pundits from weighing in. It\u2019s the latest instance"
     }
    ]
   }
