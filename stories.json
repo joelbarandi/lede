@@ -1,293 +1,9 @@
 {
- "generated": "2026-08-23T18:50:00.148213+00:00",
+ "generated": "2026-08-23T19:36:16.059100+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
-  {
-   "id": "f58a494b96",
-   "topic": "World",
-   "summary": "The Freedom 250 Grand Prix circuit has proved to be a treacherous one, and that was highlighted in a frightening crash involving a pair of drivers early in the race. On lap 36 of 147, Team Penske's David Malukas, who qualified in the top 6, was making his way through the final corner but appeared to clip the inside wall of the Washington, DC street circuit. That sent him into the wall hard, but things got worse. CLICK HERE FOR MORE OUTKICK SPORTS COVERAGE Juncos Hollinger Racing's Sting Ray Robb was behind Malukas at the time and came around the corner on the racing line, completely unaware that Malukas' No. 12 Chevrolet had come to a stop in his path. Robb's No. 77 Chevrolet T-boned Malukas and brought out the third caution of the day, the first for something other than debris. RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'THIS IS MORE THAN JUST AN INDYCAR EVENT'\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 6,
-    "big": [
-     "drivers",
-     "donald",
-     "sunday"
-    ],
-    "indie": [
-     "waves",
-     "people",
-     "killed",
-     "ukraine"
-    ]
-   },
-   "people": [],
-   "absent": [],
-   "headline": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-   "updated": "2026-08-23T18:37:10+00:00",
-   "outletCount": 10,
-   "counts": {
-    "family": 5,
-    "corp": 2,
-    "pub": 4,
-    "nonprofit": 1,
-    "coop": 1
-   },
-   "newsCount": 12,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "IndyCar drivers David Malukas, Sting Ray Robb involved in scary crash in Freedom 250 Grand Prix",
-     "url": "https://www.foxnews.com/outkick-sports/indycar-drivers-david-malukas-sting-ray-robb-involved-scary-crash-freedom-250-grand-prix",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:37:10+00:00",
-     "summary": "The Freedom 250 Grand Prix circuit has proved to be a treacherous one, and that was highlighted in a frightening crash involving a pair of drivers early in the race. On lap 36 of 147, Team Penske's David Malukas, who qualified in the top 6, was making his way through the final corner but appeared to clip the inside wall of the Washington, DC street circuit. That sent him into the wall hard, but things got worse. CLICK HERE FOR MORE OUTKICK SPORTS COVERAGE Juncos Hollinger Racing's Sting Ray Robb was behind Malukas at the time and came around the corner on the racing line, completely unaware that Malukas' No. 12 Chevrolet had come to a stop in his path. Robb's No. 77 Chevrolet T-boned Malukas and brought out the third caution of the day, the first for something other than debris. RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'THIS IS MORE THAN JUST AN INDYCAR EVENT' Fortunately, both drivers hopped out of their cars, making them the first two retirements of the afternoon. It was an unfortunate end to Malukas' weekend; the 24-year-old from Chicago is in his first season with Team Penske and has driven well. He came to Washington, DC third in the championship standings, bu"
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Trump kicks off Freedom 250 IndyCar race in the streets of Washington, D.C.",
-     "url": "https://www.cbsnews.com/news/trump-freedom-250-grand-prix-indycar-washington-dc/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:21:45+00:00",
-     "summary": "The open-wheel race is the latest of President Trump's celebrations this year to mark America's 250th birthday."
-    },
-    {
-     "outlet": "wapo",
-     "title": "IndyCar drivers roar through D.C. streets in auto race along National Mall",
-     "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
-     "author": "Les Carpenter, Liam Bowman, Cleve R. Wootson Jr., Ben Conarck",
-     "kind": "news",
-     "published": "2026-08-23T18:18:29+00:00",
-     "summary": "The Freedom 250 Grand Prix, which drew upward of 150,000 spectators, kicked off after President Donald Trump waved a green flag."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-     "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:17:34+00:00",
-     "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
-    },
-    {
-     "outlet": "wapo",
-     "title": "See photos from the first Indycar Grand Prix in Washington DC",
-     "url": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/",
-     "author": "Kenneth Dickerman",
-     "kind": "news",
-     "published": "2026-08-23T17:33:00+00:00",
-     "summary": "Photos from the first Grand Prix in Washington DC"
-    },
-    {
-     "outlet": "thehill",
-     "title": "Live updates: Trump takes honor lap in IndyCar Grand Prix",
-     "url": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
-     "author": "The Hill Staff",
-     "kind": "news",
-     "published": "2026-08-23T17:20:16+00:00",
-     "summary": "President Donald Trump arrived at the Freedom 250 Grand Prix event in Washington, D.C., on Sunday afternoon, where his motorcade took him on a lap around the racetrack where IndyCar drivers are expected to reach speeds around 180 mph. The event is part of semiquincentennial celebrations and includes flyovers by various branches of the military...."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Photos: Ukraine celebrates National Flag Day",
-     "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:18:25+00:00",
-     "summary": "People observe a minute of silence for those killed in war to mark the holiday established in 2004."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Trump waves the green flag to start the IndyCar race as racers zoom through Washington's streets",
-     "url": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
-     "author": "Michelle L. Price, Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T15:21:21+00:00",
-     "summary": "The open-wheel race, with cars whizzing past Washington's monuments at speeds approaching 200 mph, is the latest of Trump's celebrations this year to mark America's 250th birthday."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "IndyCars Race in Washington for Trump\u2019s US Birthday Bash",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/indycars-race-in-washington-for-trump-s-us-birthday-festivities",
-     "author": "Mar\u00eda Paula Mijares Torres and Hadriana Lowenkron",
-     "kind": "news",
-     "published": "2026-08-23T14:06:37+00:00",
-     "summary": "For one weekend only, speed limits don\u2019t apply to cars circling the National Mall in Washington as the Trump administration brings an IndyCar race through the capital, part of the president\u2019s celebration of the nation\u2019s 250th birthday."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Has A Message For Freedom 250 Drivers \u2014 And It\u2019s Not \u2018Be Safe\u2019",
-     "url": "https://www.dailywire.com/news/trump-has-a-message-for-freedom-250-drivers-and-its-not-be-safe",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-23T12:42:27+00:00",
-     "summary": "President Donald Trump joined the crowds in the nation\u2019s capital on Sunday for the Freedom 250 race \u2014 but he didn\u2019t tell the drivers to \u201cbe safe.\u201d The president told reporters his advice to Sunday\u2019s drivers boiled down to two words: have fun. Dwelling on safety, he argued, was more likely to make a driver hold back \u2014 and less likely to help them win. \u201cHave fun,\u201d he said, adding, \u201cI don\u2019t wanna say sort of \u2018be safe\u2019 because it\u2019s sort of a negative thought. Right? They don\u2019t wanna think about that, because if they do, generally speaking, you\u2019re not gonna win when you start thinking that way.\u201d \u201cBut they\u2019re great,\u201d he said of the drivers slated to race on Sunday. \u201cI know many of them through name \u2026 but it\u2019s a great sport.\u201d Trump also said on Sunday that Indianapolis Motor Speedway and INDYCAR owner Roger Penske had been trying to pull off a race in Washington, D.C., for some time \u2014 but that until the Trump administration came along, it had looked like an impossibility. \ud83d\udea8 PRESIDENT TRUMP JUST NOW: \u201cThey\u2019ve been trying to do this for 20 years\u2026when he came to see Trump, it got done in about 15 MINUTES!\u201d \u201cSo many people wanna come! 300,000+, they closed the bridges. Bigger and better!\u201d \u201cI "
-    },
-    {
-     "outlet": "bbc",
-     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-     "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T13:13:16+00:00",
-     "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
-     "url": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T21:50:27+00:00",
-     "summary": "The Freedom 250 Grand Prix is part of the nation\u2019s 250th anniversary celebrations and the first major auto race in the US capital in more than 24 years."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "First Draft: \u2b07\ufe0f Trump Advisers Worry He Could \u2018Sink to the High 20s\u2019",
-     "url": "https://zeteo.com/p/trump-advisers-worry-he-could-sink",
-     "author": "Asawin Suebsaeng",
-     "kind": "news",
-     "published": "2026-08-21T11:19:27+00:00",
-     "summary": "On this day in 2018, former Trump lawyer and fixer Michael Cohen pleaded guilty to charges arising from making payments to women who claimed affairs with his boss. Cohen served prison time and emerged as a stringent critic of Trump but has now crawled back onside, interviewing the president on his radio show Thursday night . Happy Friday! It\u2019s Swin , again. I have seen a lot of you making the same complaint, and it goes something like this: Donald Trump is such a horrendous U.S. president on so many different personal and policy fronts; I know his poll numbers are garbage right now, but how is it even possible that he\u2019s consistently clinging to more than 30% favorability in the polling? What does a doddering fascist have to do to crack the 20s? Well \u2026 in today\u2019s \u2018 First Draft ,\u2019 I may have a surprise for you: You\u2019re not the only ones wondering that. Some very well-connected consultants and Trump whisperers are thinking about the scary 20s, too \u2013 and they\u2019re not pleased about it. Plus, Trump\u2019s DOJ opens yet another absurd but frightening front in his war on his enemies, and the Iran stalemate keeps on stalemating hard. Let\u2019s read in. Subscribe now How Low Can He Go? The Trumps atten"
-    }
-   ]
-  },
-  {
-   "id": "9df9bf12cc",
-   "topic": "Business & Economy",
-   "summary": "Dominic LeBlanc, Canada's minister in charge of trade with the United States, exits the office of U.S. Trade Representative Jamieson Greer after a meeting in Washington, D.C., on Aug. 20, 2026. \u2014Mandel NGAN\u2014AFP Trade talks between the United States and Canada collapsed Friday. With President Donald Trump\u2019s 50% tariffs taking effect the following day, Prime Minister Mark Carney quickly responded with retaliatory measures that go into effect in September. U.S. Customs and Border Protection sent out guidance for importers saying that the tariffs, which Trump first announced last month, would go into effect Saturday. They impact about $20 billion of Canadian goods, including hockey sticks, building materials, clothing, beer, and cheese. Negotiators from both countries had worked for weeks to reach a trade deal, leading up to a three-day extension of the original tariff deadline. At the\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 6,
-    "big": [
-     "president"
-    ],
-    "indie": [
-     "both",
-     "retaliatory",
-     "levy",
-     "escalates",
-     "worth",
-     "imposed"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-   "updated": "2026-08-23T15:54:36+00:00",
-   "outletCount": 10,
-   "counts": {
-    "pub": 4,
-    "family": 3,
-    "nonprofit": 2,
-    "corp": 1
-   },
-   "newsCount": 10,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-     "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T15:54:36+00:00",
-     "summary": "Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices."
-    },
-    {
-     "outlet": "nyt",
-     "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
-     "url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
-     "author": "The New York Times",
-     "kind": "news",
-     "published": "2026-08-23T09:47:28+00:00",
-     "summary": "Canada suspended trade negotiations, triggering President Trump\u2019s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate \u201cdollar for dollar.\u201d"
-    },
-    {
-     "outlet": "france24",
-     "title": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
-     "url": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-23T09:02:22+00:00",
-     "summary": "Canada and the US were closing in on a trade deal earlier this week until the negotiations fell apart. Both sides blame each other for last-minute changes to the terms. Canada\u2019s Prime Minister Mark Carney has announced retaliatory tariffs on the United States after Washington imposed a 50 percent levy on 20-billion-dollars worth of Canadian goods. On Saturday, he addressed the nation for the first time since the talks collapsed, as Charlotte Lam explains."
-    },
-    {
-     "outlet": "dw",
-     "title": "Trump hits out at Canada over retaliatory tariffs",
-     "url": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T07:31:00+00:00",
-     "summary": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are threatening new tariffs after the collapse of talks on Friday."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Canada Hits Back on US Tariffs as Carney Says \u2018At War\u2019 on Trade",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/canada-unveils-20-billion-counter-tariffs-to-mirror-trump-levy",
-     "author": "Thomas Seal and Derek Decloet",
-     "kind": "news",
-     "published": "2026-08-22T15:22:17+00:00",
-     "summary": "Prime Minister Mark Carney said Canada will apply counter-tariffs on $20 billion of US products on Sept. 8, escalating the feud rocking one of the world\u2019s biggest trading relationships."
-    },
-    {
-     "outlet": "time",
-     "title": "Canada to Match Trump\u2019s 50% Tariffs, Dollar for Dollar",
-     "url": "https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-22T14:43:20+00:00",
-     "summary": "Dominic LeBlanc, Canada's minister in charge of trade with the United States, exits the office of U.S. Trade Representative Jamieson Greer after a meeting in Washington, D.C., on Aug. 20, 2026. \u2014Mandel NGAN\u2014AFP Trade talks between the United States and Canada collapsed Friday. With President Donald Trump\u2019s 50% tariffs taking effect the following day, Prime Minister Mark Carney quickly responded with retaliatory measures that go into effect in September. U.S. Customs and Border Protection sent out guidance for importers saying that the tariffs, which Trump first announced last month, would go into effect Saturday. They impact about $20 billion of Canadian goods, including hockey sticks, building materials, clothing, beer, and cheese. Negotiators from both countries had worked for weeks to reach a trade deal, leading up to a three-day extension of the original tariff deadline. At the time, Trump suggested that an agreement had been reached, writing on Truth Social on Tuesday that he had \u201cpaused\u201d the tariffs because the two countries \u201chave a DEAL!\u201d But in a statement just before midnight on Friday, Carney said that \u201cprogress has not been enough to meet our objectives for Canadians.\u201d R"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T12:20:46+00:00",
-     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
-    },
-    {
-     "outlet": "npr",
-     "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-     "author": "Miguel Macias",
-     "kind": "news",
-     "published": "2026-08-22T04:36:27+00:00",
-     "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8. (Image credit: Graham Hughes)"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump announces temporary pause of beef import tariffs in effort to lower prices",
-     "url": "https://abcnews.com/Politics/trump-announces-temporary-pause-beef-import-tariffs-effort/story?id=135841581",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T20:39:58+00:00",
-     "summary": "Farmers and lawmakers have raised concerns over increasing foreign beef imports."
-    },
-    {
-     "outlet": "guardian",
-     "title": "JD Vance reportedly mocks Carney for trying to \u2018out-tough\u2019 Trump on trade",
-     "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-     "author": "Olivia Bowden in Toronto",
-     "kind": "news",
-     "published": "2026-08-21T15:22:48+00:00",
-     "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to \u201cout-tough\u201d Donald Trump. The recording, which was reportedly made at a fundraiser and shared with the Canadian Press , comes in the last stretch of a difficult negotiation in which the US president has threatened to impose 50% tariffs on Canada. Continue reading..."
-    }
-   ]
-  },
   {
    "id": "13cfbffff9",
    "topic": "Justice & Policing",
@@ -301,12 +17,12 @@
      "district"
     ],
     "indie": [
+     "issuing",
      "ruled",
-     "because",
-     "basis",
      "likely",
      "public",
-     "issuing"
+     "because",
+     "basis"
     ]
    },
    "people": [],
@@ -410,10 +126,10 @@
     "indieCount": 3,
     "big": [
      "stay",
+     "friday",
+     "here",
      "issued",
      "proceed",
-     "here",
-     "friday",
      "lower"
     ],
     "indie": []
@@ -509,160 +225,67 @@
    ]
   },
   {
-   "id": "04f4efba9c",
-   "topic": "Politics",
-   "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 2,
-    "big": [
-     "indycars",
-     "streets",
-     "trump",
-     "today",
-     "around",
-     "donald"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
-   "updated": "2026-08-23T18:31:38+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 3,
-    "family": 2,
-    "nonprofit": 2
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
-     "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:31:38+00:00",
-     "summary": "Twenty-five cars traveling at top speeds approaching 180 mph are zooming around the National Mall this weekend as IndyCar takes over downtown D.C."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "IndyCars set to race on streets of nation's capital. Here's what to know",
-     "url": "https://abcnews.com/Sports/weekends-indycar-race-streets-nations-capital/story?id=135743374",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T16:05:20+00:00",
-     "summary": "President Donald Trump is transforming the streets around the National Mall in Washington, D.C., this weekend into an IndyCar motorsports mecca for the first time."
-    },
-    {
-     "outlet": "forbes",
-     "title": "IndyCars Whiz Through DC Streets Today In Freedom 250 Grand Prix: What To Know",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/23/indycars-whiz-through-dc-streets-today-in-freedom-250-grand-prix-what-to-know/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-23T13:05:49+00:00",
-     "summary": "Racers will drive down Pennsylvania Avenue and zip past landmarks and museums along the National Mall."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "White House revs up \u2018iconic\u2019 Freedom 250 race as IndyCars prepare to unleash American muscle on DC streets",
-     "url": "https://www.foxnews.com/politics/white-house-revs-up-iconic-freedom-250-race-indycars-prepare-unleash-american-muscle-dc-streets",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T12:00:07+00:00",
-     "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the White House. \"The historic IndyCar race set to take place in our Nation\u2019s Capital will be one of the greatest and most iconic races in history,\" Ingle said. \"The President will leave his imprint on this historic race in a way that only he can.\" RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'T"
-    },
-    {
-     "outlet": "newsweek",
-     "title": "At Trump\u2019s Freedom 250 Grand Prix, Two Americas Collide. Or Do They?",
-     "url": "https://www.newsweek.com/freedom-250-grand-prix-indycar-trump-12356961",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T10:00:00+00:00",
-     "summary": "IndyCar's D.C. street race pits a \"red state\" sport against the bluest city\u2014but the divide isn't all that it seems."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
-     "url": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
-     "author": "Doug Adams",
-     "kind": "news",
-     "published": "2026-08-21T22:55:27+00:00",
-     "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
-    },
-    {
-     "outlet": "npr",
-     "title": "What to know about this weekend's IndyCar race on the National Mall",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-     "author": "Rachel Treisman",
-     "kind": "news",
-     "published": "2026-08-21T09:01:00+00:00",
-     "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
-    }
-   ]
-  },
-  {
-   "id": "03272dfc8b",
-   "topic": "Politics",
+   "id": "eb07c7b868",
+   "topic": "Business & Economy",
    "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 3,
-    "indieCount": 5,
+    "bigCount": 5,
+    "indieCount": 3,
     "big": [
-     "canadian",
-     "friday"
+     "effect",
+     "tariff",
+     "collapsed"
     ],
     "indie": [
-     "administration",
-     "united",
-     "states",
-     "economic",
-     "wants",
-     "president"
+     "deal",
+     "retaliatory",
+     "escalates"
     ]
    },
    "people": [],
    "absent": [
     "coop"
    ],
-   "headline": "The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile",
-   "updated": "2026-08-23T17:24:46+00:00",
+   "headline": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
+   "updated": "2026-08-23T17:51:42+00:00",
    "outletCount": 7,
    "counts": {
-    "nonprofit": 4,
-    "pub": 1,
-    "corp": 1,
-    "family": 2
+    "corp": 3,
+    "pub": 2,
+    "family": 2,
+    "nonprofit": 1
    },
-   "newsCount": 7,
-   "opinionCount": 1,
+   "newsCount": 8,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
-     "author": "Olivia Bowden",
-     "kind": "news",
-     "published": "2026-08-23T17:24:46+00:00",
-     "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground \u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicates seeking a fair deal is futile. Andrea Lawlor, an associate professor of political science at McMaster University in Ontario, said: \u201cNo matter the closeness of the historical relationship, the American administration has signalled that it now prioritises its interests above those of some sort of global economic coordination or harmony. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "outlet": "abcnews",
+     "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T05:46:43+00:00",
-     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+     "published": "2026-08-23T17:51:42+00:00",
+     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
+    },
+    {
+     "outlet": "france24",
+     "title": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
+     "url": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-23T09:02:22+00:00",
+     "summary": "Canada and the US were closing in on a trade deal earlier this week until the negotiations fell apart. Both sides blame each other for last-minute changes to the terms. Canada\u2019s Prime Minister Mark Carney has announced retaliatory tariffs on the United States after Washington imposed a 50 percent levy on 20-billion-dollars worth of Canadian goods. On Saturday, he addressed the nation for the first time since the talks collapsed, as Charlotte Lam explains."
+    },
+    {
+     "outlet": "dw",
+     "title": "Trump hits out at Canada over retaliatory tariffs",
+     "url": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T07:31:00+00:00",
+     "summary": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are threatening new tariffs after the collapse of talks on Friday."
     },
     {
      "outlet": "axios",
@@ -683,40 +306,220 @@
      "summary": "Trade talks between the US and Canada collapsed Friday in part amid a last-minute standoff over cutting US tariffs on Canadian medium- and heavy-duty vehicles, people familiar with the matter said."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "U.S. and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
-     "url": "https://www.pbs.org/newshour/world/u-s-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-canada-says-it-will-retaliate",
-     "author": "Rob Gillies, Associated Press",
-     "kind": "news",
-     "published": "2026-08-22T15:30:49+00:00",
-     "summary": "President Donald Trump's import taxes will hit about 5% of what Canada ships to the United States every year, including products ranging from hockey sticks to tongue depressors."
-    },
-    {
-     "outlet": "npr",
-     "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
-     "author": "Scott Simon",
-     "kind": "news",
-     "published": "2026-08-22T11:43:25+00:00",
-     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
-    },
-    {
      "outlet": "time",
-     "title": "How Much the National Debt Grew Under Trump and Biden",
-     "url": "https://time.com/article/2026/08/21/national-debt-trump-biden/",
-     "author": "Chantelle Lee",
+     "title": "Canada to Match Trump\u2019s 50% Tariffs, Dollar for Dollar",
+     "url": "https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/",
+     "author": "Rebecca Schneid",
      "kind": "news",
-     "published": "2026-08-21T14:27:57+00:00",
-     "summary": "The U.S. Treasury building in Washington, D.C., on June 17, 2025. \u2014Al Drago\u2014Bloomberg/Getty Images The U.S.\u2019s national debt surpassed $40 trillion for the first time ever this week\u2014more than double what it was a decade ago. The record-breaking figure comes after the government reported in March that the total debt reached $39 trillion, meaning that the debt grew by $1 trillion in less than half a year. Just a few months before that, in October, that figure was $38 trillion. And the country has reached the $40 trillion milestone earlier than experts had previously predicted; in 2023, the Congressional Budget Office estimated that the total debt wouldn\u2019t hit that figure until 2028. The debt has been increasing for decades, but much of the current total has been accumulated over the past ten years, during the administrations of President Donald Trump and former President Joe Biden. Here\u2019s how much the debt grew under each of their terms in the White House. Trump\u2019s first term When Trump took office for his first term in January 2017, the total debt was about $19.95 trillion. When his presidency ended four years later, the debt stood at roughly $27.75 trillion, meaning that the debt ros"
+     "published": "2026-08-22T14:43:20+00:00",
+     "summary": "Dominic LeBlanc, Canada's minister in charge of trade with the United States, exits the office of U.S. Trade Representative Jamieson Greer after a meeting in Washington, D.C., on Aug. 20, 2026. \u2014Mandel NGAN\u2014AFP Trade talks between the United States and Canada collapsed Friday. With President Donald Trump\u2019s 50% tariffs taking effect the following day, Prime Minister Mark Carney quickly responded with retaliatory measures that go into effect in September. U.S. Customs and Border Protection sent out guidance for importers saying that the tariffs, which Trump first announced last month, would go into effect Saturday. They impact about $20 billion of Canadian goods, including hockey sticks, building materials, clothing, beer, and cheese. Negotiators from both countries had worked for weeks to reach a trade deal, leading up to a three-day extension of the original tariff deadline. At the time, Trump suggested that an agreement had been reached, writing on Truth Social on Tuesday that he had \u201cpaused\u201d the tariffs because the two countries \u201chave a DEAL!\u201d But in a statement just before midnight on Friday, Carney said that \u201cprogress has not been enough to meet our objectives for Canadians.\u201d R"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump announces temporary pause of beef import tariffs in effort to lower prices",
+     "url": "https://abcnews.com/Politics/trump-announces-temporary-pause-beef-import-tariffs-effort/story?id=135841581",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T20:39:58+00:00",
+     "summary": "Farmers and lawmakers have raised concerns over increasing foreign beef imports."
     },
     {
      "outlet": "guardian",
-     "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
-     "author": "Kenneth Roth",
-     "kind": "opinion",
-     "published": "2026-08-21T12:00:35+00:00",
-     "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
+     "title": "JD Vance reportedly mocks Carney for trying to \u2018out-tough\u2019 Trump on trade",
+     "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
+     "author": "Olivia Bowden in Toronto",
+     "kind": "news",
+     "published": "2026-08-21T15:22:48+00:00",
+     "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to \u201cout-tough\u201d Donald Trump. The recording, which was reportedly made at a fundraiser and shared with the Canadian Press , comes in the last stretch of a difficult negotiation in which the US president has threatened to impose 50% tariffs on Canada. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "f58a494b96",
+   "topic": "Politics",
+   "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 3,
+    "big": [
+     "national",
+     "mall",
+     "freedom",
+     "celebration",
+     "indycars"
+    ],
+    "indie": [
+     "waves"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+   "updated": "2026-08-23T19:30:27+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 3,
+    "corp": 1,
+    "pub": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "IndyCar drivers roar through D.C. streets in auto race along National Mall",
+     "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
+     "author": "Les Carpenter, Liam Bowman, Cleve R. Wootson Jr., Ben Conarck",
+     "kind": "news",
+     "published": "2026-08-23T19:30:27+00:00",
+     "summary": "After President Trump waved the green flag to start the competition at around 1 p.m., the rubber hit the road. Cars swarmed past spectators in a brightly colored blur that shook the pavement"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Trump kicks off Freedom 250 IndyCar race in the streets of Washington, D.C.",
+     "url": "https://www.cbsnews.com/news/trump-freedom-250-grand-prix-indycar-washington-dc/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:21:45+00:00",
+     "summary": "The open-wheel race is the latest of President Trump's celebrations this year to mark America's 250th birthday."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+     "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:17:34+00:00",
+     "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Trump waves the green flag to start the IndyCar race as racers zoom through Washington's streets",
+     "url": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
+     "author": "Michelle L. Price, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T15:21:21+00:00",
+     "summary": "The open-wheel race, with cars whizzing past Washington's monuments at speeds approaching 200 mph, is the latest of Trump's celebrations this year to mark America's 250th birthday."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "IndyCars Race in Washington for Trump\u2019s US Birthday Bash",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/indycars-race-in-washington-for-trump-s-us-birthday-festivities",
+     "author": "Mar\u00eda Paula Mijares Torres and Hadriana Lowenkron",
+     "kind": "news",
+     "published": "2026-08-23T14:06:37+00:00",
+     "summary": "For one weekend only, speed limits don\u2019t apply to cars circling the National Mall in Washington as the Trump administration brings an IndyCar race through the capital, part of the president\u2019s celebration of the nation\u2019s 250th birthday."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "White House revs up \u2018iconic\u2019 Freedom 250 race as IndyCars prepare to unleash American muscle on DC streets",
+     "url": "https://www.foxnews.com/politics/white-house-revs-up-iconic-freedom-250-race-indycars-prepare-unleash-american-muscle-dc-streets",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T12:00:07+00:00",
+     "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the White House. \"The historic IndyCar race set to take place in our Nation\u2019s Capital will be one of the greatest and most iconic races in history,\" Ingle said. \"The President will leave his imprint on this historic race in a way that only he can.\" RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'T"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
+     "url": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
+     "author": "Doug Adams",
+     "kind": "news",
+     "published": "2026-08-21T22:55:27+00:00",
+     "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
+    }
+   ]
+  },
+  {
+   "id": "9a45b31bf0",
+   "topic": "Climate & Energy",
+   "summary": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 3,
+    "big": [
+     "near",
+     "saturday",
+     "northern"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+   "updated": "2026-08-23T19:10:55+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 1,
+    "family": 2,
+    "nonprofit": 1,
+    "pub": 2
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
+     "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T19:10:55+00:00",
+     "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+     "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+     "author": "Bernard Mokam",
+     "kind": "news",
+     "published": "2026-08-23T18:56:27+00:00",
+     "summary": "The Hawk fire has burned over 10,000 acres and is encroaching on the northern part of the city. Residents of 14,000 homes have been told to flee, and the governor issued a state of emergency."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+     "author": "Marina Dunbar and agencies",
+     "kind": "news",
+     "published": "2026-08-23T18:22:15+00:00",
+     "summary": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+     "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T17:55:52+00:00",
+     "summary": "Authorities said the fire was caused by humans."
+    },
+    {
+     "outlet": "france24",
+     "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
+     "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-23T15:54:21+00:00",
+     "summary": "Firefighters in Nevada are struggling to contain a fast-growing wildfire which has already forced the evacuation of nearly 14,000 people. A state of emergency has been called, meaning federal responders are working alongside local firefighters to try and keep it from residential areas. Details by Camille Knight."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
+     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
+     "author": "Lowell Cauffiel",
+     "kind": "news",
+     "published": "2026-08-23T13:48:34+00:00",
+     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
     }
    ]
   },
@@ -811,85 +614,168 @@
    ]
   },
   {
-   "id": "9a45b31bf0",
-   "topic": "Climate & Energy",
-   "summary": "Hawk fire has covered more than 10,500 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 10,500 acres (4,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 14,000 homes to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "e73b512811",
+   "topic": "Politics",
+   "summary": "Democrats and critics of the Trump administration have criticized House Democratic leader Hakeem Jeffries as reports came out Sunday that he met with President Trump\u2019s son-in-law Jared Kushner to discuss potential collaboration on issues such as housing, immigration, and affordability. As Casey Michel wrote for Mother Jones earlier this summer, Kushner has used his ties to the White House to make business deals with autocrats\u2014including the Saudi Arabia , the United Arab Emirates , and Qatar \u2014and work on foreign affairs as a \u201c special peace envoy \u201d in conflicts in Iran, Gaza, and Ukraine. That\u2019s despite claiming that he would not play a role in Trump\u2019s second administration. The New York Times first reported that the meeting took place in recent weeks. Rep. Jeffries (D-N.Y.) did not acknowledge the meeting in a statement to the Times , but suggested that Democrats would have to work with\u2026",
+   "summaryFrom": "motherjones",
    "emphasis": {
-    "bigCount": 2,
+    "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "near",
-     "saturday"
+     "discussed",
+     "adviser",
+     "privately",
+     "meet"
     ],
     "indie": [
-     "homes",
-     "state",
-     "declared",
-     "emergency"
+     "good",
+     "sunday",
+     "democratic",
+     "collaboration",
+     "critics",
+     "york"
     ]
    },
    "people": [],
    "absent": [
-    "coop"
+    "coop",
+    "pub"
    ],
-   "headline": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-   "updated": "2026-08-23T18:22:15+00:00",
+   "headline": "There\u2019s No Good Reason Why Hakeem Jeffries Should Work With Jared Kushner\ufffc",
+   "updated": "2026-08-23T19:03:16+00:00",
    "outletCount": 5,
    "counts": {
-    "nonprofit": 1,
-    "pub": 2,
-    "corp": 1,
+    "corp": 2,
+    "nonprofit": 3,
     "family": 1
    },
-   "newsCount": 5,
+   "newsCount": 6,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-     "author": "Marina Dunbar and agencies",
+     "outlet": "nbcnews",
+     "title": "Hakeem Jeffries and Jared Kushner meet in NYC to discuss how Democrats and Trump could cooperate",
+     "url": "https://www.nbcnews.com/politics/trump-administration/hakeem-jeffries-jared-kushner-meet-nyc-democrats-trump-work-together-rcna594014",
+     "author": "Megan Brand",
      "kind": "news",
-     "published": "2026-08-23T18:22:15+00:00",
-     "summary": "Hawk fire has covered more than 10,500 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 10,500 acres (4,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 14,000 homes to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. Continue reading..."
+     "published": "2026-08-23T19:03:16+00:00",
+     "summary": "House Minority Leader Hakeem Jeffries, D-N.Y., recently met privately with Jared Kushner, President Donald Trump\u2019s son-in-law and informal adviser, where they discussed possible areas of cooperation, a source familiar with the meeting confirmed to NBC News."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-     "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-     "author": null,
+     "outlet": "motherjones",
+     "title": "There\u2019s No Good Reason Why Hakeem Jeffries Should Work With Jared Kushner\ufffc",
+     "url": "https://www.motherjones.com/politics/2026/08/theres-no-good-reason-why-hakeem-jeffries-should-work-with-jared-kushner/",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-23T18:25:33+00:00",
+     "summary": "Democrats and critics of the Trump administration have criticized House Democratic leader Hakeem Jeffries as reports came out Sunday that he met with President Trump\u2019s son-in-law Jared Kushner to discuss potential collaboration on issues such as housing, immigration, and affordability. As Casey Michel wrote for Mother Jones earlier this summer, Kushner has used his ties to the White House to make business deals with autocrats\u2014including the Saudi Arabia , the United Arab Emirates , and Qatar \u2014and work on foreign affairs as a \u201c special peace envoy \u201d in conflicts in Iran, Gaza, and Ukraine. That\u2019s despite claiming that he would not play a role in Trump\u2019s second administration. The New York Times first reported that the meeting took place in recent weeks. Rep. Jeffries (D-N.Y.) did not acknowledge the meeting in a statement to the Times , but suggested that Democrats would have to work with Republicans to get any policies through the White House. With the midterms coming up in November, there is a significant possibility that Democrats take control of the House, and Jeffries would be first in line to become Speaker. But Democrats thinking of compromise now\u2014especially when congressional"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
+     "author": "Sam Levine",
      "kind": "news",
      "published": "2026-08-23T17:55:52+00:00",
-     "summary": "A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations."
+     "summary": "Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor and ex-Republican congressman Adam Kinzinger Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday that House Democratic leader Hakeem Jeffries met with Jared Kushner, the president\u2019s influential son-in-law, to discuss possible areas of collaboration. The reported meeting comes months ahead of the November midterm elections in which Democrats are favored to retake the US House, a development that would make Jeffries speaker. If they are in the majority, Democrats are expected to use their oversight power to aggressively investigate the Trump administration, including self-enrichment by the president and his family. Continue reading..."
     },
     {
-     "outlet": "cbsnews",
-     "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
-     "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
+     "outlet": "abcnews",
+     "title": "Jeffries, Kushner met to discuss potential areas of common ground: Sources",
+     "url": "https://abcnews.com/Politics/jeffries-kushner-met-privately-discussed-potential-areas-common/story?id=135882503",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T17:22:24+00:00",
-     "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
+     "published": "2026-08-23T16:24:55+00:00",
+     "summary": "Jared Kushner continues to serve as an outside adviser to the president."
     },
     {
-     "outlet": "france24",
-     "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
-     "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
-     "author": "FRANCE24",
+     "outlet": "nyt",
+     "title": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+     "url": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+     "author": "Maggie Haberman and Annie Karni",
      "kind": "news",
-     "published": "2026-08-23T15:54:21+00:00",
-     "summary": "Firefighters in Nevada are struggling to contain a fast-growing wildfire which has already forced the evacuation of nearly 14,000 people. A state of emergency has been called, meaning federal responders are working alongside local firefighters to try and keep it from residential areas. Details by Camille Knight."
+     "published": "2026-08-23T15:07:34+00:00",
+     "summary": "President Trump\u2019s son-in-law and the man in line to be speaker of a Democratic-led House discussed how Democrats and the administration could work together."
     },
     {
-     "outlet": "breitbart",
-     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
-     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
-     "author": "Lowell Cauffiel",
+     "outlet": "guardian",
+     "title": "Against the wind: despite Trump\u2019s attacks, unions are fighting for good US clean energy jobs",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
+     "author": "Dharna Noor",
      "kind": "news",
-     "published": "2026-08-23T13:48:34+00:00",
-     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
+     "published": "2026-08-23T10:00:30+00:00",
+     "summary": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean. \u201cI had no views other than the darkness at work,\u201d he said. \u201cThen I went polar opposite.\u201d Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "8139a8d187",
+   "topic": "Politics",
+   "summary": "The Freedom 250 Grand Prix circuit has proved to be a treacherous one, and that was highlighted in a frightening crash involving a pair of drivers early in the race. On lap 36 of 147, Team Penske's David Malukas, who qualified in the top 6, was making his way through the final corner but appeared to clip the inside wall of the Washington, DC street circuit. That sent him into the wall hard, but things got worse. CLICK HERE FOR MORE OUTKICK SPORTS COVERAGE Juncos Hollinger Racing's Sting Ray Robb was behind Malukas at the time and came around the corner on the racing line, completely unaware that Malukas' No. 12 Chevrolet had come to a stop in his path. Robb's No. 77 Chevrolet T-boned Malukas and brought out the third caution of the day, the first for something other than debris. RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'THIS IS MORE THAN JUST AN INDYCAR EVENT'\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "IndyCar drivers David Malukas, Sting Ray Robb involved in scary crash in Freedom 250 Grand Prix",
+   "updated": "2026-08-23T18:37:10+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 3,
+    "corp": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "IndyCar drivers David Malukas, Sting Ray Robb involved in scary crash in Freedom 250 Grand Prix",
+     "url": "https://www.foxnews.com/outkick-sports/indycar-drivers-david-malukas-sting-ray-robb-involved-scary-crash-freedom-250-grand-prix",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:37:10+00:00",
+     "summary": "The Freedom 250 Grand Prix circuit has proved to be a treacherous one, and that was highlighted in a frightening crash involving a pair of drivers early in the race. On lap 36 of 147, Team Penske's David Malukas, who qualified in the top 6, was making his way through the final corner but appeared to clip the inside wall of the Washington, DC street circuit. That sent him into the wall hard, but things got worse. CLICK HERE FOR MORE OUTKICK SPORTS COVERAGE Juncos Hollinger Racing's Sting Ray Robb was behind Malukas at the time and came around the corner on the racing line, completely unaware that Malukas' No. 12 Chevrolet had come to a stop in his path. Robb's No. 77 Chevrolet T-boned Malukas and brought out the third caution of the day, the first for something other than debris. RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'THIS IS MORE THAN JUST AN INDYCAR EVENT' Fortunately, both drivers hopped out of their cars, making them the first two retirements of the afternoon. It was an unfortunate end to Malukas' weekend; the 24-year-old from Chicago is in his first season with Team Penske and has driven well. He came to Washington, DC third in the championship standings, bu"
+    },
+    {
+     "outlet": "thehill",
+     "title": "Live updates: Trump takes honor lap in IndyCar Grand Prix",
+     "url": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
+     "author": "The Hill Staff",
+     "kind": "news",
+     "published": "2026-08-23T17:20:16+00:00",
+     "summary": "President Donald Trump arrived at the Freedom 250 Grand Prix event in Washington, D.C., on Sunday afternoon, where his motorcade took him on a lap around the racetrack where IndyCar drivers are expected to reach speeds around 180 mph. The event is part of semiquincentennial celebrations and includes flyovers by various branches of the military...."
+    },
+    {
+     "outlet": "forbes",
+     "title": "IndyCars Whiz Through DC Streets Today In Freedom 250 Grand Prix: What To Know",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/23/indycars-whiz-through-dc-streets-today-in-freedom-250-grand-prix-what-to-know/",
+     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-23T13:05:49+00:00",
+     "summary": "Racers will drive down Pennsylvania Avenue and zip past landmarks and museums along the National Mall."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Has A Message For Freedom 250 Drivers \u2014 And It\u2019s Not \u2018Be Safe\u2019",
+     "url": "https://www.dailywire.com/news/trump-has-a-message-for-freedom-250-drivers-and-its-not-be-safe",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-23T12:42:27+00:00",
+     "summary": "President Donald Trump joined the crowds in the nation\u2019s capital on Sunday for the Freedom 250 race \u2014 but he didn\u2019t tell the drivers to \u201cbe safe.\u201d The president told reporters his advice to Sunday\u2019s drivers boiled down to two words: have fun. Dwelling on safety, he argued, was more likely to make a driver hold back \u2014 and less likely to help them win. \u201cHave fun,\u201d he said, adding, \u201cI don\u2019t wanna say sort of \u2018be safe\u2019 because it\u2019s sort of a negative thought. Right? They don\u2019t wanna think about that, because if they do, generally speaking, you\u2019re not gonna win when you start thinking that way.\u201d \u201cBut they\u2019re great,\u201d he said of the drivers slated to race on Sunday. \u201cI know many of them through name \u2026 but it\u2019s a great sport.\u201d Trump also said on Sunday that Indianapolis Motor Speedway and INDYCAR owner Roger Penske had been trying to pull off a race in Washington, D.C., for some time \u2014 but that until the Trump administration came along, it had looked like an impossibility. \ud83d\udea8 PRESIDENT TRUMP JUST NOW: \u201cThey\u2019ve been trying to do this for 20 years\u2026when he came to see Trump, it got done in about 15 MINUTES!\u201d \u201cSo many people wanna come! 300,000+, they closed the bridges. Bigger and better!\u201d \u201cI "
+    },
+    {
+     "outlet": "newsweek",
+     "title": "At Trump\u2019s Freedom 250 Grand Prix, Two Americas Collide. Or Do They?",
+     "url": "https://www.newsweek.com/freedom-250-grand-prix-indycar-trump-12356961",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T10:00:00+00:00",
+     "summary": "IndyCar's D.C. street race pits a \"red state\" sport against the bluest city\u2014but the divide isn't all that it seems."
     }
    ]
   },
@@ -900,10 +786,11 @@
    "summaryFrom": "semafor",
    "emphasis": {
     "bigCount": 3,
-    "indieCount": 3,
+    "indieCount": 2,
     "big": [
-     "united",
      "states",
+     "join",
+     "united",
      "washington"
     ],
     "indie": []
@@ -918,10 +805,10 @@
    "updated": "2026-08-23T18:15:22+00:00",
    "outletCount": 5,
    "counts": {
-    "pub": 3,
+    "pub": 2,
     "family": 3
    },
-   "newsCount": 6,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -942,15 +829,6 @@
      "kind": "news",
      "published": "2026-08-23T17:00:09+00:00",
      "summary": "Mohsen Rezaei, Iran\u2019s new security chief, last month in Tehran. Though hostilities have largely ceased, the United States and Iran are locked in an economic standoff."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Can Iran retaliate against countries that join US \u2018economic war\u2019?",
-     "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T11:50:22+00:00",
-     "summary": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran."
     },
     {
      "outlet": "breitbart",
@@ -1131,11 +1009,11 @@
     "indieCount": 2,
     "big": [
      "settle",
+     "allegations",
      "announced",
      "laws",
-     "allegations",
-     "filed",
-     "online"
+     "violating",
+     "filed"
     ],
     "indie": []
    },
@@ -1200,6 +1078,148 @@
      "kind": "news",
      "published": "2026-08-21T19:30:04+00:00",
      "summary": "The Justice Department and TikTok , along with parent company ByteDance , have reached a $400 million settlement to resolve allegations of violating children's online privacy laws, per an announcement first shared with Axios. Why it matters: The Biden administration's DOJ first filed the suit in 2024. TikTok will clear the allegations it violated the Children's Online Privacy Act by paying a total of $400 million, without undergoing further litigation or admitting wrongdoing. Since the lawsuit was filed, \"TikTok has undergone significant changes to its ownership, management, compliance functions, and privacy practices,\" per the DOJ release. The settlement is one of the largest recoveries ever obtained in a case under the privacy law, the DOJ release states. What they're saying: \"This settlement is a major victory for American children and parents,\" associate attorney general Stanley Woodward said in the release. \"The Department's priority is ensuring that children are protected online and that companies entrusted with their personal information meet their legal obligations. This resolution secures a substantial recovery while reinforcing the protections that families expect and des"
+    }
+   ]
+  },
+  {
+   "id": "3bcbdaf365",
+   "topic": "World",
+   "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground \u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicates seeking a fair deal is futile. Andrea Lawlor, an associate professor of political science at McMaster University in Ontario, said: \u201cNo matter the closeness of the historical relationship, the American administration has signalled that it now prioritises its interests above those of some sort of global economic coordination or harmony. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [
+     "canadian"
+    ],
+    "indie": [
+     "collapse",
+     "wants",
+     "administration"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+   "updated": "2026-08-23T19:11:30+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 1,
+    "family": 2,
+    "nonprofit": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T19:11:30+00:00",
+     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "US-Canada Trade Talks Fell Apart Over Fine Print, Envoy Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/us-canada-talks-fell-apart-over-fine-print-in-deal-envoy-says",
+     "author": "Josh Wingrove",
+     "kind": "news",
+     "published": "2026-08-23T18:53:40+00:00",
+     "summary": "US-Canada trade talks collapsed over a range of issues where the written text of a potential deal was at odds with what the Canadian side believed it had agreed to, Prime Minister Mark Carney\u2019s top US envoy says."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Trump And Canada In Trade \u2018War\u2019: How Hockey Sticks, Puzzles And Wigs Played A Role",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/23/trump-and-canada-in-trade-war-how-hockey-sticks-puzzles-and-wigs-played-a-role/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-23T18:47:16+00:00",
+     "summary": "A large amount of Canadian imports will now be subject to 50% tariffs."
+    },
+    {
+     "outlet": "guardian",
+     "title": "The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+     "author": "Olivia Bowden",
+     "kind": "news",
+     "published": "2026-08-23T17:24:46+00:00",
+     "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground \u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicates seeking a fair deal is futile. Andrea Lawlor, an associate professor of political science at McMaster University in Ontario, said: \u201cNo matter the closeness of the historical relationship, the American administration has signalled that it now prioritises its interests above those of some sort of global economic coordination or harmony. Continue reading..."
+    },
+    {
+     "outlet": "guardian",
+     "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
+     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
+     "author": "Kenneth Roth",
+     "kind": "opinion",
+     "published": "2026-08-21T12:00:35+00:00",
+     "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "8e25d2ed7f",
+   "topic": "Business & Economy",
+   "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can\u2019t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli soldiers and settlers have been besieging three Palestinian families in their homes in the village of Qusra in the occupied West Bank since August 9. Photo on August 14, 2026 by Issam Rimawi/Anadolu via Getty Images. RAMALLAH, Occupied West Bank\u2014For the 12th consecutive day, three Palestinian families, comprising 10 people, including two young children, have been trapped inside their homes in the occupied West Bank, besieged and terrorized by dozens of armed Israelis\u2014both settlers and soldiers. The family members have been stuck in separate homes, unable to shelter together or attend to their basic needs, with food supplies running dangerously low and without access to cooking\u2026",
+   "summaryFrom": "dropsite",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp"
+   ],
+   "headline": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+   "updated": "2026-08-23T18:47:11+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 1,
+    "family": 1,
+    "nonprofit": 1,
+    "coop": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:47:11+00:00",
+     "summary": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Israeli Settler Siege Highlights \u2018Grave\u2019 West Bank Reality",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/israeli-settler-siege-highlights-grave-west-bank-reality",
+     "author": "Fadwa Hodali",
+     "kind": "news",
+     "published": "2026-08-23T09:00:02+00:00",
+     "summary": "When Loui Ridi hugged his young daughter goodbye at Detroit Metro Airport, she clung to his arm and refused to let go. The 46-year-old businessman said she then asked the question he wanted to avoid: \u201cAre you going to be safe?\u201d"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
+     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-21T06:00:26+00:00",
+     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
+    },
+    {
+     "outlet": "dropsite",
+     "title": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
+     "url": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
+     "author": "Zena Tahhan",
+     "kind": "news",
+     "published": "2026-08-20T19:48:07+00:00",
+     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can\u2019t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli soldiers and settlers have been besieging three Palestinian families in their homes in the village of Qusra in the occupied West Bank since August 9. Photo on August 14, 2026 by Issam Rimawi/Anadolu via Getty Images. RAMALLAH, Occupied West Bank\u2014For the 12th consecutive day, three Palestinian families, comprising 10 people, including two young children, have been trapped inside their homes in the occupied West Bank, besieged and terrorized by dozens of armed Israelis\u2014both settlers and soldiers. The family members have been stuck in separate homes, unable to shelter together or attend to their basic needs, with food supplies running dangerously low and without access to cooking gas or a fridge. While the siege on the three families has garnered international media attention and statements of condemnation, the attack is not the first of its kind, but rather a more prominent example of a growing tactic by Israeli settlers and soldiers working in tandem to dispossess Palestin"
     }
    ]
   },
@@ -1387,9 +1407,70 @@
    ]
   },
   {
+   "id": "9df9bf12cc",
+   "topic": "World",
+   "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion.",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+   "updated": "2026-08-23T15:54:36+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 1,
+    "family": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+     "url": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T15:54:36+00:00",
+     "summary": "Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices."
+    },
+    {
+     "outlet": "nyt",
+     "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+     "url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
+     "author": "The New York Times",
+     "kind": "news",
+     "published": "2026-08-23T09:47:28+00:00",
+     "summary": "Canada suspended trade negotiations, triggering President Trump\u2019s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate \u201cdollar for dollar.\u201d"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "U.S. and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+     "url": "https://www.pbs.org/newshour/world/u-s-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-canada-says-it-will-retaliate",
+     "author": "Rob Gillies, Associated Press",
+     "kind": "news",
+     "published": "2026-08-22T15:30:49+00:00",
+     "summary": "President Donald Trump's import taxes will hit about 5% of what Canada ships to the United States every year, including products ranging from hockey sticks to tongue depressors."
+    },
+    {
+     "outlet": "npr",
+     "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
+     "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
+     "author": "Scott Simon",
+     "kind": "news",
+     "published": "2026-08-22T11:43:25+00:00",
+     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
+    }
+   ]
+  },
+  {
    "id": "149bcbff58",
    "topic": "Justice & Policing",
-   "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading...",
+   "summary": "Three other people wounded after 18-year-old man wielding sword assailed students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
@@ -1434,7 +1515,7 @@
      "author": "Nadeem Badshah",
      "kind": "news",
      "published": "2026-08-22T18:11:55+00:00",
-     "summary": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading..."
+     "summary": "Three other people wounded after 18-year-old man wielding sword assailed students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading..."
     },
     {
      "outlet": "pbsnewshour",
@@ -1579,12 +1660,12 @@
     "indieCount": 3,
     "big": [],
     "indie": [
-     "father",
-     "alone",
-     "tired",
+     "mount",
      "hike",
-     "fuji",
-     "mount"
+     "father",
+     "left",
+     "tired",
+     "fuji"
     ]
    },
    "people": [],
@@ -1652,6 +1733,128 @@
    ]
   },
   {
+   "id": "56d3bb758f",
+   "topic": "World",
+   "summary": "U.S.-Canada trade talks collapsed last night. Punitive Trump tariffs will now go into effect. Canada will reciprocate with retaliatory tariffs of its own. The story may not be over. Donald Trump is notorious for issuing threats, then reversing them. Wars are on, off, on again, off again, then on a third time\u2014but only as a \u201c little detour .\u201d This is not an administration that thinks even one move ahead. But without a supersized Trump TACO , the U.S.-Canada impasse likely won\u2019t resolve soon. The Trump administration has one big idea about Canada: The U.S. is larger, stronger, and richer than Canada, so Canada must sooner or later surrender to Trump\u2019s demands. That one big idea is wrong. Yes, Trump can hurt Canada more than Canada can hurt Trump. That part of Trump\u2019s thinking is true. But wars are not decided only by the question Who can inflict more pain? Wars are also decided by the\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "canadian",
+     "dollar",
+     "match"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+   "updated": "2026-08-22T15:25:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "theatlantic",
+     "title": "How to Lose a Trade War",
+     "url": "https://www.theatlantic.com/ideas/2026/08/why-us-canada-trade-talks-fell-apart/688386/?utm_source=feed",
+     "author": "David Frum",
+     "kind": "news",
+     "published": "2026-08-22T15:25:00+00:00",
+     "summary": "U.S.-Canada trade talks collapsed last night. Punitive Trump tariffs will now go into effect. Canada will reciprocate with retaliatory tariffs of its own. The story may not be over. Donald Trump is notorious for issuing threats, then reversing them. Wars are on, off, on again, off again, then on a third time\u2014but only as a \u201c little detour .\u201d This is not an administration that thinks even one move ahead. But without a supersized Trump TACO , the U.S.-Canada impasse likely won\u2019t resolve soon. The Trump administration has one big idea about Canada: The U.S. is larger, stronger, and richer than Canada, so Canada must sooner or later surrender to Trump\u2019s demands. That one big idea is wrong. Yes, Trump can hurt Canada more than Canada can hurt Trump. That part of Trump\u2019s thinking is true. But wars are not decided only by the question Who can inflict more pain? Wars are also decided by the question Who can endure more pain? Trump\u2019s failure to accept this truth is why he lost the Iran war\u2014and why he is losing his trade wars. Canadian Prime Minister Mark Carney has much more political permission to accept pain from a U.S.-Canadian trade war than Trump does. To read current Canadian polling i"
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Canada Hits Back on US Tariffs as Carney Says \u2018At War\u2019 on Trade",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/canada-unveils-20-billion-counter-tariffs-to-mirror-trump-levy",
+     "author": "Thomas Seal and Derek Decloet",
+     "kind": "news",
+     "published": "2026-08-22T15:22:17+00:00",
+     "summary": "Prime Minister Mark Carney said Canada will apply counter-tariffs on $20 billion of US products on Sept. 8, escalating the feud rocking one of the world\u2019s biggest trading relationships."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T12:20:46+00:00",
+     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+    },
+    {
+     "outlet": "npr",
+     "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
+     "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+     "author": "Miguel Macias",
+     "kind": "news",
+     "published": "2026-08-22T04:36:27+00:00",
+     "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8. (Image credit: Graham Hughes)"
+    }
+   ]
+  },
+  {
+   "id": "afbc30ae50",
+   "topic": "Other",
+   "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "What to know about this weekend's IndyCar race on the National Mall",
+   "updated": "2026-08-23T18:57:19+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "See photos from the first IndyCar race in Washington",
+     "url": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/",
+     "author": "Kenneth Dickerman",
+     "kind": "news",
+     "published": "2026-08-23T18:57:19+00:00",
+     "summary": "Drivers are dashing around the National Mall at speeds expected to exceed 185 mph."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
+     "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:31:38+00:00",
+     "summary": "Twenty-five cars traveling at top speeds approaching 180 mph are zooming around the National Mall this weekend as IndyCar takes over downtown D.C."
+    },
+    {
+     "outlet": "npr",
+     "title": "What to know about this weekend's IndyCar race on the National Mall",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+     "author": "Rachel Treisman",
+     "kind": "news",
+     "published": "2026-08-21T09:01:00+00:00",
+     "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
+    }
+   ]
+  },
+  {
    "id": "e9ec9aca2c",
    "topic": "Other",
    "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn.",
@@ -1704,6 +1907,58 @@
    ]
   },
   {
+   "id": "c92c1b6e6f",
+   "topic": "Politics",
+   "summary": "A United States Postal Service mail collection box is seen on a street in New York City, United States, on August 7, 2026. \u2014Marcin Golba\u2014NurPhoto The United States Postal Service (USPS) on Friday issued a 95-page final rule that it plans to implement immediately if the government obtains relief from two existing injunctions. It would require USPS employees to verify that outbound federal ballot mailings comply with new envelope, barcode, and data-reporting requirements before accepting them from election officials. The rule was designed to comply with President Donald Trump\u2019s executive order from March 31. It directs the Department of Homeland Security , in coordination with the Social Security Administration , to compile and send lists of adult citizens in each state. Separately, it directs USPS to establish state-specific lists of people to whom election officials intend to send\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "What to Know About the USPS\u2019s Rule for Mail-In Ballots",
+   "updated": "2026-08-23T18:11:24+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "time",
+     "title": "What to Know About the USPS\u2019s Rule for Mail-In Ballots",
+     "url": "https://time.com/article/2026/08/23/what-to-know-about-the-usps-s-rule-for-mail-in-ballots/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-23T18:11:24+00:00",
+     "summary": "A United States Postal Service mail collection box is seen on a street in New York City, United States, on August 7, 2026. \u2014Marcin Golba\u2014NurPhoto The United States Postal Service (USPS) on Friday issued a 95-page final rule that it plans to implement immediately if the government obtains relief from two existing injunctions. It would require USPS employees to verify that outbound federal ballot mailings comply with new envelope, barcode, and data-reporting requirements before accepting them from election officials. The rule was designed to comply with President Donald Trump\u2019s executive order from March 31. It directs the Department of Homeland Security , in coordination with the Social Security Administration , to compile and send lists of adult citizens in each state. Separately, it directs USPS to establish state-specific lists of people to whom election officials intend to send mail-in or absentee ballots, along with unique ballot-envelope identifiers. A pair of court \u200corders blocks the rule from implementing the rule before midterm elections in November. Read More: Trump\u2019s Order Restricting Mail-In Voting Rebuked by States About the two injunctions blocking Trump\u2019s mail-in voti"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "USPS makes new rules for mail-in ballots",
+     "url": "https://abcnews.com/US/usps-makes-new-rules-mail-ballots/story?id=135879673",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T16:39:41+00:00",
+     "summary": "The changes would not go into effect until the court lifts its injunction."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "USPS publishes rule to block mail-in ballots from states that don't provide voter lists",
+     "url": "https://www.foxnews.com/politics/usps-publishes-rule-block-mail-in-ballots-states-dont-provide-voter-lists",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T14:00:37+00:00",
+     "summary": "The United States Postal Service (USPS) published a rule Friday that would require states to provide lists of voters who received mail-in ballots to the agency. The USPS rule , first proposed June 2, moves to align the agency with President Donald Trump's March 31 executive order, which, among other things, ordered the agency to mandate that all states that plan to use USPS to send mail-in ballots notify the agency at least 90 days before an election and to send USPS a list of eligible voters the state plans on providing a mail-in ballot to at least 60 days before the election. \"Any state that intends to receive mail-in or absentee ballots from individual voters through the Postal Service must ensure that such individuals have been enrolled with the Postal Service for inclusion on the state's Mail-In and Absentee Participation List,\" the new rule states. To be included on the list, an voter's state must submit to the USPS the individual's name and address and include a \"uniquely serialized Intelligent Mail barcode (IMb)\" on both the outbound federal ballot and the return ballot sent to the individual. DHS PLANS COSTLY CRACKDOWN ON STATES THAT DON\u2019T COOPERATE ON ELECTION SECURITY Th"
+    }
+   ]
+  },
+  {
    "id": "642a8f3920",
    "topic": "World",
    "summary": "Embassy in London says Andrey Kelin left last month after seven years in diplomatic post Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine. Andrey Kelin left last month after seven years in the diplomatic post, according to the Russian embassy in London. Continue reading...",
@@ -1752,58 +2007,6 @@
      "kind": "news",
      "published": "2026-08-23T13:01:11+00:00",
      "summary": "Embassy in London says Andrey Kelin left last month after seven years in diplomatic post Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine. Andrey Kelin left last month after seven years in the diplomatic post, according to the Russian embassy in London. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "10096030fb",
-   "topic": "Other",
-   "summary": "Republican senator tries to assuage concerns but does not offer details of Graham\u2019s national security experience Tim Scott defended fellow US South Carolina Republican senator Darline Graham\u2019s knowledge of national security issues ahead of their state\u2019s runoff election on Tuesday. Graham, who was appointed to fill the Senate seat held by her brother Lindsey Graham after his sudden death in July, is in a Republican primary runoff against South Carolina congressman Ralph Norman. During a debate between the two on Tuesday night, Graham struggled to answer a question about US national security interests in Taiwan and the South China Sea. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Tim Scott defends Darline Graham\u2019s \u2018national security is not my thing\u2019 comment",
-   "updated": "2026-08-23T17:18:26+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Tim Scott defends Darline Graham\u2019s \u2018national security is not my thing\u2019 comment",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/tim-scott-defends-darline-graham",
-     "author": "Sam Levine",
-     "kind": "news",
-     "published": "2026-08-23T17:18:26+00:00",
-     "summary": "Republican senator tries to assuage concerns but does not offer details of Graham\u2019s national security experience Tim Scott defended fellow US South Carolina Republican senator Darline Graham\u2019s knowledge of national security issues ahead of their state\u2019s runoff election on Tuesday. Graham, who was appointed to fill the Senate seat held by her brother Lindsey Graham after his sudden death in July, is in a Republican primary runoff against South Carolina congressman Ralph Norman. During a debate between the two on Tuesday night, Graham struggled to answer a question about US national security interests in Taiwan and the South China Sea. Continue reading..."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Scott says \u2018there's no doubt\u2019 Darline Graham is qualified to be senator",
-     "url": "https://thehill.com/homenews/campaign/6045624-tim-scott-defends-darline-graham/",
-     "author": "Tara Suter",
-     "kind": "news",
-     "published": "2026-08-23T14:59:44+00:00",
-     "summary": "Sen. Tim Scott (R-S.C.) said Sunday that \u201cthere\u2019s no doubt\u201d his fellow South Carolina Republican Darline Graham is qualified to be a senator after her recent debate slip-up on an answer about national security. \u201cSen. Scott, is Darline Graham qualified to be a U.S. senator?\u201d NBC News\u2019s Kristen Welker asked Scott during his \u201cMeet the..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Tim Scott calls support for Darline Graham an \u2018easy choice\u2019 despite her debate flub",
-     "url": "https://www.nbcnews.com/politics/congress/tim-scott-darline-graham-easy-choice-debate-flub-rcna593983",
-     "author": "Alexandra Marquez",
-     "kind": "news",
-     "published": "2026-08-23T14:38:43+00:00",
-     "summary": "Sen. Tim Scott on Sunday defended fellow South Carolina Republican Sen."
     }
    ]
   },
@@ -1964,58 +2167,6 @@
    ]
   },
   {
-   "id": "bc6a3138e5",
-   "topic": "Politics",
-   "summary": "U.S. Sen. Darline Graham's appointment belongs to a long American tradition of family succession in politics. AP Photo/Meg Kinnard South Carolina Gov. Henry McMaster\u2019s July 2026 appointment of Darline Graham to fill the remainder of her late brother Lindsey Graham\u2019s Senate term \u2013 and her subsequent decision to run for the seat \u2013 may seem unusual. After all, Darline Graham has no experience in elected office and was virtually unknown outside of the small circle of people who knew her from her time heading the South Carolina Commission for the Blind , or the slightly larger group of people who knew her as Lindsey Graham\u2019s sister. Nevertheless, she\u2019s made history as the first woman to represent South Carolina in the U.S. Senate. Graham has since demonstrated how quickly a family connection can translate into electoral support. On Aug. 11, 2026, she finished first in a 10-candidate\u2026",
-   "summaryFrom": "theconversation",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Darline Graham\u2019s inherited Senate seat revives the \u2018widow\u2019s mandate\u2019 with a sibling twist",
-   "updated": "2026-08-23T15:09:31+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Tim Scott: I'm 'Very Confident\u2019 Republicans Will Keep Senate",
-     "url": "https://www.breitbart.com/clips/2026/08/23/tim-scott-im-very-confident-republicans-will-keep-senate/",
-     "author": "Pam Key",
-     "kind": "news",
-     "published": "2026-08-23T15:09:31+00:00",
-     "summary": "Sunday on NBC\u2019s \u201cMeet the Press,\u201d Sen. Tim Scott (R-SC) said he is \u201cvery confident\u201d that Republicans will keep control of the Senate after the midterm elections. Host Kristen Welker said, \u201cTo the Cook Political Report. Six of the key battleground The post Tim Scott: I\u2019m \u2018Very Confident\u2019 Republicans Will Keep Senate appeared first on Breitbart ."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Tim Scott says \u2018without question\u2019 Darline Graham is qualified for Senate",
-     "url": "https://www.nbcnews.com/meet-the-press/video/tim-scott-says-without-question-darline-graham-is-qualified-for-senate-268736581916",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T13:26:48+00:00",
-     "summary": "In an exclusive interview with Meet the Press, Sen. Tim Scott (R-S.C.) says Sen. Darline Graham is \u201cready for primetime\u201d ahead of South Carolina\u2019s Republican runoff on Tuesday."
-    },
-    {
-     "outlet": "theconversation",
-     "title": "Darline Graham\u2019s inherited Senate seat revives the \u2018widow\u2019s mandate\u2019 with a sibling twist",
-     "url": "https://theconversation.com/darline-grahams-inherited-senate-seat-revives-the-widows-mandate-with-a-sibling-twist-289700",
-     "author": "Christopher A. Cooper, Professor of Political Science & Public Affairs, Western Carolina University",
-     "kind": "news",
-     "published": "2026-08-20T18:53:28+00:00",
-     "summary": "U.S. Sen. Darline Graham's appointment belongs to a long American tradition of family succession in politics. AP Photo/Meg Kinnard South Carolina Gov. Henry McMaster\u2019s July 2026 appointment of Darline Graham to fill the remainder of her late brother Lindsey Graham\u2019s Senate term \u2013 and her subsequent decision to run for the seat \u2013 may seem unusual. After all, Darline Graham has no experience in elected office and was virtually unknown outside of the small circle of people who knew her from her time heading the South Carolina Commission for the Blind , or the slightly larger group of people who knew her as Lindsey Graham\u2019s sister. Nevertheless, she\u2019s made history as the first woman to represent South Carolina in the U.S. Senate. Graham has since demonstrated how quickly a family connection can translate into electoral support. On Aug. 11, 2026, she finished first in a 10-candidate Republican primary with nearly 33% of the vote. She now faces U.S. Rep. Ralph Norman in an Aug. 25 runoff . Her appointment belongs to a long American tradition of family succession in politics. For much of the 20th century, political parties, particularly in the American South, routinely turned to relatives"
-    }
-   ]
-  },
-  {
    "id": "4b44ad930c",
    "topic": "Tech",
    "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH)\u2026",
@@ -2068,76 +2219,6 @@
    ]
   },
   {
-   "id": "e23b1cf341",
-   "topic": "World",
-   "summary": "The world's fastest man record was shattered on the first day of the World Humanoid Robot Games in Beijing on Saturday. Jamaican Usain Bolt's 100-meter dash record of 9.58 set in 2009 was edged by a Beijing-based X-Humanoid robot named Lightning Bolt, which ran 100 meters at 9:39 seconds before smashing into a blue wall. Before the opening, a humanoid robot from Chinese smartphone company Honor completed a 100-meter sprint in a record of 9.32 seconds during a trial of the games, the company said, at a peak speed of 14.5 meters per second. After smashing into the wall, the robots were placed on a stretcher, unlike Bolt, who was able to jog a lap to celebrate human achievement in 2009. ROBOTS BEAT HUMANS IN HALF MARATHON The World Humanoid Robot Games, in its second year, features more than 2,000 robots in 51 events and 1,000 competitions like running, table tennis and soccer. The\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Kejelcha breaks men's half marathon world record by 29 seconds",
-   "updated": "2026-08-23T14:01:30+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "pub": 4
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Chinese humanoid robot breaks Usain Bolt's 100m dash record at 9.39 seconds",
-     "url": "https://www.foxnews.com/tech/chinese-humanoid-robot-breaks-usain-bolt-100m-dash-record-9-39-seconds",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T14:01:30+00:00",
-     "summary": "The world's fastest man record was shattered on the first day of the World Humanoid Robot Games in Beijing on Saturday. Jamaican Usain Bolt's 100-meter dash record of 9.58 set in 2009 was edged by a Beijing-based X-Humanoid robot named Lightning Bolt, which ran 100 meters at 9:39 seconds before smashing into a blue wall. Before the opening, a humanoid robot from Chinese smartphone company Honor completed a 100-meter sprint in a record of 9.32 seconds during a trial of the games, the company said, at a peak speed of 14.5 meters per second. After smashing into the wall, the robots were placed on a stretcher, unlike Bolt, who was able to jog a lap to celebrate human achievement in 2009. ROBOTS BEAT HUMANS IN HALF MARATHON The World Humanoid Robot Games, in its second year, features more than 2,000 robots in 51 events and 1,000 competitions like running, table tennis and soccer. The five-day event highlights China's rapid progress in robotics amid a heated tech race with the U.S. The games, which are taking place in the National Speed Skating Oval built for the 2022 Winter Olympics, opened the same week Beijing was holding the 2026 World Robot Conference , where companies showcased aro"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-     "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T13:35:06+00:00",
-     "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Robot boxing, football and sprinting at World Humanoid Games",
-     "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T12:47:06+00:00",
-     "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
-    },
-    {
-     "outlet": "france24",
-     "title": "Humanoid robot breaks Usain Bolt's 100m record in China",
-     "url": "https://www.france24.com/en/asia-pacific/20260823-humanoid-robots-break-records-at-competition-in-beijing",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-23T11:45:17+00:00",
-     "summary": "Humanoid robots smashed sprinting records and competed in boxing, football and martial arts at Beijing\u2019s World Robot Games, including running legend Usain Bolt's record for the 100-metre dash. The robo-athletes drew cheers from hundreds of spectators and showcased China\u2019s growing dominance in humanoid robotics."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-     "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T17:02:06+00:00",
-     "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
-    }
-   ]
-  },
-  {
    "id": "36ca4c5619",
    "topic": "Other",
    "summary": "Mediators representing the Rwanda-backed AFC/M23 armed group and the Democratic Republic of Congo in a joint statement published Sunday said they have agreed on a roadmap for peace talks. The two sides said they had \"agreed on the importance of a standardised method for reporting allegations of ceasefire violations\".",
@@ -2186,58 +2267,6 @@
      "kind": "news",
      "published": "2026-08-23T12:15:29+00:00",
      "summary": "Mediators representing the Rwanda-backed AFC/M23 armed group and the Democratic Republic of Congo in a joint statement published Sunday said they have agreed on a roadmap for peace talks. The two sides said they had \"agreed on the importance of a standardised method for reporting allegations of ceasefire violations\"."
-    }
-   ]
-  },
-  {
-   "id": "3ab9d1817c",
-   "topic": "Business & Economy",
-   "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can\u2019t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli soldiers and settlers have been besieging three Palestinian families in their homes in the village of Qusra in the occupied West Bank since August 9. Photo on August 14, 2026 by Issam Rimawi/Anadolu via Getty Images. RAMALLAH, Occupied West Bank\u2014For the 12th consecutive day, three Palestinian families, comprising 10 people, including two young children, have been trapped inside their homes in the occupied West Bank, besieged and terrorized by dozens of armed Israelis\u2014both settlers and soldiers. The family members have been stuck in separate homes, unable to shelter together or attend to their basic needs, with food supplies running dangerously low and without access to cooking\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "pub"
-   ],
-   "headline": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-   "updated": "2026-08-23T09:00:02+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1,
-    "coop": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Israeli Settler Siege Highlights \u2018Grave\u2019 West Bank Reality",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/israeli-settler-siege-highlights-grave-west-bank-reality",
-     "author": "Fadwa Hodali",
-     "kind": "news",
-     "published": "2026-08-23T09:00:02+00:00",
-     "summary": "When Loui Ridi hugged his young daughter goodbye at Detroit Metro Airport, she clung to his arm and refused to let go. The 46-year-old businessman said she then asked the question he wanted to avoid: \u201cAre you going to be safe?\u201d"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
-     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-21T06:00:26+00:00",
-     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "The Israeli Siege of Palestinian Families in Qusra Is Part of an Escalating Tactic",
-     "url": "https://www.dropsitenews.com/p/qusra-siege-israeli-settlers-soldiers-palestinians-west-bank",
-     "author": "Zena Tahhan",
-     "kind": "news",
-     "published": "2026-08-20T19:48:07+00:00",
-     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can\u2019t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli soldiers and settlers have been besieging three Palestinian families in their homes in the village of Qusra in the occupied West Bank since August 9. Photo on August 14, 2026 by Issam Rimawi/Anadolu via Getty Images. RAMALLAH, Occupied West Bank\u2014For the 12th consecutive day, three Palestinian families, comprising 10 people, including two young children, have been trapped inside their homes in the occupied West Bank, besieged and terrorized by dozens of armed Israelis\u2014both settlers and soldiers. The family members have been stuck in separate homes, unable to shelter together or attend to their basic needs, with food supplies running dangerously low and without access to cooking gas or a fridge. While the siege on the three families has garnered international media attention and statements of condemnation, the attack is not the first of its kind, but rather a more prominent example of a growing tactic by Israeli settlers and soldiers working in tandem to dispossess Palestin"
     }
    ]
   },
@@ -2398,58 +2427,6 @@
    ]
   },
   {
-   "id": "5fdde948ec",
-   "topic": "Business & Economy",
-   "summary": "Under the Bureau of Reclamation's plan, California, Nevada and Arizona will collectively reduce water use by 1.25 million acre-feet annually for the next two years, with the possibility of larger cuts depending on conditions.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Federal officials announce water cuts as Colorado River supplies continue to plunge",
-   "updated": "2026-08-22T15:42:37+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Federal officials announce water cuts as Colorado River supplies continue to plunge",
-     "url": "https://www.pbs.org/newshour/nation/federal-officials-announce-water-cuts-as-colorado-river-supplies-continue-to-plunge",
-     "author": "Wufei Yu, Associated Press",
-     "kind": "news",
-     "published": "2026-08-22T15:42:37+00:00",
-     "summary": "Under the Bureau of Reclamation's plan, California, Nevada and Arizona will collectively reduce water use by 1.25 million acre-feet annually for the next two years, with the possibility of larger cuts depending on conditions."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Feds order steep Colorado River water cuts for Arizona, California and Nevada",
-     "url": "https://abcnews.com/US/federal-government-orders-steep-colorado-river-water-cuts/story?id=135856655",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T02:15:57+00:00",
-     "summary": "While the cuts are considerable, they are better than the worst-case scenario the federal government proposed in July."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Government will cut water to Ariz., Calif., Nevada as Colorado River runs low",
-     "url": "https://www.washingtonpost.com/nation/2026/08/21/government-will-cut-water-ariz-calif-nevada-colorado-river-runs-low/",
-     "author": "Annie Gowen",
-     "kind": "news",
-     "published": "2026-08-21T19:06:13+00:00",
-     "summary": "The states must curb their use of water from the river starting in 2027."
-    }
-   ]
-  },
-  {
    "id": "e6d091a61f",
    "topic": "Justice & Policing",
    "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did\u2026",
@@ -2554,6 +2531,92 @@
    ]
   },
   {
+   "id": "b5259caac1",
+   "topic": "World",
+   "summary": "Zelenskyy said that he believes actions taken by dismissed Defense Minister Mykhailo Fedorov, including his involvement in mass protests and calls for an election, were misguided, as he publicly detailed their dispute for the first time.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Zelenskyy details rift with Ukraine's dismissed defense minister Fedorov",
+   "updated": "2026-08-23T18:52:58+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Zelenskyy details rift with Ukraine's dismissed defense minister Fedorov",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-details-rift-with-ukraines-dismissed-defense-minister-fedorov",
+     "author": "Samya Kullab, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T18:52:58+00:00",
+     "summary": "Zelenskyy said that he believes actions taken by dismissed Defense Minister Mykhailo Fedorov, including his involvement in mass protests and calls for an election, were misguided, as he publicly detailed their dispute for the first time."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
+     "url": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T05:46:00+00:00",
+     "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. His explosive remarks have sparked widespread public debate."
+    }
+   ]
+  },
+  {
+   "id": "927d309c5e",
+   "topic": "World",
+   "summary": "Former Vice President Mike Pence denied Sunday that the U.S. military depleting its weapons stockpiles in the Iran war is hurting Ukraine in its ongoing fight against Russia. \u201cI don't see it that way, and I don't think\u2026 the Ukrainians do either,\u201d Pence told host Dana Bash on CNN\u2019s \u201cState of the Union,\u201d while in...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Can Nigeria cash in on Iran war?",
+   "updated": "2026-08-23T18:44:19+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
+     "url": "https://thehill.com/policy/international/6045828-pence-denies-that-iran-war-hurting-ukraine-by-depleting-us-stockpiles/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-23T18:44:19+00:00",
+     "summary": "Former Vice President Mike Pence denied Sunday that the U.S. military depleting its weapons stockpiles in the Iran war is hurting Ukraine in its ongoing fight against Russia. \u201cI don't see it that way, and I don't think\u2026 the Ukrainians do either,\u201d Pence told host Dana Bash on CNN\u2019s \u201cState of the Union,\u201d while in..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Can Nigeria cash in on Iran war?",
+     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T16:07:01+00:00",
+     "summary": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production."
+    }
+   ]
+  },
+  {
    "id": "9a875091ab",
    "topic": "Politics",
    "summary": "Speaker Mike Johnson (R-La.) on Sunday downplayed the reported meeting between Jared Kushner and House Democratic Leader Hakeem Jeffries (D-N.Y.). \u201cI don\u2019t know what that\u2019s about. I know Jared has interest in lots of other things going on,\u201d Johnson told host Peter Doocy on Fox News\u2019s \u201cThe Sunday Briefing.\u201d \u201cHe\u2019s not really directly involved in...",
@@ -2593,49 +2656,6 @@
      "kind": "news",
      "published": "2026-08-23T16:05:03+00:00",
      "summary": "Speaker Mike Johnson (R-La.) on Sunday downplayed the reported meeting between Jared Kushner and House Democratic Leader Hakeem Jeffries (D-N.Y.). \u201cI don\u2019t know what that\u2019s about. I know Jared has interest in lots of other things going on,\u201d Johnson told host Peter Doocy on Fox News\u2019s \u201cThe Sunday Briefing.\u201d \u201cHe\u2019s not really directly involved in..."
-    }
-   ]
-  },
-  {
-   "id": "e73b512811",
-   "topic": "Politics",
-   "summary": "Democrats and critics of the Trump administration have criticized House Democratic leader Hakeem Jeffries as reports came out Sunday that he met with President Trump\u2019s son-in-law Jared Kushner to discuss potential collaboration on issues such as housing, immigration, and affordability. As Casey Michel wrote for Mother Jones earlier this summer, Kushner has used his ties to the White House to make business deals with autocrats\u2014including the Saudi Arabia , the United Arab Emirates , and Qatar \u2014and work on foreign affairs as a \u201c special peace envoy \u201d in conflicts in Iran, Gaza, and Ukraine. That\u2019s despite claiming that he would not play a role in Trump\u2019s second administration. The New York Times first reported that the meeting took place in recent weeks. Rep. Jeffries (D-N.Y.) did not acknowledge the meeting in a statement to the Times , but suggested that Democrats would have to work with\u2026",
-   "summaryFrom": "motherjones",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "There\u2019s No Good Reason Why Hakeem Jeffries Should Work With Jared Kushner\ufffc",
-   "updated": "2026-08-23T18:25:33+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "motherjones",
-     "title": "There\u2019s No Good Reason Why Hakeem Jeffries Should Work With Jared Kushner\ufffc",
-     "url": "https://www.motherjones.com/politics/2026/08/theres-no-good-reason-why-hakeem-jeffries-should-work-with-jared-kushner/",
-     "author": "Alex Nguyen",
-     "kind": "news",
-     "published": "2026-08-23T18:25:33+00:00",
-     "summary": "Democrats and critics of the Trump administration have criticized House Democratic leader Hakeem Jeffries as reports came out Sunday that he met with President Trump\u2019s son-in-law Jared Kushner to discuss potential collaboration on issues such as housing, immigration, and affordability. As Casey Michel wrote for Mother Jones earlier this summer, Kushner has used his ties to the White House to make business deals with autocrats\u2014including the Saudi Arabia , the United Arab Emirates , and Qatar \u2014and work on foreign affairs as a \u201c special peace envoy \u201d in conflicts in Iran, Gaza, and Ukraine. That\u2019s despite claiming that he would not play a role in Trump\u2019s second administration. The New York Times first reported that the meeting took place in recent weeks. Rep. Jeffries (D-N.Y.) did not acknowledge the meeting in a statement to the Times , but suggested that Democrats would have to work with Republicans to get any policies through the White House. With the midterms coming up in November, there is a significant possibility that Democrats take control of the House, and Jeffries would be first in line to become Speaker. But Democrats thinking of compromise now\u2014especially when congressional"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
-     "author": "Sam Levine",
-     "kind": "news",
-     "published": "2026-08-23T17:55:52+00:00",
-     "summary": "Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor and ex-Republican congressman Adam Kinzinger Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday that House Democratic leader Hakeem Jeffries met with Jared Kushner, the president\u2019s influential son-in-law, to discuss possible areas of collaboration. The reported meeting comes months ahead of the November midterm elections in which Democrats are favored to retake the US House, a development that would make Jeffries speaker. If they are in the majority, Democrats are expected to use their oversight power to aggressively investigate the Trump administration, including self-enrichment by the president and his family. Continue reading..."
     }
    ]
   },
@@ -2692,49 +2712,6 @@
    ]
   },
   {
-   "id": "a07f6899e3",
-   "topic": "Justice & Policing",
-   "summary": "A summary from Reuters (Jonathan Stempel) Friday: A federal judge on Friday dismissed major portions of a Ben & Jerry's lawsuit accusing its former parent Unilever of trying to silence the ice cream \u200cmaker's social activism, dismantle its board and stop funding its namesake foundation\u2026. Ben & Jerry's accused Unilever of violating the 2000 merger agreement by censoring \u200cits speech, \u2060which has included protests against the war in Gaza, and ousting a chief executive who supported the company's social activism. The alleged censorship also included an effort to suppress planned criticism of U.S. President Donald Trump as he began his second White House term\u2026. Unilever denied censoring Ben & Jerry's and said the former chief executive voluntarily resigned. Castel said the merger agreement's \"plain meaning\" did not afford Ben & Jerry's Class I directors and the Ben & Jerry's Foundation a right\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Ben & Jerry's Lawsuit Over \"Social-Mission\"-Related Contract Related to Its Earlier Sale",
-   "updated": "2026-08-23T18:08:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Judge dismisses major parts of Ben & Jerry\u2019s lawsuit accusing Unilever of silencing social activism",
-     "url": "https://nypost.com/2026/08/23/business/judge-narrows-ben-jerrys-lawsuit-accusing-unilever-of-silencing-social-activism/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-23T18:08:38+00:00",
-     "summary": "The dismissed claims relate primarily to how Ben and Jerry's operates, while the two claims that survived in full relate to missed payments by Unilever."
-    },
-    {
-     "outlet": "reason",
-     "title": "Ben & Jerry's Lawsuit Over \"Social-Mission\"-Related Contract Related to Its Earlier Sale",
-     "url": "https://reason.com/volokh/2026/08/23/ben-jerrys-lawsuit-over-social-mission-related-contract-related-to-its-earlier-sale/",
-     "author": "Eugene Volokh",
-     "kind": "opinion",
-     "published": "2026-08-23T15:32:26+00:00",
-     "summary": "A summary from Reuters (Jonathan Stempel) Friday: A federal judge on Friday dismissed major portions of a Ben & Jerry's lawsuit accusing its former parent Unilever of trying to silence the ice cream \u200cmaker's social activism, dismantle its board and stop funding its namesake foundation\u2026. Ben & Jerry's accused Unilever of violating the 2000 merger agreement by censoring \u200cits speech, \u2060which has included protests against the war in Gaza, and ousting a chief executive who supported the company's social activism. The alleged censorship also included an effort to suppress planned criticism of U.S. President Donald Trump as he began his second White House term\u2026. Unilever denied censoring Ben & Jerry's and said the former chief executive voluntarily resigned. Castel said the merger agreement's \"plain meaning\" did not afford Ben & Jerry's Class I directors and the Ben & Jerry's Foundation a right to sue on behalf of the company, including on the appointment and removal of directors. There's also an accusation that Unilever \"violat[ed] a 2022 settlement over the sale of Ben & Jerry's trademark rights in Israel, by failing to pay $2.5 million to Ben & Jerry's and $2 million to support Palestin"
-    }
-   ]
-  },
-  {
    "id": "7e2636bf8e",
    "topic": "Politics",
    "summary": "Attendees at a Trump rally in Racine, Wisconsin, on June 18, 2024. | Scott Olson/Getty Images It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running for a Senate seat, are mired in scandal. The Iran war was unpopular from the start, but it is getting even less popular as it drags on. And Trump\u2019s approval rating recently hit 33 percent , the lowest of his presidency yet. On this week\u2019s episode of America, Actually , host Astead Herndon speaks with one of Trump\u2019s most vocal defenders, conservative influencer CJ Pearson, about whether we\u2019re seeing Trump\u2019s brand slip even among his supporters and the young people who\u2026",
@@ -2778,45 +2755,45 @@
    ]
   },
   {
-   "id": "eb622fea07",
-   "topic": "World",
-   "summary": "Jill Wagner has been in the industry for decades and stars in Taylor Sheridan's hit show, \"Lioness.\" Even though she moved to California early in her career to pursue acting, she has returned to her country roots and lives on her Tennessee farm with her husband and two daughters. With season three of \"Lioness\" premiering earlier this month, Fox News Digital is taking a look at everything to know about Wagner's personal life, her military connection, how her husband inspired her role in the series and more. Wagner portrays Bobby, the tough, highly skilled leader of the Lioness program 's Quick Reaction Force (QRF). WHAT TAYLOR SHERIDAN'S BIGGEST STARS REALLY THINK ABOUT WORKING WITH THE 'YELLOWSTONE' CREATOR Wagner not only stars in Sheridan's hit series , she was the one who pitched him the idea. She told Parade in 2024 that Sheridan crafted the role as Bobby specifically for Wagner,\u2026",
-   "summaryFrom": "foxnews",
+   "id": "10096030fb",
+   "topic": "Other",
+   "summary": "Republican senator tries to assuage concerns but does not offer details of Graham\u2019s national security experience Tim Scott defended fellow US South Carolina Republican senator Darline Graham\u2019s knowledge of national security issues ahead of their state\u2019s runoff election on Tuesday. Graham, who was appointed to fill the Senate seat held by her brother Lindsey Graham after his sudden death in July, is in a Republican primary runoff against South Carolina congressman Ralph Norman. During a debate between the two on Tuesday night, Graham struggled to answer a question about US national security interests in Taiwan and the South China Sea. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
    "absent": [
-    "corp",
+    "family",
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "\u2018Lioness\u2019 Star Thad Luckinbill Thinks Series Creator Taylor Sheridan Could Be A \u201cMilitary Advisor In The Government\u201d: \u201cHe\u2019s So Brilliant When It Comes To Geopolitics\u201d",
-   "updated": "2026-08-23T17:30:00+00:00",
+   "headline": "Tim Scott defends Darline Graham\u2019s \u2018national security is not my thing\u2019 comment",
+   "updated": "2026-08-23T17:18:26+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 2
+    "nonprofit": 1,
+    "corp": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "\u2018Lioness\u2019 Star Thad Luckinbill Thinks Series Creator Taylor Sheridan Could Be A \u201cMilitary Advisor In The Government\u201d: \u201cHe\u2019s So Brilliant When It Comes To Geopolitics\u201d",
-     "url": "https://decider.com/2026/08/23/lioness-thad-luckinbill-interview-who-plays-kyle-mcmanus/",
-     "author": "mliss1578",
+     "outlet": "guardian",
+     "title": "Tim Scott defends Darline Graham\u2019s \u2018national security is not my thing\u2019 comment",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/tim-scott-defends-darline-graham",
+     "author": "Sam Levine",
      "kind": "news",
-     "published": "2026-08-23T17:30:00+00:00",
-     "summary": "Kyle McManus will do anything to get Joe McNamara back."
+     "published": "2026-08-23T17:18:26+00:00",
+     "summary": "Republican senator tries to assuage concerns but does not offer details of Graham\u2019s national security experience Tim Scott defended fellow US South Carolina Republican senator Darline Graham\u2019s knowledge of national security issues ahead of their state\u2019s runoff election on Tuesday. Graham, who was appointed to fill the Senate seat held by her brother Lindsey Graham after his sudden death in July, is in a Republican primary runoff against South Carolina congressman Ralph Norman. During a debate between the two on Tuesday night, Graham struggled to answer a question about US national security interests in Taiwan and the South China Sea. Continue reading..."
     },
     {
-     "outlet": "foxnews",
-     "title": "Jill Wagner pitched Taylor Sheridan 'Lioness' after military husband revealed real-life program: What to know",
-     "url": "https://www.foxnews.com/entertainment/jill-wagner-pitched-taylor-sheridan-lioness-after-military-husband-revealed-real-life-program-what-know",
-     "author": null,
+     "outlet": "nbcnews",
+     "title": "Tim Scott calls support for Darline Graham an \u2018easy choice\u2019 despite her debate flub",
+     "url": "https://www.nbcnews.com/politics/congress/tim-scott-darline-graham-easy-choice-debate-flub-rcna593983",
+     "author": "Alexandra Marquez",
      "kind": "news",
-     "published": "2026-08-23T15:00:01+00:00",
-     "summary": "Jill Wagner has been in the industry for decades and stars in Taylor Sheridan's hit show, \"Lioness.\" Even though she moved to California early in her career to pursue acting, she has returned to her country roots and lives on her Tennessee farm with her husband and two daughters. With season three of \"Lioness\" premiering earlier this month, Fox News Digital is taking a look at everything to know about Wagner's personal life, her military connection, how her husband inspired her role in the series and more. Wagner portrays Bobby, the tough, highly skilled leader of the Lioness program 's Quick Reaction Force (QRF). WHAT TAYLOR SHERIDAN'S BIGGEST STARS REALLY THINK ABOUT WORKING WITH THE 'YELLOWSTONE' CREATOR Wagner not only stars in Sheridan's hit series , she was the one who pitched him the idea. She told Parade in 2024 that Sheridan crafted the role as Bobby specifically for Wagner, and she serves as an executive producer on the show. \"Taylor Sheridan was my old acting coach, and I had access to him,\" she began. \"Taylor writes in such an honest and raw way. I didn\u2019t want this show to become Barbies with guns. I wanted it to represent the women I knew and respected in the military,"
+     "published": "2026-08-23T14:38:43+00:00",
+     "summary": "Sen. Tim Scott on Sunday defended fellow South Carolina Republican Sen."
     }
    ]
   },
@@ -2864,135 +2841,6 @@
    ]
   },
   {
-   "id": "26ec97feed",
-   "topic": "Other",
-   "summary": "FC Barcelona will travel to Elche on Sunday, to start the defense of back-to-back La Liga tiles while aiming for three in a row for the first time since 2011.",
-   "summaryFrom": "forbes",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "LIVE: Elche vs Barcelona \u2013 La Liga",
-   "updated": "2026-08-23T16:50:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "LIVE: Elche vs Barcelona \u2013 La Liga",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T16:50:00+00:00",
-     "summary": "Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary."
-    },
-    {
-     "outlet": "forbes",
-     "title": "FC Barcelona Vs. Elche Line Up: Catalans Start La Liga Title Defense",
-     "url": "https://www.forbes.com/sites/tomsanderson/2026/08/23/fc-barcelona-vs-elche-line-up-catalans-start-la-liga-title-defense/",
-     "author": "Tom Sanderson, Senior Contributor",
-     "kind": "news",
-     "published": "2026-08-23T09:23:08+00:00",
-     "summary": "FC Barcelona will travel to Elche on Sunday, to start the defense of back-to-back La Liga tiles while aiming for three in a row for the first time since 2011."
-    }
-   ]
-  },
-  {
-   "id": "f36c88b8d5",
-   "topic": "Other",
-   "summary": "Mario Anzuoni / REUTERS More details about the moments leading up to actress Hayden Panettiere\u2019s death at 36 on Sunday have been revealed by the brother of the late star\u2019s ex, who was on the scene. Panettiere had traveled to South Carolina from Los Angeles with her on-again-off-again boyfriend Brian Hickerson just a day before she died at a luxury loft complex. Hickerson, who was in the loft with his brother Zach when EMS failed to revive her from a suspected overdose, was arrested multiple times for physically abusing the actress between 2018 and 2020. Read more at The Daily Beast.",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Hayden Panettiere\u2019s Final Battles: Mysterious Pain and Trouble With an Ex",
-   "updated": "2026-08-23T16:44:27+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Hayden Panettiere\u2019s Final Battles: Mysterious Pain and Trouble With an Ex",
-     "url": "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html",
-     "author": "Julia Jacobs and Matt Stevens",
-     "kind": "news",
-     "published": "2026-08-23T16:44:27+00:00",
-     "summary": "At the end of Hayden Panettiere\u2019s memoir, \u201cThis Is Me: A Reckoning,\u201d she says she had been trying to embrace \u201cradical acceptance,\u201d a term she learned in mental health and addiction treatment."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Hayden Panettiere\u2019s Final Moments Revealed by Ex\u2019s Brother",
-     "url": "https://www.thedailybeast.com/obsessed/hayden-panettieres-final-moments-revealed-by-exs-brother-zach-hickerson/",
-     "author": "Eboni Boykin-Patterson",
-     "kind": "news",
-     "published": "2026-08-21T20:26:30+00:00",
-     "summary": "Mario Anzuoni / REUTERS More details about the moments leading up to actress Hayden Panettiere\u2019s death at 36 on Sunday have been revealed by the brother of the late star\u2019s ex, who was on the scene. Panettiere had traveled to South Carolina from Los Angeles with her on-again-off-again boyfriend Brian Hickerson just a day before she died at a luxury loft complex. Hickerson, who was in the loft with his brother Zach when EMS failed to revive her from a suspected overdose, was arrested multiple times for physically abusing the actress between 2018 and 2020. Read more at The Daily Beast."
-    }
-   ]
-  },
-  {
-   "id": "2cca9b7fa2",
-   "topic": "Politics",
-   "summary": "The United States Postal Service (USPS) published a rule Friday that would require states to provide lists of voters who received mail-in ballots to the agency. The USPS rule , first proposed June 2, moves to align the agency with President Donald Trump's March 31 executive order, which, among other things, ordered the agency to mandate that all states that plan to use USPS to send mail-in ballots notify the agency at least 90 days before an election and to send USPS a list of eligible voters the state plans on providing a mail-in ballot to at least 60 days before the election. \"Any state that intends to receive mail-in or absentee ballots from individual voters through the Postal Service must ensure that such individuals have been enrolled with the Postal Service for inclusion on the state's Mail-In and Absentee Participation List,\" the new rule states. To be included on the list, an\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "USPS makes new rules for mail-in ballots",
-   "updated": "2026-08-23T16:39:41+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "USPS makes new rules for mail-in ballots",
-     "url": "https://abcnews.com/US/usps-makes-new-rules-mail-ballots/story?id=135879673",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T16:39:41+00:00",
-     "summary": "The changes would not go into effect until the court lifts its injunction."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "USPS publishes rule to block mail-in ballots from states that don't provide voter lists",
-     "url": "https://www.foxnews.com/politics/usps-publishes-rule-block-mail-in-ballots-states-dont-provide-voter-lists",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T14:00:37+00:00",
-     "summary": "The United States Postal Service (USPS) published a rule Friday that would require states to provide lists of voters who received mail-in ballots to the agency. The USPS rule , first proposed June 2, moves to align the agency with President Donald Trump's March 31 executive order, which, among other things, ordered the agency to mandate that all states that plan to use USPS to send mail-in ballots notify the agency at least 90 days before an election and to send USPS a list of eligible voters the state plans on providing a mail-in ballot to at least 60 days before the election. \"Any state that intends to receive mail-in or absentee ballots from individual voters through the Postal Service must ensure that such individuals have been enrolled with the Postal Service for inclusion on the state's Mail-In and Absentee Participation List,\" the new rule states. To be included on the list, an voter's state must submit to the USPS the individual's name and address and include a \"uniquely serialized Intelligent Mail barcode (IMb)\" on both the outbound federal ballot and the return ballot sent to the individual. DHS PLANS COSTLY CRACKDOWN ON STATES THAT DON\u2019T COOPERATE ON ELECTION SECURITY Th"
-    }
-   ]
-  },
-  {
    "id": "18307ae7e2",
    "topic": "Politics",
    "summary": "Saudi crown prince Mohammed bin Salman arrives in France for a two-day visit this Sunday. President Emmanuel Macron is hosting the crown prince for the closing ceremony of the so-called Esports World Cup in Paris\u2026 which is organised and financed by the Saudis. Analysis by Andy Miah, chair of Sciences Communication & Future Media at the University of Salford.",
@@ -3032,49 +2880,6 @@
      "kind": "news",
      "published": "2026-08-23T10:09:17+00:00",
      "summary": "Saudi crown prince Mohammed bin Salman arrives in France for a two-day visit this Sunday. President Emmanuel Macron is hosting the crown prince for the closing ceremony of the so-called Esports World Cup in Paris\u2026 which is organised and financed by the Saudis. Analysis by Andy Miah, chair of Sciences Communication & Future Media at the University of Salford."
-    }
-   ]
-  },
-  {
-   "id": "bdb8463a50",
-   "topic": "World",
-   "summary": "Former Vice President Mike Pence said Sunday the trade war between the U.S. and Canada could damage the American economy. \u201cAmerican businesses and American consumers pay American tariffs, and I think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,\u201d Pence told...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
-   "updated": "2026-08-23T15:46:33+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "wapo",
-     "title": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
-     "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-23T15:46:33+00:00",
-     "summary": "\u201cI think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,\u201d the former vice president told CNN."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Pence: 'Last thing' US economy needs is trade war with Canada",
-     "url": "https://thehill.com/business/6045613-pence-last-thing-us-economy-needs-is-trade-war-with-canada/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-23T14:59:31+00:00",
-     "summary": "Former Vice President Mike Pence said Sunday the trade war between the U.S. and Canada could damage the American economy. \u201cAmerican businesses and American consumers pay American tariffs, and I think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,\u201d Pence told..."
     }
    ]
   },
@@ -3122,92 +2927,6 @@
    ]
   },
   {
-   "id": "67d3d016bf",
-   "topic": "Justice & Policing",
-   "summary": "A Texas judge on Saturday dealt a crushing blow to convicted killer Karmelo Anthony, denying his bid for a new murder trial for fatally stabbing Austin Metcalf in the heart at a high school track meet. Judge Michael Chitty rejected Anthony\u2019s motion for a new trial following a two-day hearing after the judge who oversaw his murder conviction was removed from the case, local media reported .. Saturday\u2019s ruling marks a major setback for Anthony\u2019s appellate team, which cited several alleged errors during the trial, including claims that prosecutors violated a secret agreement with Anthony\u2019s trial defense team to keep certain evidence \u2014 including allegations of racism and violence \u2014 from being presented to jurors. The Collin County District Attorney\u2019s Office has maintained that prosecutors acted ethically throughout the trial, The Daily Wire previously reported . Anthony, 19, fatally stabbed\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "A Murder Trial in Massachusetts",
-   "updated": "2026-08-23T15:30:19+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "A Murder Trial in Massachusetts",
-     "url": "https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html",
-     "author": "Shaila Dewan",
-     "kind": "news",
-     "published": "2026-08-23T15:30:19+00:00",
-     "summary": "How the trial of Lindsay Clancy has become a proxy for how people view society\u2019s ills."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Karmelo Anthony Denied New Murder Trial",
-     "url": "https://www.dailywire.com/news/karmelo-anthony-denied-new-murder-trial",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-22T17:05:34+00:00",
-     "summary": "A Texas judge on Saturday dealt a crushing blow to convicted killer Karmelo Anthony, denying his bid for a new murder trial for fatally stabbing Austin Metcalf in the heart at a high school track meet. Judge Michael Chitty rejected Anthony\u2019s motion for a new trial following a two-day hearing after the judge who oversaw his murder conviction was removed from the case, local media reported .. Saturday\u2019s ruling marks a major setback for Anthony\u2019s appellate team, which cited several alleged errors during the trial, including claims that prosecutors violated a secret agreement with Anthony\u2019s trial defense team to keep certain evidence \u2014 including allegations of racism and violence \u2014 from being presented to jurors. The Collin County District Attorney\u2019s Office has maintained that prosecutors acted ethically throughout the trial, The Daily Wire previously reported . Anthony, 19, fatally stabbed Metcalf at a track event in April 2025 in Frisco, Texas. Evidence presented at trial showed that Anthony refused to leave another team\u2019s tented area and, when confronted by the unarmed Metcalf, stabbed him directly in the heart. A Texas jury rejected his self-defense claim and sentenced Anthony to 3"
-    }
-   ]
-  },
-  {
-   "id": "a2dcfe33ab",
-   "topic": "World",
-   "summary": "President Volodymyr Zelenskyy said Ukraine played no role in the sabotage of the Nord Stream gas pipelines linking Russia to Europe, following the arrest in Croatia of a second Ukrainian suspect sought by Germany.",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
-   "updated": "2026-08-23T15:30:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Zelenskyy Says Ukraine Had No Role in Nord Stream Pipeline Blast",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/zelenskyy-says-ukraine-had-no-role-in-nord-stream-pipeline-blast",
-     "author": "Olesia Safronova",
-     "kind": "news",
-     "published": "2026-08-23T15:30:00+00:00",
-     "summary": "President Volodymyr Zelenskyy said Ukraine played no role in the sabotage of the Nord Stream gas pipelines linking Russia to Europe, following the arrest in Croatia of a second Ukrainian suspect sought by Germany."
-    },
-    {
-     "outlet": "dw",
-     "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
-     "url": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T05:46:00+00:00",
-     "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. His explosive remarks have sparked widespread public debate."
-    }
-   ]
-  },
-  {
    "id": "23ea31f9bc",
    "topic": "Other",
    "summary": "NASCAR Hall of Famer Kurt Busch opened up about how racing helps him cope with the sudden loss of his younger brother, NASCAR legend Kyle Busch, who died in May. The two-time NASCAR Cup Series champion died at 41 from complications related to \"severe pneumonia [that] progressed into sepsis,\" according to a statement from his family. \"When you get behind the wheel, I feel his presence of\u2026 he like sees my mistakes now, like I can't hide them, but it helps me cope with it. I see my brothers in the racing world,\" Kurt told \" The Big Weekend Show \" on Saturday. NASCAR CHAMPION KYLE BUSCH\u2019S CAUSE OF DEATH REVEALED BY FAMILY Kurt\u2019s comments about his brother came after his race in IndyCar's Freedom 250 Grand Prix , held on a 1.7-mile course that includes Pennsylvania, Constitution and Independence avenues. His remarks also follow the inaugural celebration of \" Kyle Busch Day \" on Aug. 18, a\u2026",
@@ -3247,6 +2966,49 @@
      "kind": "opinion",
      "published": "2026-08-22T07:45:10+00:00",
      "summary": "Kurt Busch is opening up about his brother and fellow NASCAR legend Kyle Busch, in the final moments of his life, while also explaining how illness is handled in the competitive racing world. Kurt, a NASCAR Hall of Famer, appeared on the Today show Friday, where he opened up about his brother\u2019s final moments before his sudden passing in May. Kurt was in the hospital as Kyle took his final breaths. Friday marks three months since Kyle\u2019s passing. Through tears Kurt was able to share those final words with his brother. He told Today\u2019s Craig Melvin, \u201cI said, \u2018I got you, man. Come on. I got you. Come on. Be strong.\u201d Kurt chose to be at Kyle\u2019s side at the end. Their father, Tom Busch, chose not to. \u201cI was there at the hospital,\u201d Kurt said. \u201cI was there all day, hoping, praying, hoping for a turnaround. My dad wanted to remember him in the way that he wanted to remember him. That\u2019s how people could choose if they wanted to or not.\u201d Kyle died May 21 after an undiagnosed bacterial infection in his lungs turned septic and moved through his body with brutal speed, killing within hours, his family said. \u201cJust wasn\u2019t fair,\u201d Kurt added. During the emotional interview, Kurt opened up about Kyle\u2019s"
+    }
+   ]
+  },
+  {
+   "id": "72b2626726",
+   "topic": "Politics",
+   "summary": "Sunday on NBC\u2019s \u201cMeet the Press,\u201d Sen. Tim Scott (R-SC) said he is \u201cvery confident\u201d that Republicans will keep control of the Senate after the midterm elections. Host Kristen Welker said, \u201cTo the Cook Political Report. Six of the key battleground The post Tim Scott: I\u2019m \u2018Very Confident\u2019 Republicans Will Keep Senate appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Tim Scott: I'm 'Very Confident\u2019 Republicans Will Keep Senate",
+   "updated": "2026-08-23T15:09:31+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Tim Scott: I'm 'Very Confident\u2019 Republicans Will Keep Senate",
+     "url": "https://www.breitbart.com/clips/2026/08/23/tim-scott-im-very-confident-republicans-will-keep-senate/",
+     "author": "Pam Key",
+     "kind": "news",
+     "published": "2026-08-23T15:09:31+00:00",
+     "summary": "Sunday on NBC\u2019s \u201cMeet the Press,\u201d Sen. Tim Scott (R-SC) said he is \u201cvery confident\u201d that Republicans will keep control of the Senate after the midterm elections. Host Kristen Welker said, \u201cTo the Cook Political Report. Six of the key battleground The post Tim Scott: I\u2019m \u2018Very Confident\u2019 Republicans Will Keep Senate appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Tim Scott says \u2018without question\u2019 Darline Graham is qualified for Senate",
+     "url": "https://www.nbcnews.com/meet-the-press/video/tim-scott-says-without-question-darline-graham-is-qualified-for-senate-268736581916",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T13:26:48+00:00",
+     "summary": "In an exclusive interview with Meet the Press, Sen. Tim Scott (R-S.C.) says Sen. Darline Graham is \u201cready for primetime\u201d ahead of South Carolina\u2019s Republican runoff on Tuesday."
     }
    ]
   },
@@ -3423,49 +3185,6 @@
    ]
   },
   {
-   "id": "24e6e4f144",
-   "topic": "Other",
-   "summary": "Entering the new space age: The White House wants upward of 1,000 rocket launches and re-entries per year in the U.S. by 2030 and has unveiled a new policy initiative to this effect. \"The new policy puts greater emphasis on developing additional locations for rockets to launch from and for spacecraft to land. It also calls for plans on how to integrate management of space traffic with air traffic control, and how to enable launches within 48 hours of high-priority civil and national security missions,\" reports The New York Times. The policy \"calls for more commercial involvement in efforts to reach the moon and Mars\" and talks about companies more easily \"selling American capabilities to other countries.\" The administration intends to \"evaluate the regulatory, programmatic, operational, and technological barriers for prompt, responsive, and resilient access to space,\" per the White\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Colonizing the Moon",
-   "updated": "2026-08-23T14:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 0,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "How should the moon and Mars be governed?",
-     "url": "https://thehill.com/opinion/technology/6041606-governing-moon-mars-colonization/",
-     "author": "Mark Whittington, opinion contributor",
-     "kind": "opinion",
-     "published": "2026-08-23T14:00:00+00:00",
-     "summary": "An excellent model already exists for governing in space. It's called the Artemis Accords."
-    },
-    {
-     "outlet": "reason",
-     "title": "Colonizing the Moon",
-     "url": "https://reason.com/2026/08/21/colonizing-the-moon/",
-     "author": "Liz Wolfe",
-     "kind": "opinion",
-     "published": "2026-08-21T13:30:48+00:00",
-     "summary": "Entering the new space age: The White House wants upward of 1,000 rocket launches and re-entries per year in the U.S. by 2030 and has unveiled a new policy initiative to this effect. \"The new policy puts greater emphasis on developing additional locations for rockets to launch from and for spacecraft to land. It also calls for plans on how to integrate management of space traffic with air traffic control, and how to enable launches within 48 hours of high-priority civil and national security missions,\" reports The New York Times. The policy \"calls for more commercial involvement in efforts to reach the moon and Mars\" and talks about companies more easily \"selling American capabilities to other countries.\" The administration intends to \"evaluate the regulatory, programmatic, operational, and technological barriers for prompt, responsive, and resilient access to space,\" per the White House memo , and \"review, on a case-by-case basis, requests to launch foreign space vehicles or permit reentry of foreign space vehicles in the United States for commercial purposes.\" The Trump administration also says it wants to put U.S. astronauts back on the Moon by 2028 and explore more commercial a"
-    }
-   ]
-  },
-  {
    "id": "d42cc45c7c",
    "topic": "Culture & Sport",
    "summary": "It feels like the World Cup just ended, and yet somehow, some way, the Premier League is already back. England's top flight kicks off on Friday with defending champi\u2014oops, I mean attacking champion ; sorry Mikel\u2014Arsenal taking on newly promoted Championship champion Coventry City in North London, before everyone else takes the field over the weekend. It's a quick turnaround after the six-week odyssey that ended with Donald Trump trying to insert himself in Spain's trophy celebration, but that's life in soccer's grossly bloated calendar. As someone who cares about player fitness and the quality of play, I'm concerned that this is going to be a messy season. As someone who misses watching games every weekend, I could not be more excited. Fittingly, the Premier League itself is a real mess right now. Arsenal should feel confident about its chances to repeat, but there's no telling where\u2026",
@@ -3552,10 +3271,10 @@
    ]
   },
   {
-   "id": "ca7a330ea7",
-   "topic": "Other",
-   "summary": "New York City officials are looking at ways to ease costs for independent grocers as taxpayers foot the bill for Mayor Zohran Mamdani 's city-owned grocery store plan. The administration is eyeing tax breaks, incentives and zoning benefits to help private grocers manage costs as the city moves ahead with taxpayer-subsidized stores that will receive low- or no-cost real estate, city-funded buildouts and other subsidies. That could put taxpayers in a position of paying twice, once for the city-run stores and again for incentives that could be used to ease costs for private grocers operating alongside them. Those city-run stores, meanwhile, are expected to sell groceries at prices 30% below comparable retailers, according to Mamdani\u2019s administration. NYC GROCERS SOUND ALARM ON MAMDANI'S SUPERMARKET PLAN: 'WE'LL LOSE CUSTOMERS' Adam Lehodey, a policy analyst at the Manhattan Institute, said\u2026",
-   "summaryFrom": "foxnews",
+   "id": "2ebad562fa",
+   "topic": "Business & Economy",
+   "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into\u2026",
+   "summaryFrom": "time",
    "emphasis": null,
    "people": [],
    "absent": [
@@ -3563,34 +3282,249 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "NYC taxpayers could pay twice under Mamdani's city-owned grocery store plan",
-   "updated": "2026-08-23T12:58:34+00:00",
+   "headline": "Trump Says He Has a Beef Deal. Here Are Five Unanswered Questions",
+   "updated": "2026-08-23T12:35:50+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 1,
-    "corp": 1
+    "corp": 1,
+    "family": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "foxnews",
-     "title": "NYC taxpayers could pay twice under Mamdani's city-owned grocery store plan",
-     "url": "https://www.foxnews.com/politics/nyc-taxpayers-pay-twice-mamdanis-city-owned-grocery-store-plan",
+     "outlet": "newsweek",
+     "title": "Trump Says He Has a Beef Deal. Here Are Five Unanswered Questions",
+     "url": "https://www.newsweek.com/trump-beef-deal-five-unanswered-questions-12357059",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T12:58:34+00:00",
-     "summary": "New York City officials are looking at ways to ease costs for independent grocers as taxpayers foot the bill for Mayor Zohran Mamdani 's city-owned grocery store plan. The administration is eyeing tax breaks, incentives and zoning benefits to help private grocers manage costs as the city moves ahead with taxpayer-subsidized stores that will receive low- or no-cost real estate, city-funded buildouts and other subsidies. That could put taxpayers in a position of paying twice, once for the city-run stores and again for incentives that could be used to ease costs for private grocers operating alongside them. Those city-run stores, meanwhile, are expected to sell groceries at prices 30% below comparable retailers, according to Mamdani\u2019s administration. NYC GROCERS SOUND ALARM ON MAMDANI'S SUPERMARKET PLAN: 'WE'LL LOSE CUSTOMERS' Adam Lehodey, a policy analyst at the Manhattan Institute, said the arrangement masks the true cost of the discounts. \"The 30% savings that Mamdani announced on his government-owned stores are an illusion,\" Lehodey previously told Fox News Digital. \"Taxpayers will foot the bill for millions of dollars in subsidies, and they will operate on government-owned land "
+     "published": "2026-08-23T12:35:50+00:00",
+     "summary": "The president's beef import deal promises lower prices, but which countries are involved and how will savings reach shoppers?"
     },
     {
-     "outlet": "businessinsider",
-     "title": "Inside New Yorkers' hopes and fears over Mamdani's city-run grocery stores",
-     "url": "https://www.businessinsider.com/how-new-yorkers-feel-about-mamdanis-city-run-grocery-stores-2026-8",
-     "author": "Allie Kelly (allisonkelly@businessinsider.com)",
+     "outlet": "time",
+     "title": "With Beef Costs Skyrocketing, Trump Announces a Tariff Deal Aimed at Lowering Prices",
+     "url": "https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/",
+     "author": "Chantelle Lee",
      "kind": "news",
-     "published": "2026-08-23T08:30:01+00:00",
-     "summary": "New York Mayor Zohran Mamdani's five city-run grocery stores are set to open by 2029. Paola Chapdelaine for BI Phillip Grant is feeling optimistic. He thinks he's the best man to operate Mayor Zohran Mamdani's city-run supermarkets . Along with being a former city economic development executive and construction entrepreneur, he's a New Yorker who's shocked that an orange costs $2 at his local gas station. We're walking the perimeter of a vacant city-owned lot in East Harlem. It's the future spot for La Marqueta, one of five planned stores set to open by the end of Mamdani's first term \u2014 all of which will offer a 30% discount on core goods like fruit, vegetables, and dairy. It's also the most expensive location, accounting for $30 million of the $70 million the mayor has set aside to launch the initiative. The administration is looking for established grocers who know the food business and can take on day-to-day store management. If he were to be named operator, Grant said he \"would be looking for a really strategic partner\" in the city, \"that could knock on those doors that we can't get to and have an ear to the street.\" Phillip Grant, a former NYC economic development executive wh"
+     "published": "2026-08-21T19:28:12+00:00",
+     "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into the U.S. exceeds a certain quantity. Read More: Why Ground Beef Prices Are Hitting Record-Highs in the U.S. It\u2019s unclear who the deal is with or which countries will be importing the beef into the U.S. A White House official told TIME that Trump secured an agreement with foreign beef exporters to se"
+    }
+   ]
+  },
+  {
+   "id": "2718f2c79b",
+   "topic": "World",
+   "summary": "Humanoid robots smashed sprinting records and competed in boxing, football and martial arts at Beijing\u2019s World Robot Games, including running legend Usain Bolt's record for the 100-metre dash. The robo-athletes drew cheers from hundreds of spectators and showcased China\u2019s growing dominance in humanoid robotics.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Humanoid robot breaks Usain Bolt's 100m record in China",
+   "updated": "2026-08-23T11:45:17+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Humanoid robot breaks Usain Bolt's 100m record in China",
+     "url": "https://www.france24.com/en/asia-pacific/20260823-humanoid-robots-break-records-at-competition-in-beijing",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-23T11:45:17+00:00",
+     "summary": "Humanoid robots smashed sprinting records and competed in boxing, football and martial arts at Beijing\u2019s World Robot Games, including running legend Usain Bolt's record for the 100-metre dash. The robo-athletes drew cheers from hundreds of spectators and showcased China\u2019s growing dominance in humanoid robotics."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+     "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T17:02:06+00:00",
+     "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
+    }
+   ]
+  },
+  {
+   "id": "e3c37efe6c",
+   "topic": "Tech",
+   "summary": "Flock cameras are joining data centers as a top midterm boogeyman, with members of Congress and congressional candidates trying to harness a sudden groundswell of grassroots anger over the AI surveillance tool. Why it matters: This blowup over the country's massive network of license plate readers illustrates how rapidly AI has morphed from a peripheral issue in national politics toward the center of the midterm campaign. Data centers have become a major issue in the midterms, with candidates racing to one-up each other in their opposition to building the energy-hungry facilities. Super PACs affiliated with AI companies have also spent tens of millions of dollars clashing with each other in congressional elections over the degree to which the federal government should regulate the technology. Now, surveillance cameras are opening a new front in the debate over AI. Driving the news:\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+   "updated": "2026-08-23T11:20:11+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+     "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+     "author": "Andrew Solender",
+     "kind": "news",
+     "published": "2026-08-23T11:20:11+00:00",
+     "summary": "Flock cameras are joining data centers as a top midterm boogeyman, with members of Congress and congressional candidates trying to harness a sudden groundswell of grassroots anger over the AI surveillance tool. Why it matters: This blowup over the country's massive network of license plate readers illustrates how rapidly AI has morphed from a peripheral issue in national politics toward the center of the midterm campaign. Data centers have become a major issue in the midterms, with candidates racing to one-up each other in their opposition to building the energy-hungry facilities. Super PACs affiliated with AI companies have also spent tens of millions of dollars clashing with each other in congressional elections over the degree to which the federal government should regulate the technology. Now, surveillance cameras are opening a new front in the debate over AI. Driving the news: Abdul El-Sayed, the Democratic nominee for Senate in Michigan, posted a video to X Wednesday tying his Republican opponent, former Rep. Mike Rogers, to Flock cameras. \"There's been this mass proliferation of Flock cameras, any and everywhere, watching your every move to collect information without you ev"
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Democrats can take the lead on one of the nation\u2019s top issues \u2013 data centers",
+     "url": "https://www.foxnews.com/opinion/democrats-take-lead-nations-top-issues-data-centers",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-21T09:00:43+00:00",
+     "summary": "Elected officials see angry voters cram into local meeting rooms and line streets to oppose data centers and feel an irresistible urge to cater to the populist anger. The next thing they do is hit the pause button. However, leadership requires thinking through consequences. Moratoria on new data center construction will arrest innovation, cede the future of artificial intelligence to Beijing and threaten our national security. Blanket opposition deprives hardworking Americans of hundreds of millions of dollars in future wages per year. It shackles the most vibrant sector in commercial construction and eliminates a tax revenue lifeline that is currently funding local police departments, roads and teacher salaries in counties across the nation. If Democrats want to regain the trust of the American people, we must have a defined vision for the future that brings prosperity to all \u2013 not just the ultrarich \u2013 and we have to be for something not just saying, \"No.\" We need to offer a constructive solution that doesn't succumb to fearmongering, and prove that the party of the New Deal, the Great Society and the Apollo program is the party of solutions and sound policy, not demagoguery. FROM"
+    }
+   ]
+  },
+  {
+   "id": "e335f07347",
+   "topic": "Other",
+   "summary": "\u201cIf you want to defend the South and Western civilization from the Jew and his dark-skinned allies, be at Charlottesville on 12 August.\u201d Nine years ago, that message spread across the internet. The call was answered by several hundred white supremacists, who marched through the University of Virginia. The rage-filled men carried torches, chanting, \u201cJews will not replace us.\u201d They swarmed around the historic rotunda, arriving at a statue of the school\u2019s founder, Thomas Jefferson. There they met a tiny band of student counterprotesters who responded with their own chant: \u201cBlack lives matter.\u201d That evening turned violent, the first act in a deadly weekend. Most Americans remember the torches, the rage, the death. But those clashing chants also revealed a gap between the targets of hatred and the words available to name it. Race is the wound America sees. Anti-Semitism is the one it\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "The Hatred That Broke American Politics",
+   "updated": "2026-08-23T11:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "theatlantic",
+     "title": "The Hatred That Broke American Politics",
+     "url": "https://www.theatlantic.com/ideas/2026/08/charlottesville-antisemitism-race-legacy/688325/?utm_source=feed",
+     "author": "James Loeffler",
+     "kind": "news",
+     "published": "2026-08-23T11:00:00+00:00",
+     "summary": "\u201cIf you want to defend the South and Western civilization from the Jew and his dark-skinned allies, be at Charlottesville on 12 August.\u201d Nine years ago, that message spread across the internet. The call was answered by several hundred white supremacists, who marched through the University of Virginia. The rage-filled men carried torches, chanting, \u201cJews will not replace us.\u201d They swarmed around the historic rotunda, arriving at a statue of the school\u2019s founder, Thomas Jefferson. There they met a tiny band of student counterprotesters who responded with their own chant: \u201cBlack lives matter.\u201d That evening turned violent, the first act in a deadly weekend. Most Americans remember the torches, the rage, the death. But those clashing chants also revealed a gap between the targets of hatred and the words available to name it. Race is the wound America sees. Anti-Semitism is the one it doesn\u2019t. Jews have frequently been imagined as a colorless minority whose great persecution took place elsewhere, or as a group whose Christian-adjacent faith flourished with the religious freedom they found in the United States. But their in-betweenness has always been part of the danger: Jews have never f"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Why Polling Chaos Could Create Big Problems for American Politics",
+     "url": "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html",
+     "author": "Reid J. Epstein",
+     "kind": "opinion",
+     "published": "2026-08-22T12:50:24+00:00",
+     "summary": "Polls fueled a widespread belief that Representative Haley Stevens, a moderate Democrat, was a major underdog in Michigan\u2019s primary for Senate to Dr. Abdul El-Sayed, a progressive. She ended up losing by just a percentage point."
+    }
+   ]
+  },
+  {
+   "id": "9eb50a6a4b",
+   "topic": "Politics",
+   "summary": "A democracy cannot exist as a permanent form of government . Those words are widely attributed to Alexander Tytler, the Scottish judge and historian who lived from 1747 to 1813. There is, however, some debate over the attribution. Historians and researchers have questioned whether Tytler actually wrote the passage in the form in which it is commonly quoted, whether he expressed a similar idea that was later expanded and attributed to him, or whether the passage originated elsewhere. The exact authorship may be debatable. The warning itself is not. Here is the prophetic quote: \"A democracy cannot exist as a permanent form of government. It can only exist until the voters discover that they can vote themselves largesse from the public treasury. From that moment on, the majority always votes for the candidates promising the most benefits from the public treasury with the result that a\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+   "updated": "2026-08-23T10:53:53+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+     "url": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
+     "author": "Heather Stewart",
+     "kind": "news",
+     "published": "2026-08-23T10:53:53+00:00",
+     "summary": "Treasury secretary Scott Bessent\u2019s attempt to calm bond markets is a sign of weakness not strength \u201cLook, there\u2019s nothing magic about that $40tn number,\u201d the US Treasury secretary, Scott Bessent, told CNBC insouciantly last week, as the country\u2019s debt mountain surpassed another bleak record. Yet Bessent\u2019s decision to intervene in government bond markets in an effort to combat soaring yields belied his studied calm in TV interviews \u2013 and reignited fears the US may be on the road to a debt crisis. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Washington is driving America toward a debt crisis we can't ignore any longer",
+     "url": "https://www.foxnews.com/opinion/washington-driving-america-toward-debt-crisis-cant-ignore-longer",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-21T09:00:58+00:00",
+     "summary": "A democracy cannot exist as a permanent form of government . Those words are widely attributed to Alexander Tytler, the Scottish judge and historian who lived from 1747 to 1813. There is, however, some debate over the attribution. Historians and researchers have questioned whether Tytler actually wrote the passage in the form in which it is commonly quoted, whether he expressed a similar idea that was later expanded and attributed to him, or whether the passage originated elsewhere. The exact authorship may be debatable. The warning itself is not. Here is the prophetic quote: \"A democracy cannot exist as a permanent form of government. It can only exist until the voters discover that they can vote themselves largesse from the public treasury. From that moment on, the majority always votes for the candidates promising the most benefits from the public treasury with the result that a democracy always collapses over loose fiscal policy, always followed by a dictatorship. The average age of the world's greatest civilizations has been 200 years. These nations have progressed through this sequence: From bondage to spiritual faith; From spiritual faith to great courage; From courage to li"
+    }
+   ]
+  },
+  {
+   "id": "6070850f44",
+   "topic": "World",
+   "summary": "In my youth, pop culture told me that the Cold War would end in one of two ways: a Soviet\u2013Cuban invasion that would necessitate my taking to the hills and fighting a guerrilla war against the Communists, \u00e0 la \u201c Red Dawn ,\u201d like a young Patrick Swayze; or riding out an atomic winter after a full-scale nuclear exchange between the United States and the Soviet Union, as in \u201c The Day After .\u201d The only other hope was Rocky besting Drago in a proxy war held in a boxing ring (\u201cIn here, there were two guys killing each other, but I guess it\u2019s better than 20 million\u201d). Instead, in November 1989, I watched the Cold War end on a TV with an antenna, as the Berlin Wall came crashing down. Suddenly, there was only one superpower left standing. Thirty-seven years later, the U.S. has parlayed that seemingly lopsided victory into a pyrrhic one. In the decades since, America has been hollowed out by the\u2026",
+   "summaryFrom": "intercept",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "The Dawn of a New Cold War",
+   "updated": "2026-08-23T10:10:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "intercept",
+     "title": "The Dawn of a New Cold War",
+     "url": "https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/",
+     "author": "John Feffer",
+     "kind": "news",
+     "published": "2026-08-23T10:10:00+00:00",
+     "summary": "In my youth, pop culture told me that the Cold War would end in one of two ways: a Soviet\u2013Cuban invasion that would necessitate my taking to the hills and fighting a guerrilla war against the Communists, \u00e0 la \u201c Red Dawn ,\u201d like a young Patrick Swayze; or riding out an atomic winter after a full-scale nuclear exchange between the United States and the Soviet Union, as in \u201c The Day After .\u201d The only other hope was Rocky besting Drago in a proxy war held in a boxing ring (\u201cIn here, there were two guys killing each other, but I guess it\u2019s better than 20 million\u201d). Instead, in November 1989, I watched the Cold War end on a TV with an antenna, as the Berlin Wall came crashing down. Suddenly, there was only one superpower left standing. Thirty-seven years later, the U.S. has parlayed that seemingly lopsided victory into a pyrrhic one. In the decades since, America has been hollowed out by the greed, grift, and graft of craven politicians, heartless corporations, and an ever-expanding class of would-be tyrant tycoons. As a topper, it has twice elected a vile, racist, megalomaniacal huckster who was, in those \u201cRed Dawn\u201d and \u201cRocky IV\u201d years , nothing more than a local New York City joke . L"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Pinkerton: What We Can Learn from History as We Enter Cold War 2",
+     "url": "https://www.breitbart.com/politics/2026/08/22/pinkerton-what-we-can-learn-from-history-as-we-enter-cold-war-2/",
+     "author": "James P. Pinkerton",
+     "kind": "news",
+     "published": "2026-08-23T01:15:23+00:00",
+     "summary": "Communism is once again stalking the United States. The threat is a combination of subversion and espionage from the Communist regime in China, as well as from the Democratic Socialists of America\u2014who are, in fact, not democratic and not socialists. The post Pinkerton: What We Can Learn from History as We Enter Cold War 2 appeared first on Breitbart ."
     }
    ]
   }
