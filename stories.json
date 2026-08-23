@@ -1,9 +1,205 @@
 {
- "generated": "2026-08-23T20:40:47.841242+00:00",
+ "generated": "2026-08-23T21:36:58.645165+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
+  {
+   "id": "85e660eebc",
+   "topic": "World",
+   "summary": "The Freedom 250 Gr a nd Prix in America's capital is a historic spectacle. It is a feat of American patriotism that can only be rivaled by UFC 250 earlier this year. It featured the most scenic and picturesque views , flyovers from every branch of the military, President Donald Trump driving the race course in The Beast for a ceremonial lap, American flags and music all over the streets of Washington, D.C. I spoke with fans about their experience and it told me one thing: This is how sports should be. \"I think it's really unique,\" an IndyCar fan told me on the National Mall. \"Being at the [United States] Captiol for the 250[th birthday] and racing, it doesn't get too much better than that.\" Many of the fans attending felt the same thing: An overwhelming sense of pride in America. WORLD CUP ENERGY CARRIES INTO FREEDOM 250 GRAND PRIX AS GLOBAL FANS CELEBRATE AMERICA'S HISTORIC BIRTHDAY \"I\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 10,
+    "indieCount": 7,
+    "big": [
+     "event",
+     "melania",
+     "course",
+     "around",
+     "lady",
+     "only"
+    ],
+    "indie": [
+     "waves",
+     "mark",
+     "people",
+     "killed",
+     "ukraine"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Kyle Kirkwood wins Freedom 250 IndyCar race after Trump waves the green flag",
+   "updated": "2026-08-23T21:27:57+00:00",
+   "outletCount": 13,
+   "counts": {
+    "nonprofit": 2,
+    "family": 7,
+    "corp": 3,
+    "pub": 5
+   },
+   "newsCount": 16,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Kyle Kirkwood wins Freedom 250 IndyCar race after Trump waves the green flag",
+     "url": "https://www.theguardian.com/sport/2026/aug/23/kyle-kirkwood-freedom-250-indycar-trump",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T21:27:57+00:00",
+     "summary": "American driver wins in a dominant performance DC Mayor Muriel Bowser served as grand marshal Kyle Kirkwood gave the Freedom 250 an American winner, racing to his second victory of the IndyCar season on the streets of downtown Washington in a dominant performance Sunday. In a race set up as part of the country\u2019s 250th birthday celebration, President Donald Trump gave drivers the green flag at the start and DC Mayor Muriel Bowser served as grand marshal. Kirkwood crossed the finish line in front of the Capitol 3.09 seconds ahead of Christian Lundgaard, after leading for 128 of a possible 147 laps. Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump\u2019s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
+     "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-summer-car-race-dc.html",
+     "author": "Shawn McCreesh",
+     "kind": "news",
+     "published": "2026-08-23T21:11:22+00:00",
+     "summary": "It was the final, major event planned for the nation\u2019s 250th anniversary celebrations. The president took a lap."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Kyle Kirkwood Wins Freedom 250 IndyCar Race In DC (Photos)",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/23/kyle-kirkwood-wins-freedom-250-indycar-race-in-dc-photos/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-23T21:04:34+00:00",
+     "summary": "Kirkwood, an American driver for Andretti Global, won the 250-mile race."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Kyle Kirkwood wins Freedom 250 Grand Prix IndyCar race in Washington, D.C",
+     "url": "https://www.cbsnews.com/news/trump-freedom-250-grand-prix-indycar-washington-dc/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:45:29+00:00",
+     "summary": "President Trump and first lady Melania Trump began the Freedom 250 Grand Prix IndyCar race through the streets of Washington, D.C, with a slow lap around the course."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Freedom 250 Grand Prix attendees talk about American pride in the midst of historic event",
+     "url": "https://www.foxnews.com/outkick-sports/freedom-250-grand-prix-attendees-talk-american-pride-midst-historic-event",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:30:22+00:00",
+     "summary": "The Freedom 250 Gr a nd Prix in America's capital is a historic spectacle. It is a feat of American patriotism that can only be rivaled by UFC 250 earlier this year. It featured the most scenic and picturesque views , flyovers from every branch of the military, President Donald Trump driving the race course in The Beast for a ceremonial lap, American flags and music all over the streets of Washington, D.C. I spoke with fans about their experience and it told me one thing: This is how sports should be. \"I think it's really unique,\" an IndyCar fan told me on the National Mall. \"Being at the [United States] Captiol for the 250[th birthday] and racing, it doesn't get too much better than that.\" Many of the fans attending felt the same thing: An overwhelming sense of pride in America. WORLD CUP ENERGY CARRIES INTO FREEDOM 250 GRAND PRIX AS GLOBAL FANS CELEBRATE AMERICA'S HISTORIC BIRTHDAY \"I feel like there's a lot of controversy on both [political] sides, but there's a lot of pride [in America],\" that same fan told me. If any of you readers have followed my work for OutKick or online, you know I cover a lot of political and cultural controversies. I've covered the WNBA heavily over the"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump waves green flag to start IndyCar race through Washington streets",
+     "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:19:36+00:00",
+     "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Melania Trump talks about foster care initiative and racing interest at Freedom 250 Grand Prix",
+     "url": "https://thehill.com/blogs/in-the-know/6045927-melania-trump-freedom-250-grand-prix/",
+     "author": "Tara Suter",
+     "kind": "news",
+     "published": "2026-08-23T20:17:36+00:00",
+     "summary": "First lady Melania Trump on Sunday shared how her father got her into racing during an interview at the Freedom 250 Grand Prix event. \u201cYes, when I was growing up, my father introduced me to the races and to the race cars, and he owned some incredible cars from Maserati and Cougar and Mustang, Mercedes,\u201d..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Kyle Kirkwood wins IndyCar race in downtown D.C. celebrating U.S. 250th birthday",
+     "url": "https://www.nbcnews.com/politics/trump-administration/kyle-kirkwood-wins-indycar-race-downtown-dc-us-250th-birthday-rcna593532",
+     "author": "Patrick Maguire",
+     "kind": "news",
+     "published": "2026-08-23T20:09:38+00:00",
+     "summary": "Blasting down these iconic and bumpy streets with a view of the U.S. Capitol from his car, Florida native Kyle Kirkwood took the checkered flag to win a once-in-a-lifetime IndyCar race on a sunny Sunday."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+     "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T19:52:12+00:00",
+     "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts."
+    },
+    {
+     "outlet": "wapo",
+     "title": "IndyCar drivers roar through D.C. streets in auto race along National Mall",
+     "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
+     "author": "Les Carpenter, Liam Bowman, Cleve R. Wootson Jr., Ben Conarck",
+     "kind": "news",
+     "published": "2026-08-23T19:30:27+00:00",
+     "summary": "After President Trump waved the green flag to start the competition at around 1 p.m., the rubber hit the road. Cars swarmed past spectators in a brightly colored blur that shook the pavement"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Photos: Ukraine celebrates National Flag Day",
+     "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T17:18:25+00:00",
+     "summary": "People observe a minute of silence for those killed in war to mark the holiday established in 2004."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Trump waves the green flag to start the IndyCar race as racers zoom through Washington's streets",
+     "url": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
+     "author": "Michelle L. Price, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T15:21:21+00:00",
+     "summary": "The open-wheel race, with cars whizzing past Washington's monuments at speeds approaching 200 mph, is the latest of Trump's celebrations this year to mark America's 250th birthday."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "IndyCars Race in Washington for Trump\u2019s US Birthday Bash",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/indycars-race-in-washington-for-trump-s-us-birthday-festivities",
+     "author": "Mar\u00eda Paula Mijares Torres and Hadriana Lowenkron",
+     "kind": "news",
+     "published": "2026-08-23T14:06:37+00:00",
+     "summary": "For one weekend only, speed limits don\u2019t apply to cars circling the National Mall in Washington as the Trump administration brings an IndyCar race through the capital, part of the president\u2019s celebration of the nation\u2019s 250th birthday."
+    },
+    {
+     "outlet": "forbes",
+     "title": "IndyCars Whiz Through DC Streets Today In Freedom 250 Grand Prix: What To Know",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/23/indycars-whiz-through-dc-streets-today-in-freedom-250-grand-prix-what-to-know/",
+     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-23T13:05:49+00:00",
+     "summary": "Racers will drive down Pennsylvania Avenue and zip past landmarks and museums along the National Mall."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Has A Message For Freedom 250 Drivers \u2014 And It\u2019s Not \u2018Be Safe\u2019",
+     "url": "https://www.dailywire.com/news/trump-has-a-message-for-freedom-250-drivers-and-its-not-be-safe",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-23T12:42:27+00:00",
+     "summary": "President Donald Trump joined the crowds in the nation\u2019s capital on Sunday for the Freedom 250 race \u2014 but he didn\u2019t tell the drivers to \u201cbe safe.\u201d The president told reporters his advice to Sunday\u2019s drivers boiled down to two words: have fun. Dwelling on safety, he argued, was more likely to make a driver hold back \u2014 and less likely to help them win. \u201cHave fun,\u201d he said, adding, \u201cI don\u2019t wanna say sort of \u2018be safe\u2019 because it\u2019s sort of a negative thought. Right? They don\u2019t wanna think about that, because if they do, generally speaking, you\u2019re not gonna win when you start thinking that way.\u201d \u201cBut they\u2019re great,\u201d he said of the drivers slated to race on Sunday. \u201cI know many of them through name \u2026 but it\u2019s a great sport.\u201d Trump also said on Sunday that Indianapolis Motor Speedway and INDYCAR owner Roger Penske had been trying to pull off a race in Washington, D.C., for some time \u2014 but that until the Trump administration came along, it had looked like an impossibility. \ud83d\udea8 PRESIDENT TRUMP JUST NOW: \u201cThey\u2019ve been trying to do this for 20 years\u2026when he came to see Trump, it got done in about 15 MINUTES!\u201d \u201cSo many people wanna come! 300,000+, they closed the bridges. Bigger and better!\u201d \u201cI "
+    },
+    {
+     "outlet": "bbc",
+     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+     "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T13:13:16+00:00",
+     "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
+     "url": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T21:50:27+00:00",
+     "summary": "The Freedom 250 Grand Prix is part of the nation\u2019s 250th anniversary celebrations and the first major auto race in the US capital in more than 24 years."
+    }
+   ]
+  },
   {
    "id": "13cfbffff9",
    "topic": "Justice & Policing",
@@ -17,12 +213,12 @@
      "district"
     ],
     "indie": [
-     "because",
-     "nationality",
      "ruled",
+     "issuing",
+     "likely",
      "public",
-     "basis",
-     "issuing"
+     "because",
+     "nationality"
     ]
    },
    "people": [],
@@ -117,19 +313,219 @@
    ]
   },
   {
+   "id": "f1be6183e6",
+   "topic": "Climate & Energy",
+   "summary": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 4,
+    "big": [
+     "northern"
+    ],
+    "indie": [
+     "state",
+     "forcing",
+     "approaches",
+     "foothills"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
+   "updated": "2026-08-23T21:16:34+00:00",
+   "outletCount": 7,
+   "counts": {
+    "nonprofit": 2,
+    "corp": 1,
+    "family": 2,
+    "pub": 2
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
+     "url": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations",
+     "author": "John Seewer, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T21:16:34+00:00",
+     "summary": "The Hawk Fire began Saturday and quickly grew to 20 square miles as it spread across the Peavine Peak area of the Humboldt\u2013Toiyabe National Forest, where rugged foothills are ringed by homes and businesses near the California state line."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
+     "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:55:11+00:00",
+     "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+     "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+     "author": "Bernard Mokam",
+     "kind": "news",
+     "published": "2026-08-23T20:31:49+00:00",
+     "summary": "The Hawk fire has burned over 13,000 acres and is encroaching on the northern part of the city. About 42,000 people are under formal evacuation orders and thousands more have been urged to flee."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+     "author": "Marina Dunbar and agencies",
+     "kind": "news",
+     "published": "2026-08-23T18:22:15+00:00",
+     "summary": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+     "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T17:55:52+00:00",
+     "summary": "Authorities said the fire was caused by humans."
+    },
+    {
+     "outlet": "france24",
+     "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
+     "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-23T15:54:21+00:00",
+     "summary": "Firefighters in Nevada are struggling to contain a fast-growing wildfire which has already forced the evacuation of nearly 14,000 people. A state of emergency has been called, meaning federal responders are working alongside local firefighters to try and keep it from residential areas. Details by Camille Knight."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
+     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
+     "author": "Lowell Cauffiel",
+     "kind": "news",
+     "published": "2026-08-23T13:48:34+00:00",
+     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "dce70a84b6",
+   "topic": "World",
+   "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao",
+   "summaryFrom": "semafor",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [
+     "military",
+     "mike",
+     "pence",
+     "former",
+     "vice",
+     "join"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
+   "updated": "2026-08-23T20:41:42+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 2,
+    "pub": 2,
+    "family": 3
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Mike Pence Urges Trump to Escalate Iran War, Says More Action 'Inevitable'",
+     "url": "https://www.newsweek.com/mike-pence-finish-job-iran-trump-more-action-inevitable-12357694",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:41:42+00:00",
+     "summary": "The former vice president says Iran has not accepted defeat and predicted additional U.S. military action against Tehran."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
+     "url": "https://thehill.com/policy/international/6045828-pence-denies-that-iran-war-hurting-ukraine-by-depleting-us-stockpiles/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-23T18:44:19+00:00",
+     "summary": "Former Vice President Mike Pence denied Sunday that the U.S. military depleting its weapons stockpiles in the Iran war is hurting Ukraine in its ongoing fight against Russia. \u201cI don't see it that way, and I don't think\u2026 the Ukrainians do either,\u201d Pence told host Dana Bash on CNN\u2019s \u201cState of the Union,\u201d while in..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
+     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:15:22+00:00",
+     "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Iran Warns Gulf States Not to Join Trump\u2019s Economic War",
+     "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+     "author": "Erika Solomon",
+     "kind": "news",
+     "published": "2026-08-23T17:00:10+00:00",
+     "summary": "Mohsen Rezaei, Iran\u2019s new security chief, last month in Tehran. Though hostilities have largely ceased, the United States and Iran are locked in an economic standoff."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 -- Threatens \u2018Earthquake-Like\u2019 Retaliation",
+     "url": "https://www.breitbart.com/politics/2026/08/23/iran-warns-neighbors-joining-u-s-economic-war-will-be-enemies-threatens-earthquake-like-retaliation/",
+     "author": "Joshua Klein",
+     "kind": "news",
+     "published": "2026-08-23T08:09:54+00:00",
+     "summary": "Iran threatened neighboring countries Saturday against joining President Donald Trump\u2019s escalating \u201ceconomic war\u201d against the Islamic Republic, warning those cooperating with Washington will be considered \u201cenemies.\u201d The totalitarian regime further cautioned any U.S. supporters will have their interests targeted while threatening \u201cearthquake-like\u201d retaliation as the United States prepares to unleash what it has billed as the toughest sanctions campaign in history. The post Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 \u2014 Threatens \u2018Earthquake-Like\u2019 Retaliation appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dw",
+     "title": "Iran warns countries against joining US 'economic war'",
+     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:50:00+00:00",
+     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US presses China to join economic pressure campaign against Iran",
+     "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-21T14:42:50+00:00",
+     "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
+    }
+   ]
+  },
+  {
    "id": "df7ede4cc1",
    "topic": "Politics",
    "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust\u2026",
    "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 5,
+    "bigCount": 4,
     "indieCount": 3,
     "big": [
      "stay",
-     "here",
      "issued",
-     "friday",
      "proceed",
+     "friday",
+     "here",
      "lower"
     ],
     "indie": []
@@ -138,15 +534,15 @@
    "absent": [],
    "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
    "updated": "2026-08-23T14:35:20+00:00",
-   "outletCount": 8,
+   "outletCount": 7,
    "counts": {
-    "family": 2,
+    "family": 1,
     "coop": 1,
     "pub": 1,
     "corp": 3,
     "nonprofit": 1
    },
-   "newsCount": 8,
+   "newsCount": 7,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -196,15 +592,6 @@
      "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. What they're saying: \"We are grateful for the Decision of the United States Supreme Court,\" President Trump said in a Friday post on Truth Social. \"The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND!\" \"It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule.\" Catch up quick: The administration turned to the Supreme Co"
     },
     {
-     "outlet": "wapo",
-     "title": "Supreme Court says Trump can continue ballroom work as it weighs case",
-     "url": "https://www.washingtonpost.com/politics/2026/08/21/supreme-court-says-trump-can-continue-ballroom-work-it-weighs-case/",
-     "author": "Justin Jouvenal, Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-21T20:55:34+00:00",
-     "summary": "The administrative stay gives the court more time to weigh an emergency appeal by the Trump administration in a lawsuit challenging the project."
-    },
-    {
      "outlet": "abcnews",
      "title": "Supreme Court chief justice allows construction on White House ballroom to continue",
      "url": "https://abcnews.com/Politics/supreme-court-chief-justice-allows-construction-white-house/story?id=135846623",
@@ -225,204 +612,92 @@
    ]
   },
   {
-   "id": "9a45b31bf0",
-   "topic": "Climate & Energy",
-   "summary": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
+   "id": "93865fbc2e",
+   "topic": "World",
+   "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. Local authorities issued a level 5 emergency warning for heavy rain, the highest alert level and the first time one has been issued since the system was implemented in May. More than 100,000 households were asked to evacuate, with more than 20,000 in the Chiba prefecture left without power, while thousands of people were stranded at Tokyo\u2019s Narita airport. Thirteen people have been confirmed dead, at least three of whom were found trapped inside their vehicles. One person is still missing. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "near",
-     "northern",
-     "saturday"
+     "hurricane",
+     "islands"
     ],
     "indie": [
-     "state"
+     "cause",
+     "flooding"
     ]
    },
    "people": [],
    "absent": [
-    "coop"
+    "family",
+    "coop",
+    "pub"
    ],
-   "headline": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-   "updated": "2026-08-23T20:31:49+00:00",
+   "headline": "Tropical Storm Moke dumps more rain on hurricane-stricken Hawaii",
+   "updated": "2026-08-23T21:05:56+00:00",
    "outletCount": 6,
    "counts": {
-    "family": 2,
-    "corp": 1,
-    "nonprofit": 1,
-    "pub": 2
+    "corp": 3,
+    "nonprofit": 3
    },
    "newsCount": 6,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-     "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
-     "author": "Bernard Mokam",
-     "kind": "news",
-     "published": "2026-08-23T20:31:49+00:00",
-     "summary": "The Hawk fire has burned over 13,000 acres and is encroaching on the northern part of the city. About 42,000 people are under formal evacuation orders and thousands more have been urged to flee."
-    },
-    {
      "outlet": "cbsnews",
-     "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
-     "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
+     "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii",
+     "url": "https://www.cbsnews.com/news/tropical-storm-moke-rain-hawaii-big-island/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T19:10:55+00:00",
-     "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-     "author": "Marina Dunbar and agencies",
-     "kind": "news",
-     "published": "2026-08-23T18:22:15+00:00",
-     "summary": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-     "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:55:52+00:00",
-     "summary": "Authorities said the fire was caused by humans."
-    },
-    {
-     "outlet": "france24",
-     "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
-     "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-23T15:54:21+00:00",
-     "summary": "Firefighters in Nevada are struggling to contain a fast-growing wildfire which has already forced the evacuation of nearly 14,000 people. A state of emergency has been called, meaning federal responders are working alongside local firefighters to try and keep it from residential areas. Details by Camille Knight."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
-     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
-     "author": "Lowell Cauffiel",
-     "kind": "news",
-     "published": "2026-08-23T13:48:34+00:00",
-     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "c6b2148788",
-   "topic": "World",
-   "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)",
-   "summaryFrom": "npr",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 5,
-    "big": [
-     "around",
-     "drivers"
-    ],
-    "indie": [
-     "mark",
-     "waves",
-     "birthday",
-     "people",
-     "ukraine",
-     "killed"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Trump waves green flag to start IndyCar race through Washington streets",
-   "updated": "2026-08-23T20:19:36+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 3,
-    "family": 2,
-    "corp": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Trump waves green flag to start IndyCar race through Washington streets",
-     "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T20:19:36+00:00",
-     "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
-    },
-    {
-     "outlet": "wapo",
-     "title": "See photos from the first IndyCar race in Washington",
-     "url": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/",
-     "author": "Kenneth Dickerman",
-     "kind": "news",
-     "published": "2026-08-23T19:34:35+00:00",
-     "summary": "Drivers are dashing around the National Mall at speeds expected to exceed 185 mph."
-    },
-    {
-     "outlet": "wapo",
-     "title": "IndyCar drivers roar through D.C. streets in auto race along National Mall",
-     "url": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
-     "author": "Les Carpenter, Liam Bowman, Cleve R. Wootson Jr., Ben Conarck",
-     "kind": "news",
-     "published": "2026-08-23T19:30:27+00:00",
-     "summary": "After President Trump waved the green flag to start the competition at around 1 p.m., the rubber hit the road. Cars swarmed past spectators in a brightly colored blur that shook the pavement"
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
-     "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:31:38+00:00",
-     "summary": "Twenty-five cars traveling at top speeds approaching 180 mph are zooming around the National Mall this weekend as IndyCar takes over downtown D.C."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Photos: Ukraine celebrates National Flag Day",
-     "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:18:25+00:00",
-     "summary": "People observe a minute of silence for those killed in war to mark the holiday established in 2004."
+     "published": "2026-08-23T21:05:56+00:00",
+     "summary": "Hawaii is still cleaning up from Hurricane Lala, which dumped massive amounts of rain on the islands."
     },
     {
      "outlet": "pbsnewshour",
-     "title": "Trump waves the green flag to start the IndyCar race as racers zoom through Washington's streets",
-     "url": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
-     "author": "Michelle L. Price, Associated Press",
+     "title": "Tropical Storm Moke dumps more rain on hurricane-stricken Hawaii",
+     "url": "https://www.pbs.org/newshour/nation/tropical-storm-moke-carrying-more-rain-toward-hurricane-damaged-hawaii",
+     "author": "Associated Press",
      "kind": "news",
-     "published": "2026-08-23T15:21:21+00:00",
-     "summary": "The open-wheel race, with cars whizzing past Washington's monuments at speeds approaching 200 mph, is the latest of Trump's celebrations this year to mark America's 250th birthday."
+     "published": "2026-08-23T18:22:46+00:00",
+     "summary": "Forecasters expected Moke to produce as much as 10 inches of total rain across the Big Island, and up to 15 inches in some isolated places, enough to cause life-threatening flooding and mudslides for the windward and southeast slopes."
     },
     {
-     "outlet": "bbc",
-     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-     "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "outlet": "abcnews",
+     "title": "Tropical Storm Moke to pass south of Hawaii, bringing heavy rain to the Big Island",
+     "url": "https://abcnews.com/US/tropical-storm-moke-pass-south-hawaii-bringing-heavy/story?id=135871424",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T13:13:16+00:00",
-     "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
+     "published": "2026-08-23T17:13:57+00:00",
+     "summary": "Tropical Storm Moke continues to churn in open waters in the Central Pacific, just days after Hurricane Lala left widespread destruction across Hawaii."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Tropical Storm Moke Tracker Map: \u2018Life-Threatening\u2019 Warning for Hawaii",
+     "url": "https://www.newsweek.com/tropical-storm-moke-tracker-map-life-threatening-warning-hawaii-12357212",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T15:37:56+00:00",
+     "summary": "The islands have already been battered by Hurricane Lala."
     },
     {
      "outlet": "npr",
-     "title": "What to know about this weekend's IndyCar race on the National Mall",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-     "author": "Rachel Treisman",
+     "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+     "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+     "author": "Chandelis Duster",
      "kind": "news",
-     "published": "2026-08-21T09:01:00+00:00",
-     "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
+     "published": "2026-08-23T12:48:05+00:00",
+     "summary": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA. (Image credit: NOAA)"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Weather tracker: Extreme rain deluges Japan and South Korea",
+     "url": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
+     "author": "Morgan Thomas for MetDesk",
+     "kind": "news",
+     "published": "2026-08-21T08:19:21+00:00",
+     "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. Local authorities issued a level 5 emergency warning for heavy rain, the highest alert level and the first time one has been issued since the system was implemented in May. More than 100,000 households were asked to evacuate, with more than 20,000 in the Chiba prefecture left without power, while thousands of people were stranded at Tokyo\u2019s Narita airport. Thirteen people have been confirmed dead, at least three of whom were found trapped inside their vehicles. One person is still missing. Continue reading..."
     }
    ]
   },
@@ -435,18 +710,18 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "areas",
      "adviser",
-     "discussed",
-     "privately"
+     "areas",
+     "privately",
+     "discussed"
     ],
     "indie": [
+     "york",
+     "issues",
      "immigration",
      "housing",
-     "issues",
-     "sunday",
      "democratic",
-     "york"
+     "sunday"
     ]
    },
    "people": [],
@@ -523,96 +798,6 @@
    ]
   },
   {
-   "id": "15906e3534",
-   "topic": "World",
-   "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. Local authorities issued a level 5 emergency warning for heavy rain, the highest alert level and the first time one has been issued since the system was implemented in May. More than 100,000 households were asked to evacuate, with more than 20,000 in the Chiba prefecture left without power, while thousands of people were stranded at Tokyo\u2019s Narita airport. Thirteen people have been confirmed dead, at least three of whom were found trapped inside their vehicles. One person is still missing. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "hurricane",
-     "islands"
-    ],
-    "indie": [
-     "cause",
-     "flooding"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Tropical Storm Moke carrying more rain toward hurricane-damaged Hawaii",
-   "updated": "2026-08-23T18:22:46+00:00",
-   "outletCount": 6,
-   "counts": {
-    "nonprofit": 3,
-    "corp": 3
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Tropical Storm Moke carrying more rain toward hurricane-damaged Hawaii",
-     "url": "https://www.pbs.org/newshour/nation/tropical-storm-moke-carrying-more-rain-toward-hurricane-damaged-hawaii",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T18:22:46+00:00",
-     "summary": "Forecasters expected Moke to produce as much as 10 inches of total rain across the Big Island, and up to 15 inches in some isolated places, enough to cause life-threatening flooding and mudslides for the windward and southeast slopes."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Tropical Storm Moke to pass south of Hawaii, bringing heavy rain to the Big Island",
-     "url": "https://abcnews.com/US/tropical-storm-moke-pass-south-hawaii-bringing-heavy/story?id=135871424",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:13:57+00:00",
-     "summary": "Tropical Storm Moke continues to churn in open waters in the Central Pacific, just days after Hurricane Lala left widespread destruction across Hawaii."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii",
-     "url": "https://www.cbsnews.com/news/tropical-storm-moke-rain-hawaii-big-island/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T16:23:07+00:00",
-     "summary": "Hawaii is still cleaning up from Hurricane Lala, which dumped massive amounts of rain on the islands."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Tropical Storm Moke Tracker Map: \u2018Life-Threatening\u2019 Warning for Hawaii",
-     "url": "https://www.newsweek.com/tropical-storm-moke-tracker-map-life-threatening-warning-hawaii-12357212",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T15:37:56+00:00",
-     "summary": "The islands have already been battered by Hurricane Lala."
-    },
-    {
-     "outlet": "npr",
-     "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-     "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
-     "author": "Chandelis Duster",
-     "kind": "news",
-     "published": "2026-08-23T12:48:05+00:00",
-     "summary": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA. (Image credit: NOAA)"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Weather tracker: Extreme rain deluges Japan and South Korea",
-     "url": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
-     "author": "Morgan Thomas for MetDesk",
-     "kind": "news",
-     "published": "2026-08-21T08:19:21+00:00",
-     "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. Local authorities issued a level 5 emergency warning for heavy rain, the highest alert level and the first time one has been issued since the system was implemented in May. More than 100,000 households were asked to evacuate, with more than 20,000 in the Chiba prefecture left without power, while thousands of people were stranded at Tokyo\u2019s Narita airport. Thirteen people have been confirmed dead, at least three of whom were found trapped inside their vehicles. One person is still missing. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "149bcbff58",
    "topic": "Justice & Policing",
    "summary": "Three other people wounded after 18-year-old man wielding sword assailed students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed. Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries. Continue reading...",
@@ -621,16 +806,16 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "high",
-     "teen"
+     "teen",
+     "high"
     ],
     "indie": [
      "year-old",
      "sword",
-     "boys",
-     "police",
      "aged",
-     "classes"
+     "police",
+     "boys",
+     "wounded"
     ]
    },
    "people": [],
@@ -698,86 +883,6 @@
    ]
   },
   {
-   "id": "dce70a84b6",
-   "topic": "World",
-   "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao",
-   "summaryFrom": "semafor",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 2,
-    "big": [
-     "join",
-     "united",
-     "states",
-     "washington"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
-   "updated": "2026-08-23T18:15:22+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 2,
-    "family": 3
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
-     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:15:22+00:00",
-     "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Iran Warns Gulf States Not to Join Trump\u2019s Economic War",
-     "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-     "author": "Erika Solomon",
-     "kind": "news",
-     "published": "2026-08-23T17:00:09+00:00",
-     "summary": "Mohsen Rezaei, Iran\u2019s new security chief, last month in Tehran. Though hostilities have largely ceased, the United States and Iran are locked in an economic standoff."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 -- Threatens \u2018Earthquake-Like\u2019 Retaliation",
-     "url": "https://www.breitbart.com/politics/2026/08/23/iran-warns-neighbors-joining-u-s-economic-war-will-be-enemies-threatens-earthquake-like-retaliation/",
-     "author": "Joshua Klein",
-     "kind": "news",
-     "published": "2026-08-23T08:09:54+00:00",
-     "summary": "Iran threatened neighboring countries Saturday against joining President Donald Trump\u2019s escalating \u201ceconomic war\u201d against the Islamic Republic, warning those cooperating with Washington will be considered \u201cenemies.\u201d The totalitarian regime further cautioned any U.S. supporters will have their interests targeted while threatening \u201cearthquake-like\u201d retaliation as the United States prepares to unleash what it has billed as the toughest sanctions campaign in history. The post Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 \u2014 Threatens \u2018Earthquake-Like\u2019 Retaliation appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dw",
-     "title": "Iran warns countries against joining US 'economic war'",
-     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:50:00+00:00",
-     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US presses China to join economic pressure campaign against Iran",
-     "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-21T14:42:50+00:00",
-     "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
-    }
-   ]
-  },
-  {
    "id": "736592a25b",
    "topic": "Climate & Energy",
    "summary": "Gov. Mike Braun called on the local utility to \u201cmatch the urgency\u201d of Gary area residents who have had to endure an outage approaching its second week.",
@@ -811,7 +916,7 @@
     },
     {
      "outlet": "bbc",
-     "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+     "title": "Frustration builds in Indiana town struggling without power for 12 days",
      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
@@ -1084,10 +1189,10 @@
     "indieCount": 2,
     "big": [
      "settle",
-     "laws",
      "allegations",
      "announced",
-     "filed",
+     "laws",
+     "violating",
      "online"
     ],
     "indie": []
@@ -1157,63 +1262,63 @@
    ]
   },
   {
-   "id": "24435d586c",
-   "topic": "Politics",
-   "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the\u2026",
-   "summaryFrom": "foxnews",
+   "id": "1c63368cec",
+   "topic": "Other",
+   "summary": "Remember when Prince Harry and Meghan Markle thought they could alight upon California and trick us into treating them like America\u2019s most sympathetic Brit- ish royals? Well, it seems the stateside jig is up as the hucksters move on to plan B. After dragging the British monarchy through the mud and fleeing the U.K. for Montecito in 2020, Harry and Meghan plan this fall to schlep it back across the pond. Yep, to the place where Meghan once claimed the press treated her with such brutality, she \u201cdidn\u2019t want to be alive anymore.\u201d To the father Harry said was cold and distant, and the brother he alleged called Meghan \u201c rude \u201d and \u201cabrasive.\u201d Meghan even summoned crocodile tears to tell Oprah the royals were racists . Why would they voluntarily jump back into all of that? Well, maybe everyone stopped believing their lies. The couple plan to enroll their children, 7-year-old Archie and\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "people": [],
    "absent": [
+    "corp",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "White House Accused of Ripping Off F1 for Trump\u2019s Big Race",
-   "updated": "2026-08-23T20:22:05+00:00",
+   "headline": "Prince Harry and Meghan Markle set to become \u2018private royals-plus\u2019 during tenure in UK, may only stay a year: report",
+   "updated": "2026-08-23T20:42:06+00:00",
    "outletCount": 4,
    "counts": {
-    "corp": 2,
-    "family": 2
+    "family": 4
    },
-   "newsCount": 4,
-   "opinionCount": 0,
+   "newsCount": 3,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "White House Accused of Ripping Off F1 for Trump\u2019s Big Race",
-     "url": "https://www.thedailybeast.com/white-house-accused-of-ripping-off-f1-for-trumps-big-race/",
-     "author": "Vic Verbalaitis",
+     "outlet": "nypost",
+     "title": "Prince Harry and Meghan Markle set to become \u2018private royals-plus\u2019 during tenure in UK, may only stay a year: report",
+     "url": "https://pagesix.com/2026/08/23/royal-family/prince-harry-and-meghan-markle-set-to-become-private-royals-plus-during-tenure-in-uk-may-only-stay-a-year-report/",
+     "author": "Antoinette Bueno",
      "kind": "news",
-     "published": "2026-08-23T20:22:05+00:00",
-     "summary": "Elizabeth Frantz / REUTERS The Trump administration is being accused online of plagiarizing promotional materials for the president\u2019s IndyCar race. The White House shared several graphics on social media for the Trump administration-sponsored Freedom 250 Grand Prix this weekend, but many internet users pointed out their striking similarities to promotional materials for other major races. \u201cHuh, I thought that looked familiar...\u201d one X user wrote , pairing a White House graphic with a nearly identical one for the Rolex 24 at Daytona race from January. Read more at The Daily Beast."
+     "published": "2026-08-23T20:42:06+00:00",
+     "summary": "The Duke and Duchess of Sussex's awkward status as private individuals while moving back to the UK is sure to affect his brother, Prince William."
     },
     {
-     "outlet": "cbsnews",
-     "title": "Trump kicks off Freedom 250 IndyCar race in the streets of Washington, D.C.",
-     "url": "https://www.cbsnews.com/news/trump-freedom-250-grand-prix-indycar-washington-dc/",
-     "author": null,
+     "outlet": "breitbart",
+     "title": "Cut: Meghan Markle Dropped from Consideration in Guy Ritchie Series After 'Intense' UK Fallout: Report",
+     "url": "https://www.breitbart.com/entertainment/2026/08/23/cut-meghan-markle-exits-guy-ritchie-series-after-intense-uk-fallout-report/",
+     "author": "Simon Kent",
      "kind": "news",
-     "published": "2026-08-23T18:21:45+00:00",
-     "summary": "The open-wheel race is the latest of President Trump's celebrations this year to mark America's 250th birthday."
+     "published": "2026-08-23T13:06:38+00:00",
+     "summary": "Meghan Markle has been cut from consideration for a role in Guy Ritchie\u2019s The Gentlemen just days after the original idea was floated, according to royal biographer Tina Brown. The post Cut: Meghan Markle Dropped from Consideration in Guy Ritchie Series After \u2018Intense\u2019 UK Fallout: Report appeared first on Breitbart ."
     },
     {
-     "outlet": "bloomberg",
-     "title": "IndyCars Race in Washington for Trump\u2019s US Birthday Bash",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/indycars-race-in-washington-for-trump-s-us-birthday-festivities",
-     "author": "Mar\u00eda Paula Mijares Torres and Hadriana Lowenkron",
-     "kind": "news",
-     "published": "2026-08-23T14:06:37+00:00",
-     "summary": "For one weekend only, speed limits don\u2019t apply to cars circling the National Mall in Washington as the Trump administration brings an IndyCar race through the capital, part of the president\u2019s celebration of the nation\u2019s 250th birthday."
+     "outlet": "dailywire",
+     "title": "Prince Harry And Meghan Markle\u2019s Con Was Never Going To Last Forever",
+     "url": "https://www.dailywire.com/news/prince-harry-and-meghan-markles-con-was-never-going-to-last-forever",
+     "author": "Lauren Bair",
+     "kind": "opinion",
+     "published": "2026-08-23T08:14:36+00:00",
+     "summary": "Remember when Prince Harry and Meghan Markle thought they could alight upon California and trick us into treating them like America\u2019s most sympathetic Brit- ish royals? Well, it seems the stateside jig is up as the hucksters move on to plan B. After dragging the British monarchy through the mud and fleeing the U.K. for Montecito in 2020, Harry and Meghan plan this fall to schlep it back across the pond. Yep, to the place where Meghan once claimed the press treated her with such brutality, she \u201cdidn\u2019t want to be alive anymore.\u201d To the father Harry said was cold and distant, and the brother he alleged called Meghan \u201c rude \u201d and \u201cabrasive.\u201d Meghan even summoned crocodile tears to tell Oprah the royals were racists . Why would they voluntarily jump back into all of that? Well, maybe everyone stopped believing their lies. The couple plan to enroll their children, 7-year-old Archie and 5-year-old Lilibet at a U.K. school this September. Since they already regifted their official Frogmore Cottage back to the late queen, they\u2019ll remain royal-adjacent in an off-campus residence. We\u2019re supposed to believe this is a moving story of a broken family on the mend, the return of Britain\u2019s former f"
     },
     {
-     "outlet": "foxnews",
-     "title": "White House revs up \u2018iconic\u2019 Freedom 250 race as IndyCars prepare to unleash American muscle on DC streets",
-     "url": "https://www.foxnews.com/politics/white-house-revs-up-iconic-freedom-250-race-indycars-prepare-unleash-american-muscle-dc-streets",
-     "author": null,
+     "outlet": "freepress",
+     "title": "Harry and Meghan\u2019s Awkward Homecoming. Chris Christie on \u2018The Godfather.\u2019 Plus. . .",
+     "url": "https://www.thefp.com/p/harry-and-meghans-awkward-homecoming",
+     "author": "The Free Press",
      "kind": "news",
-     "published": "2026-08-23T12:00:07+00:00",
-     "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the White House. \"The historic IndyCar race set to take place in our Nation\u2019s Capital will be one of the greatest and most iconic races in history,\" Ingle said. \"The President will leave his imprint on this historic race in a way that only he can.\" RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'T"
+     "published": "2026-08-22T10:02:32+00:00",
+     "summary": "Welcome back to The Weekend Press! Today, Chris Christie explains why men love \u201cThe Godfather.\u201d Suzy Weiss argues that Lindsay Clancy is \u201cO.J. for white women.\u201d Kat Rosenfield on the strange case of \u201cdog racism.\u201d And more! But first: Harry and Meghan get mugged by reality . . . And so farewell, America\u2019s prince. This week, Meghan Markle and Harry Mountbatten-Windsor announced that, after six years making jam and reality shows in a Montecito mansion, they\u2019re moving back to the United Kingdom, a country they once characterized as a racist hellhole. \u201cThis, at a moment when progressives are laughing off the deranged things they said in 2020,\u201d writes Kara Kennedy in today\u2019s lead essay, \u201cis the ultimate example of getting mugged by reality.\u201d When they left England in 2020, Prince Harry claimed it was because of the media\u2019s \u201cruthless campaign\u201d against his mixed-race wife. \u201cThe UK press is bigoted,\u201d he told Oprah Winfrey. Meghan, meanwhile, said she wanted to live in a country where reporters wouldn\u2019t take pictures of her kids. \u201cThat doesn\u2019t make me obsessed with privacy,\u201d she said. \u201cThat makes me a strong and good parent protecting my child.\u201d In America, Meghan tried to become a podcaster"
     }
    ]
   },
@@ -1481,67 +1586,6 @@
    ]
   },
   {
-   "id": "efd2a8a0c1",
-   "topic": "Politics",
-   "summary": "President Donald Trump and first lady Melania Trump took an honorary lap around the track ahead of the IndyCar Freedom 250 Grand Prix in Washington, D.C., on Sunday. The president and the first lady were in the Beast as the motorcade was making its way around the track before the green flag dropped. IndyCar fans greeted the president's motorcade with cheers as he took the lap. The president was expected to wave the green flag to get the race started. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! He was seen talking to some of the drivers before he got back into the Beast. FOX Sports' Jamie Little asked the president what he was looking forward to the most as he took in his first IndyCar race. \"Just that everyone\u2019s safe and they have a good time,\" Trump said. \"I want everyone to be safe. I want everyone to have a good time.\" He also said he told the\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Live updates: Trump takes honor lap in IndyCar Grand Prix",
-   "updated": "2026-08-23T17:20:16+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Live updates: Trump takes honor lap in IndyCar Grand Prix",
-     "url": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
-     "author": "The Hill Staff",
-     "kind": "news",
-     "published": "2026-08-23T17:20:16+00:00",
-     "summary": "President Donald Trump arrived at the Freedom 250 Grand Prix event in Washington, D.C., on Sunday afternoon, where his motorcade took him on a lap around the racetrack where IndyCar drivers are expected to reach speeds around 180 mph. The event is part of semiquincentennial celebrations and includes flyovers by various branches of the military...."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump takes honorary lap around IndyCar track in Washington ahead of Freedom 250 Grand Prix",
-     "url": "https://www.foxnews.com/outkick-sports/trump-takes-honorary-lap-indycar-track-washington-freedom-250-grand-prix",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T16:28:42+00:00",
-     "summary": "President Donald Trump and first lady Melania Trump took an honorary lap around the track ahead of the IndyCar Freedom 250 Grand Prix in Washington, D.C., on Sunday. The president and the first lady were in the Beast as the motorcade was making its way around the track before the green flag dropped. IndyCar fans greeted the president's motorcade with cheers as he took the lap. The president was expected to wave the green flag to get the race started. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! He was seen talking to some of the drivers before he got back into the Beast. FOX Sports' Jamie Little asked the president what he was looking forward to the most as he took in his first IndyCar race. \"Just that everyone\u2019s safe and they have a good time,\" Trump said. \"I want everyone to be safe. I want everyone to have a good time.\" He also said he told the drivers, \"Good luck, have fun.\" It\u2019s been a full weekend of racing as IndyCar and the International Race of Champions (IROC) series came into town. The events were held in D.C. as part of the celebration of America\u2019s 250th anniversary. The race is set to begin at 1 p.m. ET. The 1.7-mile track will have driv"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Has A Message For Freedom 250 Drivers \u2014 And It\u2019s Not \u2018Be Safe\u2019",
-     "url": "https://www.dailywire.com/news/trump-has-a-message-for-freedom-250-drivers-and-its-not-be-safe",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-23T12:42:27+00:00",
-     "summary": "President Donald Trump joined the crowds in the nation\u2019s capital on Sunday for the Freedom 250 race \u2014 but he didn\u2019t tell the drivers to \u201cbe safe.\u201d The president told reporters his advice to Sunday\u2019s drivers boiled down to two words: have fun. Dwelling on safety, he argued, was more likely to make a driver hold back \u2014 and less likely to help them win. \u201cHave fun,\u201d he said, adding, \u201cI don\u2019t wanna say sort of \u2018be safe\u2019 because it\u2019s sort of a negative thought. Right? They don\u2019t wanna think about that, because if they do, generally speaking, you\u2019re not gonna win when you start thinking that way.\u201d \u201cBut they\u2019re great,\u201d he said of the drivers slated to race on Sunday. \u201cI know many of them through name \u2026 but it\u2019s a great sport.\u201d Trump also said on Sunday that Indianapolis Motor Speedway and INDYCAR owner Roger Penske had been trying to pull off a race in Washington, D.C., for some time \u2014 but that until the Trump administration came along, it had looked like an impossibility. \ud83d\udea8 PRESIDENT TRUMP JUST NOW: \u201cThey\u2019ve been trying to do this for 20 years\u2026when he came to see Trump, it got done in about 15 MINUTES!\u201d \u201cSo many people wanna come! 300,000+, they closed the bridges. Bigger and better!\u201d \u201cI "
-    },
-    {
-     "outlet": "newsweek",
-     "title": "At Trump\u2019s Freedom 250 Grand Prix, Two Americas Collide. Or Do They?",
-     "url": "https://www.newsweek.com/freedom-250-grand-prix-indycar-trump-12356961",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T10:00:00+00:00",
-     "summary": "IndyCar's D.C. street race pits a \"red state\" sport against the bluest city\u2014but the divide isn't all that it seems."
-    }
-   ]
-  },
-  {
    "id": "e2052c77b8",
    "topic": "Other",
    "summary": "A memorial for former Cambridge professor Jason Arday was set up by students and staff outside the Senate House on August 17, 2026 in Cambridge, England. | Nordin Catic/Getty Images In March 2023, Jason Arday, a rising star in British academia, became a professor of sociology of education at the University of Cambridge. At 37, he was the youngest Black person ever appointed to a professorship in the university\u2019s history. Arday\u2019s personal story also attracted widespread attention. He claimed that autism left him unable to speak until he was 11 and unable to read or write until he was 18. Nonetheless, Arday eventually received a PhD from Liverpool John Moores University and continued to rise through the ranks of British higher education. Soon after starting his position at Cambridge, Arday was accused of plagiarizing portions of his 2015 doctoral thesis. And that was just the beginning.\u2026",
@@ -1603,37 +1647,37 @@
    ]
   },
   {
-   "id": "f247f8769c",
+   "id": "5fe4280c79",
    "topic": "World",
    "summary": "Actress Anna Faris admitted this past week that she challenges her 14-year-old son, whom she shares with ex-husband Chris Pratt, on his pro-life and conservative beliefs. Speaking to comedian Chelsea Handler on her \u201cDear Chelsea\u201d podcast, Faris spoke lovingly of her son, Jack, but noted they have some differences when it comes to religion and politics. She told Handler that she challenges Jack\u2019s beliefs, specifically bringing up his pro-life views. \u201cI try to challenge him. I\u2019m like, \u2018Do you think it\u2019s a luxury that you get to be pro-life?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Maybe.\u2019\u201d \u201cHe is \u2026 religious,\u201d the 49-year-old said, sounding hesitant. Faris said she did not grow up with religion herself, but that Jack has developed strong religious beliefs. When she challenges him on his faith, she said she brings up what she views as religious \u201chypocrisy.\u201d \u201cI\u2019ll say, \u2018So, what do you think of this mega\u2026",
    "summaryFrom": "dailywire",
    "emphasis": {
     "bigCount": 2,
-    "indieCount": 3,
+    "indieCount": 2,
     "big": [],
     "indie": [
-     "mount",
-     "fuji",
      "hike",
-     "leaves",
+     "tired",
+     "alone",
+     "fuji",
      "father",
-     "left"
+     "leaves"
     ]
    },
    "people": [],
    "absent": [
     "coop"
    ],
-   "headline": "Bills mourn \u2018unthinkable tragedy\u2019 after death of Ed Oliver\u2019s two-year-old son",
+   "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
    "updated": "2026-08-23T04:31:43+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 1,
-    "nonprofit": 2,
     "pub": 1,
-    "family": 1
+    "family": 1,
+    "nonprofit": 1
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -1645,15 +1689,6 @@
      "kind": "news",
      "published": "2026-08-23T04:31:43+00:00",
      "summary": "Bob Donnan / IMAGN IMAGES via Reuters Connect The two-year-old son of Buffalo Bills player Ed Oliver has tragically died after an accidental drowning, prompting an outpouring of well wishes for the NFL star. Oliver\u2019s son, also named Ed, reportedly drowned in a residential pool in Harris County, Texas, on the evening of June 28. Authorities responded to a life-in-danger call, where they found the toddler unresponsive in the pool. He was rushed to a nearby hospital, where he was pronounced dead. Bills General Manager Brandon Beane was among those to react to the \u201cunthinkable tragedy,\u201d saying the team will support Ed\u2019s family \u201cas we all grieve this tragic loss.\u201d Though he wasn\u2019t identified as Oliver\u2019s son at the time, the Harris County Sheriff\u2019s Department reported the drowning death of a toddler in Houston in late June. Oliver has been participating in training camp since then, with his teammates only recently learning of the tragedy. Bills quarterback Josh Allen said on Saturday that \u201cthere\u2019s nothing that you can say to make the situation any better except being there in whatever ways he needs.\u201d Read more at The Daily Beast."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Bills mourn \u2018unthinkable tragedy\u2019 after death of Ed Oliver\u2019s two-year-old son",
-     "url": "https://www.theguardian.com/sport/2026/aug/22/bills-mourn-unthinkable-tragedy-after-death-of-ed-olivers-two-year-old-son",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-22T18:24:59+00:00",
-     "summary": "Toddler was found unresponsive in residential pool Player has been practicing with team since June tragedy Members of the Buffalo Bills have expressed their condolences to Ed Oliver after the death of the player\u2019s two-year-old son. \u201cObviously, very unfortunate what happened and as a teammate of him, as someone in this locker room, all we can do is love on him,\u201d Bills quarterback Josh Allen said after Saturday\u2019s win over the Cleveland Browns. \u201cThere\u2019s nothing that you can say to make the situation any better except being there in whatever ways he needs. Continue reading..."
     },
     {
      "outlet": "bbc",
@@ -1681,6 +1716,214 @@
      "kind": "news",
      "published": "2026-08-22T12:25:16+00:00",
      "summary": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a family hike has been reprimanded by local police. A worker on Japan\u2019s highest mountain discovered the child sitting alone on a bench near the sixth station of the Fujinomiya trail at an altitude of more than 2,000 metres (6,500 feet) on Thursday. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "afbc30ae50",
+   "topic": "Other",
+   "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "What to know about this weekend's IndyCar race on the National Mall",
+   "updated": "2026-08-23T21:29:56+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "See photos from the first IndyCar race in Washington",
+     "url": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/",
+     "author": "Kenneth Dickerman",
+     "kind": "news",
+     "published": "2026-08-23T21:29:56+00:00",
+     "summary": "Drivers are dashing around the National Mall at speeds expected to exceed 185 mph."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
+     "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:57:07+00:00",
+     "summary": "Twenty-five cars traveling at top speeds approaching 180 mph zoomed around the National Mall this weekend as IndyCar took over downtown D.C."
+    },
+    {
+     "outlet": "npr",
+     "title": "What to know about this weekend's IndyCar race on the National Mall",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+     "author": "Rachel Treisman",
+     "kind": "news",
+     "published": "2026-08-21T09:01:00+00:00",
+     "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
+    }
+   ]
+  },
+  {
+   "id": "2ce0badf3c",
+   "topic": "Culture & Sport",
+   "summary": "Shelly Fabares, who starred in such TV hits as \"Coach\" and \"The Donna Reed Show,\" as well as three Elvis Presley movies, has died.",
+   "summaryFrom": "forbes",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Shelley Fabares, star of \u2018Coach\u2019 and \u2018The Donna Reed Show,\u2019 dead at 82",
+   "updated": "2026-08-23T21:17:34+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Shelley Fabares, star of \u2018Coach\u2019 and \u2018The Donna Reed Show,\u2019 dead at 82",
+     "url": "https://pagesix.com/2026/08/23/celebrity-news/shelley-fabares-star-of-coach-and-the-donna-reed-show-dead-at-82/",
+     "author": "Vanessa Serna",
+     "kind": "news",
+     "published": "2026-08-23T21:17:34+00:00",
+     "summary": "The actress's family confirmed she died on Saturday."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Shelley Fabares, 'Donna Reed Show' and 'One Day at a Time' star, dies at 82",
+     "url": "https://www.latimes.com/obituaries/story/2026-08-23/shelley-fabares-donna-reed-show-one-day-at-time-star-dies-at-82",
+     "author": "Jasmine Mendez",
+     "kind": "news",
+     "published": "2026-08-23T21:07:27+00:00",
+     "summary": "Actress Shelley Fabares, known for \"The Donna Reed Show,\" \"One Day at a Time\" and the hit song \"Johnny Angel,\" has died at 82."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Shelley Fabares, \u2018Coach\u2019 Star And Wife Of Mike Farrell, Dies At 82",
+     "url": "https://www.forbes.com/sites/timlammers/2026/08/23/shelley-fabares-coach-star-and-wife-of-mike-farrell-dies-at-82/",
+     "author": "Tim Lammers, Contributor",
+     "kind": "news",
+     "published": "2026-08-23T21:01:40+00:00",
+     "summary": "Shelly Fabares, who starred in such TV hits as \"Coach\" and \"The Donna Reed Show,\" as well as three Elvis Presley movies, has died."
+    }
+   ]
+  },
+  {
+   "id": "c11522873e",
+   "topic": "Other",
+   "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Landfill collapse kills 30 in Guinea\u2019s capital after heavy rains",
+   "updated": "2026-08-23T21:08:17+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Landfill collapse kills 30 in Guinea\u2019s capital after heavy rains",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T21:08:17+00:00",
+     "summary": "A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Guinea rubbish landfill collapse kills 30",
+     "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:17:37+00:00",
+     "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
+    },
+    {
+     "outlet": "dw",
+     "title": "Guinea: Garbage collapse at landfill kills dozens",
+     "url": "https://www.dw.com/en/guinea-garbage-collapse-at-landfill-kills-dozens/a-78478597?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T17:48:00+00:00",
+     "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn."
+    }
+   ]
+  },
+  {
+   "id": "a85db0fd31",
+   "topic": "Politics",
+   "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), noted Sunday the measles, mumps and rubella (MMR) vaccine is not lethal, contradicting President Trump. \u201cThe MMR vaccine is not a lethal vaccine, and it is offered in other countries,\u201d Oz told host Margaret Brennan on CBS News\u2019s \"Face the Nation.\"...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Oz says MMR vaccine 'is not a lethal vaccine'",
+   "updated": "2026-08-23T20:28:23+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Oz says MMR vaccine 'is not a lethal vaccine'",
+     "url": "https://thehill.com/policy/healthcare/6045961-oz-denies-mmr-lethality/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-23T20:28:23+00:00",
+     "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), noted Sunday the measles, mumps and rubella (MMR) vaccine is not lethal, contradicting President Trump. \u201cThe MMR vaccine is not a lethal vaccine, and it is offered in other countries,\u201d Oz told host Margaret Brennan on CBS News\u2019s \"Face the Nation.\"..."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Mehmet Oz Breaks with Trump Suggestion That MMR Vaccine Could Be 'Lethal'",
+     "url": "https://www.newsweek.com/mehmet-oz-breaks-with-trump-suggestion-that-mmr-vaccine-could-be-lethal-12357550",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T19:54:24+00:00",
+     "summary": "Federal health authorities continue urging high immunization coverage amid declining childhood vaccination rates nationwide."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Dr. Oz says MMR is \"not a lethal vaccine\" despite Trump's comments",
+     "url": "https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:59:59+00:00",
+     "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services, said the MMR vaccine is \"not a lethal vaccine,\" despite President Trump's claims in recent days."
     }
    ]
   },
@@ -1733,58 +1976,6 @@
      "kind": "news",
      "published": "2026-08-20T22:18:32+00:00",
      "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla"
-    }
-   ]
-  },
-  {
-   "id": "70788a14b4",
-   "topic": "Politics",
-   "summary": "The president had raised eyebrows by suggesting there may be safety concerns as he signed the executive order pushing for the measles, mumps and rubella vax to be separated into three different jabs.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Dr. Oz clarifies the MMR vaccine is \u2018not lethal\u2019 after Trump suggested it could be",
-   "updated": "2026-08-23T20:08:07+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Dr. Oz clarifies the MMR vaccine is \u2018not lethal\u2019 after Trump suggested it could be",
-     "url": "https://nypost.com/2026/08/23/us-news/dr-mehmet-oz-clarifies-the-mmr-vaccine-is-not-lethal-after-prez-suggested-it-could-be/",
-     "author": "Ryan King",
-     "kind": "news",
-     "published": "2026-08-23T20:08:07+00:00",
-     "summary": "The president had raised eyebrows by suggesting there may be safety concerns as he signed the executive order pushing for the measles, mumps and rubella vax to be separated into three different jabs."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Mehmet Oz Breaks with Trump Suggestion That MMR Vaccine Could Be 'Lethal'",
-     "url": "https://www.newsweek.com/mehmet-oz-breaks-with-trump-suggestion-that-mmr-vaccine-could-be-lethal-12357550",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T19:54:24+00:00",
-     "summary": "Federal health authorities continue urging high immunization coverage amid declining childhood vaccination rates nationwide."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Dr. Oz says MMR is \"not a lethal vaccine\" despite Trump's comments",
-     "url": "https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:59:59+00:00",
-     "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services, said the MMR vaccine is \"not a lethal vaccine,\" despite President Trump's claims in recent days."
     }
    ]
   },
@@ -1846,110 +2037,6 @@
      "kind": "news",
      "published": "2026-08-22T21:24:51+00:00",
      "summary": "The new levies are expected to affect about 5% of Canada's annual exports to the U.S., roughly $20 billion in goods ranging from hockey sticks to agricultural products."
-    }
-   ]
-  },
-  {
-   "id": "99702346fb",
-   "topic": "Politics",
-   "summary": "Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor and ex-Republican congressman Adam Kinzinger Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday that House Democratic leader Hakeem Jeffries met with Jared Kushner, the president\u2019s influential son-in-law, to discuss possible areas of collaboration. The reported meeting comes months ahead of the November midterm elections in which Democrats are favored to retake the US House, a development that would make Jeffries speaker. If they are in the majority, Democrats are expected to use their oversight power to aggressively investigate the Trump administration, including self-enrichment by the president and his family. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
-   "updated": "2026-08-23T18:38:54+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Mike Johnson Says Kushner 'Hedges Bets' Amid Reported Meeting With Jeffries",
-     "url": "https://www.newsweek.com/mike-johnson-jared-kushner-hedges-bets-jeffries-meeting-12357577",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:38:54+00:00",
-     "summary": "According to the New York Times' report, topics discussed between the two included housing, immigration and the cost of living."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
-     "author": "Sam Levine",
-     "kind": "news",
-     "published": "2026-08-23T17:55:52+00:00",
-     "summary": "Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor and ex-Republican congressman Adam Kinzinger Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday that House Democratic leader Hakeem Jeffries met with Jared Kushner, the president\u2019s influential son-in-law, to discuss possible areas of collaboration. The reported meeting comes months ahead of the November midterm elections in which Democrats are favored to retake the US House, a development that would make Jeffries speaker. If they are in the majority, Democrats are expected to use their oversight power to aggressively investigate the Trump administration, including self-enrichment by the president and his family. Continue reading..."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Johnson says Kushner 'not directly involved' in Trump administration after reported meeting with Jeffries",
-     "url": "https://thehill.com/homenews/house/6045665-johnson-downplays-kushner-jeffries-meeting/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-23T16:05:03+00:00",
-     "summary": "Speaker Mike Johnson (R-La.) on Sunday downplayed the reported meeting between Jared Kushner and House Democratic Leader Hakeem Jeffries (D-N.Y.). \u201cI don\u2019t know what that\u2019s about. I know Jared has interest in lots of other things going on,\u201d Johnson told host Peter Doocy on Fox News\u2019s \u201cThe Sunday Briefing.\u201d \u201cHe\u2019s not really directly involved in..."
-    }
-   ]
-  },
-  {
-   "id": "e9ec9aca2c",
-   "topic": "Other",
-   "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Guinea rubbish landfill collapse kills 30",
-   "updated": "2026-08-23T18:17:37+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Guinea rubbish landfill collapse kills 30",
-     "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:17:37+00:00",
-     "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
-    },
-    {
-     "outlet": "dw",
-     "title": "Guinea: Garbage collapse at landfill kills dozens",
-     "url": "https://www.dw.com/en/guinea-garbage-collapse-at-landfill-kills-dozens/a-78478597?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:48:00+00:00",
-     "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Landfill collapse in Guinea kills at least 30 people",
-     "url": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:35:01+00:00",
-     "summary": "Heavy rains wash over the site, triggering a landslide that buries several shacks."
     }
    ]
   },
@@ -2112,7 +2199,7 @@
   {
    "id": "417a052bfe",
    "topic": "World",
-   "summary": "Iran's president on Sunday defended a memorandum of understanding with the United States as the best way out of a stalled war while the new head of the Islamic Republic's top security body took a more defiant stance.",
+   "summary": "The new head of Iran's top security body warned Sunday that Tehran will see any country's support for new U.S. economic measures against the Islamic Republic as an \"act of war,\" while Iran's president defended a memorandum of understanding with the U.S. as the best way out of the stalled conflict.",
    "summaryFrom": "pbsnewshour",
    "emphasis": null,
    "people": [],
@@ -2148,7 +2235,7 @@
      "author": "Associated Press",
      "kind": "news",
      "published": "2026-08-23T15:40:37+00:00",
-     "summary": "Iran's president on Sunday defended a memorandum of understanding with the United States as the best way out of a stalled war while the new head of the Islamic Republic's top security body took a more defiant stance."
+     "summary": "The new head of Iran's top security body warned Sunday that Tehran will see any country's support for new U.S. economic measures against the Islamic Republic as an \"act of war,\" while Iran's president defended a memorandum of understanding with the U.S. as the best way out of the stalled conflict."
     },
     {
      "outlet": "dw",
@@ -2474,6 +2561,92 @@
    ]
   },
   {
+   "id": "c9954fcf82",
+   "topic": "Politics",
+   "summary": "Attendees at a Trump rally in Racine, Wisconsin, on June 18, 2024. | Scott Olson/Getty Images It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running for a Senate seat, are mired in scandal. The Iran war was unpopular from the start, but it is getting even less popular as it drags on. And Trump\u2019s approval rating recently hit 33 percent , the lowest of his presidency yet. On this week\u2019s episode of America, Actually , host Astead Herndon speaks with one of Trump\u2019s most vocal defenders, conservative influencer CJ Pearson, about whether we\u2019re seeing Trump\u2019s brand slip even among his supporters and the young people who\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump\u2019s Economic Approach Draws Concern From Some Republicans",
+   "updated": "2026-08-23T21:17:40+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Trump\u2019s Economic Approach Draws Concern From Some Republicans",
+     "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
+     "author": "Bayliss Wagner",
+     "kind": "news",
+     "published": "2026-08-23T21:17:40+00:00",
+     "summary": "A plan to lower tariffs on imported beef and trade tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms."
+    },
+    {
+     "outlet": "vox",
+     "title": "Is Trump dragging Republicans down?",
+     "url": "https://www.vox.com/america-actually/500153/donald-trump-cj-pearson-republicans-2026-midterms-electability",
+     "author": "Astead Herndon",
+     "kind": "news",
+     "published": "2026-08-22T12:00:00+00:00",
+     "summary": "Attendees at a Trump rally in Racine, Wisconsin, on June 18, 2024. | Scott Olson/Getty Images It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running for a Senate seat, are mired in scandal. The Iran war was unpopular from the start, but it is getting even less popular as it drags on. And Trump\u2019s approval rating recently hit 33 percent , the lowest of his presidency yet. On this week\u2019s episode of America, Actually , host Astead Herndon speaks with one of Trump\u2019s most vocal defenders, conservative influencer CJ Pearson, about whether we\u2019re seeing Trump\u2019s brand slip even among his supporters and the young people who helped him win in 2024, and how that could affect the midterm elections. Pearson, a conservative content creator and influencer, first went viral when he posted himself, then 12 years old, criticizing Barack Obama in a YouTube video. Now 24, Pearson is one of MAGA\u2019s most prominent Black voices. In thi"
+    }
+   ]
+  },
+  {
+   "id": "1f53d421a3",
+   "topic": "Culture & Sport",
+   "summary": "The Los Angeles Chargers announced on Sunday that a major part of their offense will not suit up this season due to a season-ending injury. The team placed starting center Tyler Biadasz on season-ending injured reserve after he sustained an ACL injury during the team\u2019s joint practice with the San Francisco 49ers last week. The 28-year-old was the Chargers' prized offseason addition, as he signed a three-year, $30 million contract with the team after being released by the Washington Commanders . Biadasz was set to be an upgrade over Bradley Bozeman, who had started at center in each of the last two seasons for Los Angeles. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Biadasz sustained the injury when Chargers guard Kayode Awosika threw 49ers defensive lineman Sebastian Valdez to the ground during an 11-on-11 drill. Valdez fell into the back of Biadasz\u2019s legs, and the center\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Chargers lose $30 million center for season after suffering ACL injury during joint practice",
+   "updated": "2026-08-23T20:53:26+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Chargers lose $30 million center for season after suffering ACL injury during joint practice",
+     "url": "https://www.foxnews.com/outkick-sports/chargers-lose-30-million-center-season-acl-injury-joint-practice",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:53:26+00:00",
+     "summary": "The Los Angeles Chargers announced on Sunday that a major part of their offense will not suit up this season due to a season-ending injury. The team placed starting center Tyler Biadasz on season-ending injured reserve after he sustained an ACL injury during the team\u2019s joint practice with the San Francisco 49ers last week. The 28-year-old was the Chargers' prized offseason addition, as he signed a three-year, $30 million contract with the team after being released by the Washington Commanders . Biadasz was set to be an upgrade over Bradley Bozeman, who had started at center in each of the last two seasons for Los Angeles. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Biadasz sustained the injury when Chargers guard Kayode Awosika threw 49ers defensive lineman Sebastian Valdez to the ground during an 11-on-11 drill. Valdez fell into the back of Biadasz\u2019s legs, and the center immediately went to the ground and was eventually carted off the field. Biadasz was entering his seventh season in the NFL. He spent his first four with the Dallas Cowboys after they drafted him in the fourth round out of Wisconsin, and then spent the last two with the Commanders. He made the Pro Bowl durin"
+    },
+    {
+     "outlet": "nypost",
+     "title": "Browns lose $33 million pass rusher for season as they sign a replacement",
+     "url": "https://nypost.com/2026/08/23/sports/browns-lose-alex-wright-for-season-as-they-sign-a-replacement/",
+     "author": "Bryan Fonseca",
+     "kind": "news",
+     "published": "2026-08-23T20:22:58+00:00",
+     "summary": "The Browns will be without their starting defensive end after he suffered a ruptured Achilles during a joint practice with the Bills."
+    }
+   ]
+  },
+  {
    "id": "87cbc27c4e",
    "topic": "Business & Economy",
    "summary": "The plan calls for turning part of the Woodland Hills Country Club, a century-old golf course near the Santa Monica Mountains in the San Fernando Valley neighborhood, into a housing complex. But for now, mountain lions will be allowed to continue roaming through the fairways.",
@@ -2517,49 +2690,6 @@
    ]
   },
   {
-   "id": "2e5e337c47",
-   "topic": "Other",
-   "summary": "The Freedom 250 Gr a nd Prix in America's capital is a historic spectacle. It is a feat of American patriotism that can only be rivaled by UFC 250 earlier this year. It featured the most scenic and picturesque views , flyovers from every branch of the military, President Donald Trump driving the race course in The Beast for a ceremonial lap, American flags and music all over the streets of Washington, D.C. I spoke with fans about their experience and it told me one thing: This is how sports should be. \"I think it's really unique,\" an IndyCar fan told me on the National Mall. \"Being at the [United States] Captiol for the 250[th birthday] and racing, it doesn't get too much better than that.\" Many of the fans attending felt the same thing: An overwhelming sense of pride in America. WORLD CUP ENERGY CARRIES INTO FREEDOM 250 GRAND PRIX AS GLOBAL FANS CELEBRATE AMERICA'S HISTORIC BIRTHDAY \"I\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Freedom 250 Grand Prix attendees talk about American pride in the midst of historic event",
-   "updated": "2026-08-23T20:30:22+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Freedom 250 Grand Prix attendees talk about American pride in the midst of historic event",
-     "url": "https://www.foxnews.com/outkick-sports/freedom-250-grand-prix-attendees-talk-american-pride-midst-historic-event",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T20:30:22+00:00",
-     "summary": "The Freedom 250 Gr a nd Prix in America's capital is a historic spectacle. It is a feat of American patriotism that can only be rivaled by UFC 250 earlier this year. It featured the most scenic and picturesque views , flyovers from every branch of the military, President Donald Trump driving the race course in The Beast for a ceremonial lap, American flags and music all over the streets of Washington, D.C. I spoke with fans about their experience and it told me one thing: This is how sports should be. \"I think it's really unique,\" an IndyCar fan told me on the National Mall. \"Being at the [United States] Captiol for the 250[th birthday] and racing, it doesn't get too much better than that.\" Many of the fans attending felt the same thing: An overwhelming sense of pride in America. WORLD CUP ENERGY CARRIES INTO FREEDOM 250 GRAND PRIX AS GLOBAL FANS CELEBRATE AMERICA'S HISTORIC BIRTHDAY \"I feel like there's a lot of controversy on both [political] sides, but there's a lot of pride [in America],\" that same fan told me. If any of you readers have followed my work for OutKick or online, you know I cover a lot of political and cultural controversies. I've covered the WNBA heavily over the"
-    },
-    {
-     "outlet": "forbes",
-     "title": "IndyCars Whiz Through DC Streets Today In Freedom 250 Grand Prix: What To Know",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/23/indycars-whiz-through-dc-streets-today-in-freedom-250-grand-prix-what-to-know/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-23T13:05:49+00:00",
-     "summary": "Racers will drive down Pennsylvania Avenue and zip past landmarks and museums along the National Mall."
-    }
-   ]
-  },
-  {
    "id": "356395ca74",
    "topic": "Other",
    "summary": "Amanda Edwards / Amanda Edwards, Getty Images Bunny Levine, known for her roles in Gilmore Girls and La La Land , has died at 97, peacefully in her sleep. She passed Thursday in her Tarzana, California home, from what appears to have been natural causes. Before launching her Hollywood career in the late 1980s, Levine was a school librarian and teacher in Teaneck, New Jersey, for about 25 years. She has appeared in some of television\u2019s biggest shows, including Everybody Loves Raymond , Law & Order , Ugly Betty , Private Practice , Criminal Minds , New Girl , and The Mindy Project . Levine has also acted in comedy movies You Don\u2019t Mess With the Zohan , Sandy Wexler and You Are So Not Invited to My Bat Mitzvah . In March 2025, the actress told the Daily Evergreen about her career pivot after decades of working in education. \u201cI feel very blessed to have been able to get back to what I had\u2026",
@@ -2599,6 +2729,49 @@
      "kind": "news",
      "published": "2026-08-23T14:03:35+00:00",
      "summary": "Amanda Edwards / Amanda Edwards, Getty Images Bunny Levine, known for her roles in Gilmore Girls and La La Land , has died at 97, peacefully in her sleep. She passed Thursday in her Tarzana, California home, from what appears to have been natural causes. Before launching her Hollywood career in the late 1980s, Levine was a school librarian and teacher in Teaneck, New Jersey, for about 25 years. She has appeared in some of television\u2019s biggest shows, including Everybody Loves Raymond , Law & Order , Ugly Betty , Private Practice , Criminal Minds , New Girl , and The Mindy Project . Levine has also acted in comedy movies You Don\u2019t Mess With the Zohan , Sandy Wexler and You Are So Not Invited to My Bat Mitzvah . In March 2025, the actress told the Daily Evergreen about her career pivot after decades of working in education. \u201cI feel very blessed to have been able to get back to what I had always wanted since early memory. I wish that everyone could find that happiness.\u201d Read it at PAGE SIX Read more at The Daily Beast."
+    }
+   ]
+  },
+  {
+   "id": "24435d586c",
+   "topic": "Politics",
+   "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "White House Accused of Ripping Off F1 for Trump\u2019s Big Race",
+   "updated": "2026-08-23T20:22:05+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "White House Accused of Ripping Off F1 for Trump\u2019s Big Race",
+     "url": "https://www.thedailybeast.com/white-house-accused-of-ripping-off-f1-for-trumps-big-race/",
+     "author": "Vic Verbalaitis",
+     "kind": "news",
+     "published": "2026-08-23T20:22:05+00:00",
+     "summary": "Elizabeth Frantz / REUTERS The Trump administration is being accused online of plagiarizing promotional materials for the president\u2019s IndyCar race. The White House shared several graphics on social media for the Trump administration-sponsored Freedom 250 Grand Prix this weekend, but many internet users pointed out their striking similarities to promotional materials for other major races. \u201cHuh, I thought that looked familiar...\u201d one X user wrote , pairing a White House graphic with a nearly identical one for the Rolex 24 at Daytona race from January. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "White House revs up \u2018iconic\u2019 Freedom 250 race as IndyCars prepare to unleash American muscle on DC streets",
+     "url": "https://www.foxnews.com/politics/white-house-revs-up-iconic-freedom-250-race-indycars-prepare-unleash-american-muscle-dc-streets",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T12:00:07+00:00",
+     "summary": "A roaring display of American muscle will be unleashed in the streets of Washington, D.C., this afternoon as IndyCar racers zoom through the city in a first-of-its-kind race, capping off a summer of celebration for America's 250th birthday. \"President [Donald] Trump is ensuring America gets the spectacular birthday it deserves as we celebrate our 250th anniversary,\" White House spokesman Davis Ingle told Fox News Digital. The race is called the Freedom 250 Grand Prix, and top IndyCar drivers, including this year's Indianapolis 500 winner, Felix Rosenqvist, will take to the streets of the nation's capital vying for victory in vehicles designed to drive at nearly 200 mph. DRIVERS JOSEF NEWGARDEN AND KYLE KIRKWOOD TALK INDYCAR'S 'ONCE-IN-A-LIFETIME' FREEDOM 250 GRAND PRIX The course is a 1.7-mile, seven-turn circuit, including a .4-mile front stretch along Pennsylvania Avenue near the White House. \"The historic IndyCar race set to take place in our Nation\u2019s Capital will be one of the greatest and most iconic races in history,\" Ingle said. \"The President will leave his imprint on this historic race in a way that only he can.\" RACER STING RAY ROBB GEARS UP FOR FREEDOM 250 GRAND PRIX: 'T"
     }
    ]
   },
@@ -2861,53 +3034,10 @@
    ]
   },
   {
-   "id": "927d309c5e",
-   "topic": "World",
-   "summary": "Former Vice President Mike Pence denied Sunday that the U.S. military depleting its weapons stockpiles in the Iran war is hurting Ukraine in its ongoing fight against Russia. \u201cI don't see it that way, and I don't think\u2026 the Ukrainians do either,\u201d Pence told host Dana Bash on CNN\u2019s \u201cState of the Union,\u201d while in...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Can Nigeria cash in on Iran war?",
-   "updated": "2026-08-23T18:44:19+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
-     "url": "https://thehill.com/policy/international/6045828-pence-denies-that-iran-war-hurting-ukraine-by-depleting-us-stockpiles/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-23T18:44:19+00:00",
-     "summary": "Former Vice President Mike Pence denied Sunday that the U.S. military depleting its weapons stockpiles in the Iran war is hurting Ukraine in its ongoing fight against Russia. \u201cI don't see it that way, and I don't think\u2026 the Ukrainians do either,\u201d Pence told host Dana Bash on CNN\u2019s \u201cState of the Union,\u201d while in..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Can Nigeria cash in on Iran war?",
-     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T16:07:01+00:00",
-     "summary": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production."
-    }
-   ]
-  },
-  {
-   "id": "e8f5e75fc2",
-   "topic": "Other",
-   "summary": "The Pentagon on Friday fired the editor-in-chief of Stars and Stripes and a top reporter for insubordination after they spoke publicly against any interference by the Defense Department in the military news outlet that has a long history of editorial independence.",
-   "summaryFrom": "pbsnewshour",
+   "id": "99702346fb",
+   "topic": "Politics",
+   "summary": "Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor and ex-Republican congressman Adam Kinzinger Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday that House Democratic leader Hakeem Jeffries met with Jared Kushner, the president\u2019s influential son-in-law, to discuss possible areas of collaboration. The reported meeting comes months ahead of the November midterm elections in which Democrats are favored to retake the US House, a development that would make Jeffries speaker. If they are in the majority, Democrats are expected to use their oversight power to aggressively investigate the Trump administration, including self-enrichment by the president and his family. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
    "absent": [
@@ -2915,8 +3045,8 @@
     "coop",
     "pub"
    ],
-   "headline": "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
-   "updated": "2026-08-23T18:12:23+00:00",
+   "headline": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
+   "updated": "2026-08-23T18:38:54+00:00",
    "outletCount": 2,
    "counts": {
     "corp": 1,
@@ -2927,30 +3057,30 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Pentagon fires 3 employees from Stars and Stripes after CBS News interview",
-     "url": "https://www.cbsnews.com/video/pentagon-fires-3-employees-from-stars-stripes-after-cbs-news-interview/",
+     "outlet": "newsweek",
+     "title": "Mike Johnson Says Kushner 'Hedges Bets' Amid Reported Meeting With Jeffries",
+     "url": "https://www.newsweek.com/mike-johnson-jared-kushner-hedges-bets-jeffries-meeting-12357577",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T18:12:23+00:00",
-     "summary": "The Pentagon fired the publisher, an editor and a reporter at the military newspaper Stars and Stripes after their comments for a CBS \"Sunday Morning\" piece."
+     "published": "2026-08-23T18:38:54+00:00",
+     "summary": "According to the New York Times' report, topics discussed between the two included housing, immigration and the cost of living."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
-     "url": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview",
-     "author": "Jocelyn Noveck, Associated Press",
+     "outlet": "guardian",
+     "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
+     "author": "Sam Levine",
      "kind": "news",
-     "published": "2026-08-21T23:42:26+00:00",
-     "summary": "The Pentagon on Friday fired the editor-in-chief of Stars and Stripes and a top reporter for insubordination after they spoke publicly against any interference by the Defense Department in the military news outlet that has a long history of editorial independence."
+     "published": "2026-08-23T17:55:52+00:00",
+     "summary": "Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor and ex-Republican congressman Adam Kinzinger Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday that House Democratic leader Hakeem Jeffries met with Jared Kushner, the president\u2019s influential son-in-law, to discuss possible areas of collaboration. The reported meeting comes months ahead of the November midterm elections in which Democrats are favored to retake the US House, a development that would make Jeffries speaker. If they are in the majority, Democrats are expected to use their oversight power to aggressively investigate the Trump administration, including self-enrichment by the president and his family. Continue reading..."
     }
    ]
   },
   {
    "id": "7e2636bf8e",
    "topic": "Politics",
-   "summary": "Attendees at a Trump rally in Racine, Wisconsin, on June 18, 2024. | Scott Olson/Getty Images It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running for a Senate seat, are mired in scandal. The Iran war was unpopular from the start, but it is getting even less popular as it drags on. And Trump\u2019s approval rating recently hit 33 percent , the lowest of his presidency yet. On this week\u2019s episode of America, Actually , host Astead Herndon speaks with one of Trump\u2019s most vocal defenders, conservative influencer CJ Pearson, about whether we\u2019re seeing Trump\u2019s brand slip even among his supporters and the young people who\u2026",
-   "summaryFrom": "vox",
+   "summary": "President Trump is reaching deeper into individual markets to try to ease consumer price strains . Why it matters: The administration is under mounting pressure to deliver relief as affordability becomes a bigger political liability ahead of the midterms. The push is cutting against \u2014 and sometimes rolling back \u2014 pillars of Trump's economic agenda, including tariffs and favoring domestic producers. And the moves may offer limited relief, reflecting how difficult it is for presidents to broadly bring down prices. Driving the news: Trump said Friday that he will temporarily waive tariffs on up to 300,000 metric tons of additional beef imports for 90 days, a period that would last through the midterms. A White House official said exporters agreed to a 25% discount, though it's unclear how much will reach consumers. U.S. cattle producers blasted the move, warning that cheaper imports could\u2026",
+   "summaryFrom": "axios",
    "emphasis": null,
    "people": [],
    "absent": [
@@ -2979,13 +3109,56 @@
      "summary": "KEVIN LAMARQUE / REUTERS Republican lawmakers and producers are raging against Donald Trump\u2019s move to give American consumers more imported beef while leaving domestic ranchers out in the cold. Trump, 80, announced his plan on Truth Social on Friday, outlining his decision to ship food in from overseas rather than support local farmers and holding Joe Biden responsible for current grocery costs. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he posted. Read more at The Daily Beast."
     },
     {
-     "outlet": "vox",
-     "title": "Is Trump dragging Republicans down?",
-     "url": "https://www.vox.com/america-actually/500153/donald-trump-cj-pearson-republicans-2026-midterms-electability",
-     "author": "Astead Herndon",
+     "outlet": "axios",
+     "title": "Trump finds tamping down costs to be tricky",
+     "url": "https://www.axios.com/2026/08/22/trump-affordability-beef-consumers",
+     "author": "Courtenay Brown",
      "kind": "news",
-     "published": "2026-08-22T12:00:00+00:00",
-     "summary": "Attendees at a Trump rally in Racine, Wisconsin, on June 18, 2024. | Scott Olson/Getty Images It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running for a Senate seat, are mired in scandal. The Iran war was unpopular from the start, but it is getting even less popular as it drags on. And Trump\u2019s approval rating recently hit 33 percent , the lowest of his presidency yet. On this week\u2019s episode of America, Actually , host Astead Herndon speaks with one of Trump\u2019s most vocal defenders, conservative influencer CJ Pearson, about whether we\u2019re seeing Trump\u2019s brand slip even among his supporters and the young people who helped him win in 2024, and how that could affect the midterm elections. Pearson, a conservative content creator and influencer, first went viral when he posted himself, then 12 years old, criticizing Barack Obama in a YouTube video. Now 24, Pearson is one of MAGA\u2019s most prominent Black voices. In thi"
+     "published": "2026-08-22T11:00:07+00:00",
+     "summary": "President Trump is reaching deeper into individual markets to try to ease consumer price strains . Why it matters: The administration is under mounting pressure to deliver relief as affordability becomes a bigger political liability ahead of the midterms. The push is cutting against \u2014 and sometimes rolling back \u2014 pillars of Trump's economic agenda, including tariffs and favoring domestic producers. And the moves may offer limited relief, reflecting how difficult it is for presidents to broadly bring down prices. Driving the news: Trump said Friday that he will temporarily waive tariffs on up to 300,000 metric tons of additional beef imports for 90 days, a period that would last through the midterms. A White House official said exporters agreed to a 25% discount, though it's unclear how much will reach consumers. U.S. cattle producers blasted the move, warning that cheaper imports could hurt ranchers and efforts to rebuild their depleted herds. By the numbers: Ground beef averaged $6.89 a pound in July, about $3 more than before the pandemic. Prices were up about 10% from a year earlier. The big picture: Beef shows how difficult it can be to quickly bring down prices when multiple f"
+    }
+   ]
+  },
+  {
+   "id": "c371a64c34",
+   "topic": "Business & Economy",
+   "summary": "Film studio giant Paramount took aim at left-wing \"Avengers: Doomsday\" and \"Spider-Man: Brand New Day\" star Mark Ruffalo for calling them \"inhuman,\" and blasted the \"Hulk\" star as an antisemite. The post Paramount Accuses Disney Star Mark Ruffalo of Antisemitism Over Warner Bros. Merger Attack appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Paramount Accuses Disney Star Mark Ruffalo of Antisemitism Over Warner Bros. Merger Attack",
+   "updated": "2026-08-23T17:51:59+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Paramount Accuses Disney Star Mark Ruffalo of Antisemitism Over Warner Bros. Merger Attack",
+     "url": "https://www.breitbart.com/entertainment/2026/08/23/paramount-accuses-disney-star-mark-ruffalo-of-antisemitism-over-warner-bros-merger-attack/",
+     "author": "Warner Todd Huston",
+     "kind": "news",
+     "published": "2026-08-23T17:51:59+00:00",
+     "summary": "Film studio giant Paramount took aim at left-wing \"Avengers: Doomsday\" and \"Spider-Man: Brand New Day\" star Mark Ruffalo for calling them \"inhuman,\" and blasted the \"Hulk\" star as an antisemite. The post Paramount Accuses Disney Star Mark Ruffalo of Antisemitism Over Warner Bros. Merger Attack appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism",
+     "url": "https://www.nbcnews.com/news/us-news/mark-ruffalo-paramount-antisemitism-accusation-dishonest-rcna594004",
+     "author": "Angela Yang",
+     "kind": "news",
+     "published": "2026-08-23T17:49:06+00:00",
+     "summary": "Ruffalo urged his followers to push back against the Paramount-Warner Bros. merger, arguing it would be \u201ccatastrophic for our film industry.\u201d"
     }
    ]
   },
@@ -3115,49 +3288,6 @@
      "kind": "news",
      "published": "2026-08-22T19:31:05+00:00",
      "summary": "President Donald Trump made more than 1,000 securities trades in June, including significant purchases of Berkshire Hathaway Inc., Visa Inc., Mastercard Inc. and Cintas Corp., according to a financial disclosure published Saturday."
-    }
-   ]
-  },
-  {
-   "id": "23ea31f9bc",
-   "topic": "Other",
-   "summary": "NASCAR Hall of Famer Kurt Busch opened up about how racing helps him cope with the sudden loss of his younger brother, NASCAR legend Kyle Busch, who died in May. The two-time NASCAR Cup Series champion died at 41 from complications related to \"severe pneumonia [that] progressed into sepsis,\" according to a statement from his family. \"When you get behind the wheel, I feel his presence of\u2026 he like sees my mistakes now, like I can't hide them, but it helps me cope with it. I see my brothers in the racing world,\" Kurt told \" The Big Weekend Show \" on Saturday. NASCAR CHAMPION KYLE BUSCH\u2019S CAUSE OF DEATH REVEALED BY FAMILY Kurt\u2019s comments about his brother came after his race in IndyCar's Freedom 250 Grand Prix , held on a 1.7-mile course that includes Pennsylvania, Constitution and Independence avenues. His remarks also follow the inaugural celebration of \" Kyle Busch Day \" on Aug. 18, a\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "NASCAR legend Kurt Busch reveals the place he feels closest to his late brother Kyle",
-   "updated": "2026-08-23T15:28:49+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "NASCAR legend Kurt Busch reveals the place he feels closest to his late brother Kyle",
-     "url": "https://www.foxnews.com/media/nascar-legend-kurt-busch-reveals-place-feels-closest-late-brother-kyle",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T15:28:49+00:00",
-     "summary": "NASCAR Hall of Famer Kurt Busch opened up about how racing helps him cope with the sudden loss of his younger brother, NASCAR legend Kyle Busch, who died in May. The two-time NASCAR Cup Series champion died at 41 from complications related to \"severe pneumonia [that] progressed into sepsis,\" according to a statement from his family. \"When you get behind the wheel, I feel his presence of\u2026 he like sees my mistakes now, like I can't hide them, but it helps me cope with it. I see my brothers in the racing world,\" Kurt told \" The Big Weekend Show \" on Saturday. NASCAR CHAMPION KYLE BUSCH\u2019S CAUSE OF DEATH REVEALED BY FAMILY Kurt\u2019s comments about his brother came after his race in IndyCar's Freedom 250 Grand Prix , held on a 1.7-mile course that includes Pennsylvania, Constitution and Independence avenues. His remarks also follow the inaugural celebration of \" Kyle Busch Day \" on Aug. 18, a day to honor the late NASCAR icon in a nod to Busch\u2019s famed car numbers. Kurt, who shared a strong bond with Kyle on and off the track, told Fox News that racing helps him cope with his brother\u2019s sudden death. \"It just feels like someone stole him, and it's still unfathomable,\" he said. NASCAR DRIVER C"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Kurt Busch Breaks Down Recalling His NASCAR Legend Brother Kyle\u2019s Final Moments",
-     "url": "https://www.dailywire.com/news/kurt-busch-breaks-down-recalling-his-nascar-legend-brother-kyles-final-moments",
-     "author": "Lynden Blake",
-     "kind": "opinion",
-     "published": "2026-08-22T07:45:10+00:00",
-     "summary": "Kurt Busch is opening up about his brother and fellow NASCAR legend Kyle Busch, in the final moments of his life, while also explaining how illness is handled in the competitive racing world. Kurt, a NASCAR Hall of Famer, appeared on the Today show Friday, where he opened up about his brother\u2019s final moments before his sudden passing in May. Kurt was in the hospital as Kyle took his final breaths. Friday marks three months since Kyle\u2019s passing. Through tears Kurt was able to share those final words with his brother. He told Today\u2019s Craig Melvin, \u201cI said, \u2018I got you, man. Come on. I got you. Come on. Be strong.\u201d Kurt chose to be at Kyle\u2019s side at the end. Their father, Tom Busch, chose not to. \u201cI was there at the hospital,\u201d Kurt said. \u201cI was there all day, hoping, praying, hoping for a turnaround. My dad wanted to remember him in the way that he wanted to remember him. That\u2019s how people could choose if they wanted to or not.\u201d Kyle died May 21 after an undiagnosed bacterial infection in his lungs turned septic and moved through his body with brutal speed, killing within hours, his family said. \u201cJust wasn\u2019t fair,\u201d Kurt added. During the emotional interview, Kurt opened up about Kyle\u2019s"
     }
    ]
   },
@@ -3416,49 +3546,6 @@
      "kind": "news",
      "published": "2026-08-23T09:02:03+00:00",
      "summary": "\u201cThe Great American Road Trip\u201d sends the transportation secretary and his family on a wholesome, dull tour, with a lot of help from their sponsors."
-    }
-   ]
-  },
-  {
-   "id": "d42cc45c7c",
-   "topic": "Culture & Sport",
-   "summary": "It feels like the World Cup just ended, and yet somehow, some way, the Premier League is already back. England's top flight kicks off on Friday with defending champi\u2014oops, I mean attacking champion ; sorry Mikel\u2014Arsenal taking on newly promoted Championship champion Coventry City in North London, before everyone else takes the field over the weekend. It's a quick turnaround after the six-week odyssey that ended with Donald Trump trying to insert himself in Spain's trophy celebration, but that's life in soccer's grossly bloated calendar. As someone who cares about player fitness and the quality of play, I'm concerned that this is going to be a messy season. As someone who misses watching games every weekend, I could not be more excited. Fittingly, the Premier League itself is a real mess right now. Arsenal should feel confident about its chances to repeat, but there's no telling where\u2026",
-   "summaryFrom": "defector",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "nonprofit"
-   ],
-   "headline": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
-   "updated": "2026-08-23T13:33:39+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
-     "url": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T13:33:39+00:00",
-     "summary": "Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?"
-    },
-    {
-     "outlet": "defector",
-     "title": "And Now, A 2026-27 Premier League Preview In Five Storylines",
-     "url": "https://defector.com/and-now-a-2026-27-premier-league-preview-in-five-storylines",
-     "author": "Luis Paez-Pumar",
-     "kind": "news",
-     "published": "2026-08-21T13:19:41+00:00",
-     "summary": "It feels like the World Cup just ended, and yet somehow, some way, the Premier League is already back. England's top flight kicks off on Friday with defending champi\u2014oops, I mean attacking champion ; sorry Mikel\u2014Arsenal taking on newly promoted Championship champion Coventry City in North London, before everyone else takes the field over the weekend. It's a quick turnaround after the six-week odyssey that ended with Donald Trump trying to insert himself in Spain's trophy celebration, but that's life in soccer's grossly bloated calendar. As someone who cares about player fitness and the quality of play, I'm concerned that this is going to be a messy season. As someone who misses watching games every weekend, I could not be more excited. Fittingly, the Premier League itself is a real mess right now. Arsenal should feel confident about its chances to repeat, but there's no telling where any of the other 19 teams might finish. (OK, well, there's one team that will almost certainly finish 20th, but I'll get to that later.) There's been a ton of upheaval in England ahead of this season, and with the transfer window not closing until Sept. 1, more could be on the way. With uncertainty thi"
     }
    ]
   },
