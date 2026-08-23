@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-23T04:53:18.764602+00:00",
+ "generated": "2026-08-23T05:46:34.240002+00:00",
  "storyCount": 60,
- "feedsOk": 69,
+ "feedsOk": 68,
  "feedsTotal": 72,
  "stories": [
   {
@@ -17,8 +17,8 @@
      "saturday",
      "goods",
      "some",
-     "begin",
-     "trading"
+     "allies",
+     "begin"
     ],
     "indie": [
      "collapse",
@@ -162,166 +162,6 @@
    ]
   },
   {
-   "id": "a5e527dae5",
-   "topic": "World",
-   "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 6,
-    "big": [
-     "friday",
-     "deadline",
-     "retaliate",
-     "tariff",
-     "apart",
-     "fell"
-    ],
-    "indie": [
-     "ranging",
-     "hockey",
-     "sticks",
-     "force",
-     "dollar'"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Canada to match US tariffs \u201cdollar for dollar,\u201d PM Carney says",
-   "updated": "2026-08-22T20:35:49+00:00",
-   "outletCount": 11,
-   "counts": {
-    "family": 5,
-    "pub": 3,
-    "corp": 2,
-    "nonprofit": 3
-   },
-   "newsCount": 12,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
-     "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
-     "author": "Ian Austen",
-     "kind": "news",
-     "published": "2026-08-22T20:35:49+00:00",
-     "summary": "Prime Minister Mark Carney of Canada said that he had pulled negotiators out of trade talks with the United States because the Trump administration had \u201casked too much and offered too little.\u201d"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Canada to match US tariffs \u201cdollar for dollar,\u201d PM Carney says",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T19:13:02+00:00",
-     "summary": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs \u201cdollar for dollar.\""
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
-     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T17:39:17+00:00",
-     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
-    },
-    {
-     "outlet": "axios",
-     "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
-     "url": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
-     "author": "Courtenay Brown",
-     "kind": "news",
-     "published": "2026-08-22T15:58:20+00:00",
-     "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said late Friday that Canada had made last-minute demands that upset the pact, Bloomberg reported . Canadian Prime Minister Mark Carney, in a statement posted to X, alleged it was the U.S. that had made late changes to the terms, and said he had decided to suspend the negotiations. Friction point: \"Canada w"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Canada Demand for Trucks Tariff Relief Imperiled Trade Talks",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/canada-demand-for-tariff-relief-on-trucks-imperiled-trade-talks",
-     "author": "Josh Wingrove",
-     "kind": "news",
-     "published": "2026-08-22T15:56:48+00:00",
-     "summary": "Trade talks between the US and Canada collapsed Friday in part amid a last-minute standoff over cutting US tariffs on Canadian medium- and heavy-duty vehicles, people familiar with the matter said."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "U.S. and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
-     "url": "https://www.pbs.org/newshour/world/u-s-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-canada-says-it-will-retaliate",
-     "author": "Rob Gillies, Associated Press",
-     "kind": "news",
-     "published": "2026-08-22T15:30:49+00:00",
-     "summary": "President Donald Trump's import taxes will hit about 5% of what Canada ships to the United States every year, including products ranging from hockey sticks to tongue depressors."
-    },
-    {
-     "outlet": "time",
-     "title": "Canada to Match Trump\u2019s 50% Tariffs, Dollar for Dollar",
-     "url": "https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-22T14:43:20+00:00",
-     "summary": "Dominic LeBlanc, Canada's minister in charge of trade with the United States, exits the office of U.S. Trade Representative Jamieson Greer after a meeting in Washington, D.C., on Aug. 20, 2026. \u2014Mandel NGAN\u2014AFP Trade talks between the United States and Canada collapsed Friday. With President Donald Trump\u2019s 50% tariffs taking effect the following day, Prime Minister Mark Carney quickly responded with retaliatory measures that go into effect in September. U.S. Customs and Border Protection sent out guidance for importers saying that the tariffs, which Trump first announced last month, would go into effect Saturday. They impact about $20 billion of Canadian goods, including hockey sticks, building materials, clothing, beer, and cheese. Negotiators from both countries had worked for weeks to reach a trade deal, leading up to a three-day extension of the original tariff deadline. At the time, Trump suggested that an agreement had been reached, writing on Truth Social on Tuesday that he had \u201cpaused\u201d the tariffs because the two countries \u201chave a DEAL!\u201d But in a statement just before midnight on Friday, Carney said that \u201cprogress has not been enough to meet our objectives for Canadians.\u201d R"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
-     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-     "author": "William Christou, Edward Helmore and agencies",
-     "kind": "news",
-     "published": "2026-08-22T14:04:57+00:00",
-     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country\u2019s prime minister, has vowed to match them \u201cdollar for dollar\u201d after the collapse of trade talks. The tariffs came into force on roughly $20bn (\u00a314.6bn) of goods \u2013 ranging from hockey sticks to tongue depressors \u2013 at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T12:20:46+00:00",
-     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
-    },
-    {
-     "outlet": "france24",
-     "title": "Canada says will match new US 50% tariffs 'dollar for dollar'",
-     "url": "https://www.france24.com/en/canada-says-will-match-new-us-50-tariffs-dollar-for-dollar",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-22T10:40:26+00:00",
-     "summary": "The trade war between Washington and Ottawa is once again escalating. On Saturday, the US implemented 50% tariffs on certain Canadian goods, just hours after Donald Trump claimed he had a good relationship with his Canadian counterpart and that he thought a deal could be reached. The tariffs were initially set to go into effect on Wednesday but the US president gave negotiators three days to reach an agreement. Details by Eliza Herbert."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "US Hits Canada With 50% Tariffs as Carney Vows to Retaliate",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
-     "author": "Josh Wingrove, Alicia Diaz and Thomas Seal",
-     "kind": "news",
-     "published": "2026-08-22T03:37:06+00:00",
-     "summary": "US-Canada trade talks fell apart just before a midnight deadline, with 50% tariffs hitting billions of dollars of Canadian goods and Prime Minister Mark Carney vowing to retaliate in a dispute that looks poised to intensify."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Iran Vows \u2018Devastating\u2019 Military Response: U.S. Readies to Unleash Toughest Sanctions to \u2018Collapse\u2019 Regime",
-     "url": "https://www.breitbart.com/politics/2026/08/21/iran-vows-devastating-military-response-u-s-unleash-toughest-sanctions/",
-     "author": "Joshua Klein",
-     "kind": "news",
-     "published": "2026-08-22T02:54:10+00:00",
-     "summary": "Iran vowed a \u201cdevastating\u201d military response Friday as the United States enters a new phase of economic warfare against Tehran, with the Trump administration preparing the \u201ctoughest sanctions in history\u201d as part of an escalating campaign Treasury Secretary Scott Bessent says will \u201ccollapse\u201d the Iranian regime. The post Iran Vows \u2018Devastating\u2019 Military Response: U.S. Readies to Unleash Toughest Sanctions to \u2018Collapse\u2019 Regime appeared first on Breitbart ."
-    },
-    {
-     "outlet": "guardian",
-     "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
-     "author": "Kenneth Roth",
-     "kind": "opinion",
-     "published": "2026-08-21T12:00:35+00:00",
-     "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "330421c7d8",
    "topic": "Politics",
    "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other\u2026",
@@ -332,8 +172,8 @@
     "big": [
      "president",
      "stay",
-     "project",
      "lower",
+     "project",
      "donald",
      "administrative"
     ],
@@ -460,135 +300,152 @@
    ]
   },
   {
-   "id": "13cfbffff9",
-   "topic": "Justice & Policing",
-   "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the\u2026",
-   "summaryFrom": "foxnews",
+   "id": "a5e527dae5",
+   "topic": "World",
+   "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
+   "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 5,
+    "bigCount": 7,
     "indieCount": 5,
     "big": [
-     "struck",
-     "district",
-     "customs",
-     "york",
-     "detention"
+     "friday",
+     "effect",
+     "retaliate",
+     "deadline",
+     "apart",
+     "fell"
     ],
     "indie": [
-     "public",
-     "basis",
-     "ruled",
-     "issuing",
-     "nationality",
-     "because"
+     "sticks",
+     "ranging",
+     "hockey",
+     "force"
     ]
    },
    "people": [],
    "absent": [
-    "corp"
+    "coop"
    ],
-   "headline": "Trump administration's 75-country visa ban was illegal, judge rules",
-   "updated": "2026-08-22T21:54:39+00:00",
-   "outletCount": 9,
+   "headline": "Canada to match US tariffs \u201cdollar for dollar,\u201d PM Carney says",
+   "updated": "2026-08-22T20:35:49+00:00",
+   "outletCount": 10,
    "counts": {
     "family": 5,
-    "nonprofit": 3,
-    "coop": 1,
-    "pub": 1
+    "pub": 2,
+    "corp": 2,
+    "nonprofit": 3
    },
-   "newsCount": 9,
+   "newsCount": 11,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "wapo",
-     "title": "Trump\u2019s visa ban on 75 countries struck down by federal judge",
-     "url": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
-     "author": "Teo Armus",
+     "outlet": "nyt",
+     "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+     "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+     "author": "Ian Austen",
      "kind": "news",
-     "published": "2026-08-22T21:54:39+00:00",
-     "summary": "A federal judge said the indefinite pause, which affected nationals of countries in every corner of the globe, ran afoul of antidiscrimination protections."
+     "published": "2026-08-22T20:35:49+00:00",
+     "summary": "Prime Minister Mark Carney of Canada said that he had pulled negotiators out of trade talks with the United States because the Trump administration had \u201casked too much and offered too little.\u201d"
     },
     {
-     "outlet": "npr",
-     "title": "Trump administration's 75-country visa ban was illegal, judge rules",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
-     "author": "Michael Copley",
-     "kind": "news",
-     "published": "2026-08-22T20:53:19+00:00",
-     "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality. (Image credit: David J. Phillip)"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Federal judge blasts Rubio\u2019s 75-country visa freeze as \u2018Orwellian,\u2019 strikes down policy",
-     "url": "https://www.foxnews.com/politics/federal-judge-blasts-rubio-75-country-visa-freeze-orwellian-strikes-down-policy",
+     "outlet": "aljazeera",
+     "title": "Canada to match US tariffs \u201cdollar for dollar,\u201d PM Carney says",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T20:27:01+00:00",
-     "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the Middle East. BOASBERG DELIVERS FRESH IMMIGRATION SETBACK TO TRUMP IN FREE-SPEECH CLASH Rubio\u2019s policy instructed consular officers to review each applicant individually. But even applicants who passed that review showed \"additional evidence that demonstrates he or she overcomes the public charge refusal"
+     "published": "2026-08-22T19:13:02+00:00",
+     "summary": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs \u201cdollar for dollar.\""
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T17:39:17+00:00",
+     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
+    },
+    {
+     "outlet": "axios",
+     "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+     "url": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
+     "author": "Courtenay Brown",
+     "kind": "news",
+     "published": "2026-08-22T15:58:20+00:00",
+     "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said late Friday that Canada had made last-minute demands that upset the pact, Bloomberg reported . Canadian Prime Minister Mark Carney, in a statement posted to X, alleged it was the U.S. that had made late changes to the terms, and said he had decided to suspend the negotiations. Friction point: \"Canada w"
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Canada Demand for Trucks Tariff Relief Imperiled Trade Talks",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/canada-demand-for-tariff-relief-on-trucks-imperiled-trade-talks",
+     "author": "Josh Wingrove",
+     "kind": "news",
+     "published": "2026-08-22T15:56:48+00:00",
+     "summary": "Trade talks between the US and Canada collapsed Friday in part amid a last-minute standoff over cutting US tariffs on Canadian medium- and heavy-duty vehicles, people familiar with the matter said."
     },
     {
      "outlet": "pbsnewshour",
-     "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
-     "url": "https://www.pbs.org/newshour/politics/federal-judge-vacates-trump-policy-that-suspended-processing-of-immigration-visas-from-75-countries",
-     "author": "Michael Casey, Associated Press",
+     "title": "U.S. and Canada fall deeper into a trade war with new tariffs as talks collapse and blame is spread",
+     "url": "https://www.pbs.org/newshour/world/u-s-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-canada-says-it-will-retaliate",
+     "author": "Rob Gillies, Associated Press",
      "kind": "news",
-     "published": "2026-08-22T16:50:24+00:00",
-     "summary": "The judge ruled that Secretary of State Marco Rubio exceeded his authority by issuing the policy, which \"runs afoul\" of the Immigration and Nationality Act by mandating \"the refusal of visas to eligible applicants without any basis in law.\""
+     "published": "2026-08-22T15:30:49+00:00",
+     "summary": "President Donald Trump's import taxes will hit about 5% of what Canada ships to the United States every year, including products ranging from hockey sticks to tongue depressors."
     },
     {
-     "outlet": "motherjones",
-     "title": "Federal Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
-     "url": "https://www.motherjones.com/politics/2026/08/federal-judge-strikes-down-trumps-75-country-visa-ban/",
-     "author": "Sophie Hurwitz",
+     "outlet": "time",
+     "title": "Canada to Match Trump\u2019s 50% Tariffs, Dollar for Dollar",
+     "url": "https://time.com/article/2026/08/22/us-canada-trade-negotiations-breakdown-tariffs/",
+     "author": "Rebecca Schneid",
      "kind": "news",
-     "published": "2026-08-22T16:22:02+00:00",
-     "summary": "This January, Secretary of State Marco Rubio directed consular officers to refuse to process immigration visas for people from 75 countries because, he said, those immigrants would be more likely than others to \u201cextract wealth\u201d or \u201ctake welfare and public benefits\u201d from the US. Since January, people from those 75 countries\u2014all located in Africa, Latin America, the Middle East, or Eastern Europe\u2014have had their visa applications frozen or denied. On August 21, though, a federal judge in New York struck down this blanket visa ban, on the grounds that it violates the Immigration and Nationality Act of 1965\u2019s prohibition on nationality-based discrimination in issuing a visa. As my colleague Julia M\u00e9traux reported earlier this year , these \u201cpublic charge\u201d bans are in part based on eugenicist ideas. Since the 19th century, the United States has used \u201cpublic charge\u201d rules to restrict entry, alleging that immigrants and even visitors would strain public services\u2014reasoning very much rooted in the eugenicist and ableist thinking that shaped key aspects of public policy in the 19th and early 20th centuries, including the claim that so-called \u201cdefective\u201d people would produce \u201cdefective\u201d childre"
+     "published": "2026-08-22T14:43:20+00:00",
+     "summary": "Dominic LeBlanc, Canada's minister in charge of trade with the United States, exits the office of U.S. Trade Representative Jamieson Greer after a meeting in Washington, D.C., on Aug. 20, 2026. \u2014Mandel NGAN\u2014AFP Trade talks between the United States and Canada collapsed Friday. With President Donald Trump\u2019s 50% tariffs taking effect the following day, Prime Minister Mark Carney quickly responded with retaliatory measures that go into effect in September. U.S. Customs and Border Protection sent out guidance for importers saying that the tariffs, which Trump first announced last month, would go into effect Saturday. They impact about $20 billion of Canadian goods, including hockey sticks, building materials, clothing, beer, and cheese. Negotiators from both countries had worked for weeks to reach a trade deal, leading up to a three-day extension of the original tariff deadline. At the time, Trump suggested that an agreement had been reached, writing on Truth Social on Tuesday that he had \u201cpaused\u201d the tariffs because the two countries \u201chave a DEAL!\u201d But in a statement just before midnight on Friday, Carney said that \u201cprogress has not been enough to meet our objectives for Canadians.\u201d R"
     },
     {
-     "outlet": "zeteo",
-     "title": "Trump-Appointed Federal Judge Says, \u2018To Be American Is to Be a Zionist\u2019",
-     "url": "https://zeteo.com/p/judge-roy-altman-trump-israel",
-     "author": "Prem Thakker",
+     "outlet": "guardian",
+     "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
+     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+     "author": "William Christou, Edward Helmore and agencies",
      "kind": "news",
-     "published": "2026-08-22T13:02:17+00:00",
-     "summary": "Judge Roy Altman speaks about his book at the American Enterprise Institute. Photo via C-SPAN2 . A federal judge appointed by Donald Trump has, in recent months, repeatedly broadcast live from his office, appearing on pro-Israel and right-wing programs to promote his book denying Israel\u2019s genocide. On one such broadcast, the judge, Roy Altman, called the traditional Palestinian keffiyeh scarf a \u201cterrorism scarf.\u201d He\u2019s participated in events with a group that purports to combat \u201clawful Islamism\u201d in the U.S. All the while, he has bragged about taking 10% of the federal judicial branch on trips to Israel, and helping ensure that other federal judges see the situation in Israel and Gaza the way he does. This week, a Florida attorney filed a complaint with the U.S. Court of Appeals, accusing Altman, a judge in the Southern District of Florida, of violating judicial ethics codes. \u2018No Genocide\u2019 Born in Venezuela, Altman was nominated in April 2018 by President Donald Trump, and was eventually confirmed by the Senate the next year, by a 66-33 vote. At the time, he was the youngest federal district court judge in the U.S. He\u2019s ruled on a variety of high-profile cases, including dismissing a"
+     "published": "2026-08-22T14:04:57+00:00",
+     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country\u2019s prime minister, has vowed to match them \u201cdollar for dollar\u201d after the collapse of trade talks. The tariffs came into force on roughly $20bn (\u00a314.6bn) of goods \u2013 ranging from hockey sticks to tongue depressors \u2013 at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading..."
     },
     {
-     "outlet": "france24",
-     "title": "'Contrary to law': US judge strikes down Trump's 75-country visa ban",
-     "url": "https://www.france24.com/en/americas/20260822-contrary-to-law-us-judge-strikes-down-trump-s-75-country-visa-ban",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-22T12:44:07+00:00",
-     "summary": "A US federal judge has overturned a Trump administration policy suspending immigrant visa processing for nationals of 75 countries, ruling that the measure was \"contrary to law\" and exceeded the State Department\u2019s legal authority. The decision on Friday marks a setback to Trump's immigration crackdown, though the government can appeal."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
-     "url": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
-     "author": "Mattathias Schwartz",
-     "kind": "news",
-     "published": "2026-08-22T02:12:17+00:00",
-     "summary": "Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump-appointed judge blocks blue state's crackdown on ICE detention center",
-     "url": "https://www.foxnews.com/politics/trump-appointed-judge-blocks-blue-states-crackdown-ice-detention-center",
+     "outlet": "bbc",
+     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T19:18:17+00:00",
-     "summary": "A Trump-appointed federal judge dealt a blow to Colorado\u2019s effort to ramp up oversight of an ICE detention center by temporarily blocking key provisions in a state law after finding the state likely overstepped its authority. Chief U.S. District Judge Daniel Domenico issued the preliminary injunction Thursday, ruling that Colorado likely crossed a constitutional line in a state law by imposing new requirements specifically targeting the GEO Group\u2019s Aurora ICE Processing Center, which operates under a federal contract and is the state's lone ICE detention center. \"Here, GEO has shown that it is singled out for a special bill that applies to no other facility,\" Domenico wrote. \"That other facilities might have some similar regulatory burdens does not change the fact that none of them are required to comply with HB 1276. As GEO notes, the extent of the additional burden is irrelevant for purposes of this test.\" BLUE STATE\u2019S ANTI-ICE PLEDGE COLLAPSES AS GOP WARNS OF NEW SANCTUARY \u2018CONFEDERACY\u2019 Democratic Colorado Gov. Jared Polis signed House Bill 26-1276 into law June 4, expanding state and local oversight of immigration detention centers. In his order, Domenico noted that GEO\u2019s Auror"
+     "published": "2026-08-22T12:20:46+00:00",
+     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
     },
     {
-     "outlet": "dailywire",
-     "title": "Trump Stops Giving Hormones To Trans-Identifying Illegal Immigrants In ICE Detention",
-     "url": "https://www.dailywire.com/news/trump-stops-giving-hormones-to-trans-identifying-illegal-immigrants-in-ice-detention",
-     "author": "Jennie Taer",
+     "outlet": "bloomberg",
+     "title": "US Hits Canada With 50% Tariffs as Carney Vows to Retaliate",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
+     "author": "Josh Wingrove, Alicia Diaz and Thomas Seal",
+     "kind": "news",
+     "published": "2026-08-22T03:37:06+00:00",
+     "summary": "US-Canada trade talks fell apart just before a midnight deadline, with 50% tariffs hitting billions of dollars of Canadian goods and Prime Minister Mark Carney vowing to retaliate in a dispute that looks poised to intensify."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Iran Vows \u2018Devastating\u2019 Military Response: U.S. Readies to Unleash Toughest Sanctions to \u2018Collapse\u2019 Regime",
+     "url": "https://www.breitbart.com/politics/2026/08/21/iran-vows-devastating-military-response-u-s-unleash-toughest-sanctions/",
+     "author": "Joshua Klein",
+     "kind": "news",
+     "published": "2026-08-22T02:54:10+00:00",
+     "summary": "Iran vowed a \u201cdevastating\u201d military response Friday as the United States enters a new phase of economic warfare against Tehran, with the Trump administration preparing the \u201ctoughest sanctions in history\u201d as part of an escalating campaign Treasury Secretary Scott Bessent says will \u201ccollapse\u201d the Iranian regime. The post Iran Vows \u2018Devastating\u2019 Military Response: U.S. Readies to Unleash Toughest Sanctions to \u2018Collapse\u2019 Regime appeared first on Breitbart ."
+    },
+    {
+     "outlet": "guardian",
+     "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
+     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
+     "author": "Kenneth Roth",
      "kind": "opinion",
-     "published": "2026-08-21T14:14:33+00:00",
-     "summary": "Trans-identifying illegal immigrants being held in federal immigration detention centers will no longer have access to hormones aiding their so-called transitions. Specialized treatment for transgender detainees in the custody of Immigration and Customs Enforcement (ICE) has ended altogether under the Trump administration, The New York Times reported . \u201cTo be clear: we will NOT waste taxpayer dollars to provide hormone therapy to illegal aliens seeking to change their sex,\u201d DHS said in an X post on Thursday. The number of ICE detainees who identify as transgender makes up a small percentage of those being held. Between October 2023 and September 2024, ICE held 244 detainees who identified as transgender, according to agency data. The agency no longer shares that data, but ICE\u2019s last public count listed 47 transgender detainees in ICE custody as of January, according to The New York Times. The Department of Homeland Security (DHS) also scrubbed an Obama-era policy \u201con the care of transgender individuals in custody\u201d from its website. Meanwhile, activists have reported instances of harassment, abuse, and retaliation against trans-identifying detainees from ICE agents and fellow detain"
+     "published": "2026-08-21T12:00:35+00:00",
+     "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
     }
    ]
   },
@@ -607,7 +464,7 @@
      "aged",
      "brinell",
      "student",
-     "fagersta"
+     "friday"
     ]
    },
    "people": [],
@@ -711,124 +568,127 @@
    ]
   },
   {
-   "id": "f247f8769c",
-   "topic": "World",
-   "summary": "Actress Anna Faris admitted this past week that she challenges her 14-year-old son, whom she shares with ex-husband Chris Pratt, on his pro-life and conservative beliefs. Speaking to comedian Chelsea Handler on her \u201cDear Chelsea\u201d podcast, Faris spoke lovingly of her son, Jack, but noted they have some differences when it comes to religion and politics. She told Handler that she challenges Jack\u2019s beliefs, specifically bringing up his pro-life views. \u201cI try to challenge him. I\u2019m like, \u2018Do you think it\u2019s a luxury that you get to be pro-life?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Maybe.\u2019\u201d \u201cHe is \u2026 religious,\u201d the 49-year-old said, sounding hesitant. Faris said she did not grow up with religion herself, but that Jack has developed strong religious beliefs. When she challenges him on his faith, she said she brings up what she views as religious \u201chypocrisy.\u201d \u201cI\u2019ll say, \u2018So, what do you think of this mega\u2026",
-   "summaryFrom": "dailywire",
+   "id": "13cfbffff9",
+   "topic": "Justice & Policing",
+   "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 6,
-    "indieCount": 3,
+    "bigCount": 5,
+    "indieCount": 4,
     "big": [
-     "star",
-     "died",
-     "tackle"
+     "struck",
+     "administration",
+     "ruling",
+     "district",
+     "customs",
+     "york"
     ],
     "indie": [
-     "leaves",
-     "fuji",
-     "left",
-     "alone",
-     "mount",
-     "hike"
+     "public",
+     "because",
+     "nationality",
+     "issuing",
+     "basis",
+     "ruled"
     ]
    },
    "people": [],
    "absent": [
-    "coop"
+    "corp",
+    "pub"
    ],
-   "headline": "Bills mourn \u2018unthinkable tragedy\u2019 after death of Ed Oliver\u2019s two-year-old son",
-   "updated": "2026-08-23T04:31:43+00:00",
-   "outletCount": 7,
+   "headline": "Trump administration's 75-country visa ban was illegal, judge rules",
+   "updated": "2026-08-22T21:54:39+00:00",
+   "outletCount": 8,
    "counts": {
-    "corp": 4,
-    "family": 2,
-    "nonprofit": 2,
-    "pub": 1
+    "family": 5,
+    "nonprofit": 3,
+    "coop": 1
    },
    "newsCount": 8,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "Buffalo Bills Star\u2019s 2-Year-Old Son Dies After Drowning",
-     "url": "https://www.thedailybeast.com/buffalo-bills-stars-2-year-old-son-dies-after-drowning/",
-     "author": "Tom Disalvo",
+     "outlet": "wapo",
+     "title": "Trump\u2019s visa ban on 75 countries struck down by federal judge",
+     "url": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
+     "author": "Teo Armus",
      "kind": "news",
-     "published": "2026-08-23T04:31:43+00:00",
-     "summary": "Bob Donnan / IMAGN IMAGES via Reuters Connect The two-year-old son of Buffalo Bills player Ed Oliver has tragically died after an accidental drowning, prompting an outpouring of well wishes for the NFL star. Oliver\u2019s son, also named Ed, reportedly drowned in a residential pool in Harris County, Texas, on the evening of June 28. Authorities responded to a life-in-danger call, where they found the toddler unresponsive in the pool. He was rushed to a nearby hospital, where he was pronounced dead. Bills General Manager Brandon Beane was among those to react to the \u201cunthinkable tragedy,\u201d saying the team will support Ed\u2019s family \u201cas we all grieve this tragic loss.\u201d Though he wasn\u2019t identified as Oliver\u2019s son at the time, the Harris County Sheriff\u2019s Department reported the drowning death of a toddler in Houston in late June. Oliver has been participating in training camp since then, with his teammates only recently learning of the tragedy. Bills quarterback Josh Allen said on Saturday that \u201cthere\u2019s nothing that you can say to make the situation any better except being there in whatever ways he needs.\u201d Read more at The Daily Beast."
+     "published": "2026-08-22T21:54:39+00:00",
+     "summary": "A federal judge said the indefinite pause, which affected nationals of countries in every corner of the globe, ran afoul of antidiscrimination protections."
     },
     {
-     "outlet": "nypost",
-     "title": "Bills\u2019 Josh Allen \u2018very sad and angry\u2019 over how news of Ed Oliver\u2019s 2-year-old son\u2019s death leaked",
-     "url": "https://nypost.com/2026/08/22/sports/bills-qb-josh-allen-very-sad-and-angry-over-how-news-of-ed-olivers-2-year-old-sons-death-leaked/",
-     "author": "Thomas Gamba-Ellis",
+     "outlet": "npr",
+     "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+     "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+     "author": "Michael Copley",
      "kind": "news",
-     "published": "2026-08-23T01:48:11+00:00",
-     "summary": "Many, including Bills star Josh Allen, were upset about exactly how the news of Ed Oliver's 2-year-old son's tragic death came out."
+     "published": "2026-08-22T20:53:19+00:00",
+     "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality. (Image credit: David J. Phillip)"
     },
     {
-     "outlet": "cbsnews",
-     "title": "Buffalo Bills defensive tackle Ed Oliver mourning death of 2-year-old son",
-     "url": "https://www.cbsnews.com/news/ed-oliver-buffalo-bills-defensive-tackle-mourning-death-2-year-old-son/",
+     "outlet": "foxnews",
+     "title": "Federal judge blasts Rubio\u2019s 75-country visa freeze as \u2018Orwellian,\u2019 strikes down policy",
+     "url": "https://www.foxnews.com/politics/federal-judge-blasts-rubio-75-country-visa-freeze-orwellian-strikes-down-policy",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T20:28:47+00:00",
-     "summary": "The Buffalo Bills expressed their condolences to defensive tackle Ed Oliver on the death of his 2-year-old son."
+     "published": "2026-08-22T20:27:01+00:00",
+     "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the Middle East. BOASBERG DELIVERS FRESH IMMIGRATION SETBACK TO TRUMP IN FREE-SPEECH CLASH Rubio\u2019s policy instructed consular officers to review each applicant individually. But even applicants who passed that review showed \"additional evidence that demonstrates he or she overcomes the public charge refusal"
     },
     {
-     "outlet": "nbcnews",
-     "title": "Bills tackle Ed Oliver\u2019s son has died, team announces",
-     "url": "https://www.nbcnews.com/news/us-news/buffalo-bills-ed-olivers-son-died-team-announces-rcna593927",
-     "author": "Christiana Corporon",
+     "outlet": "pbsnewshour",
+     "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
+     "url": "https://www.pbs.org/newshour/politics/federal-judge-vacates-trump-policy-that-suspended-processing-of-immigration-visas-from-75-countries",
+     "author": "Michael Casey, Associated Press",
      "kind": "news",
-     "published": "2026-08-22T20:19:32+00:00",
-     "summary": "Oliver is from Houston, played college football for the Houston Cougars and is entering his eighth NFL season with the Buffalo Bills."
+     "published": "2026-08-22T16:50:24+00:00",
+     "summary": "The judge ruled that Secretary of State Marco Rubio exceeded his authority by issuing the policy, which \"runs afoul\" of the Immigration and Nationality Act by mandating \"the refusal of visas to eligible applicants without any basis in law.\""
     },
     {
-     "outlet": "guardian",
-     "title": "Bills mourn \u2018unthinkable tragedy\u2019 after death of Ed Oliver\u2019s two-year-old son",
-     "url": "https://www.theguardian.com/sport/2026/aug/22/bills-mourn-unthinkable-tragedy-after-death-of-ed-olivers-two-year-old-son",
-     "author": "Agencies",
+     "outlet": "motherjones",
+     "title": "Federal Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
+     "url": "https://www.motherjones.com/politics/2026/08/federal-judge-strikes-down-trumps-75-country-visa-ban/",
+     "author": "Sophie Hurwitz",
      "kind": "news",
-     "published": "2026-08-22T18:24:59+00:00",
-     "summary": "Toddler was found unresponsive in residential pool Player has been practicing with team since June tragedy Members of the Buffalo Bills have expressed their condolences to Ed Oliver after the death of the player\u2019s two-year-old son. \u201cObviously, very unfortunate what happened and as a teammate of him, as someone in this locker room, all we can do is love on him,\u201d Bills quarterback Josh Allen said after Saturday\u2019s win over the Cleveland Browns. \u201cThere\u2019s nothing that you can say to make the situation any better except being there in whatever ways he needs. Continue reading..."
+     "published": "2026-08-22T16:22:02+00:00",
+     "summary": "This January, Secretary of State Marco Rubio directed consular officers to refuse to process immigration visas for people from 75 countries because, he said, those immigrants would be more likely than others to \u201cextract wealth\u201d or \u201ctake welfare and public benefits\u201d from the US. Since January, people from those 75 countries\u2014all located in Africa, Latin America, the Middle East, or Eastern Europe\u2014have had their visa applications frozen or denied. On August 21, though, a federal judge in New York struck down this blanket visa ban, on the grounds that it violates the Immigration and Nationality Act of 1965\u2019s prohibition on nationality-based discrimination in issuing a visa. As my colleague Julia M\u00e9traux reported earlier this year , these \u201cpublic charge\u201d bans are in part based on eugenicist ideas. Since the 19th century, the United States has used \u201cpublic charge\u201d rules to restrict entry, alleging that immigrants and even visitors would strain public services\u2014reasoning very much rooted in the eugenicist and ableist thinking that shaped key aspects of public policy in the 19th and early 20th centuries, including the claim that so-called \u201cdefective\u201d people would produce \u201cdefective\u201d childre"
     },
     {
-     "outlet": "bbc",
-     "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-     "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+     "outlet": "zeteo",
+     "title": "Trump-Appointed Federal Judge Says, \u2018To Be American Is to Be a Zionist\u2019",
+     "url": "https://zeteo.com/p/judge-roy-altman-trump-israel",
+     "author": "Prem Thakker",
+     "kind": "news",
+     "published": "2026-08-22T13:02:17+00:00",
+     "summary": "Judge Roy Altman speaks about his book at the American Enterprise Institute. Photo via C-SPAN2 . A federal judge appointed by Donald Trump has, in recent months, repeatedly broadcast live from his office, appearing on pro-Israel and right-wing programs to promote his book denying Israel\u2019s genocide. On one such broadcast, the judge, Roy Altman, called the traditional Palestinian keffiyeh scarf a \u201cterrorism scarf.\u201d He\u2019s participated in events with a group that purports to combat \u201clawful Islamism\u201d in the U.S. All the while, he has bragged about taking 10% of the federal judicial branch on trips to Israel, and helping ensure that other federal judges see the situation in Israel and Gaza the way he does. This week, a Florida attorney filed a complaint with the U.S. Court of Appeals, accusing Altman, a judge in the Southern District of Florida, of violating judicial ethics codes. \u2018No Genocide\u2019 Born in Venezuela, Altman was nominated in April 2018 by President Donald Trump, and was eventually confirmed by the Senate the next year, by a 66-33 vote. At the time, he was the youngest federal district court judge in the U.S. He\u2019s ruled on a variety of high-profile cases, including dismissing a"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
+     "url": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
+     "author": "Mattathias Schwartz",
+     "kind": "news",
+     "published": "2026-08-22T02:12:17+00:00",
+     "summary": "Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump-appointed judge blocks blue state's crackdown on ICE detention center",
+     "url": "https://www.foxnews.com/politics/trump-appointed-judge-blocks-blue-states-crackdown-ice-detention-center",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T14:35:11+00:00",
-     "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+     "published": "2026-08-21T19:18:17+00:00",
+     "summary": "A Trump-appointed federal judge dealt a blow to Colorado\u2019s effort to ramp up oversight of an ICE detention center by temporarily blocking key provisions in a state law after finding the state likely overstepped its authority. Chief U.S. District Judge Daniel Domenico issued the preliminary injunction Thursday, ruling that Colorado likely crossed a constitutional line in a state law by imposing new requirements specifically targeting the GEO Group\u2019s Aurora ICE Processing Center, which operates under a federal contract and is the state's lone ICE detention center. \"Here, GEO has shown that it is singled out for a special bill that applies to no other facility,\" Domenico wrote. \"That other facilities might have some similar regulatory burdens does not change the fact that none of them are required to comply with HB 1276. As GEO notes, the extent of the additional burden is irrelevant for purposes of this test.\" BLUE STATE\u2019S ANTI-ICE PLEDGE COLLAPSES AS GOP WARNS OF NEW SANCTUARY \u2018CONFEDERACY\u2019 Democratic Colorado Gov. Jared Polis signed House Bill 26-1276 into law June 4, expanding state and local oversight of immigration detention centers. In his order, Domenico noted that GEO\u2019s Auror"
     },
     {
      "outlet": "dailywire",
-     "title": "Chris Pratt\u2019s Ex Admits She Grills 14-Year-Old Son Over His Pro-Life, Conservative Views",
-     "url": "https://www.dailywire.com/news/chris-pratts-ex-admits-she-grills-14-year-old-son-over-his-pro-life-conservative-views",
-     "author": "Amanda Prestigiacomo",
+     "title": "Trump Stops Giving Hormones To Trans-Identifying Illegal Immigrants In ICE Detention",
+     "url": "https://www.dailywire.com/news/trump-stops-giving-hormones-to-trans-identifying-illegal-immigrants-in-ice-detention",
+     "author": "Jennie Taer",
      "kind": "opinion",
-     "published": "2026-08-22T14:00:44+00:00",
-     "summary": "Actress Anna Faris admitted this past week that she challenges her 14-year-old son, whom she shares with ex-husband Chris Pratt, on his pro-life and conservative beliefs. Speaking to comedian Chelsea Handler on her \u201cDear Chelsea\u201d podcast, Faris spoke lovingly of her son, Jack, but noted they have some differences when it comes to religion and politics. She told Handler that she challenges Jack\u2019s beliefs, specifically bringing up his pro-life views. \u201cI try to challenge him. I\u2019m like, \u2018Do you think it\u2019s a luxury that you get to be pro-life?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Maybe.\u2019\u201d \u201cHe is \u2026 religious,\u201d the 49-year-old said, sounding hesitant. Faris said she did not grow up with religion herself, but that Jack has developed strong religious beliefs. When she challenges him on his faith, she said she brings up what she views as religious \u201chypocrisy.\u201d \u201cI\u2019ll say, \u2018So, what do you think of this mega pastor that\u2019s kind of a grifter?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Oh, mega pastors are the worst.\u2019 So it\u2019s like, okay, he\u2019s getting there.\u201d Faris also praised her son, saying she\u2019s impressed by his responses and calling him as \u201csolid as a tugboat, emotionally. \u2026 He just doesn\u2019t get easily jarred \u2014 he hand"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Man leaves young son on Mount Fuji before ascending Japan\u2019s highest peak",
-     "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
-     "author": "Donna Ferguson",
-     "kind": "news",
-     "published": "2026-08-22T12:25:16+00:00",
-     "summary": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a family hike has been reprimanded by local police. A worker on Japan\u2019s highest mountain discovered the child sitting alone on a bench near the sixth station of the Fujinomiya trail at an altitude of more than 2,000 metres (6,500 feet) on Thursday. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "A former child star\u2019s death rattles Hollywood and U.S. debt balloons: The news quiz",
-     "url": "https://www.nbcnews.com/news/news-quiz/hayden-panettiere-news-quiz-rcna593573",
-     "author": "Ashley Mowreader",
-     "kind": "news",
-     "published": "2026-08-22T09:15:40+00:00",
-     "summary": "A drug ring headquartered at a frat house, a world leader catfished, and a classroom pet blamed for arson."
+     "published": "2026-08-21T14:14:33+00:00",
+     "summary": "Trans-identifying illegal immigrants being held in federal immigration detention centers will no longer have access to hormones aiding their so-called transitions. Specialized treatment for transgender detainees in the custody of Immigration and Customs Enforcement (ICE) has ended altogether under the Trump administration, The New York Times reported . \u201cTo be clear: we will NOT waste taxpayer dollars to provide hormone therapy to illegal aliens seeking to change their sex,\u201d DHS said in an X post on Thursday. The number of ICE detainees who identify as transgender makes up a small percentage of those being held. Between October 2023 and September 2024, ICE held 244 detainees who identified as transgender, according to agency data. The agency no longer shares that data, but ICE\u2019s last public count listed 47 transgender detainees in ICE custody as of January, according to The New York Times. The Department of Homeland Security (DHS) also scrubbed an Obama-era policy \u201con the care of transgender individuals in custody\u201d from its website. Meanwhile, activists have reported instances of harassment, abuse, and retaliation against trans-identifying detainees from ICE agents and fellow detain"
     }
    ]
   },
@@ -842,10 +702,10 @@
     "indieCount": 3,
     "big": [
      "work",
-     "chief",
      "roberts",
-     "justice",
-     "john"
+     "chief",
+     "john",
+     "justice"
     ],
     "indie": []
    },
@@ -931,6 +791,109 @@
    ]
   },
   {
+   "id": "f247f8769c",
+   "topic": "World",
+   "summary": "Actress Anna Faris admitted this past week that she challenges her 14-year-old son, whom she shares with ex-husband Chris Pratt, on his pro-life and conservative beliefs. Speaking to comedian Chelsea Handler on her \u201cDear Chelsea\u201d podcast, Faris spoke lovingly of her son, Jack, but noted they have some differences when it comes to religion and politics. She told Handler that she challenges Jack\u2019s beliefs, specifically bringing up his pro-life views. \u201cI try to challenge him. I\u2019m like, \u2018Do you think it\u2019s a luxury that you get to be pro-life?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Maybe.\u2019\u201d \u201cHe is \u2026 religious,\u201d the 49-year-old said, sounding hesitant. Faris said she did not grow up with religion herself, but that Jack has developed strong religious beliefs. When she challenges him on his faith, she said she brings up what she views as religious \u201chypocrisy.\u201d \u201cI\u2019ll say, \u2018So, what do you think of this mega\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 3,
+    "big": [
+     "died",
+     "tackle"
+    ],
+    "indie": [
+     "leaves",
+     "left",
+     "hike",
+     "mount",
+     "alone",
+     "tired"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Bills mourn \u2018unthinkable tragedy\u2019 after death of Ed Oliver\u2019s two-year-old son",
+   "updated": "2026-08-23T04:31:43+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 3,
+    "nonprofit": 2,
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Buffalo Bills Star\u2019s 2-Year-Old Son Dies After Drowning",
+     "url": "https://www.thedailybeast.com/buffalo-bills-stars-2-year-old-son-dies-after-drowning/",
+     "author": "Tom Disalvo",
+     "kind": "news",
+     "published": "2026-08-23T04:31:43+00:00",
+     "summary": "Bob Donnan / IMAGN IMAGES via Reuters Connect The two-year-old son of Buffalo Bills player Ed Oliver has tragically died after an accidental drowning, prompting an outpouring of well wishes for the NFL star. Oliver\u2019s son, also named Ed, reportedly drowned in a residential pool in Harris County, Texas, on the evening of June 28. Authorities responded to a life-in-danger call, where they found the toddler unresponsive in the pool. He was rushed to a nearby hospital, where he was pronounced dead. Bills General Manager Brandon Beane was among those to react to the \u201cunthinkable tragedy,\u201d saying the team will support Ed\u2019s family \u201cas we all grieve this tragic loss.\u201d Though he wasn\u2019t identified as Oliver\u2019s son at the time, the Harris County Sheriff\u2019s Department reported the drowning death of a toddler in Houston in late June. Oliver has been participating in training camp since then, with his teammates only recently learning of the tragedy. Bills quarterback Josh Allen said on Saturday that \u201cthere\u2019s nothing that you can say to make the situation any better except being there in whatever ways he needs.\u201d Read more at The Daily Beast."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Buffalo Bills defensive tackle Ed Oliver mourning death of 2-year-old son",
+     "url": "https://www.cbsnews.com/news/ed-oliver-buffalo-bills-defensive-tackle-mourning-death-2-year-old-son/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T20:28:47+00:00",
+     "summary": "The Buffalo Bills expressed their condolences to defensive tackle Ed Oliver on the death of his 2-year-old son."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Bills tackle Ed Oliver\u2019s son has died, team announces",
+     "url": "https://www.nbcnews.com/news/us-news/buffalo-bills-ed-olivers-son-died-team-announces-rcna593927",
+     "author": "Christiana Corporon",
+     "kind": "news",
+     "published": "2026-08-22T20:19:32+00:00",
+     "summary": "Oliver is from Houston, played college football for the Houston Cougars and is entering his eighth NFL season with the Buffalo Bills."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Bills mourn \u2018unthinkable tragedy\u2019 after death of Ed Oliver\u2019s two-year-old son",
+     "url": "https://www.theguardian.com/sport/2026/aug/22/bills-mourn-unthinkable-tragedy-after-death-of-ed-olivers-two-year-old-son",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-22T18:24:59+00:00",
+     "summary": "Toddler was found unresponsive in residential pool Player has been practicing with team since June tragedy Members of the Buffalo Bills have expressed their condolences to Ed Oliver after the death of the player\u2019s two-year-old son. \u201cObviously, very unfortunate what happened and as a teammate of him, as someone in this locker room, all we can do is love on him,\u201d Bills quarterback Josh Allen said after Saturday\u2019s win over the Cleveland Browns. \u201cThere\u2019s nothing that you can say to make the situation any better except being there in whatever ways he needs. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+     "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T14:35:11+00:00",
+     "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Chris Pratt\u2019s Ex Admits She Grills 14-Year-Old Son Over His Pro-Life, Conservative Views",
+     "url": "https://www.dailywire.com/news/chris-pratts-ex-admits-she-grills-14-year-old-son-over-his-pro-life-conservative-views",
+     "author": "Amanda Prestigiacomo",
+     "kind": "opinion",
+     "published": "2026-08-22T14:00:44+00:00",
+     "summary": "Actress Anna Faris admitted this past week that she challenges her 14-year-old son, whom she shares with ex-husband Chris Pratt, on his pro-life and conservative beliefs. Speaking to comedian Chelsea Handler on her \u201cDear Chelsea\u201d podcast, Faris spoke lovingly of her son, Jack, but noted they have some differences when it comes to religion and politics. She told Handler that she challenges Jack\u2019s beliefs, specifically bringing up his pro-life views. \u201cI try to challenge him. I\u2019m like, \u2018Do you think it\u2019s a luxury that you get to be pro-life?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Maybe.\u2019\u201d \u201cHe is \u2026 religious,\u201d the 49-year-old said, sounding hesitant. Faris said she did not grow up with religion herself, but that Jack has developed strong religious beliefs. When she challenges him on his faith, she said she brings up what she views as religious \u201chypocrisy.\u201d \u201cI\u2019ll say, \u2018So, what do you think of this mega pastor that\u2019s kind of a grifter?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Oh, mega pastors are the worst.\u2019 So it\u2019s like, okay, he\u2019s getting there.\u201d Faris also praised her son, saying she\u2019s impressed by his responses and calling him as \u201csolid as a tugboat, emotionally. \u2026 He just doesn\u2019t get easily jarred \u2014 he hand"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Man leaves young son on Mount Fuji before ascending Japan\u2019s highest peak",
+     "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
+     "author": "Donna Ferguson",
+     "kind": "news",
+     "published": "2026-08-22T12:25:16+00:00",
+     "summary": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a family hike has been reprimanded by local police. A worker on Japan\u2019s highest mountain discovered the child sitting alone on a bench near the sixth station of the Fujinomiya trail at an altitude of more than 2,000 metres (6,500 feet) on Thursday. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "76fb9810da",
    "topic": "World",
    "summary": "In an aerial view, the Pentagon, headquarters for the United States Department of Defense is seen in Arlington, Virginia, on Aug. 13, 2026. \u2014Kevin Carter\u2014Getty Images The Pentagon has fired the editor-in-chief and publisher of the U.S. military newspaper Stars and Stripes. On Friday, the Pentagon provided separation notices to editor-in-chief Erik Slavin and publisher Max Lederer, CBS News reported. The notices said that the two had five days to appeal the decision, according to CBS. Slavin told The Associated Press that he was dismissed for insubordination \u201cfor stating in a CBS interview that hypothetical censorship of news for service members would constitute a red line.\u201d In July, CBS published a story featuring an interview with Slavin, in which he stressed the importance of the newspaper\u2019s independence. \u201cWe need to be able to provide independent news to service members,\u201d he told\u2026",
@@ -941,8 +904,8 @@
     "big": [],
     "indie": [
      "interview",
-     "reporter",
-     "interference"
+     "interference",
+     "reporter"
     ]
    },
    "people": [],
@@ -1028,8 +991,8 @@
     "indieCount": 3,
     "big": [
      "announced",
-     "filed",
-     "violating"
+     "violating",
+     "filed"
     ],
     "indie": [
      "largest"
@@ -1105,6 +1068,84 @@
      "kind": "news",
      "published": "2026-08-21T19:30:04+00:00",
      "summary": "The Justice Department and TikTok , along with parent company ByteDance , have reached a $400 million settlement to resolve allegations of violating children's online privacy laws, per an announcement first shared with Axios. Why it matters: The Biden administration's DOJ first filed the suit in 2024. TikTok will clear the allegations it violated the Children's Online Privacy Act by paying a total of $400 million, without undergoing further litigation or admitting wrongdoing. Since the lawsuit was filed, \"TikTok has undergone significant changes to its ownership, management, compliance functions, and privacy practices,\" per the DOJ release. The settlement is one of the largest recoveries ever obtained in a case under the privacy law, the DOJ release states. What they're saying: \"This settlement is a major victory for American children and parents,\" associate attorney general Stanley Woodward said in the release. \"The Department's priority is ensuring that children are protected online and that companies entrusted with their personal information meet their legal obligations. This resolution secures a substantial recovery while reinforcing the protections that families expect and des"
+    }
+   ]
+  },
+  {
+   "id": "4941ab4345",
+   "topic": "Justice & Policing",
+   "summary": "If you were worried about killer cyborgs taking over the world anytime soon, you can breathe a sigh of relief for the moment. Artificial intelligence may be getting smarter, but it turns out some supposedly high-tech robots still haven\u2019t figured out what a kindergarten kid learns on a bicycle: how to hit the brakes. A high-speed demonstration at Beijing\u2019s National Speed Skating Oval turned into an absolute comedy show when a state-of-the-art Chinese humanoid robot dashing around the track lost control and slammed headfirst into a barrier. The epic fail occurred during practice runs for the upcoming 2nd World Humanoid Robot Games. Unitree\u2019s \u201cH1\u201d model was showing off its insane speed inside the famous \u201cIce Ribbon\u201d stadium, tearing around the indoor track to prepare for the big event. Everything looked like a scene straight out of a sci-fi movie until the finish line. Instead of slowing\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [],
+    "indie": [
+     "seconds",
+     "bolt"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Chinese robot beats Usain Bolt\u2019s 100m world record at humanoid games",
+   "updated": "2026-08-23T05:40:15+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 1,
+    "pub": 3,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Chinese humanoid robot beats Usain Bolt's sprint world record",
+     "url": "https://www.cbsnews.com/news/china-robot-usain-bolt-sprint-run-record-faster/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T05:40:15+00:00",
+     "summary": "Two human records were smashed by robots competing in the Olympics-like World Humanoid Robot Games in China."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Chinese robot beats Usain Bolt\u2019s 100m world record at humanoid games",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T03:16:19+00:00",
+     "summary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt\u2019s 9.58 second world record."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+     "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T17:02:06+00:00",
+     "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
+    },
+    {
+     "outlet": "dw",
+     "title": "Chinese robot beats Usain Bolt's 100m world record",
+     "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T12:41:00+00:00",
+     "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "WATCH: Terminator\u2019s Chinese Cousin Slams Into Wall During Humanoid Robot Trial Run",
+     "url": "https://www.dailywire.com/news/watch-terminators-chinese-cousin-slams-into-wall-during-humanoid-robot-trial-run",
+     "author": "Hank Berrien",
+     "kind": "opinion",
+     "published": "2026-08-21T07:50:45+00:00",
+     "summary": "If you were worried about killer cyborgs taking over the world anytime soon, you can breathe a sigh of relief for the moment. Artificial intelligence may be getting smarter, but it turns out some supposedly high-tech robots still haven\u2019t figured out what a kindergarten kid learns on a bicycle: how to hit the brakes. A high-speed demonstration at Beijing\u2019s National Speed Skating Oval turned into an absolute comedy show when a state-of-the-art Chinese humanoid robot dashing around the track lost control and slammed headfirst into a barrier. The epic fail occurred during practice runs for the upcoming 2nd World Humanoid Robot Games. Unitree\u2019s \u201cH1\u201d model was showing off its insane speed inside the famous \u201cIce Ribbon\u201d stadium, tearing around the indoor track to prepare for the big event. Everything looked like a scene straight out of a sci-fi movie until the finish line. Instead of slowing down, the robot veered off course and slammed into protective cushioning and equipment. The impact sent sparks flying as the robot violently folded in half before flopping onto its back. Footage of the mechanical wipeout instantly exploded across social media, sending internet onlookers into hysterics"
     }
    ]
   },
@@ -1187,12 +1228,12 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "rogers",
      "mike",
+     "rogers",
+     "allies",
      "angeles",
-     "nominee",
-     "michigan's",
-     "group"
+     "abdul",
+     "nominee"
     ],
     "indie": []
    },
@@ -1261,6 +1302,74 @@
    ]
   },
   {
+   "id": "b045a199ba",
+   "topic": "World",
+   "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "pressure"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
+   "updated": "2026-08-23T04:57:17+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 2,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Iran declares it has won the war as U.S. turns to economic warfare",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T04:57:17+00:00",
+     "summary": "Iran's president said Friday the world had \"approved\" the country's victory, as Vice President JD Vance declares economic pressure \"the most effective tool that we have.\""
+    },
+    {
+     "outlet": "guardian",
+     "title": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
+     "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+     "author": "Staff and agencies",
+     "kind": "news",
+     "published": "2026-08-23T03:34:27+00:00",
+     "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading..."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US presses China to join economic pressure campaign against Iran",
+     "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-21T14:42:50+00:00",
+     "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
+    },
+    {
+     "outlet": "npr",
+     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+     "author": "NPR Staff",
+     "kind": "news",
+     "published": "2026-08-21T11:42:10+00:00",
+     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
+    }
+   ]
+  },
+  {
    "id": "b9821431ee",
    "topic": "Climate & Energy",
    "summary": "33,124 residents still in the dark as utility company says it is working to restore power in north-west of state Thousands of residents of north-west Indiana on Saturday were headed for their 11th day without electric power after storms swept through the state, toppling trees and power lines, earlier in August. The powerless conditions have led to food lines, closed businesses, dead phones, no schools, spoiled food, dirty clothes, dry gas pumps and a multitude of other deleterious effects on life without energy. Continue reading...",
@@ -1322,128 +1431,6 @@
    ]
   },
   {
-   "id": "b045a199ba",
-   "topic": "World",
-   "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
-   "updated": "2026-08-23T03:34:27+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 2,
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
-     "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-     "author": "Staff and agencies",
-     "kind": "news",
-     "published": "2026-08-23T03:34:27+00:00",
-     "summary": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran\u2019s top security body has warned its neighbours against joining new US efforts to squeeze Tehran\u2019s economy, and threatened US commercial interests in the region, as Donald Trump doubled down on his fanciful view that the strait of Hormuz was a new US territory. Mohsen Rezaei, the hardline new leader of Iran\u2019s supreme national security council, told state television that Iran would target oil-shipping routes out the Gulf \u2013 alternatives to the strait of Hormuz \u2013 if its neighbours joined what he called the \u201ceconomic war\u201d waged by the US. Those neighbours would be \u201cconsidered an enemy\u201d and \u201cwe will target their interests\u201d, he said. Continue reading..."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Iran declares it has won the war as U.S. turns to economic warfare",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T03:33:54+00:00",
-     "summary": "Iran's president said Friday the world had \"approved\" the country's victory, as Vice President JD Vance declares economic pressure \"the most effective tool that we have.\""
-    },
-    {
-     "outlet": "france24",
-     "title": "Iran warns states joining US sanctions will be considered enemies",
-     "url": "https://www.france24.com/en/middle-east/20260822-middle-east-live-iran-allows-several-iraqi-oil-tankers-to-pass-through-hormuz",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-22T09:48:45+00:00",
-     "summary": "Iran on Saturday said that any country participating in the United States\u2019 \u201ceconomic war\u201d against the Islamic republic would be considered \u201can enemy\u201d. The warning came after President Masoud Pezeshkian said Friday the war with the US should end because the world had already accepted that Iran had won, according to Iranian state media."
-    },
-    {
-     "outlet": "npr",
-     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-     "author": "NPR Staff",
-     "kind": "news",
-     "published": "2026-08-21T11:42:10+00:00",
-     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
-    }
-   ]
-  },
-  {
-   "id": "4941ab4345",
-   "topic": "Justice & Policing",
-   "summary": "If you were worried about killer cyborgs taking over the world anytime soon, you can breathe a sigh of relief for the moment. Artificial intelligence may be getting smarter, but it turns out some supposedly high-tech robots still haven\u2019t figured out what a kindergarten kid learns on a bicycle: how to hit the brakes. A high-speed demonstration at Beijing\u2019s National Speed Skating Oval turned into an absolute comedy show when a state-of-the-art Chinese humanoid robot dashing around the track lost control and slammed headfirst into a barrier. The epic fail occurred during practice runs for the upcoming 2nd World Humanoid Robot Games. Unitree\u2019s \u201cH1\u201d model was showing off its insane speed inside the famous \u201cIce Ribbon\u201d stadium, tearing around the indoor track to prepare for the big event. Everything looked like a scene straight out of a sci-fi movie until the finish line. Instead of slowing\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Chinese robot beats Usain Bolt\u2019s 100m world record at humanoid games",
-   "updated": "2026-08-23T03:16:19+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 3,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Chinese robot beats Usain Bolt\u2019s 100m world record at humanoid games",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T03:16:19+00:00",
-     "summary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt\u2019s 9.58 second world record."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-     "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T17:02:06+00:00",
-     "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
-    },
-    {
-     "outlet": "dw",
-     "title": "Chinese robot beats Usain Bolt's 100m world record",
-     "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T12:41:00+00:00",
-     "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "WATCH: Terminator\u2019s Chinese Cousin Slams Into Wall During Humanoid Robot Trial Run",
-     "url": "https://www.dailywire.com/news/watch-terminators-chinese-cousin-slams-into-wall-during-humanoid-robot-trial-run",
-     "author": "Hank Berrien",
-     "kind": "opinion",
-     "published": "2026-08-21T07:50:45+00:00",
-     "summary": "If you were worried about killer cyborgs taking over the world anytime soon, you can breathe a sigh of relief for the moment. Artificial intelligence may be getting smarter, but it turns out some supposedly high-tech robots still haven\u2019t figured out what a kindergarten kid learns on a bicycle: how to hit the brakes. A high-speed demonstration at Beijing\u2019s National Speed Skating Oval turned into an absolute comedy show when a state-of-the-art Chinese humanoid robot dashing around the track lost control and slammed headfirst into a barrier. The epic fail occurred during practice runs for the upcoming 2nd World Humanoid Robot Games. Unitree\u2019s \u201cH1\u201d model was showing off its insane speed inside the famous \u201cIce Ribbon\u201d stadium, tearing around the indoor track to prepare for the big event. Everything looked like a scene straight out of a sci-fi movie until the finish line. Instead of slowing down, the robot veered off course and slammed into protective cushioning and equipment. The impact sent sparks flying as the robot violently folded in half before flopping onto its back. Footage of the mechanical wipeout instantly exploded across social media, sending internet onlookers into hysterics"
-    }
-   ]
-  },
-  {
    "id": "c1baf27381",
    "topic": "Climate & Energy",
    "summary": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii\u2019s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala . As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke\u2019s rain and heavy winds as it passes south of a direct hit late on Saturday and into Sunday. Continue reading...",
@@ -1501,89 +1488,6 @@
      "kind": "news",
      "published": "2026-08-22T19:15:24+00:00",
      "summary": "As with Hurricane Lala, the Big Island is expected to bear the brunt of Moke's rain and heavy winds as it passes south of a direct hit late Saturday into early Sunday."
-    }
-   ]
-  },
-  {
-   "id": "60417de510",
-   "topic": "World",
-   "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [
-     "campaign",
-     "washington"
-    ],
-    "indie": [
-     "joining",
-     "warns",
-     "considered",
-     "countries"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran warns countries against joining US 'economic war'",
-   "updated": "2026-08-23T00:50:00+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 3,
-    "family": 2
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Iran warns countries against joining US 'economic war'",
-     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:50:00+00:00",
-     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T00:00:00+00:00",
-     "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T23:56:32+00:00",
-     "summary": "Iran warns that countries joining the US economic war against Iran will face \u2018tit-for-tat\u2019 action."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US presses China to join economic pressure campaign against Iran",
-     "url": "https://www.semafor.com/article/08/21/2026/us-presses-china-to-join-economic-pressure-campaign-against-iran",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-21T14:42:50+00:00",
-     "summary": "The US pressed China to \u201cget with the program\u201d and join an economic pressure campaign against Iran, part of Washington\u2019s broader pivot away from military tools as it seeks to end the Middle East conflict. The remarks by the Treasury secretary come ahead of the expected unveiling next week of new US sanctions against Tehran. But his call for support from Beijing \u2014 which wields considerable economic leverage over Iran \u2014 comes at a tricky time: The superpowers have largely adhered to a recent trade truce, but tensions are growing ahead of a summit next month between their leaders. Beijing is also skeptical of Washington\u2019s campaign, with a Chinese foreign ministry spokesman saying \u201csanctions and pressure\u201d would not resolve the US-Iran war . \u2014 Prashant Rao"
-    },
-    {
-     "outlet": "time",
-     "title": "Iran Hits Back at Trump\u2019s Threat of a \u2018Crushing\u2019 Economic \u2018D-Day\u2019 Campaign",
-     "url": "https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/",
-     "author": "Tiago Ventura",
-     "kind": "news",
-     "published": "2026-08-20T16:44:37+00:00",
-     "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Trump did not specify what specific measures would be imposed on countries that continue to do business with Iran. TIME has reached out to the White House for comment. The President also called on U.S. allies to impose additional restrictions on"
     }
    ]
   },
@@ -1753,7 +1657,7 @@
     },
     {
      "outlet": "bbc",
-     "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
+     "title": "Carney says Trump started trade war with fresh tarrifs 'attack'",
      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
@@ -1820,6 +1724,67 @@
      "kind": "news",
      "published": "2026-08-21T09:01:00+00:00",
      "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
+    }
+   ]
+  },
+  {
+   "id": "60417de510",
+   "topic": "Politics",
+   "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran warns countries against joining US 'economic war'",
+   "updated": "2026-08-23T00:50:00+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 3,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Iran warns countries against joining US 'economic war'",
+     "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:50:00+00:00",
+     "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T00:00:00+00:00",
+     "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T23:56:32+00:00",
+     "summary": "Iran warns that countries joining the US economic war against Iran will face \u2018tit-for-tat\u2019 action."
+    },
+    {
+     "outlet": "time",
+     "title": "Iran Hits Back at Trump\u2019s Threat of a \u2018Crushing\u2019 Economic \u2018D-Day\u2019 Campaign",
+     "url": "https://time.com/article/2026/08/20/iran-hits-back-at-trump-s-threat-of-a-crushing-economic-d-day-campaign/",
+     "author": "Tiago Ventura",
+     "kind": "news",
+     "published": "2026-08-20T16:44:37+00:00",
+     "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Trump did not specify what specific measures would be imposed on countries that continue to do business with Iran. TIME has reached out to the White House for comment. The President also called on U.S. allies to impose additional restrictions on"
     }
    ]
   },
@@ -2032,67 +1997,6 @@
    ]
   },
   {
-   "id": "6bfe4a10b4",
-   "topic": "World",
-   "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world\u2019s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza,\u2026",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Israeli army and settlers injure several Palestinians across West Bank",
-   "updated": "2026-08-22T21:02:29+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Israeli army and settlers injure several Palestinians across West Bank",
-     "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T21:02:29+00:00",
-     "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction."
-    },
-    {
-     "outlet": "france24",
-     "title": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
-     "url": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-22T14:50:57+00:00",
-     "summary": "Dozens of former senior French and UK diplomats on Saturday urged their governments to work together to uphold international law in the Palestinian territories, accusing Israel of seeking to \"destroy\" any prospect of a viable Palestinian state. Analysis by Matthew-Mary Caruchet, FRANCE 24 international affairs editor."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Former British and French diplomats urge action over Israel\u2019s \u2018erasure\u2019 of Palestine",
-     "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-     "author": "Patrick Wintour Diplomatic editor",
-     "kind": "news",
-     "published": "2026-08-22T09:00:04+00:00",
-     "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world\u2019s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza, led by the UN Relief and Works Agency, other UN agencies and international NGOs, with consequences for non-compliance, and access too for journalists, diplomats and parliamentarians. Ban all trade with settlements, including goods, investment, insurance and other financial services. Warn potential bidd"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
-     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-21T06:00:26+00:00",
-     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "7768e464b8",
    "topic": "Politics",
    "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH)\u2026",
@@ -2249,58 +2153,6 @@
    ]
   },
   {
-   "id": "0b6a029d2e",
-   "topic": "World",
-   "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "nonprofit"
-   ],
-   "headline": "France to deliver interceptor missiles to Ukraine after fresh wave of Russian strikes",
-   "updated": "2026-08-22T13:26:28+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "coop": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "France to deliver interceptor missiles to Ukraine after fresh wave of Russian strikes",
-     "url": "https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-22T13:26:28+00:00",
-     "summary": "This Saturday saw a continued exchange of fire between Kyiv and Moscow. French President Emmanuel Macron announced Paris would deliver new interceptor missiles to Ukraine, whose air defences are running short after the latest round of deadly Russian attacks. Details from the ground by FRANCE 24 correspondent in Ukraine, Emmanuelle Chaze."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador\u2019s intelligence chief killed in Kenya helicopter crash",
-     "url": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-20T15:21:11+00:00",
-     "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil exporting rules. Ansarallah claims \u201ccomprehensive blockade\u201d of Saudi tankers. Israel continues ceasefire violations with shelling and demolitions across southern Lebanon. Lebanese Parliament speaker \u201cguarantees\u201d U.S. that Lebanese Army can assert control over south if Israel withdraws. UNIFIL hands over Kha"
-    },
-    {
-     "outlet": "semafor",
-     "title": "US debt tops $40 trillion threshold",
-     "url": "https://www.semafor.com/article/08/20/2026/us-debt-tops-40-trillion-threshold",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-20T13:42:12+00:00",
-     "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
-    }
-   ]
-  },
-  {
    "id": "7cd60c6f74",
    "topic": "Politics",
    "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration\u2026",
@@ -2453,6 +2305,58 @@
      "kind": "news",
      "published": "2026-08-21T20:01:10+00:00",
      "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did the murders, but want to stand in solidarity with her. \u201cI could have been Lindsay. Any one of us could have been,\u201d wrote one woman in her defense, echoing a recurring theme . I don\u2019t actually think that\u2019s true; most people are not actually capable of, or at risk of, doing what Clancy did. The whole Cl"
+    }
+   ]
+  },
+  {
+   "id": "68870a51f8",
+   "topic": "World",
+   "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil\u2026",
+   "summaryFrom": "dropsite",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "pub"
+   ],
+   "headline": "Attack on Ukraine shopping centre that killed 16 is \u2018terror by design\u2019, says EU foreign policy chief",
+   "updated": "2026-08-22T01:12:32+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "coop": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Attack on Ukraine shopping centre that killed 16 is \u2018terror by design\u2019, says EU foreign policy chief",
+     "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
+     "author": "Agence France-Presse",
+     "kind": "news",
+     "published": "2026-08-22T01:12:32+00:00",
+     "summary": "Kaja Kallas, the EU\u2019s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as \u201ccynical and despicable\u201d. The EU\u2019s foreign policy chief, Kaja Kallas, condemned Friday\u2019s attack on Kryvyi Rih \u2013 the president\u2019s home town \u2013 as \u201cterror by design\u201d and said she was \u201cputting forward the most far-reaching Russia sanctions listings since the start of the war\u201d when ministers meet in Ireland next month. Continue reading..."
+    },
+    {
+     "outlet": "dropsite",
+     "title": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador\u2019s intelligence chief killed in Kenya helicopter crash",
+     "url": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
+     "author": "Drop Site News",
+     "kind": "news",
+     "published": "2026-08-20T15:21:11+00:00",
+     "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil exporting rules. Ansarallah claims \u201ccomprehensive blockade\u201d of Saudi tankers. Israel continues ceasefire violations with shelling and demolitions across southern Lebanon. Lebanese Parliament speaker \u201cguarantees\u201d U.S. that Lebanese Army can assert control over south if Israel withdraws. UNIFIL hands over Kha"
+    },
+    {
+     "outlet": "semafor",
+     "title": "US debt tops $40 trillion threshold",
+     "url": "https://www.semafor.com/article/08/20/2026/us-debt-tops-40-trillion-threshold",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-20T13:42:12+00:00",
+     "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
     }
    ]
   },
@@ -3053,7 +2957,7 @@
   },
   {
    "id": "4fa2cc551d",
-   "topic": "Culture & Sport",
+   "topic": "Politics",
    "summary": "After months of build-up and anticipation, we now know who will lead the field to green in the Freedom 250 Grand Prix . That honor \u2014 in what could be the only running of this race \u2014 goes to four-time series champion Alex Palou . After an interesting day of practice that saw drivers familiarizing themselves with the tricky, seven-corner Freedom 250 Grand Prix Circuit around the streets of Washington, D.C., it was time to bolt on some red alternate Firestone tires for some high-speed runs. HERE ARE 5 DRIVERS TO KEEP AN EYE ON AS INDYCAR HITS THE STREETS OF WASHINGTON FOR FREEDOM 250 GRAND PRIX In the first group \u2014 which had some serious heavy-hitters in it \u2014 several drivers clipped the wall, including Marcus Ericsson, Rinus VeeKay and Will Power. The big stunner was Ed Carpenter Racing's Alexander Rossi, who made an early exit after looking solid all day long. Andretti Global's Kyle\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
@@ -3084,13 +2988,13 @@
      "summary": "After months of build-up and anticipation, we now know who will lead the field to green in the Freedom 250 Grand Prix . That honor \u2014 in what could be the only running of this race \u2014 goes to four-time series champion Alex Palou . After an interesting day of practice that saw drivers familiarizing themselves with the tricky, seven-corner Freedom 250 Grand Prix Circuit around the streets of Washington, D.C., it was time to bolt on some red alternate Firestone tires for some high-speed runs. HERE ARE 5 DRIVERS TO KEEP AN EYE ON AS INDYCAR HITS THE STREETS OF WASHINGTON FOR FREEDOM 250 GRAND PRIX In the first group \u2014 which had some serious heavy-hitters in it \u2014 several drivers clipped the wall, including Marcus Ericsson, Rinus VeeKay and Will Power. The big stunner was Ed Carpenter Racing's Alexander Rossi, who made an early exit after looking solid all day long. Andretti Global's Kyle Kirkwood topped the group with a 56.773, followed by Meyer Shank Racing's Marcus Armstrong and Chip Ganassi Racing's Alex Palou, who can clinch a fifth career IndyCar title if he leaves the District of Columbia with a 163-point lead in the standings. Unusually, the fastest time, which belonged to Team Pen"
     },
     {
-     "outlet": "forbes",
-     "title": "IndyCar\u2019s Freedom 250 Grand Prix Of Washington DC Is Off And Rolling",
-     "url": "https://www.forbes.com/sites/brucemartin/2026/08/22/indycars-freedom-250-grand-prix-of-washington-dc-is-off-and-rolling/",
-     "author": "Bruce Martin, Contributor",
+     "outlet": "time",
+     "title": "What to Know About Trump\u2019s 250 Grand Prix",
+     "url": "https://time.com/article/2026/08/20/freedom-250-grand-prix-indycar-washington-dc-trump/",
+     "author": "Connor Greene",
      "kind": "news",
-     "published": "2026-08-22T16:39:57+00:00",
-     "summary": "Penske Corporation President Bud Denker's dream was to bring IndyCar to the streets of Washington, DC. When cars hit the track, it brought the business leader to tears."
+     "published": "2026-08-20T18:35:42+00:00",
+     "summary": "Transportation Secretary Sean Duffy; Interior Secretary Doug Burgum; Washington, D.C., Mayor Muriel Bowser; and Monica Crowley, chief of protocol at the State Department, unveil the new Freedom 250 Grand Prix Indycar during a news conference on the National Mall in Washington, D.C., on March 9, 2026. \u2014Matt McClain\u2014Bloomberg/Getty Images A slice of the nation\u2019s capital will be transformed into a race track over the weekend for President Donald Trump \u2019s final event commemorating the U.S.\u2019s 250th birthday . An IndyCar race consisting of 25 drivers will take place around the National Mall in the heart of Washington, D.C., on Saturday and Sunday. IndyCar is the top level of single-seater auto racing in the U.S., best known for the \u201cIndy 500,\u201d an annual 500 mile race in Indianapolis. \"This will be like no other race ever. This will get the highest ever ratings of any such race,\" Trump said in July, when the top IndyCar drivers participating in the race visited the White House. Trump himself is scheduled to take a ride around the 1.7 mile race track in his presidential limousine, known as \u201cThe Beast\u201d before the competition begins, White House officials told multiple outlets . The event is"
     }
    ]
   },
@@ -3181,9 +3085,9 @@
    ]
   },
   {
-   "id": "5c9d2eff71",
-   "topic": "Other",
-   "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new lives outside the House of Windsor. With every global media stable clamouring for their signature, the couple revealed a deal with Netflix reportedly worth $100m . The ambitions were lofty and broad, including scripted and unscripted projects, shows for all ages and documentaries. Continue reading...",
+   "id": "6bfe4a10b4",
+   "topic": "Business & Economy",
+   "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
@@ -3192,34 +3096,34 @@
     "family",
     "coop"
    ],
-   "headline": "Is this the end of Harry and Meghan\u2019s American dream?",
-   "updated": "2026-08-22T20:42:12+00:00",
+   "headline": "Israeli army and settlers injure several Palestinians across West Bank",
+   "updated": "2026-08-22T21:02:29+00:00",
    "outletCount": 2,
    "counts": {
-    "nonprofit": 1,
-    "pub": 1
+    "pub": 1,
+    "nonprofit": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "Is this the end of Harry and Meghan\u2019s American dream?",
-     "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
-     "author": "Michael Savage Media editor",
-     "kind": "news",
-     "published": "2026-08-22T20:42:12+00:00",
-     "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new lives outside the House of Windsor. With every global media stable clamouring for their signature, the couple revealed a deal with Netflix reportedly worth $100m . The ambitions were lofty and broad, including scripted and unscripted projects, shows for all ages and documentaries. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "What happened to Harry and Meghan's American dream?",
-     "url": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "Israeli army and settlers injure several Palestinians across West Bank",
+     "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T02:57:34+00:00",
-     "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived."
+     "published": "2026-08-22T21:02:29+00:00",
+     "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
+     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-21T06:00:26+00:00",
+     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
     }
    ]
   },
@@ -3306,49 +3210,6 @@
      "kind": "news",
      "published": "2026-08-22T14:56:36+00:00",
      "summary": "Serena Williams will team up with Carlos Alcaraz to create a powerhouse mixed doubles pair in her return to the U.S. Open."
-    }
-   ]
-  },
-  {
-   "id": "d8e128c195",
-   "topic": "Politics",
-   "summary": "Transportation Secretary Sean Duffy; Interior Secretary Doug Burgum; Washington, D.C., Mayor Muriel Bowser; and Monica Crowley, chief of protocol at the State Department, unveil the new Freedom 250 Grand Prix Indycar during a news conference on the National Mall in Washington, D.C., on March 9, 2026. \u2014Matt McClain\u2014Bloomberg/Getty Images A slice of the nation\u2019s capital will be transformed into a race track over the weekend for President Donald Trump \u2019s final event commemorating the U.S.\u2019s 250th birthday . An IndyCar race consisting of 25 drivers will take place around the National Mall in the heart of Washington, D.C., on Saturday and Sunday. IndyCar is the top level of single-seater auto racing in the U.S., best known for the \u201cIndy 500,\u201d an annual 500 mile race in Indianapolis. \"This will be like no other race ever. This will get the highest ever ratings of any such race,\" Trump said in\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-   "updated": "2026-08-22T18:23:02+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-     "url": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
-     "author": "Karoun Demirjian",
-     "kind": "news",
-     "published": "2026-08-22T18:23:02+00:00",
-     "summary": "Melania Trump, the first lady, walked past an IndyCar displaying her \u201cBe Best\u201d slogan in the White House Rose Garden on Thursday."
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About Trump\u2019s 250 Grand Prix",
-     "url": "https://time.com/article/2026/08/20/freedom-250-grand-prix-indycar-washington-dc-trump/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-20T18:35:42+00:00",
-     "summary": "Transportation Secretary Sean Duffy; Interior Secretary Doug Burgum; Washington, D.C., Mayor Muriel Bowser; and Monica Crowley, chief of protocol at the State Department, unveil the new Freedom 250 Grand Prix Indycar during a news conference on the National Mall in Washington, D.C., on March 9, 2026. \u2014Matt McClain\u2014Bloomberg/Getty Images A slice of the nation\u2019s capital will be transformed into a race track over the weekend for President Donald Trump \u2019s final event commemorating the U.S.\u2019s 250th birthday . An IndyCar race consisting of 25 drivers will take place around the National Mall in the heart of Washington, D.C., on Saturday and Sunday. IndyCar is the top level of single-seater auto racing in the U.S., best known for the \u201cIndy 500,\u201d an annual 500 mile race in Indianapolis. \"This will be like no other race ever. This will get the highest ever ratings of any such race,\" Trump said in July, when the top IndyCar drivers participating in the race visited the White House. Trump himself is scheduled to take a ride around the 1.7 mile race track in his presidential limousine, known as \u201cThe Beast\u201d before the competition begins, White House officials told multiple outlets . The event is"
     }
    ]
   },
@@ -3568,49 +3429,6 @@
    ]
   },
   {
-   "id": "1625fdd156",
-   "topic": "Health",
-   "summary": "Residents carry containers while queuing for potable water from a tanker, amid recurring shortages and power outages, in Matanzas, Cuba, on August 6, 2026. Photo by AFP via Getty Images. Friday, August 21, 2026 \u2013 Fifteen-year-old boy dies after being shot in the head by Israeli soldiers in Gaza. Israeli forces and settlers kill two Palestinians, wound several others in occupied West Bank attacks. Drop Site reports on detained Palestinian journalist. Hamas is \u201cfully committed\u201d to Board of Peace roadmap, official says. Qatar, Turkey, and Egypt condemn Israeli attacks on Gaza. European leaders condemn Israeli settlement expansion. Turkey seeks Interpol red notice for Netanyahu over Global Sumud Flotilla attack. Three Palestinian parties in Israel revive Joint List ahead of October Knesset election. U.S. threatens countries trading with Iran with \u201ceconomic oblivion.\u201d China registers\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "nonprofit"
-   ],
-   "headline": "DR Congo receives Ebola vaccines in face of 'exponential' outbreak",
-   "updated": "2026-08-22T12:47:14+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "DR Congo receives Ebola vaccines in face of 'exponential' outbreak",
-     "url": "https://www.france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-22T12:47:14+00:00",
-     "summary": "The Democratic Republic of Congo has received more than 16,000 doses of an Ebola vaccine, as authorities step up efforts against the ongoing outbreak. More than 2,500 people have already died and health officials from the WHO are warning this epidemic could surpass the deadliest on record \u2013 that occurred between 2014 and 2016 and caused over 11,000 deaths across West Africa. Dr Muhammad Munir, Professor of virology at Lancaster University in the UK, helps us understand the situation on the ground."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "U.S. imposes new Cuba sanctions; Progressive wins California special election; Congo Ebola outbreak \u201cgrowing exponentially\u201d",
-     "url": "https://www.dropsitenews.com/p/us-cuba-sanctions-progressive-aisha-wahab-california-congo-ebola-outbreak",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-21T15:47:03+00:00",
-     "summary": "Residents carry containers while queuing for potable water from a tanker, amid recurring shortages and power outages, in Matanzas, Cuba, on August 6, 2026. Photo by AFP via Getty Images. Friday, August 21, 2026 \u2013 Fifteen-year-old boy dies after being shot in the head by Israeli soldiers in Gaza. Israeli forces and settlers kill two Palestinians, wound several others in occupied West Bank attacks. Drop Site reports on detained Palestinian journalist. Hamas is \u201cfully committed\u201d to Board of Peace roadmap, official says. Qatar, Turkey, and Egypt condemn Israeli attacks on Gaza. European leaders condemn Israeli settlement expansion. Turkey seeks Interpol red notice for Netanyahu over Global Sumud Flotilla attack. Three Palestinian parties in Israel revive Joint List ahead of October Knesset election. U.S. threatens countries trading with Iran with \u201ceconomic oblivion.\u201d China registers opposition to U.S. economic campaign against Iran. Oil traffic through Hormuz remains constrained. Iranian crude oil offers to Chinese buyers decline. Israeli army continues attacks in Lebanon despite \u201cceasefire\u201d agreement. Explosions heard over Tyre as Prime Minister Nawaf Salam tells army its deployment r"
-    }
-   ]
-  },
-  {
    "id": "f0254327dd",
    "topic": "Politics",
    "summary": "Attendees at a Trump rally in Racine, Wisconsin, on June 18, 2024. | Scott Olson/Getty Images It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running for a Senate seat, are mired in scandal. The Iran war was unpopular from the start, but it is getting even less popular as it drags on. And Trump\u2019s approval rating recently hit 33 percent , the lowest of his presidency yet. On this week\u2019s episode of America, Actually , host Astead Herndon speaks with one of Trump\u2019s most vocal defenders, conservative influencer CJ Pearson, about whether we\u2019re seeing Trump\u2019s brand slip even among his supporters and the young people who\u2026",
@@ -3654,45 +3472,192 @@
    ]
   },
   {
-   "id": "ecfee456d7",
+   "id": "d51ca14ae0",
    "topic": "Other",
-   "summary": "H ow many words does it take to trigger MAGA world? Three, it turns out. When Senator Jon Ossoff of Georgia said at a rally on Sunday that President Trump wants to \u201ctravel with Natalie\u201d\u2014implying an untoward relationship between the 80-year-old grandfather and his 35-year-old special assistant, Natalie Harp\u2014the outrage from Trump allies was as loud as it was predictable: Megyn Kelly, Newt Gingrich, and Laura Ingraham, among others, accused Ossoff of misogyny, despite having previously defended Trump\u2019s own sexist comments. (The word hypocrisy feels inadequate here.) But as this debate over propriety unfolds, a dedicated swath of the Democratic base is delighted. Since Trump\u2019s reelection, these voters have been hankering to see their leaders show, well, a little more fight. So far, most of that fight seems to have come from midterm candidates on the far left, who often target the\u2026",
-   "summaryFrom": "theatlantic",
+   "summary": "The brother of Hayden Panettiere\u2019s boyfriend broke his silence on Friday, revealing new details about the discovery of the 36-year-old actress unconscious and the desperate attempts to save her. Zach Hickerson said he had plans with his brother, Brian Hickerson, and Panettiere on the day of the actress\u2019 death. He said he was driving home from a Sunday church service to the Airbnb in Greenville, South Carolina, where Panettiere and Brian were staying. The three were supposed to leave for lunch and indoor golf. When Zach arrived, he said he knocked loudly and woke his brother. Zach and Brian then realized Panettiere was unconscious. Zach said he called 911 while his brother administered Narcan, a drug meant to reverse an opioid overdose, to Panettiere. \u201cI knocked loudly which apparently woke Brian up from a nap they were both taking on the pull out couch bed in the living room,\u201d Zach\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "people": [],
    "absent": [
-    "corp",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Natalie\u2019s Magnificent Obsession",
-   "updated": "2026-08-22T11:00:24+00:00",
+   "headline": "Hayden Panettiere\u2019s Boyfriend\u2019s Brother Reveals What He Did To Try To Save Her",
+   "updated": "2026-08-22T08:00:33+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 2
+    "family": 1,
+    "corp": 1
    },
    "newsCount": 1,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "Natalie\u2019s Magnificent Obsession",
-     "url": "https://www.nytimes.com/2026/08/22/opinion/natalie-harp-jon-ossoff-trump.html",
-     "author": "Maureen Dowd",
+     "outlet": "dailywire",
+     "title": "Hayden Panettiere\u2019s Boyfriend\u2019s Brother Reveals What He Did To Try To Save Her",
+     "url": "https://www.dailywire.com/news/hayden-panettieres-boyfriends-brother-reveals-what-he-did-to-try-to-save-her",
+     "author": "Amanda Prestigiacomo",
      "kind": "opinion",
-     "published": "2026-08-22T11:00:24+00:00",
-     "summary": "This human printer runs \u2014 but not out of ink."
+     "published": "2026-08-22T08:00:33+00:00",
+     "summary": "The brother of Hayden Panettiere\u2019s boyfriend broke his silence on Friday, revealing new details about the discovery of the 36-year-old actress unconscious and the desperate attempts to save her. Zach Hickerson said he had plans with his brother, Brian Hickerson, and Panettiere on the day of the actress\u2019 death. He said he was driving home from a Sunday church service to the Airbnb in Greenville, South Carolina, where Panettiere and Brian were staying. The three were supposed to leave for lunch and indoor golf. When Zach arrived, he said he knocked loudly and woke his brother. Zach and Brian then realized Panettiere was unconscious. Zach said he called 911 while his brother administered Narcan, a drug meant to reverse an opioid overdose, to Panettiere. \u201cI knocked loudly which apparently woke Brian up from a nap they were both taking on the pull out couch bed in the living room,\u201d Zach recalled, according to TMZ. \u201cWhen we went in and tried to wake Hayden up for lunch, we realized she was unconscious.\u201d \u201cI immediately called 911 and Brian gave her Narcan,\u201d he said. \u201cWe then jointly performed CPR while 911 was on speaker until Fire and EMS arrived. At that point, we watched as they tried "
     },
     {
-     "outlet": "theatlantic",
-     "title": "Ossoff\u2019s \u2018Natalie\u2019 Moment",
-     "url": "https://www.theatlantic.com/politics/2026/08/jon-ossoff-natalie-harp/688363/?utm_source=feed",
-     "author": "Elaine Godfrey",
+     "outlet": "dailybeast",
+     "title": "Hayden Panettiere\u2019s Final Moments Revealed by Ex\u2019s Brother",
+     "url": "https://www.thedailybeast.com/obsessed/hayden-panettieres-final-moments-revealed-by-exs-brother-zach-hickerson/",
+     "author": "Eboni Boykin-Patterson",
      "kind": "news",
-     "published": "2026-08-21T10:00:00+00:00",
-     "summary": "H ow many words does it take to trigger MAGA world? Three, it turns out. When Senator Jon Ossoff of Georgia said at a rally on Sunday that President Trump wants to \u201ctravel with Natalie\u201d\u2014implying an untoward relationship between the 80-year-old grandfather and his 35-year-old special assistant, Natalie Harp\u2014the outrage from Trump allies was as loud as it was predictable: Megyn Kelly, Newt Gingrich, and Laura Ingraham, among others, accused Ossoff of misogyny, despite having previously defended Trump\u2019s own sexist comments. (The word hypocrisy feels inadequate here.) But as this debate over propriety unfolds, a dedicated swath of the Democratic base is delighted. Since Trump\u2019s reelection, these voters have been hankering to see their leaders show, well, a little more fight. So far, most of that fight seems to have come from midterm candidates on the far left, who often target the Democratic Party itself or the so-called establishment. To hear Ossoff, a more moderate Democrat in a reddish-purple state, direct a sharp\u2014albeit petty\u2014jab directly at the president thrilled such voters. Some, in fact, found it almost cathartic. \u201cSomeone finally said something,\u201d a 52-year-old woman named Rebe"
+     "published": "2026-08-21T20:26:30+00:00",
+     "summary": "Mario Anzuoni / REUTERS More details about the moments leading up to actress Hayden Panettiere\u2019s death at 36 on Sunday have been revealed by the brother of the late star\u2019s ex, who was on the scene. Panettiere had traveled to South Carolina from Los Angeles with her on-again-off-again boyfriend Brian Hickerson just a day before she died at a luxury loft complex. Hickerson, who was in the loft with his brother Zach when EMS failed to revive her from a suspected overdose, was arrested multiple times for physically abusing the actress between 2018 and 2020. Read more at The Daily Beast."
+    }
+   ]
+  },
+  {
+   "id": "1950a3d7d2",
+   "topic": "Other",
+   "summary": "As we do every Friday, we're turning Racket over to you, the readers.",
+   "summaryFrom": "racket",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "pub"
+   ],
+   "headline": "Open Thread",
+   "updated": "2026-08-22T07:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 2,
+    "coop": 1
+   },
+   "newsCount": 0,
+   "opinionCount": 3,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/22/open-thread-304/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-22T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "racket",
+     "title": "Let\u2019s Talk WFH in This Week\u2019s Open Thread",
+     "url": "https://racketmn.com/lets-talk-wfh-in-this-weeks-open-thread",
+     "author": "Keith Harris",
+     "kind": "opinion",
+     "published": "2026-08-21T14:31:37+00:00",
+     "summary": "As we do every Friday, we're turning Racket over to you, the readers."
+    },
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/21/open-thread-303/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-21T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    }
+   ]
+  },
+  {
+   "id": "3355b0549a",
+   "topic": "World",
+   "summary": "Indiana Fever players Caitlin Clark, left, and Sophie Cunningham, right, during a WNBA game against the Atlanta Dream on August 16, 2026, in Atlanta, Georgia. | Rich von Biberstein/Icon Sportswire via Getty Images On the court, the WNBA is thriving. After 30 years, its players are receiving a historic payout , along with a massive TV distribution deal that will mean more games, and hopefully even more fans. But off the court, all that attention has some downsides. Most recently, it means that the culture war has come for the WNBA. Specifically, the league has found itself at the center of a debate over transgender athletes and women\u2019s sports, one that Indiana Fever guard Sophie Cunningham ignited last month. Cunningham, 30, has gained a reputation as an \u201cenforcer\u201d for her All-Star teammate, Caitlin Clark. In July, she told ESPN that \u201cI think that I am here to extend love, but I also\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "The Culture War Is Coming For The WNBA",
+   "updated": "2026-08-22T07:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "slate",
+     "title": "The Culture War Is Coming For The WNBA",
+     "url": "https://slate.com/podcasts/icymi/2026/08/racist-and-transphobic-trolls-are-ruining-the-wnba?via=rss",
+     "author": "Kate Lindsay",
+     "kind": "news",
+     "published": "2026-08-22T07:00:00+00:00",
+     "summary": "The rise of the WNBA has come with unintended consequences."
+    },
+    {
+     "outlet": "vox",
+     "title": "Sophie Cunningham and the WNBA culture wars",
+     "url": "https://www.vox.com/podcasts/499833/wnba-culture-wars-trans-athletes-sophie-cunningham-caitlin-clark",
+     "author": "Noel King",
+     "kind": "news",
+     "published": "2026-08-20T20:55:00+00:00",
+     "summary": "Indiana Fever players Caitlin Clark, left, and Sophie Cunningham, right, during a WNBA game against the Atlanta Dream on August 16, 2026, in Atlanta, Georgia. | Rich von Biberstein/Icon Sportswire via Getty Images On the court, the WNBA is thriving. After 30 years, its players are receiving a historic payout , along with a massive TV distribution deal that will mean more games, and hopefully even more fans. But off the court, all that attention has some downsides. Most recently, it means that the culture war has come for the WNBA. Specifically, the league has found itself at the center of a debate over transgender athletes and women\u2019s sports, one that Indiana Fever guard Sophie Cunningham ignited last month. Cunningham, 30, has gained a reputation as an \u201cenforcer\u201d for her All-Star teammate, Caitlin Clark. In July, she told ESPN that \u201cI think that I am here to extend love, but I also think that with love is truth, being honest. And I want to protect young girls in a locker room or young girls in sport who shouldn\u2019t have to go against biological men.\u201d No known trans athletes have ever played in the WNBA, but that hasn\u2019t much deterred pundits from weighing in. It\u2019s the latest instance"
+    }
+   ]
+  },
+  {
+   "id": "20bb4e0ce0",
+   "topic": "Politics",
+   "summary": "Immediately after her shocking upset in Florida 's Democratic Senate primary, state Rep. Angie Nixon made clear she isn't really a socialist \u2014 even though she'd just joined the Democratic Socialists of America. Why it matters: Nixon's win is being cast as a DSA victory , but the organization neither endorsed her nor saw it coming. She ran as a big-tent leftist, linking progressive movements and party institutions in unlikely alliances. \"I don't campaign as a member of any organization,\" she told Axios, echoing comments she made to MSNOW and CBS. \"I don't believe in labels.\" Nixon said she joined the DSA to tap into its grassroots organizational network and because she supports its fights over housing, public education, corporate power and \u2014 above all \u2014 Medicare for All . The latest: Since winning, Nixon has moved fast to separate herself from DSA orthodoxy. \"No,\" she laughed, when asked\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Report: Socialist Angie Nixon, Florida Democrat Chair Erupt in Shouting Match",
+   "updated": "2026-08-22T01:10:15+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Report: Socialist Angie Nixon, Florida Democrat Chair Erupt in Shouting Match",
+     "url": "https://www.breitbart.com/politics/2026/08/21/socialist-angie-nixon-florida-democrat-chair-erupt-shouting-match/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-22T01:10:15+00:00",
+     "summary": "Florida Democrat Senate candidate Angie Nixon reportedly clashed with state party chair Nikki Fried during a tense phone call Friday over Nixon\u2019s socialist ties and the party\u2019s support for her campaign. The post Report: Socialist Angie Nixon, Florida Democrat Chair Erupt in Shouting Match appeared first on Breitbart ."
+    },
+    {
+     "outlet": "axios",
+     "title": "Florida's Angie Nixon isn't the socialist you've heard about",
+     "url": "https://www.axios.com/2026/08/21/florida-senate-angie-nixon-socialist",
+     "author": "Marc Caputo",
+     "kind": "news",
+     "published": "2026-08-21T09:20:11+00:00",
+     "summary": "Immediately after her shocking upset in Florida 's Democratic Senate primary, state Rep. Angie Nixon made clear she isn't really a socialist \u2014 even though she'd just joined the Democratic Socialists of America. Why it matters: Nixon's win is being cast as a DSA victory , but the organization neither endorsed her nor saw it coming. She ran as a big-tent leftist, linking progressive movements and party institutions in unlikely alliances. \"I don't campaign as a member of any organization,\" she told Axios, echoing comments she made to MSNOW and CBS. \"I don't believe in labels.\" Nixon said she joined the DSA to tap into its grassroots organizational network and because she supports its fights over housing, public education, corporate power and \u2014 above all \u2014 Medicare for All . The latest: Since winning, Nixon has moved fast to separate herself from DSA orthodoxy. \"No,\" she laughed, when asked if she's a socialist. \"I own a business.\" (It's a bookstore called Cafe Resistance .) \"No,\" she doesn't back abolishing all prisons \u2014 just for-profit ones. Nor does she support \"defunding\" police or having so-called \"open borders.\" \"No,\" she said, \"I do not celebrate [Fidel] Castro\" \u2014 and she disagr"
+    },
+    {
+     "outlet": "axios",
+     "title": "Bernie Sanders backs Angie Nixon after her stunning Florida primary upset",
+     "url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
+     "author": "Andrew Pantazi",
+     "kind": "news",
+     "published": "2026-08-20T17:42:20+00:00",
+     "summary": "Sen. Bernie Sanders endorsed Florida Democratic Senate nominee Angie Nixon on Thursday, two days after she stunned the party establishment by defeating heavily funded favorite Alex Vindman. Why it matters: Sanders gives Nixon a prominent national progressive ally as she pivots to a difficult general-election race against Republican Sen. Ashley Moody. Sanders also cast Nixon as a model for the Democratic Party's future. What he's saying: \"Angie is proof that organized people can take on the organized money of the wealthy and powerful \u2014 and win,\" Sanders said in a statement released by Nixon's campaign. Sanders praised Nixon's support for Medicare for All, canceling medical debt, expanded child care and paid family leave. The intrigue: Nixon won the primary without Sanders' endorsement despite working on his 2016 presidential campaign and running on many of the economic policies he made central to his campaigns. The big picture: The endorsement strengthens Nixon's connection to the national left, but it also gives Republicans another opening to make socialism the centerpiece of the fall campaign. Reality check: Nixon still faces a steep climb against Moody in Florida, a state that ha"
     }
    ]
   }
