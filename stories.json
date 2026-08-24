@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T05:03:31.634750+00:00",
+ "generated": "2026-08-24T05:55:00.714605+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -15,16 +15,16 @@
     "big": [
      "event",
      "around",
-     "national",
      "mall",
+     "national",
      "drivers",
      "course"
     ],
     "indie": [
-     "flag",
-     "green",
      "start",
+     "flag",
      "waves",
+     "green",
      "mark",
      "past"
     ]
@@ -183,23 +183,23 @@
    ]
   },
   {
-   "id": "82bf31518d",
+   "id": "d25312f0c5",
    "topic": "World",
    "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 4,
-    "indieCount": 4,
+    "bigCount": 5,
+    "indieCount": 6,
     "big": [
-     "winds",
      "strong",
      "fueled",
+     "winds",
+     "outside",
      "northern"
     ],
     "indie": [
-     "human-caused",
      "forced",
-     "fast-moving",
+     "human-caused",
      "foothills",
      "approaches"
     ]
@@ -208,19 +208,28 @@
    "absent": [
     "coop"
    ],
-   "headline": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
-   "updated": "2026-08-24T03:47:04+00:00",
-   "outletCount": 8,
+   "headline": "US: Wildfire forces mass evacuations near Reno, Nevada",
+   "updated": "2026-08-24T05:18:00+00:00",
+   "outletCount": 11,
    "counts": {
+    "pub": 3,
     "nonprofit": 3,
-    "pub": 1,
-    "corp": 1,
+    "corp": 2,
     "family": 3
    },
-   "newsCount": 8,
+   "newsCount": 11,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "dw",
+     "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
+     "url": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T05:18:00+00:00",
+     "summary": "A wind-driven wildfire has forced roughly 42,000 people to evacuate and destroyed homes as fire crews continue to battle extreme conditions."
+    },
     {
      "outlet": "npr",
      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
@@ -247,6 +256,15 @@
      "kind": "news",
      "published": "2026-08-24T00:45:53+00:00",
      "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Out-of-control wildfire forces evacuations",
+     "url": "https://www.nbcnews.com/nightly-news/video/out-of-control-wildfire-forces-evacuations-268743749759",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T23:19:42+00:00",
+     "summary": "A fast-moving wildfire explodes outside Reno, Nevada, scorching over 15-thousand acres and forcing tens of thousands to evacuate. NBC News\u2019 Steve Patterson reports."
     },
     {
      "outlet": "nyt",
@@ -285,6 +303,15 @@
      "summary": "Fueled by strong winds, the Hawk fire has burned over 15,000 acres near Reno with 0% containment, forcing thousands of evacuations and a state of emergency."
     },
     {
+     "outlet": "france24",
+     "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
+     "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-23T15:54:21+00:00",
+     "summary": "Firefighters in Nevada are struggling to contain a fast-growing wildfire which has already forced the evacuation of nearly 14,000 people. A state of emergency has been called, meaning federal responders are working alongside local firefighters to try and keep it from residential areas. Details by Camille Knight."
+    },
+    {
      "outlet": "breitbart",
      "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
      "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
@@ -292,127 +319,6 @@
      "kind": "news",
      "published": "2026-08-23T13:48:34+00:00",
      "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "4760bb9563",
-   "topic": "Business & Economy",
-   "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 3,
-    "big": [
-     "canadian",
-     "president",
-     "range",
-     "vice",
-     "economy",
-     "right"
-    ],
-    "indie": [
-     "donald",
-     "wants"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
-   "updated": "2026-08-24T00:50:00+00:00",
-   "outletCount": 8,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 2,
-    "pub": 1,
-    "family": 5
-   },
-   "newsCount": 8,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Escalating trade war with Canada ruptures once close alliance",
-     "url": "https://www.cbsnews.com/video/escalating-trade-war-canada-ruptures-once-close-alliance/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:50:00+00:00",
-     "summary": "The escalating trade war with Canada has ruptured a once-close and durable alliance. It will soon have people on both sides of the border paying up. Jarred Hill has more details from New York."
-    },
-    {
-     "outlet": "guardian",
-     "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-     "author": "Lauren Almeida",
-     "kind": "news",
-     "published": "2026-08-23T19:32:59+00:00",
-     "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T19:11:30+00:00",
-     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "US-Canada Trade Talks Fell Apart Over Fine Print, Envoy Says",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/us-canada-talks-fell-apart-over-fine-print-in-deal-envoy-says",
-     "author": "Josh Wingrove",
-     "kind": "news",
-     "published": "2026-08-23T18:53:40+00:00",
-     "summary": "US-Canada trade talks collapsed over a range of issues where the written text of a potential deal was at odds with what the Canadian side believed it had agreed to, Prime Minister Mark Carney\u2019s top US envoy says."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Trump And Canada In Trade \u2018War\u2019: How Hockey Sticks, Puzzles And Wigs Played A Role",
-     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/23/trump-and-canada-in-trade-war-how-hockey-sticks-puzzles-and-wigs-played-a-role/",
-     "author": "Zachary Folk, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-23T18:47:16+00:00",
-     "summary": "A large amount of Canadian imports will now be subject to 50% tariffs."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Pence: \u2018Last Thing\u2019 Our Economy Needs Is a Trade War with Canada",
-     "url": "https://www.breitbart.com/clips/2026/08/23/pence-last-thing-our-economy-needs-is-a-trade-war-with-canada/",
-     "author": "Pam Key",
-     "kind": "news",
-     "published": "2026-08-23T17:14:15+00:00",
-     "summary": "Sunday on CNN\u2019s \u201cState of the Union,\u201d former Vice President Mike Pence said \u201cthe last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada.\u201d Host Dana Bash said, \u201cI The post Pence: \u2018Last Thing\u2019 Our Economy Needs Is a Trade War with Canada appeared first on Breitbart ."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
-     "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-23T15:46:33+00:00",
-     "summary": "\u201cI think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,\u201d the former vice president told CNN."
-    },
-    {
-     "outlet": "nyt",
-     "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
-     "url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
-     "author": "The New York Times",
-     "kind": "news",
-     "published": "2026-08-23T09:47:28+00:00",
-     "summary": "Canada suspended trade negotiations, triggering President Trump\u2019s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate \u201cdollar for dollar.\u201d"
-    },
-    {
-     "outlet": "guardian",
-     "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
-     "author": "Kenneth Roth",
-     "kind": "opinion",
-     "published": "2026-08-21T12:00:35+00:00",
-     "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
     }
    ]
   },
@@ -429,11 +335,11 @@
      "district"
     ],
     "indie": [
-     "likely",
      "basis",
+     "public",
+     "issuing",
      "because",
      "nationality",
-     "public",
      "ruled"
     ]
    },
@@ -525,6 +431,212 @@
      "kind": "news",
      "published": "2026-08-22T02:12:17+00:00",
      "summary": "Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year."
+    }
+   ]
+  },
+  {
+   "id": "4760bb9563",
+   "topic": "World",
+   "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 3,
+    "big": [
+     "canadian",
+     "thing",
+     "president",
+     "need",
+     "economy",
+     "feet"
+    ],
+    "indie": [
+     "donald",
+     "wants"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+   "updated": "2026-08-24T00:50:00+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 2,
+    "pub": 1,
+    "family": 4
+   },
+   "newsCount": 7,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Escalating trade war with Canada ruptures once close alliance",
+     "url": "https://www.cbsnews.com/video/escalating-trade-war-canada-ruptures-once-close-alliance/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T00:50:00+00:00",
+     "summary": "The escalating trade war with Canada has ruptured a once-close and durable alliance. It will soon have people on both sides of the border paying up. Jarred Hill has more details from New York."
+    },
+    {
+     "outlet": "guardian",
+     "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+     "author": "Lauren Almeida",
+     "kind": "news",
+     "published": "2026-08-23T19:32:59+00:00",
+     "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T19:11:30+00:00",
+     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "US-Canada Trade Talks Fell Apart Over Fine Print, Envoy Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/us-canada-talks-fell-apart-over-fine-print-in-deal-envoy-says",
+     "author": "Josh Wingrove",
+     "kind": "news",
+     "published": "2026-08-23T18:53:40+00:00",
+     "summary": "US-Canada trade talks collapsed over a range of issues where the written text of a potential deal was at odds with what the Canadian side believed it had agreed to, Prime Minister Mark Carney\u2019s top US envoy says."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Trump And Canada In Trade \u2018War\u2019: How Hockey Sticks, Puzzles And Wigs Played A Role",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/23/trump-and-canada-in-trade-war-how-hockey-sticks-puzzles-and-wigs-played-a-role/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-23T18:47:16+00:00",
+     "summary": "A large amount of Canadian imports will now be subject to 50% tariffs."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Pence: \u2018Last Thing\u2019 Our Economy Needs Is a Trade War with Canada",
+     "url": "https://www.breitbart.com/clips/2026/08/23/pence-last-thing-our-economy-needs-is-a-trade-war-with-canada/",
+     "author": "Pam Key",
+     "kind": "news",
+     "published": "2026-08-23T17:14:15+00:00",
+     "summary": "Sunday on CNN\u2019s \u201cState of the Union,\u201d former Vice President Mike Pence said \u201cthe last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada.\u201d Host Dana Bash said, \u201cI The post Pence: \u2018Last Thing\u2019 Our Economy Needs Is a Trade War with Canada appeared first on Breitbart ."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
+     "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/",
+     "author": "Sammy Westfall",
+     "kind": "news",
+     "published": "2026-08-23T15:46:33+00:00",
+     "summary": "\u201cI think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,\u201d the former vice president told CNN."
+    },
+    {
+     "outlet": "guardian",
+     "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
+     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
+     "author": "Kenneth Roth",
+     "kind": "opinion",
+     "published": "2026-08-21T12:00:35+00:00",
+     "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "8786cbb9dd",
+   "topic": "Justice & Policing",
+   "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 2,
+    "big": [
+     "aboard",
+     "detained",
+     "saturday",
+     "months",
+     "nine"
+    ],
+    "indie": [
+     "waiting",
+     "border",
+     "patrol"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East",
+   "updated": "2026-08-24T05:42:44+00:00",
+   "outletCount": 6,
+   "counts": {
+    "nonprofit": 2,
+    "corp": 4
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East",
+     "url": "https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-24T05:42:44+00:00",
+     "summary": "Joshua Aviles says he is on a nine-month Middle East deployment and learned his has father has been arrested while he was waiting for green card approval The father of a US sailor on board the USS Abraham Lincoln \u2060aircraft carrier deployed in the Middle East during the Iran war has been taken into federal immigration detention, the sailor \u2060said. The border patrol arrested Luis Manuel Aviles Roa, originally from Nicaragua, after conducting a vehicle stop in Key West, Florida, a spokesperson for the US homeland security department said on Sunday. Continue reading..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Navy sailor on USS Lincoln says dad was arrested by immigration officials",
+     "url": "https://www.cbsnews.com/news/uss-lincoln-sailor-dad-immigration-arrest-luis-manuel-aviles-roa/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T02:24:35+00:00",
+     "summary": "Historically rare, immigration arrests of military spouses and parents have become more common under the second Trump administration."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Servicemember aboard USS Lincoln decries father\u2019s ICE detention",
+     "url": "https://thehill.com/homenews/administration/6046254-uss-sailor-father-ice-detained/",
+     "author": "Ashleigh Fields",
+     "kind": "news",
+     "published": "2026-08-24T02:10:17+00:00",
+     "summary": "A sailor onboard the USS Abraham Lincoln on Saturday said his father was detained by Immigration and Customs Enforcement (ICE). Joshua Aviles has spent roughly nine months deployed at sea due to the Iran war amid reported shortages of clean water, food and supplies. \u201cI\u2019ve been deployed for over nine months, out at sea in..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Father of sailor aboard USS Abraham Lincoln detained by immigration authorities, family says",
+     "url": "https://www.nbcnews.com/news/us-news/father-sailor-uss-abraham-lincoln-detained-immigration-family-says-rcna593961",
+     "author": "Dennis Romero",
+     "kind": "news",
+     "published": "2026-08-24T00:20:56+00:00",
+     "summary": "Joshua Aviles said he has been \u201cfighting for a country that has given me everything,\u201d only to learn his father had been detained."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
+     "url": "https://www.pbs.org/newshour/nation/he-was-waiting-for-his-son-to-return-from-the-uss-lincoln-then-border-patrol-arrested-him",
+     "author": "Jack Brook, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T22:02:09+00:00",
+     "summary": "Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, according to his wife, Argelia Aviles. She said her husband, a handyman in Key West, Florida, has a permit to work in the United States."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Father of Sailor on USS Abraham Lincoln Arrested by ICE",
+     "url": "https://www.thedailybeast.com/father-of-sailor-on-uss-abraham-lincoln-arrested-by-ice/",
+     "author": "Sarah-Jane Collins",
+     "kind": "news",
+     "published": "2026-08-23T21:25:29+00:00",
+     "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have downplayed the concerns raised by service members and their families. \u201cThis is heartbreaking for me. I don\u2019t know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,\u201d Joshua Aviles wrote in his Facebook post. The Department of Homeland Secur"
     }
    ]
   },
@@ -627,15 +739,15 @@
     "indieCount": 4,
     "big": [
      "midterm",
-     "speaker",
-     "line"
+     "line",
+     "speaker"
     ],
     "indie": [
      "democratic",
      "sunday",
      "york",
-     "housing",
-     "immigration",
+     "reported",
+     "times",
      "issues"
     ]
    },
@@ -722,94 +834,6 @@
    ]
   },
   {
-   "id": "a23a33e6df",
-   "topic": "Business & Economy",
-   "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "carney",
-     "sides",
-     "both"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
-   "updated": "2026-08-23T19:39:17+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Carney says US \u2018attacked\u2019 Canada with tariffs",
-     "url": "https://thehill.com/policy/international/6045895-carney-denounces-us-tariffs/",
-     "author": "Ashleigh Fields",
-     "kind": "news",
-     "published": "2026-08-23T19:39:17+00:00",
-     "summary": "Canadian Prime Minister Mark Carney on Sunday said the U.S. attacked Ottawa with tariffs, escalating a trade war that will impact residents on both sides of the border. \u201cIn recent days, the United States proposed new terms that were uneconomic, unfair, and undermined the net benefits for Canada and called into question the reliability of..."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
-     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:51:42+00:00",
-     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
-     "url": "https://www.pbs.org/newshour/economy/what-to-know-about-trumps-50-tariffs-on-canadian-goods-that-just-went-into-effect",
-     "author": "Wyatte Grantham-Philips, Associated Press",
-     "kind": "news",
-     "published": "2026-08-22T21:24:51+00:00",
-     "summary": "The new levies are expected to affect about 5% of Canada's annual exports to the U.S., roughly $20 billion in goods ranging from hockey sticks to agricultural products."
-    },
-    {
-     "outlet": "axios",
-     "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
-     "url": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
-     "author": "Courtenay Brown",
-     "kind": "news",
-     "published": "2026-08-22T15:58:20+00:00",
-     "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said late Friday that Canada had made last-minute demands that upset the pact, Bloomberg reported . Canadian Prime Minister Mark Carney, in a statement posted to X, alleged it was the U.S. that had made late changes to the terms, and said he had decided to suspend the negotiations. Friction point: \"Canada w"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T12:20:46+00:00",
-     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
-    },
-    {
-     "outlet": "npr",
-     "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
-     "author": "Scott Simon",
-     "kind": "news",
-     "published": "2026-08-22T11:43:25+00:00",
-     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
-    }
-   ]
-  },
-  {
    "id": "df7ede4cc1",
    "topic": "Politics",
    "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust\u2026",
@@ -818,12 +842,12 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "stay",
      "friday",
-     "proceed",
+     "stay",
      "issued",
-     "chief",
-     "lower"
+     "proceed",
+     "lower",
+     "chief"
     ],
     "indie": []
    },
@@ -900,6 +924,76 @@
    ]
   },
   {
+   "id": "a545e1e540",
+   "topic": "Culture & Sport",
+   "summary": "EXCLUSIVE: Former NBA player Enes Kanter Freedom said Chicago Sky guard Natasha Cloud made a vulgar remark toward him and repeatedly cursed before security removed him from Sunday night\u2019s game against the Indiana Fever. Freedom, who was sitting near the baseline at Wintrust Arena, said the confrontation began after he celebrated a 3-pointer by Fever guard Sophie Cunningham. \"Sophie Cunningham shot a three, and I put my hands up to celebrate,\" Freedom said. \"Literally, a couple possessions later, Natasha came back and started screaming and yelling and said, \u2018She\u2019s not gonna sleep with you.\u2019 ENES KANTER FREEDOM MET WITH HOSTILE WNBA FANS EN ROUTE TO FEVER-SKY MATCHUP \"And I was like, \u2018I am not trying to sleep with her. I\u2019m just here to protect women and support her.\u2019 And then, obviously, after that she started yapping, and she started to walk towards me, and literally I just got up, and\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Enes Kanter Gets Ejected From WNBA Game After Confrontation Amid Transgender Player Controversy",
+   "updated": "2026-08-24T05:13:07+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 4,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Enes Kanter Gets Ejected From WNBA Game After Confrontation Amid Transgender Player Controversy",
+     "url": "https://www.forbes.com/sites/siladityaray/2026/08/24/enes-kanter-gets-ejected-from-wnba-game-after-confrontation-amid-transgender-player-controversy/",
+     "author": "Siladitya Ray, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-24T05:13:07+00:00",
+     "summary": "The former NBA player has come under criticism after saying he will \u201cdeclare\u201d for the WNBA\u2019s upcoming draft in an apparent bid to mock involvement of transgender players in sport."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Enes Kanter Freedom opens up on confrontation with Natasha Cloud that led to ejection, WNBA pursuit",
+     "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-opens-confrontation-natasha-cloud-led-ejection-wnba-pursuit",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T05:10:58+00:00",
+     "summary": "EXCLUSIVE: Former NBA player Enes Kanter Freedom said Chicago Sky guard Natasha Cloud made a vulgar remark toward him and repeatedly cursed before security removed him from Sunday night\u2019s game against the Indiana Fever. Freedom, who was sitting near the baseline at Wintrust Arena, said the confrontation began after he celebrated a 3-pointer by Fever guard Sophie Cunningham. \"Sophie Cunningham shot a three, and I put my hands up to celebrate,\" Freedom said. \"Literally, a couple possessions later, Natasha came back and started screaming and yelling and said, \u2018She\u2019s not gonna sleep with you.\u2019 ENES KANTER FREEDOM MET WITH HOSTILE WNBA FANS EN ROUTE TO FEVER-SKY MATCHUP \"And I was like, \u2018I am not trying to sleep with her. I\u2019m just here to protect women and support her.\u2019 And then, obviously, after that she started yapping, and she started to walk towards me, and literally I just got up, and then I was like, \u2018I\u2019m just here to protect women, and that\u2019s all.\u2019\" Video of the incident showed Cloud walking toward Freedom, yelling and pointing at him late in the third quarter. Freedom stood, extended his arms and took a step onto the court as security and Sky players moved between them. Freedom "
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Enes Kanter Ejected From Fever-Sky After Heated Confrontation With WNBA Player",
+     "url": "https://www.newsweek.com/enes-kanter-ejected-from-fever-sky-after-heated-confrontation-with-wnba-player-12358102",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T04:00:01+00:00",
+     "summary": "Wearing an \"adult human female\" shirt, Enes Kanter got into an explosive argument with Chicago Sky guard Natasha Cloud on Sunday."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Enes Kanter Freedom escorted out of Fever-Sky game after ugly exchange with WNBA star Natasha Cloud",
+     "url": "https://nypost.com/2026/08/23/sports/enes-kanter-freedom-escorted-out-of-wnba-game-after-exchange-with-natasha-cloud/",
+     "author": "Christian Arnold",
+     "kind": "news",
+     "published": "2026-08-24T02:25:24+00:00",
+     "summary": "Enes Kanter Freedom leaves Fever-Sky game after a heated exchange with Natasha Cloud amid debate over trans athletes."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Enes Kanter Freedom Booted From WNBA Game After Confrontation",
+     "url": "https://www.dailywire.com/news/enes-kanter-freedom-booted-from-wnba-game-after-confrontation",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-23T21:47:51+00:00",
+     "summary": "Former NBA center Enes Kanter Freedom got booted from Sunday night\u2019s WNBA game (Indiana Fever at Chicago Sky) at Chicago\u2019s Wintrust Arena after a brief confrontation with a player on the court. Freedom, wearing a t-shirt emblazoned with the definition of the word \u201cwoman,\u201d was ejected just before the end of the third quarter after a brief confrontation with Chicago Sky guard Natasha Cloud. With 1:22 left in the quarter, Cloud scored \u2013 and the Fever called for a timeout. Cloud approached the baseline where Freedom was seated, pointing and shouting at him \u2014 and he raised both arms and stepped toward the court. Several other players and officials jumped between them, preventing the confrontation from escalating. Freedom spoke briefly with police before leaving the arena. He had attended the game, as well as a pregame rally, to show his support for Indiana Fever shooting guard Sophie Cunningham \u2014 who has become a popular target for pro-trans activists since she declared her support for biological women in sports and sex-specific spaces for women and girls. Protests and rallies have followed the Fever to several recent games, and on several occasions, women and girls who have shown their"
+    }
+   ]
+  },
+  {
    "id": "5fe4280c79",
    "topic": "Justice & Policing",
    "summary": "KJ Biermann, 15, was arrested and charged with two felony counts stemming from an alleged April incident, according to documents obtained by Fox News Digital. KJ (who's full name is Kroy Jagger) was charged with aggravated sexual battery and aggravated sodomy Aug. 17 following his arrest in Alpharetta, Georgia . The teen is being charged as an adult under Georgia's SB440 law, which gives adult superior courts jurisdiction over teenagers aged 13 to 17 accused of specific violent felonies. REALITY STAR'S DAUGHTER ARRESTED ON ASSAULT CHARGE IN NEW JERSEY STEMMING FROM ALLEGED DISPUTE His mother, \" Real Housewives of Atlanta \" star Kim Zolciak, denied the allegations levied against her son in a statement provided to Fox News Digital. \"The allegations being made against my son are nothing short of reckless and deeply troubling,\" the reality star said. \"He categorically denies ever being\u2026",
@@ -911,12 +1005,12 @@
      "star"
     ],
     "indie": [
-     "alone",
+     "left",
+     "mount",
      "fuji",
      "father",
-     "leaves",
-     "mount",
-     "left"
+     "tired",
+     "hike"
     ]
    },
    "people": [],
@@ -984,6 +1078,146 @@
    ]
   },
   {
+   "id": "a23a33e6df",
+   "topic": "Business & Economy",
+   "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "carney",
+     "both",
+     "sides"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
+   "updated": "2026-08-23T19:39:17+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 3,
+    "nonprofit": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Carney says US \u2018attacked\u2019 Canada with tariffs",
+     "url": "https://thehill.com/policy/international/6045895-carney-denounces-us-tariffs/",
+     "author": "Ashleigh Fields",
+     "kind": "news",
+     "published": "2026-08-23T19:39:17+00:00",
+     "summary": "Canadian Prime Minister Mark Carney on Sunday said the U.S. attacked Ottawa with tariffs, escalating a trade war that will impact residents on both sides of the border. \u201cIn recent days, the United States proposed new terms that were uneconomic, unfair, and undermined the net benefits for Canada and called into question the reliability of..."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T17:51:42+00:00",
+     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
+     "url": "https://www.pbs.org/newshour/economy/what-to-know-about-trumps-50-tariffs-on-canadian-goods-that-just-went-into-effect",
+     "author": "Wyatte Grantham-Philips, Associated Press",
+     "kind": "news",
+     "published": "2026-08-22T21:24:51+00:00",
+     "summary": "The new levies are expected to affect about 5% of Canada's annual exports to the U.S., roughly $20 billion in goods ranging from hockey sticks to agricultural products."
+    },
+    {
+     "outlet": "axios",
+     "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+     "url": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
+     "author": "Courtenay Brown",
+     "kind": "news",
+     "published": "2026-08-22T15:58:20+00:00",
+     "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said late Friday that Canada had made last-minute demands that upset the pact, Bloomberg reported . Canadian Prime Minister Mark Carney, in a statement posted to X, alleged it was the U.S. that had made late changes to the terms, and said he had decided to suspend the negotiations. Friction point: \"Canada w"
+    },
+    {
+     "outlet": "npr",
+     "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
+     "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
+     "author": "Scott Simon",
+     "kind": "news",
+     "published": "2026-08-22T11:43:25+00:00",
+     "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
+    }
+   ]
+  },
+  {
+   "id": "3f8e3c8e51",
+   "topic": "Other",
+   "summary": "A man suspected of killing five people in a rural area outside Portland, Oregon , was found dead inside a vehicle in Enumclaw, Washington, on Sunday in an apparent suicide, according to authorities. Benjamin Charles Parker, 36, was identified as the suspect in a quintuple murder after the bodies of five dead people were discovered on Saturday at a home in a rural community near Forest Grove, Oregon, about 25 miles west of Portland. \"Through their investigation, they believed that Parker was in Enumclaw, WA. Officers from the Enumclaw Police Department located Parker\u2019s vehicle and found him deceased inside. It is believed he died by suicide,\" the Washington County Sheriff\u2019s Office said in a statement. The Enumclaw Police Department said that an unidentified was found dead behind a Safeway grocery store in connection with the Forest Grove investigation. PARENTS FOUND BURIED BEHIND HOME IN\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Suspect in deaths of 5 found dead after cops uncover grim scene at rural property outside Portland",
+   "updated": "2026-08-24T05:02:51+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "corp": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Suspect in deaths of 5 found dead after cops uncover grim scene at rural property outside Portland",
+     "url": "https://www.foxnews.com/us/suspect-deaths-5-found-dead-cops-uncover-grim-scene-rural-property-outside-portland",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T05:02:51+00:00",
+     "summary": "A man suspected of killing five people in a rural area outside Portland, Oregon , was found dead inside a vehicle in Enumclaw, Washington, on Sunday in an apparent suicide, according to authorities. Benjamin Charles Parker, 36, was identified as the suspect in a quintuple murder after the bodies of five dead people were discovered on Saturday at a home in a rural community near Forest Grove, Oregon, about 25 miles west of Portland. \"Through their investigation, they believed that Parker was in Enumclaw, WA. Officers from the Enumclaw Police Department located Parker\u2019s vehicle and found him deceased inside. It is believed he died by suicide,\" the Washington County Sheriff\u2019s Office said in a statement. The Enumclaw Police Department said that an unidentified was found dead behind a Safeway grocery store in connection with the Forest Grove investigation. PARENTS FOUND BURIED BEHIND HOME IN WEALTHY NEIGHBORHOOD AS POLICE LAUNCH INTERNATIONAL MANHUNT FOR SON The Washington County Sheriff\u2019s Office said there is no known threat to the public. It is unclear how investigators were led to Parker or what connection he had to the victims. Detectives have said they do not believe the killings w"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Suspect in quintuple homicide on rural property outside Portland found dead",
+     "url": "https://www.nbcnews.com/video/suspect-in-quintuple-homicide-on-rural-property-outside-portland-found-dead-268753989804",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T04:42:40+00:00",
+     "summary": "Oregon officials say the suspect in the deaths of five people and several animals on a rural Oregon property was found dead in a vehicle in Enumclaw, Washington. KGW\u2019s Jake Holter has details on the suspect's death."
+    },
+    {
+     "outlet": "nypost",
+     "title": "\u2018Quintuple homicide\u2019 suspect found dead after 5 bodies, multiple slaughtered animals discovered on rural Oregon property",
+     "url": "https://nypost.com/2026/08/24/us-news/quintuple-homicide-suspect-found-dead-after-5-bodies-multiple-dead-animals-discovered-on-rural-oregon-property/",
+     "author": "Zoe Hussain",
+     "kind": "news",
+     "published": "2026-08-24T04:09:40+00:00",
+     "summary": "The homicide suspect, identified as Benjamin Charles Parker, 36, was found dead of apparent suicide inside a car in Enumclaw."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Suspect found dead after 5 bodies discovered in rural area outside Portland, Oregon",
+     "url": "https://abcnews.com/US/wireStory/police-investigate-after-5-bodies-found-rural-area-135891949",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T03:38:19+00:00",
+     "summary": "Officials say a quintuple murder suspect was found dead inside a vehicle in Enumclaw, Washington, a day after the bodies of five people were discovered on a rural property outside Portland, Oregon"
+    }
+   ]
+  },
+  {
    "id": "96f153fad7",
    "topic": "Justice & Policing",
    "summary": "Sangamon County Sheriff's Office via Reuters Sean Grayson, the former Illinois sheriff\u2019s deputy convicted of murdering Sonya Massey, a Black woman who called 911 to report a possible prowler, has died at 32. Attorney Daniel Fultz, who represented Grayson during his murder trial, said he died around noon on Sunday, according to NBC News. Grayson had been six months into his 20-year sentence after being found guilty last October of second-degree murder for fatally shooting Massey in 2024. He had been battling Stage 4 colon cancer that spread to his liver and lungs, as well as rectal cancer. The Illinois Prisoner Review Board denied him medical release in July, according to NBC News. It was not immediately known what caused Grayson\u2019s death or whether cancer was a factor. The Daily Beast has reached out to Fultz for comment. On July 6, 2024, Grayson and another sheriff\u2019s deputy, who was not\u2026",
@@ -1016,6 +1250,15 @@
      "summary": "Grayson, 32, was found guilty last October of second-degree murder for the shooting of Sonya Massey and was serving a 20-year sentence."
     },
     {
+     "outlet": "abcnews",
+     "title": "Sean Grayson, former Illinois deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
+     "url": "https://abcnews.com/US/wireStory/sean-grayson-former-illinois-deputy-convicted-killing-sonya-135893521",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T03:06:31+00:00",
+     "summary": "Sean Grayson, a former Illinois sheriff\u2019s deputy, has died while serving a 20-year prison sentence"
+    },
+    {
      "outlet": "dailybeast",
      "title": "Ex-Cop Convicted in Sonya Massey Killing Dies in Prison at 32",
      "url": "https://www.thedailybeast.com/ex-cop-convicted-in-sonya-massey-killing-dies-in-prison-at-32/",
@@ -1025,15 +1268,6 @@
      "summary": "Sangamon County Sheriff's Office via Reuters Sean Grayson, the former Illinois sheriff\u2019s deputy convicted of murdering Sonya Massey, a Black woman who called 911 to report a possible prowler, has died at 32. Attorney Daniel Fultz, who represented Grayson during his murder trial, said he died around noon on Sunday, according to NBC News. Grayson had been six months into his 20-year sentence after being found guilty last October of second-degree murder for fatally shooting Massey in 2024. He had been battling Stage 4 colon cancer that spread to his liver and lungs, as well as rectal cancer. The Illinois Prisoner Review Board denied him medical release in July, according to NBC News. It was not immediately known what caused Grayson\u2019s death or whether cancer was a factor. The Daily Beast has reached out to Fultz for comment. On July 6, 2024, Grayson and another sheriff\u2019s deputy, who was not charged, responded to Massey\u2019s home after she called 911. Inside, Grayson instructed Massey to remove a pot of boiling water from the stove. When she told him, \u201cI rebuke you in the name of Jesus,\u201d Grayson drew his gun and threatened to shoot her. Massey apologized and ducked behind a kitchen counter"
     },
     {
-     "outlet": "abcnews",
-     "title": "Sean Grayson, former Illinois deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-     "url": "https://abcnews.com/US/wireStory/sean-grayson-former-illinois-deputy-convicted-killing-sonya-135893521",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T01:55:23+00:00",
-     "summary": "Sean Grayson, a former Illinois sheriff\u2019s deputy, has died while serving a 20-year prison sentence"
-    },
-    {
      "outlet": "nbcnews",
      "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
      "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
@@ -1041,67 +1275,6 @@
      "kind": "news",
      "published": "2026-08-23T23:10:25+00:00",
      "summary": "Grayson was diagnosed with Stage 3 colon cancer in 2023, one of his attorneys said previously. It was unclear if that is what caused his death."
-    }
-   ]
-  },
-  {
-   "id": "2f9039e384",
-   "topic": "Culture & Sport",
-   "summary": "Chicago Sky guard Natasha Cloud fired off a pro-trans message on Sunday night following an altercation with Enes Kanter Freedom during the team\u2019s loss to the Indiana Fever. In the third quarter, Cloud scored a bucket that led to the Fever calling a timeout. She directed her emotion toward Freedom, who was sitting near the basket at the Wintrust Arena. Freedom stood up and walked toward Cloud. Sky players and security had to get in between the two. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! It wasn\u2019t immediately clear what Cloud and Freedom were yelling at each other about. Freedom was escorted out of the arena and was unable to return for the rest of the game. Cloud didn\u2019t speak at the Sky\u2019s postgame media availability. She fired off a message on Threads in support of the transgender community. \"To every trans kid/person, You are apart of MY community &\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Enes Kanter Ejected From Fever-Sky After Heated Confrontation With WNBA Player",
-   "updated": "2026-08-24T04:00:01+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 1,
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Enes Kanter Ejected From Fever-Sky After Heated Confrontation With WNBA Player",
-     "url": "https://www.newsweek.com/enes-kanter-ejected-from-fever-sky-after-heated-confrontation-with-wnba-player-12358102",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T04:00:01+00:00",
-     "summary": "Wearing an \"adult human female\" shirt, Enes Kanter got into an explosive argument with Chicago Sky guard Natasha Cloud on Sunday."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "WNBA player Natasha Cloud fires off pro-trans message following altercation with Enes Kanter Freedom",
-     "url": "https://www.foxnews.com/outkick-sports/wnba-player-natasha-cloud-fires-pro-trans-message-following-altercation-enes-kanter-freedom",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T03:39:04+00:00",
-     "summary": "Chicago Sky guard Natasha Cloud fired off a pro-trans message on Sunday night following an altercation with Enes Kanter Freedom during the team\u2019s loss to the Indiana Fever. In the third quarter, Cloud scored a bucket that led to the Fever calling a timeout. She directed her emotion toward Freedom, who was sitting near the basket at the Wintrust Arena. Freedom stood up and walked toward Cloud. Sky players and security had to get in between the two. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! It wasn\u2019t immediately clear what Cloud and Freedom were yelling at each other about. Freedom was escorted out of the arena and was unable to return for the rest of the game. Cloud didn\u2019t speak at the Sky\u2019s postgame media availability. She fired off a message on Threads in support of the transgender community. \"To every trans kid/person, You are apart of MY community & tribe. You belong. You\u2019re loved. You\u2019re seen. You\u2019re perfect as you are. & you will always be protected by me,\" Cloud wrote. ENES KANTER FREEDOM EJECTED FROM SKY-FEVER GAME AFTER VERBAL ALTERCATION WITH NATASHA CLOUD Cloud\u2019s message appeared to be a swipe at Freedom, who announced his intentions to "
-    },
-    {
-     "outlet": "nypost",
-     "title": "Enes Kanter Freedom escorted out of Fever-Sky game after ugly exchange with WNBA star Natasha Cloud",
-     "url": "https://nypost.com/2026/08/23/sports/enes-kanter-freedom-escorted-out-of-wnba-game-after-exchange-with-natasha-cloud/",
-     "author": "Christian Arnold",
-     "kind": "news",
-     "published": "2026-08-24T02:25:24+00:00",
-     "summary": "Enes Kanter Freedom leaves Fever-Sky game after a heated exchange with Natasha Cloud amid debate over trans athletes."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Enes Kanter Freedom Booted From WNBA Game After Confrontation",
-     "url": "https://www.dailywire.com/news/enes-kanter-freedom-booted-from-wnba-game-after-confrontation",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-23T21:47:51+00:00",
-     "summary": "Former NBA center Enes Kanter Freedom got booted from Sunday night\u2019s WNBA game (Indiana Fever at Chicago Sky) at Chicago\u2019s Wintrust Arena after a brief confrontation with a player on the court. Freedom, wearing a t-shirt emblazoned with the definition of the word \u201cwoman,\u201d was ejected just before the end of the third quarter after a brief confrontation with Chicago Sky guard Natasha Cloud. With 1:22 left in the quarter, Cloud scored \u2013 and the Fever called for a timeout. Cloud approached the baseline where Freedom was seated, pointing and shouting at him \u2014 and he raised both arms and stepped toward the court. Several other players and officials jumped between them, preventing the confrontation from escalating. Freedom spoke briefly with police before leaving the arena. He had attended the game, as well as a pregame rally, to show his support for Indiana Fever shooting guard Sophie Cunningham \u2014 who has become a popular target for pro-trans activists since she declared her support for biological women in sports and sex-specific spaces for women and girls. Protests and rallies have followed the Fever to several recent games, and on several occasions, women and girls who have shown their"
     }
    ]
   },
@@ -1117,7 +1290,7 @@
     "coop"
    ],
    "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-   "updated": "2026-08-24T00:59:30+00:00",
+   "updated": "2026-08-24T00:59:00+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 1,
@@ -1134,7 +1307,7 @@
      "url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T00:59:30+00:00",
+     "published": "2026-08-24T00:59:00+00:00",
      "summary": "After Ukraine's fired defense minister publicly called for wartime elections, Zelenskyy said it would risk splitting the country."
     },
     {
@@ -1236,12 +1409,12 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "high",
-     "teen"
+     "teen",
+     "high"
     ],
     "indie": [
-     "sword",
-     "year-old"
+     "year-old",
+     "sword"
     ]
    },
    "people": [],
@@ -1422,54 +1595,106 @@
    ]
   },
   {
-   "id": "def3824e28",
-   "topic": "World",
-   "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "f8d4827d39",
+   "topic": "Other",
+   "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
-    "family",
-    "coop"
+    "coop",
+    "pub"
    ],
-   "headline": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
-   "updated": "2026-08-24T05:00:12+00:00",
+   "headline": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
+   "updated": "2026-08-24T05:29:58+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 2,
+    "family": 2,
     "nonprofit": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-     "author": null,
+     "outlet": "nypost",
+     "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
+     "url": "https://nypost.com/2026/08/24/us-news/louisiana-girl-lillian-smart-dies-after-contracting-suspected-brain-eating-amoeba-linked-to-lake-swim/",
+     "author": "Fox News",
      "kind": "news",
-     "published": "2026-08-24T05:00:12+00:00",
-     "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
+     "published": "2026-08-24T05:29:58+00:00",
+     "summary": "Lillian Smart, who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday from an infection linked to the pathogen."
     },
     {
-     "outlet": "dw",
-     "title": "Ukraine news: UK PM Burnham to visit Kyiv in show of support",
-     "url": "https://www.dw.com/en/ukraine-news-uk-pm-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
+     "outlet": "foxnews",
+     "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
+     "url": "https://www.foxnews.com/health/louisiana-girl-8-dies-after-contracting-suspected-brain-eating-amoeba-linked-lake-swim",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T01:04:00+00:00",
-     "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of the Coalition of the Willing and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more."
+     "published": "2026-08-24T00:50:29+00:00",
+     "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often deadly brain infection . State health officials have not publicly identified Lillian as the patient referenced in the announcement. Her family, however, said on social media that she had been admitted to the pediatric intensive care unit at a Ruston hospital and identified Naegleria fowleri as the caus"
     },
     {
      "outlet": "guardian",
-     "title": "Burnham to visit Ukraine with promise of boost for Kyiv\u2019s long-range missiles",
-     "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-     "author": "Kiran Stacey in London and Dan Sabbagh in Dnipro",
+     "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana",
+     "author": "Marina Dunbar",
      "kind": "news",
-     "published": "2026-08-23T23:01:45+00:00",
-     "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading..."
+     "published": "2026-08-23T22:17:53+00:00",
+     "summary": "Lillian Smart of Ruston infected with fatal Naegleria fowleri , likely after swimming in Lake Claiborne, health officials say An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne. Lillian Smart, of Ruston, died on Saturday, one day after celebrating her birthday, her family announced in a public Facebook post on the \u201cLove for Lillian\u201d page . Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "56d3bb758f",
+   "topic": "World",
+   "summary": "Former Canadian Minister of International Trade, Mary Ng, says Canada is facing a lasting shift in US trade policy after negotiations broke down. Speaking to Bloomberg's Insight with Haslinda Amin, she also called for greater diversification of trade and investment beyond the US. (Source: Bloomberg)",
+   "summaryFrom": "bloomberg",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+   "updated": "2026-08-24T05:02:15+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Canada Must Adapt to New US Trade Reality: Mary Ng",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-24/canada-must-adapt-to-new-us-trade-reality-mary-ng-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T05:02:15+00:00",
+     "summary": "Former Canadian Minister of International Trade, Mary Ng, says Canada is facing a lasting shift in US trade policy after negotiations broke down. Speaking to Bloomberg's Insight with Haslinda Amin, she also called for greater diversification of trade and investment beyond the US. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+     "url": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
+     "author": "The New York Times",
+     "kind": "news",
+     "published": "2026-08-23T09:47:28+00:00",
+     "summary": "Canada suspended trade negotiations, triggering President Trump\u2019s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate \u201cdollar for dollar.\u201d"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T12:20:46+00:00",
+     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
     }
    ]
   },
@@ -1522,58 +1747,6 @@
      "kind": "news",
      "published": "2026-08-23T05:46:00+00:00",
      "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. His explosive remarks have sparked widespread public debate."
-    }
-   ]
-  },
-  {
-   "id": "5f966df8e3",
-   "topic": "Justice & Policing",
-   "summary": "A suspect in the killings of five people whose bodies, and those of several animals, were found on a rural property in Oregon was found dead Sunday, officials said.",
-   "summaryFrom": "nbcnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "\u2018Quintuple homicide\u2019 suspect found dead after 5 bodies, multiple slaughtered animals discovered on rural Oregon property",
-   "updated": "2026-08-24T04:09:40+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "\u2018Quintuple homicide\u2019 suspect found dead after 5 bodies, multiple slaughtered animals discovered on rural Oregon property",
-     "url": "https://nypost.com/2026/08/24/us-news/quintuple-homicide-suspect-found-dead-after-5-bodies-multiple-dead-animals-discovered-on-rural-oregon-property/",
-     "author": "Zoe Hussain",
-     "kind": "news",
-     "published": "2026-08-24T04:09:40+00:00",
-     "summary": "The homicide suspect, identified as Benjamin Charles Parker, 36, was found dead of apparent suicide inside a car in Enumclaw."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "5 people and multiple animals killed on rural Oregon property, with suspect found dead",
-     "url": "https://www.nbcnews.com/news/us-news/suspect-quintuple-homicide-rural-property-portland-found-dead-rcna594055",
-     "author": "Joe Kottke",
-     "kind": "news",
-     "published": "2026-08-24T02:19:35+00:00",
-     "summary": "A suspect in the killings of five people whose bodies, and those of several animals, were found on a rural property in Oregon was found dead Sunday, officials said."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Police investigate after 5 bodies found in rural area outside Portland, Oregon",
-     "url": "https://abcnews.com/US/wireStory/police-investigate-after-5-bodies-found-rural-area-135891949",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:46:11+00:00",
-     "summary": "Oregon authorities say they're investigating the deaths of five people found on a rural property outside Portland as a quintuple homicide"
     }
    ]
   },
@@ -1782,58 +1955,6 @@
      "kind": "news",
      "published": "2026-08-23T19:27:17+00:00",
      "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India."
-    }
-   ]
-  },
-  {
-   "id": "89a569d889",
-   "topic": "Justice & Policing",
-   "summary": "Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, according to his wife, Argelia Aviles. She said her husband, a handyman in Key West, Florida, has a permit to work in the United States.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-   "updated": "2026-08-24T02:24:35+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Navy sailor on USS Lincoln says dad was arrested by immigration officials",
-     "url": "https://www.cbsnews.com/news/uss-lincoln-sailor-dad-immigration-arrest-luis-manuel-aviles-roa/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T02:24:35+00:00",
-     "summary": "Historically rare, immigration arrests of military spouses and parents have become more common under the second Trump administration."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Father of sailor aboard USS Abraham Lincoln detained by immigration authorities, family says",
-     "url": "https://www.nbcnews.com/news/us-news/father-sailor-uss-abraham-lincoln-detained-immigration-family-says-rcna593961",
-     "author": "Dennis Romero",
-     "kind": "news",
-     "published": "2026-08-24T00:20:56+00:00",
-     "summary": "Joshua Aviles said he has been \u201cfighting for a country that has given me everything,\u201d only to learn his father had been detained."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-     "url": "https://www.pbs.org/newshour/nation/he-was-waiting-for-his-son-to-return-from-the-uss-lincoln-then-border-patrol-arrested-him",
-     "author": "Jack Brook, Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T22:02:09+00:00",
-     "summary": "Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, according to his wife, Argelia Aviles. She said her husband, a handyman in Key West, Florida, has a permit to work in the United States."
     }
    ]
   },
@@ -2098,58 +2219,6 @@
    ]
   },
   {
-   "id": "181ea491fb",
-   "topic": "Culture & Sport",
-   "summary": "Shelley Fabares, an actor who was a fixture on television for decades from her days as a young teenager on \u201cThe Donna Reed Show,\u201d through \u201cOne Day at a Time\u201d and \u201cCoach,\u201d has died. She was 82. The post Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82 appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82",
-   "updated": "2026-08-23T22:29:24+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82",
-     "url": "https://www.breitbart.com/entertainment/2026/08/23/shelley-fabares-johnny-angel-singer-the-donna-reed-show-and-coach-star-dies-at-82/",
-     "author": "Breitbart News",
-     "kind": "news",
-     "published": "2026-08-23T22:29:24+00:00",
-     "summary": "Shelley Fabares, an actor who was a fixture on television for decades from her days as a young teenager on \u201cThe Donna Reed Show,\u201d through \u201cOne Day at a Time\u201d and \u201cCoach,\u201d has died. She was 82. The post Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82 appeared first on Breitbart ."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Shelley Fabares, 'Donna Reed Show' and 'One Day at a Time' star, dies at 82",
-     "url": "https://www.latimes.com/obituaries/story/2026-08-23/shelley-fabares-donna-reed-show-one-day-at-time-star-dies-at-82",
-     "author": "Jasmine Mendez",
-     "kind": "news",
-     "published": "2026-08-23T21:07:27+00:00",
-     "summary": "Actress Shelley Fabares, known for \"The Donna Reed Show,\" \"One Day at a Time\" and the hit song \"Johnny Angel,\" has died at 82."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Shelley Fabares, \u2018Coach\u2019 Star And Wife Of Mike Farrell, Dies At 82",
-     "url": "https://www.forbes.com/sites/timlammers/2026/08/23/shelley-fabares-coach-star-and-wife-of-mike-farrell-dies-at-82/",
-     "author": "Tim Lammers, Contributor",
-     "kind": "news",
-     "published": "2026-08-23T21:01:40+00:00",
-     "summary": "Shelly Fabares, who starred in such TV hits as \"Coach\" and \"The Donna Reed Show,\" as well as three Elvis Presley movies, has died."
-    }
-   ]
-  },
-  {
    "id": "b7591a9cd1",
    "topic": "Business & Economy",
    "summary": "Three groups, the Anti-Defamation League, the Simon Wiesenthal Center, and the Creative Community for Peace, have joined to condemn Disney film star and \"Spider-Man: Brand New Day\" star Mark Ruffalo for his recent antisemitic comments. The post Anti-Defamation League, Other Major Jewish Groups Slam Disney\u2019s Mark Ruffalo for Antisemitic Paramount Merger Comments appeared first on Breitbart .",
@@ -2250,58 +2319,6 @@
      "kind": "news",
      "published": "2026-08-22T10:00:01+00:00",
      "summary": "Residents in hard-hit Gary and other areas are scrambling for generators, lining up for gas and bracing for a long recovery."
-    }
-   ]
-  },
-  {
-   "id": "aaddf93c19",
-   "topic": "Politics",
-   "summary": "A little more than one day after having resumed his role as governor of the Mexican state of Sinaloa, accused drug trafficker Ruben Rocha Moya announced that he was stepping down indefinitely. The move came after the narco-politician sparked much infighting within Mexico\u2019s ruling party MORENA. His move led most party members, including President Claudia Sheinbaum and all the governors, to turn their backs on him, claiming he was putting his personal interests ahead of the party's well-being. The post Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Mexican governor facing US drug charges says leaving office",
-   "updated": "2026-08-23T15:12:23+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office",
-     "url": "https://www.breitbart.com/border/2026/08/23/accused-drug-trafficker-leaves-post-as-mexican-governor-one-day-after-resuming-office/",
-     "author": "Ildefonso Ortiz and Brandon Darby",
-     "kind": "news",
-     "published": "2026-08-23T15:12:23+00:00",
-     "summary": "A little more than one day after having resumed his role as governor of the Mexican state of Sinaloa, accused drug trafficker Ruben Rocha Moya announced that he was stepping down indefinitely. The move came after the narco-politician sparked much infighting within Mexico\u2019s ruling party MORENA. His move led most party members, including President Claudia Sheinbaum and all the governors, to turn their backs on him, claiming he was putting his personal interests ahead of the party's well-being. The post Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office appeared first on Breitbart ."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Mexican official accused by U.S. of drug trafficking abruptly resigns again",
-     "url": "https://www.cbsnews.com/news/mexican-governnor-ruben-rocha-moya-sinaloa-resigns-again-us-drug-trafficking/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T12:45:10+00:00",
-     "summary": "Sinaloa Gov. Ruben Rocha Moya is accused of allegedly colluding with the infamous Sinaloa Cartel to distribute drugs inside the U.S."
-    },
-    {
-     "outlet": "dw",
-     "title": "Mexican governor facing US drug charges says leaving office",
-     "url": "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T04:47:00+00:00",
-     "summary": "Embroiled in drug trafficking charges, Ruben Rocha Moya has asked for another leave of absence just days after returning to his position as Sinaloa state governor."
     }
    ]
   },
@@ -2462,54 +2479,88 @@
    ]
   },
   {
-   "id": "e6d091a61f",
-   "topic": "Justice & Policing",
-   "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did\u2026",
-   "summaryFrom": "freepress",
+   "id": "1092f915e2",
+   "topic": "Other",
+   "summary": "Prime minister Christopher Luxon\u2019s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that \u2060seeks to ban children \u2060under 16 from using social media, proposing fines of up to 10% of a platform\u2019s global revenue for non-compliance. The bill would \u2060require social media platforms to take reasonable steps to verify users\u2019 ages, including by utilising existing account information, facial technology and \u2060digital identity documents. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
+    "family",
     "coop"
    ],
-   "headline": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-   "updated": "2026-08-22T03:43:26+00:00",
-   "outletCount": 3,
+   "headline": "New Zealand proposes social media ban for under-16s",
+   "updated": "2026-08-24T05:45:00+00:00",
+   "outletCount": 2,
    "counts": {
     "pub": 1,
-    "nonprofit": 1,
-    "family": 1
+    "nonprofit": 1
    },
-   "newsCount": 3,
+   "newsCount": 2,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-     "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+     "outlet": "dw",
+     "title": "New Zealand proposes social media ban for under-16s",
+     "url": "https://www.dw.com/en/new-zealand-proposes-social-media-ban-for-under-16s/a-78480389?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T03:43:26+00:00",
-     "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+     "published": "2026-08-24T05:45:00+00:00",
+     "summary": "The government is set to follow Australia's lead and introduce a bill banning children from social media. But the plan already faces opposition from within the ruling coalition."
     },
     {
      "outlet": "guardian",
-     "title": "Lindsay Clancy killed her children. Why do many women support her? \u2013 Stateside with Kai and Carter",
-     "url": "https://www.theguardian.com/us-news/video/2026/aug/21/lindsay-clancy-killed-her-children-why-do-many-women-support-her-stateside-with-kai-and-carter",
-     "author": "Hosted by Carter Sherman with Jenna Amatulli, produced by Monica Espitia, edited by Anabel Bacon, engineered by Ivan Kuraev",
+     "title": "New Zealand to consider banning children under 16 from social media",
+     "url": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
+     "author": "Reuters",
      "kind": "news",
-     "published": "2026-08-21T20:45:44+00:00",
-     "summary": "The trial of Lindsay Clancy, a former nurse accused of murdering her three children, is wrapping up its fifth week. On Friday morning, the defense rested, and the public attention to the case is at a fever-pitch \u2014 especially on social media. Clancy, 36, does not deny that she strangled her children, but has pleaded not guilty due to lack of criminal responsibility, also known as an insanity defense. She argues that she was in the throes of postpartum psychosis, a rare and devastating condition that can go unrecognized and untreated. Host Carter Sherman speaks with Jenna Amatulli , deputy head of news for Guardian US, about how the case has renewed attention on the fundamental shortcomings in the US's maternal healthcare system, and about why Clancy's story has captivated \u2013 and polarized \u2013 so many people Continue reading..."
+     "published": "2026-08-24T05:22:19+00:00",
+     "summary": "Prime minister Christopher Luxon\u2019s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that \u2060seeks to ban children \u2060under 16 from using social media, proposing fines of up to 10% of a platform\u2019s global revenue for non-compliance. The bill would \u2060require social media platforms to take reasonable steps to verify users\u2019 ages, including by utilising existing account information, facial technology and \u2060digital identity documents. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "2c9c78578e",
+   "topic": "Other",
+   "summary": "Azreen Meditasi, Facebook Drummer Raja Azreen Raja Talib died shortly after collapsing during a performance with his rock band Meditasi at Teruntum Rock Festival in Malaysia. Meditasi\u2019s frontman and vocalist Bakaruddin Daud recalls seeing his bandmate slump over his drum kit during the second track of their 10-song set in Kuanta. An ambulance took Raja Azreen Tengku Ampuan Afzan Hospital, where he was pronounced dead from heart complications. \u201cThe fans were quite alarmed when they saw what was happening,\u201d Daud said. \u201cHe was really happy to meet up with friends. He didn\u2019t appear sad or unwell,\u201d the bandmate continued. The drummer\u2019s brother Raja Azman said the 56-year-old had been recently diagnosed with diabetes and was hospitalized in June because of heart issues. Raja Azman added that his brother\u2019s heart may have been affected by \u201cextreme fatigue\u201d noting that Raja Azreen \u201cwent\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Malaysian rock drummer dies onstage mid-performance after collapsing over his drum kit",
+   "updated": "2026-08-24T05:17:26+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Malaysian rock drummer dies onstage mid-performance after collapsing over his drum kit",
+     "url": "https://nypost.com/2026/08/24/world-news/malaysian-rock-drummer-raja-talib-dies-onstage-mid-performance-after-collapsing-over-his-drum-kit/",
+     "author": "News.com.au",
+     "kind": "news",
+     "published": "2026-08-24T05:17:26+00:00",
+     "summary": "Malaysian rocker Raja Azreen Raja Talib was on stage with his rock band Meditasi at the Teruntum Rock Festival in Malaysia last month when he suddenly collapsed mid-performance."
     },
     {
-     "outlet": "freepress",
-     "title": "Everyone Thinks Lindsay Clancy Killed Her Kids. Except Women Online.",
-     "url": "https://www.thefp.com/p/everyone-thinks-lindsay-clancy-killed",
-     "author": "Suzy Weiss",
+     "outlet": "dailybeast",
+     "title": "Drummer, 56, Dies After Sudden Collapse Onstage",
+     "url": "https://www.thedailybeast.com/drummer-56-dies-after-collapsing-during-performance-in-malaysia/",
+     "author": "Lauren Hartley",
      "kind": "news",
-     "published": "2026-08-21T20:01:10+00:00",
-     "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did the murders, but want to stand in solidarity with her. \u201cI could have been Lindsay. Any one of us could have been,\u201d wrote one woman in her defense, echoing a recurring theme . I don\u2019t actually think that\u2019s true; most people are not actually capable of, or at risk of, doing what Clancy did. The whole Cl"
+     "published": "2026-08-23T19:45:38+00:00",
+     "summary": "Azreen Meditasi, Facebook Drummer Raja Azreen Raja Talib died shortly after collapsing during a performance with his rock band Meditasi at Teruntum Rock Festival in Malaysia. Meditasi\u2019s frontman and vocalist Bakaruddin Daud recalls seeing his bandmate slump over his drum kit during the second track of their 10-song set in Kuanta. An ambulance took Raja Azreen Tengku Ampuan Afzan Hospital, where he was pronounced dead from heart complications. \u201cThe fans were quite alarmed when they saw what was happening,\u201d Daud said. \u201cHe was really happy to meet up with friends. He didn\u2019t appear sad or unwell,\u201d the bandmate continued. The drummer\u2019s brother Raja Azman said the 56-year-old had been recently diagnosed with diabetes and was hospitalized in June because of heart issues. Raja Azman added that his brother\u2019s heart may have been affected by \u201cextreme fatigue\u201d noting that Raja Azreen \u201cwent straight\u201d from a BMX competition to the music festival before collapsing. Read it at PEOPLE Read more at The Daily Beast."
     }
    ]
   },
@@ -2526,7 +2577,7 @@
     "coop"
    ],
    "headline": "Shein aims for almost $27bn valuation in stock market debut",
-   "updated": "2026-08-24T04:06:54+00:00",
+   "updated": "2026-08-24T05:09:22+00:00",
    "outletCount": 2,
    "counts": {
     "pub": 1,
@@ -2542,7 +2593,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T04:06:54+00:00",
+     "published": "2026-08-24T05:09:22+00:00",
      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
     },
     {
@@ -2686,49 +2737,6 @@
    ]
   },
   {
-   "id": "d7ef9a85b5",
-   "topic": "Other",
-   "summary": "Bubba Watson had heard enough from a fan during the second round of LIV Golf Indianapolis and opted to confront them in what turned into quite the scene at The Club at Chatham Hills. Watson, who was playing alongside Lee Westwood and Bryson DeChambeau on day two of the LIV season finale, was captured on video walking over to a fan who could be heard shouting something while Westwood was preparing to hit his approach shot. The fan in question shouted, \"Bryson, Bryson,\" before Westwood stepped off his golf ball and Watson made his way over to the fan. The two-time Masters champion challenged the rowdy fan to say something, and as expected, the spectator remained quiet. \"Oh, you don\u2019t want to say anything now? Say something, I'm looking at ya, say it,\" Watson said towards the fan. Watson carded a 2-under 68 on Friday to jump into contention, which hasn't exactly been familiar territory for\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Bubba Watson calls out LIV Golf fan after Lee Westwood\u2019s routine gets interrupted",
-   "updated": "2026-08-24T03:03:57+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Bubba Watson calls out LIV Golf fan after Lee Westwood\u2019s routine gets interrupted",
-     "url": "https://nypost.com/2026/08/23/sports/bubba-watson-calls-out-liv-golf-fan-after-lee-westwoods-routine-gets-interrupted/",
-     "author": "Christian Arnold",
-     "kind": "news",
-     "published": "2026-08-24T03:03:57+00:00",
-     "summary": "Bubba Watson lashed out at a fan during LIV Golf\u2019s event in Indianapolis after the spectator screamed out during Lee Westwood's pre-shot routine."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Frustrated Bubba Watson confronts unruly fan at LIV Golf Indianapolis in intense scene",
-     "url": "https://www.foxnews.com/outkick-sports/frustrated-bubba-watson-confronts-unruly-fan-liv-golf-indianapolis-intense-scene",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T20:03:55+00:00",
-     "summary": "Bubba Watson had heard enough from a fan during the second round of LIV Golf Indianapolis and opted to confront them in what turned into quite the scene at The Club at Chatham Hills. Watson, who was playing alongside Lee Westwood and Bryson DeChambeau on day two of the LIV season finale, was captured on video walking over to a fan who could be heard shouting something while Westwood was preparing to hit his approach shot. The fan in question shouted, \"Bryson, Bryson,\" before Westwood stepped off his golf ball and Watson made his way over to the fan. The two-time Masters champion challenged the rowdy fan to say something, and as expected, the spectator remained quiet. \"Oh, you don\u2019t want to say anything now? Say something, I'm looking at ya, say it,\" Watson said towards the fan. Watson carded a 2-under 68 on Friday to jump into contention, which hasn't exactly been familiar territory for the 47-year-old this season. JORDAN SPIETH SAYS GAMBLING IS FUELING ROWDY GOLF CROWDS AND WANTS THE SPORT TO ADDRESS IT SOON Entering the week, Watson had secured just one top 10 finish in his 11 starts on the breakaway circuit in 2026. The lefty also missed the cut in his lone major championship st"
-    }
-   ]
-  },
-  {
    "id": "2eeb2ce6ce",
    "topic": "Other",
    "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t\u2026",
@@ -2768,92 +2776,6 @@
      "kind": "opinion",
      "published": "2026-08-22T11:00:58+00:00",
      "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t want to cover this development, either as a sportsmanship or culture war issue. There was one network willing to report a few times on the WNBA facing the issue of men in women\u2019s sports \u2014 CBS \u2014 which might explain why liberals cast aspersions on its editor-in-chief, Bari Weiss. On July 29, \"CBS Evenin"
-    }
-   ]
-  },
-  {
-   "id": "26346eef16",
-   "topic": "Justice & Policing",
-   "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Servicemember aboard USS Lincoln decries father\u2019s ICE detention",
-   "updated": "2026-08-24T02:10:17+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Servicemember aboard USS Lincoln decries father\u2019s ICE detention",
-     "url": "https://thehill.com/homenews/administration/6046254-uss-sailor-father-ice-detained/",
-     "author": "Ashleigh Fields",
-     "kind": "news",
-     "published": "2026-08-24T02:10:17+00:00",
-     "summary": "A sailor onboard the USS Abraham Lincoln on Saturday said his father was detained by Immigration and Customs Enforcement (ICE). Joshua Aviles has spent roughly nine months deployed at sea due to the Iran war amid reported shortages of clean water, food and supplies. \u201cI\u2019ve been deployed for over nine months, out at sea in..."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Father of Sailor on USS Abraham Lincoln Arrested by ICE",
-     "url": "https://www.thedailybeast.com/father-of-sailor-on-uss-abraham-lincoln-arrested-by-ice/",
-     "author": "Sarah-Jane Collins",
-     "kind": "news",
-     "published": "2026-08-23T21:25:29+00:00",
-     "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have downplayed the concerns raised by service members and their families. \u201cThis is heartbreaking for me. I don\u2019t know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,\u201d Joshua Aviles wrote in his Facebook post. The Department of Homeland Secur"
-    }
-   ]
-  },
-  {
-   "id": "439df469bf",
-   "topic": "Other",
-   "summary": "HBO's 'Lanterns' Episode 2 introduces Sinestro and deepens the Manhunter mystery, but two episodes in there's still not much of a hook. Our full review and theories.",
-   "summaryFrom": "forbes",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "\u2018Lanterns\u2019 Episode 2 Recap: It\u2019s Not Easy Bein\u2019 Green",
-   "updated": "2026-08-24T02:10:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "\u2018Lanterns\u2019 Episode 2 Recap: It\u2019s Not Easy Bein\u2019 Green",
-     "url": "https://decider.com/2026/08/23/lanterns-episode-2-recap/",
-     "author": "mliss1578",
-     "kind": "news",
-     "published": "2026-08-24T02:10:00+00:00",
-     "summary": "Hal Jordan cannot not be a jerk to poor John Stewart."
-    },
-    {
-     "outlet": "forbes",
-     "title": "\u2018Lanterns\u2019 Episode 2 Review: This Should Have Been A Binge Release",
-     "url": "https://www.forbes.com/sites/erikkain/2026/08/23/lanterns-episode-2-review-binge-release/",
-     "author": "Erik Kain, Senior Contributor",
-     "kind": "news",
-     "published": "2026-08-24T02:00:59+00:00",
-     "summary": "HBO's 'Lanterns' Episode 2 introduces Sinestro and deepens the Manhunter mystery, but two episodes in there's still not much of a hook. Our full review and theories."
     }
    ]
   },
@@ -2944,45 +2866,45 @@
    ]
   },
   {
-   "id": "f8d4827d39",
-   "topic": "Other",
-   "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often\u2026",
-   "summaryFrom": "foxnews",
+   "id": "d9d0984a7a",
+   "topic": "World",
+   "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
-    "coop",
-    "pub"
+    "family",
+    "coop"
    ],
-   "headline": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
-   "updated": "2026-08-24T00:50:29+00:00",
+   "headline": "Ukraine news: UK PM Burnham to visit Kyiv in show of support",
+   "updated": "2026-08-24T01:04:00+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 1,
+    "pub": 1,
     "nonprofit": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "foxnews",
-     "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
-     "url": "https://www.foxnews.com/health/louisiana-girl-8-dies-after-contracting-suspected-brain-eating-amoeba-linked-lake-swim",
+     "outlet": "dw",
+     "title": "Ukraine news: UK PM Burnham to visit Kyiv in show of support",
+     "url": "https://www.dw.com/en/ukraine-news-uk-pm-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T00:50:29+00:00",
-     "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often deadly brain infection . State health officials have not publicly identified Lillian as the patient referenced in the announcement. Her family, however, said on social media that she had been admitted to the pediatric intensive care unit at a Ruston hospital and identified Naegleria fowleri as the caus"
+     "published": "2026-08-24T01:04:00+00:00",
+     "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of the Coalition of the Willing and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more."
     },
     {
      "outlet": "guardian",
-     "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana",
-     "author": "Marina Dunbar",
+     "title": "Burnham to visit Ukraine with promise of boost for Kyiv\u2019s long-range missiles",
+     "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+     "author": "Kiran Stacey in London and Dan Sabbagh in Dnipro",
      "kind": "news",
-     "published": "2026-08-23T22:17:53+00:00",
-     "summary": "Lillian Smart of Ruston infected with fatal Naegleria fowleri , likely after swimming in Lake Claiborne, health officials say An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne. Lillian Smart, of Ruston, died on Saturday, one day after celebrating her birthday, her family announced in a public Facebook post on the \u201cLove for Lillian\u201d page . Continue reading..."
+     "published": "2026-08-23T23:01:45+00:00",
+     "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading..."
     }
    ]
   },
@@ -3168,49 +3090,6 @@
    ]
   },
   {
-   "id": "7c80ba7d28",
-   "topic": "Climate & Energy",
-   "summary": "Firefighters in Nevada are struggling to contain a fast-growing wildfire which has already forced the evacuation of nearly 14,000 people. A state of emergency has been called, meaning federal responders are working alongside local firefighters to try and keep it from residential areas. Details by Camille Knight.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
-   "updated": "2026-08-23T23:19:42+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Out-of-control wildfire forces evacuations",
-     "url": "https://www.nbcnews.com/nightly-news/video/out-of-control-wildfire-forces-evacuations-268743749759",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T23:19:42+00:00",
-     "summary": "A fast-moving wildfire explodes outside Reno, Nevada, scorching over 15-thousand acres and forcing tens of thousands to evacuate. NBC News\u2019 Steve Patterson reports."
-    },
-    {
-     "outlet": "france24",
-     "title": "Emergency declared in Nevada as wildfire forces evacuation of 14,000 people",
-     "url": "https://www.france24.com/en/emergency-declared-in-nevada-as-wildfire-forces-evacutation-of-14-000-people",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-23T15:54:21+00:00",
-     "summary": "Firefighters in Nevada are struggling to contain a fast-growing wildfire which has already forced the evacuation of nearly 14,000 people. A state of emergency has been called, meaning federal responders are working alongside local firefighters to try and keep it from residential areas. Details by Camille Knight."
-    }
-   ]
-  },
-  {
    "id": "8bbed05a80",
    "topic": "Other",
    "summary": "The US Capitol behind vehicles on the track during the Freedom 250 Grand Prix in Washington, DC, US, on Sunday, Aug. 23, 2026. The Freedom 250 Grand Prix, an IndyCar race through the capital, revs up Saturday and Sunday, with organizers predicting the event will bring 140,000 people per day and more than $200 million to the city. Photographer: Elizabeth Frantz/Bloomberg via Getty Images",
@@ -3293,6 +3172,49 @@
      "kind": "opinion",
      "published": "2026-08-23T08:21:11+00:00",
      "summary": "Indiana Fever played New York Liberty on Saturday night \u2014 and although Liberty walked away with the on-court win, 109-102, it was a battle between two groups of fans that made headlines. Pro-trans activists and a number of pro-woman fans \u2014 including XX-XY Athletics founder Jennifer Sey \u2014 surrounded the Barclays Center ahead of the game, brought there by Fever shooting guard Sophie Cunningham. Sey, there to support Cunningham and defend biological women in sports, told OutKick that the WNBA was consistently taking the wrong side on the issue of trans-identifying men in women\u2019s spaces. \u201cThe WNBA is just one fail after the next.\u201d @JenniferSey rips the league for preaching inclusion while censoring its fans. pic.twitter.com/Wj6OO270XM \u2014 OutKick (@Outkick) August 22, 2026 \u201cThe WNBA is just one fail after the next,\u201d she said. \u201cThey just keep stepping in it. They keep trying to censor us and our message, whether it\u2019s yelling at a young girl at the game in Seattle or telling Riley [Gaines] and I we couldn\u2019t have a sign or telling a woman in Atlanta she couldn\u2019t have the shirt.\u201d \u201cIt\u2019s just censorship after censorship, they\u2019re trying to manage this message, but people aren\u2019t having it anymor"
+    }
+   ]
+  },
+  {
+   "id": "181ea491fb",
+   "topic": "Culture & Sport",
+   "summary": "Shelley Fabares, an actor who was a fixture on television for decades from her days as a young teenager on \u201cThe Donna Reed Show,\u201d through \u201cOne Day at a Time\u201d and \u201cCoach,\u201d has died. She was 82. The post Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82 appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82",
+   "updated": "2026-08-23T22:29:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82",
+     "url": "https://www.breitbart.com/entertainment/2026/08/23/shelley-fabares-johnny-angel-singer-the-donna-reed-show-and-coach-star-dies-at-82/",
+     "author": "Breitbart News",
+     "kind": "news",
+     "published": "2026-08-23T22:29:24+00:00",
+     "summary": "Shelley Fabares, an actor who was a fixture on television for decades from her days as a young teenager on \u201cThe Donna Reed Show,\u201d through \u201cOne Day at a Time\u201d and \u201cCoach,\u201d has died. She was 82. The post Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82 appeared first on Breitbart ."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Shelley Fabares, \u2018Coach\u2019 Star And Wife Of Mike Farrell, Dies At 82",
+     "url": "https://www.forbes.com/sites/timlammers/2026/08/23/shelley-fabares-coach-star-and-wife-of-mike-farrell-dies-at-82/",
+     "author": "Tim Lammers, Contributor",
+     "kind": "news",
+     "published": "2026-08-23T21:01:40+00:00",
+     "summary": "Shelly Fabares, who starred in such TV hits as \"Coach\" and \"The Donna Reed Show,\" as well as three Elvis Presley movies, has died."
     }
    ]
   },
@@ -3508,6 +3430,135 @@
      "kind": "news",
      "published": "2026-08-21T19:31:47+00:00",
      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
+    }
+   ]
+  },
+  {
+   "id": "cb1aa60977",
+   "topic": "Other",
+   "summary": "An American Airlines flight landed safely in Dallas after a laptop battery caught fire on board, prompting flight attendants to contain the fire and emergency personnel to meet the aircraft, officials confirmed to Fox News Digital. American Airlines Flight 2398 was approaching Dallas Fort Worth International Airport (DFW) on Friday after departing Atlanta when the crew reported a laptop battery fire, according to the Federal Aviation Administration (FAA). Flight attendants contained the fire with a thermal containment bag, the FAA said. The Airbus A321 landed safely at DFW at about 6:55 p.m. local time, according to the agency. The FAA is investigating the incident. TWO PLANES BLOW TIRES WHILE LANDING AT MAJOR US AIRPORT HOURS APART, FAA INVESTIGATING American Airlines separately confirmed to Fox News Digital that smoke was reported from a customer\u2019s device during landing. \"American\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Laptop catches fire on US flight, with passenger treated at airport",
+   "updated": "2026-08-23T20:19:22+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "American Airlines flight lands safely after laptop battery catches fire on board; passenger injured",
+     "url": "https://www.foxnews.com/us/american-airlines-flight-lands-safely-laptop-battery-catches-fire-board-faa-investigating",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:19:22+00:00",
+     "summary": "An American Airlines flight landed safely in Dallas after a laptop battery caught fire on board, prompting flight attendants to contain the fire and emergency personnel to meet the aircraft, officials confirmed to Fox News Digital. American Airlines Flight 2398 was approaching Dallas Fort Worth International Airport (DFW) on Friday after departing Atlanta when the crew reported a laptop battery fire, according to the Federal Aviation Administration (FAA). Flight attendants contained the fire with a thermal containment bag, the FAA said. The Airbus A321 landed safely at DFW at about 6:55 p.m. local time, according to the agency. The FAA is investigating the incident. TWO PLANES BLOW TIRES WHILE LANDING AT MAJOR US AIRPORT HOURS APART, FAA INVESTIGATING American Airlines separately confirmed to Fox News Digital that smoke was reported from a customer\u2019s device during landing. \"American Airlines flight 2398 landed safely at DFW after reports of smoke from a customer\u2019s device during landing. We thank our crew for their professionalism and swift response to quickly contain the device,\" a spokesperson said. The aircraft taxied to the gate under its own power, where emergency personnel met"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Laptop catches fire on US flight, with passenger treated at airport",
+     "url": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T10:27:25+00:00",
+     "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely."
+    }
+   ]
+  },
+  {
+   "id": "d8a06eccf7",
+   "topic": "Politics",
+   "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialist\u2026",
+   "summaryFrom": "reason",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump Imposes Harmful and Illegal Section 338 Tariffs Against Many Canadian Imports",
+   "updated": "2026-08-23T20:14:35+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Trump Imposes Harmful and Illegal Section 338 Tariffs Against Many Canadian Imports",
+     "url": "https://reason.com/volokh/2026/08/23/trump-imposes-harmful-and-illegal-section-338-tariffs-against-many-canadian-imports/",
+     "author": "Ilya Somin",
+     "kind": "opinion",
+     "published": "2026-08-23T20:14:35+00:00",
+     "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialist Peter Harrell explained why the then-planned Canada tariffs are illegal even if Section 338 is not defunct. Trump's tariffs don't meet various requirements for invoking the law. I expect there will be legal challenges to these tariffs, and those challenges will deserve to prevail. This is the latest o"
+    },
+    {
+     "outlet": "nyt",
+     "title": "What Canadian Goods Will Take Trump\u2019s 50% Tariffs? Some Pretty Strange Items.",
+     "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
+     "author": "Ian Austen",
+     "kind": "news",
+     "published": "2026-08-23T16:14:35+00:00",
+     "summary": "Buoys, dog muzzles, capes, national flags and \u201cbase metal statuettes\u201d from Canada are now more expensive for U.S. shoppers."
+    }
+   ]
+  },
+  {
+   "id": "5e5ebcdf01",
+   "topic": "World",
+   "summary": "President Volodymyr Zelenskyy said Ukraine played no role in the sabotage of the Nord Stream gas pipelines linking Russia to Europe, following the arrest in Croatia of a second Ukrainian suspect sought by Germany.",
+   "summaryFrom": "bloomberg",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Zelenskyy repeats Ukraine not behind Nord Stream attack",
+   "updated": "2026-08-23T19:50:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Zelenskyy repeats Ukraine not behind Nord Stream attack",
+     "url": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T19:50:00+00:00",
+     "summary": "Volodymyr Zelenskyy said Ukraine was assisting German authorities with their investigation into the Nord Stream explosions. A second Ukrainian national was arrested in connection with the blasts."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Zelenskyy Says Ukraine Had No Role in Nord Stream Pipeline Blast",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/zelenskyy-says-ukraine-had-no-role-in-nord-stream-pipeline-blast",
+     "author": "Olesia Safronova",
+     "kind": "news",
+     "published": "2026-08-23T15:30:00+00:00",
+     "summary": "President Volodymyr Zelenskyy said Ukraine played no role in the sabotage of the Nord Stream gas pipelines linking Russia to Europe, following the arrest in Croatia of a second Ukrainian suspect sought by Germany."
     }
    ]
   }
