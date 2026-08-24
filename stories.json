@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T01:59:01.157946+00:00",
+ "generated": "2026-08-24T03:18:14.086399+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -10,37 +10,38 @@
    "summary": "The Freedom 250 Gr a nd Prix in America's capital is a historic spectacle. It is a feat of American patriotism that can only be rivaled by UFC 250 earlier this year. It featured the most scenic and picturesque views , flyovers from every branch of the military, President Donald Trump driving the race course in The Beast for a ceremonial lap, American flags and music all over the streets of Washington, D.C. I spoke with fans about their experience and it told me one thing: This is how sports should be. \"I think it's really unique,\" an IndyCar fan told me on the National Mall. \"Being at the [United States] Captiol for the 250[th birthday] and racing, it doesn't get too much better than that.\" Many of the fans attending felt the same thing: An overwhelming sense of pride in America. WORLD CUP ENERGY CARRIES INTO FREEDOM 250 GRAND PRIX AS GLOBAL FANS CELEBRATE AMERICA'S HISTORIC BIRTHDAY \"I\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 12,
-    "indieCount": 7,
+    "bigCount": 10,
+    "indieCount": 6,
     "big": [
-     "around",
      "event",
-     "pennsylvania",
+     "around",
+     "national",
+     "mall",
      "drivers",
-     "course",
-     "lady"
+     "course"
     ],
     "indie": [
-     "waves",
-     "green",
      "start",
+     "waves",
      "flag",
-     "mark"
+     "green",
+     "mark",
+     "past"
     ]
    },
    "people": [],
    "absent": [],
    "headline": "Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race",
    "updated": "2026-08-23T23:10:15+00:00",
-   "outletCount": 15,
+   "outletCount": 14,
    "counts": {
-    "corp": 4,
-    "family": 8,
-    "nonprofit": 3,
+    "corp": 3,
+    "family": 7,
+    "nonprofit": 2,
     "pub": 3,
     "coop": 1
    },
-   "newsCount": 18,
+   "newsCount": 15,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -97,15 +98,6 @@
      "kind": "news",
      "published": "2026-08-23T21:04:34+00:00",
      "summary": "Kirkwood, an American driver for Andretti Global, won the 250-mile race."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "IndyCar is holding its first race in D.C. today. Here's what to know.",
-     "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T20:57:07+00:00",
-     "summary": "Twenty-five cars traveling at top speeds approaching 180 mph zoomed around the National Mall this weekend as IndyCar took over downtown D.C."
     },
     {
      "outlet": "foxnews",
@@ -180,15 +172,6 @@
      "summary": "For one weekend only, speed limits don\u2019t apply to cars circling the National Mall in Washington as the Trump administration brings an IndyCar race through the capital, part of the president\u2019s celebration of the nation\u2019s 250th birthday."
     },
     {
-     "outlet": "forbes",
-     "title": "IndyCars Whiz Through DC Streets Today In Freedom 250 Grand Prix: What To Know",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/23/indycars-whiz-through-dc-streets-today-in-freedom-250-grand-prix-what-to-know/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-23T13:05:49+00:00",
-     "summary": "Racers will drive down Pennsylvania Avenue and zip past landmarks and museums along the National Mall."
-    },
-    {
      "outlet": "dailywire",
      "title": "Trump Has A Message For Freedom 250 Drivers \u2014 And It\u2019s Not \u2018Be Safe\u2019",
      "url": "https://www.dailywire.com/news/trump-has-a-message-for-freedom-250-drivers-and-its-not-be-safe",
@@ -205,137 +188,6 @@
      "kind": "news",
      "published": "2026-08-21T21:50:27+00:00",
      "summary": "The Freedom 250 Grand Prix is part of the nation\u2019s 250th anniversary celebrations and the first major auto race in the US capital in more than 24 years."
-    },
-    {
-     "outlet": "npr",
-     "title": "What to know about this weekend's IndyCar race on the National Mall",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-     "author": "Rachel Treisman",
-     "kind": "news",
-     "published": "2026-08-21T09:01:00+00:00",
-     "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
-    }
-   ]
-  },
-  {
-   "id": "f1be6183e6",
-   "topic": "World",
-   "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 3,
-    "big": [
-     "city",
-     "fueled",
-     "fast-growing",
-     "strong",
-     "winds",
-     "burned"
-    ],
-    "indie": [
-     "foothills",
-     "human-caused",
-     "approaches"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
-   "updated": "2026-08-24T01:21:37+00:00",
-   "outletCount": 9,
-   "counts": {
-    "family": 4,
-    "corp": 2,
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 9,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Nevada Hawk Fire explodes in size as it surges towards Reno, devours over 15K acres",
-     "url": "https://nypost.com/2026/08/23/us-news/hawk-fire-explodes-in-size-as-it-surges-towards-reno/",
-     "author": "Nina Joudeh",
-     "kind": "news",
-     "published": "2026-08-24T01:21:37+00:00",
-     "summary": "The Hawk Fire had devoured 15,040 acres by Sunday, just a day after it was first spotted northwest of \u201cThe Biggest Little City in the World.\""
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
-     "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:45:53+00:00",
-     "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-     "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
-     "author": "Bernard Mokam",
-     "kind": "news",
-     "published": "2026-08-23T22:42:14+00:00",
-     "summary": "The Hawk fire has burned over 13,000 acres and is encroaching on the northern part of the city. About 42,000 people are under formal evacuation orders and thousands more have been urged to flee."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
-     "url": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations",
-     "author": "John Seewer, Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T21:16:34+00:00",
-     "summary": "The Hawk Fire began Saturday and quickly grew to 20 square miles as it spread across the Peavine Peak area of the Humboldt\u2013Toiyabe National Forest, where rugged foothills are ringed by homes and businesses near the California state line."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Fast-growing Hawk Fire grows to 13,000 acres near Reno, spurs 42,000 evacuations",
-     "url": "https://abcnews.com/US/fast-growing-hawk-fire-explodes-2500-acres-spurs/story?id=135876227",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T19:34:37+00:00",
-     "summary": "About 1,000 homes were threatened, authorities said."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-     "author": "Marina Dunbar and agencies",
-     "kind": "news",
-     "published": "2026-08-23T18:22:15+00:00",
-     "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-     "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:55:52+00:00",
-     "summary": "Authorities said the fire was caused by humans."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Thousands evacuated, 6 hurt as Hawk fire grows to over 15,000 acres on California-Nevada border",
-     "url": "https://www.latimes.com/california/story/2026-08-23/hawk-fire-burns-over-10-000-acres-near-reno-prompting-evacuations",
-     "author": "Christopher Reynolds",
-     "kind": "news",
-     "published": "2026-08-23T16:30:58+00:00",
-     "summary": "Fueled by strong winds, the Hawk fire has burned over 15,000 acres near Reno with 0% containment, forcing thousands of evacuations and a state of emergency."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
-     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
-     "author": "Lowell Cauffiel",
-     "kind": "news",
-     "published": "2026-08-23T13:48:34+00:00",
-     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
     }
    ]
   },
@@ -352,8 +204,8 @@
      "president",
      "range",
      "need",
-     "right",
-     "feet"
+     "economy",
+     "thing"
     ],
     "indie": [
      "donald",
@@ -473,12 +325,12 @@
      "district"
     ],
     "indie": [
-     "public",
      "basis",
      "issuing",
      "likely",
-     "nationality",
-     "ruled"
+     "public",
+     "ruled",
+     "because"
     ]
    },
    "people": [],
@@ -573,20 +425,123 @@
    ]
   },
   {
+   "id": "f1be6183e6",
+   "topic": "World",
+   "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 3,
+    "big": [
+     "winds",
+     "strong",
+     "fueled",
+     "northern",
+     "burned"
+    ],
+    "indie": [
+     "approaches",
+     "foothills",
+     "human-caused"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
+   "updated": "2026-08-24T00:45:53+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 1,
+    "family": 3,
+    "nonprofit": 2,
+    "pub": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
+     "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T00:45:53+00:00",
+     "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+     "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+     "author": "Bernard Mokam",
+     "kind": "news",
+     "published": "2026-08-23T22:42:14+00:00",
+     "summary": "The Hawk fire has burned over 13,000 acres and is encroaching on the northern part of the city. About 42,000 people are under formal evacuation orders and thousands more have been urged to flee."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
+     "url": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations",
+     "author": "John Seewer, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T21:16:34+00:00",
+     "summary": "The Hawk Fire began Saturday and quickly grew to 20 square miles as it spread across the Peavine Peak area of the Humboldt\u2013Toiyabe National Forest, where rugged foothills are ringed by homes and businesses near the California state line."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+     "author": "Marina Dunbar and agencies",
+     "kind": "news",
+     "published": "2026-08-23T18:22:15+00:00",
+     "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+     "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T17:55:52+00:00",
+     "summary": "Authorities said the fire was caused by humans."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Thousands evacuated, 6 hurt as Hawk fire grows to over 15,000 acres on California-Nevada border",
+     "url": "https://www.latimes.com/california/story/2026-08-23/hawk-fire-burns-over-10-000-acres-near-reno-prompting-evacuations",
+     "author": "Christopher Reynolds",
+     "kind": "news",
+     "published": "2026-08-23T16:30:58+00:00",
+     "summary": "Fueled by strong winds, the Hawk fire has burned over 15,000 acres near Reno with 0% containment, forcing thousands of evacuations and a state of emergency."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
+     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
+     "author": "Lowell Cauffiel",
+     "kind": "news",
+     "published": "2026-08-23T13:48:34+00:00",
+     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
    "id": "df7ede4cc1",
    "topic": "Politics",
    "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust\u2026",
    "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 5,
+    "bigCount": 4,
     "indieCount": 3,
     "big": [
      "stay",
-     "issued",
-     "chief",
      "proceed",
+     "issued",
+     "friday",
      "here",
-     "friday"
+     "chief"
     ],
     "indie": []
    },
@@ -594,15 +549,15 @@
    "absent": [],
    "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
    "updated": "2026-08-23T14:35:20+00:00",
-   "outletCount": 8,
+   "outletCount": 7,
    "counts": {
     "family": 1,
-    "corp": 4,
     "coop": 1,
     "pub": 1,
+    "corp": 3,
     "nonprofit": 1
    },
-   "newsCount": 8,
+   "newsCount": 7,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -614,15 +569,6 @@
      "kind": "news",
      "published": "2026-08-23T14:35:20+00:00",
      "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust for Historic Preservation, which argues that a President cannot unilaterally make a major, permanent change to federally owned property when Congress has not authorized it, pointing toward the Property Clause of the Constitution. \u201cWe reiterated that the Administration has no unilateral legal authority\u2014"
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Supreme Court temporarily allows work on White House ballroom to continue",
-     "url": "https://www.cbsnews.com/news/supreme-court-white-house-ballroom-john-roberts/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T14:04:00+00:00",
-     "summary": "Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action."
     },
     {
      "outlet": "zeteo",
@@ -784,11 +730,11 @@
     ],
     "indie": [
      "democratic",
-     "york",
      "sunday",
-     "housing",
-     "times",
-     "reported"
+     "york",
+     "issues",
+     "reported",
+     "times"
     ]
    },
    "people": [],
@@ -882,9 +828,9 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
+     "sides",
      "both",
-     "carney",
-     "sides"
+     "carney"
     ],
     "indie": []
    },
@@ -962,57 +908,120 @@
    ]
   },
   {
-   "id": "f8d4827d39",
-   "topic": "World",
-   "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often\u2026",
+   "id": "dac6c93ab1",
+   "topic": "Justice & Policing",
+   "summary": "Sangamon County Sheriff's Office via Reuters Sean Grayson, the former Illinois sheriff\u2019s deputy convicted of murdering Sonya Massey, a Black woman who called 911 to report a possible prowler, has died at 32. Attorney Daniel Fultz, who represented Grayson during his murder trial, said he died around noon on Sunday, according to NBC News. Grayson had been six months into his 20-year sentence after being found guilty last October of second-degree murder for fatally shooting Massey in 2024. He had been battling Stage 4 colon cancer that spread to his liver and lungs, as well as rectal cancer. The Illinois Prisoner Review Board denied him medical release in July, according to NBC News. It was not immediately known what caused Grayson\u2019s death or whether cancer was a factor. The Daily Beast has reached out to Fultz for comment. On July 6, 2024, Grayson and another sheriff\u2019s deputy, who was not\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Ex-Cop Convicted in Sonya Massey Killing Dies in Prison at 32",
+   "updated": "2026-08-24T02:20:56+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 4,
+    "family": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Ex-Cop Convicted in Sonya Massey Killing Dies in Prison at 32",
+     "url": "https://www.thedailybeast.com/ex-cop-convicted-in-sonya-massey-killing-dies-in-prison-at-32/",
+     "author": "Erkki Forster",
+     "kind": "news",
+     "published": "2026-08-24T02:20:56+00:00",
+     "summary": "Sangamon County Sheriff's Office via Reuters Sean Grayson, the former Illinois sheriff\u2019s deputy convicted of murdering Sonya Massey, a Black woman who called 911 to report a possible prowler, has died at 32. Attorney Daniel Fultz, who represented Grayson during his murder trial, said he died around noon on Sunday, according to NBC News. Grayson had been six months into his 20-year sentence after being found guilty last October of second-degree murder for fatally shooting Massey in 2024. He had been battling Stage 4 colon cancer that spread to his liver and lungs, as well as rectal cancer. The Illinois Prisoner Review Board denied him medical release in July, according to NBC News. It was not immediately known what caused Grayson\u2019s death or whether cancer was a factor. The Daily Beast has reached out to Fultz for comment. On July 6, 2024, Grayson and another sheriff\u2019s deputy, who was not charged, responded to Massey\u2019s home after she called 911. Inside, Grayson instructed Massey to remove a pot of boiling water from the stove. When she told him, \u201cI rebuke you in the name of Jesus,\u201d Grayson drew his gun and threatened to shoot her. Massey apologized and ducked behind a kitchen counter"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Sean Grayson, convicted in killing of Sonya Massey, dies in prison, attorney says",
+     "url": "https://www.cbsnews.com/news/sean-grayson-former-sangamon-county-deputy-dies-in-prison/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T02:02:27+00:00",
+     "summary": "Grayson, 32, was found guilty last October of second-degree murder for the shooting of Sonya Massey and was serving a 20-year sentence."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Sean Grayson, former Illinois deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
+     "url": "https://abcnews.com/US/wireStory/sean-grayson-former-illinois-deputy-convicted-killing-sonya-135893521",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T01:55:23+00:00",
+     "summary": "Sean Grayson, a former Illinois sheriff\u2019s deputy, has died while serving a 20-year prison sentence"
+    },
+    {
+     "outlet": "nypost",
+     "title": "Sean Grayson, ex-Illinois deputy who fatally shot Sonya Massey over pot of hot water, dead in prison at 32",
+     "url": "https://nypost.com/2026/08/23/us-news/sean-grayson-ex-deputy-who-fatally-shot-sonya-massey-dead-in-prison-at-32/",
+     "author": "Zoe Hussain",
+     "kind": "news",
+     "published": "2026-08-24T01:48:27+00:00",
+     "summary": "Sean Grayson's defense attorney, Daniel Fultz, confirmed to The Post that the former Illinois deputy died early Sunday \u2014 six months into his 20-year prison sentence."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
+     "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
+     "author": "Dennis Romero",
+     "kind": "news",
+     "published": "2026-08-23T23:10:25+00:00",
+     "summary": "Grayson was diagnosed with Stage 3 colon cancer in 2023, one of his attorneys said previously. It was unclear if that is what caused his death."
+    }
+   ]
+  },
+  {
+   "id": "5fe4280c79",
+   "topic": "Justice & Policing",
+   "summary": "KJ Biermann, 15, was arrested and charged with two felony counts stemming from an alleged April incident, according to documents obtained by Fox News Digital. KJ (who's full name is Kroy Jagger) was charged with aggravated sexual battery and aggravated sodomy Aug. 17 following his arrest in Alpharetta, Georgia . The teen is being charged as an adult under Georgia's SB440 law, which gives adult superior courts jurisdiction over teenagers aged 13 to 17 accused of specific violent felonies. REALITY STAR'S DAUGHTER ARRESTED ON ASSAULT CHARGE IN NEW JERSEY STEMMING FROM ALLEGED DISPUTE His mother, \" Real Housewives of Atlanta \" star Kim Zolciak, denied the allegations levied against her son in a statement provided to Fox News Digital. \"The allegations being made against my son are nothing short of reckless and deeply troubling,\" the reality star said. \"He categorically denies ever being\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
     "bigCount": 3,
-    "indieCount": 3,
-    "big": [],
+    "indieCount": 2,
+    "big": [
+     "star"
+    ],
     "indie": [
-     "tired",
-     "mount",
+     "left",
      "fuji",
-     "hike",
      "father",
-     "leaves"
+     "mount",
+     "leaves",
+     "hike"
     ]
    },
    "people": [],
    "absent": [
     "coop"
    ],
-   "headline": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
-   "updated": "2026-08-24T00:50:29+00:00",
+   "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+   "updated": "2026-08-24T02:00:26+00:00",
    "outletCount": 5,
    "counts": {
     "family": 2,
-    "nonprofit": 2,
     "corp": 1,
-    "pub": 1
+    "pub": 1,
+    "nonprofit": 1
    },
-   "newsCount": 5,
+   "newsCount": 4,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
      "outlet": "foxnews",
-     "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
-     "url": "https://www.foxnews.com/health/louisiana-girl-8-dies-after-contracting-suspected-brain-eating-amoeba-linked-lake-swim",
+     "title": "'Real Housewives' star Kim Zolciak denies sexual battery charge against 15-year-old son after his arrest",
+     "url": "https://www.foxnews.com/entertainment/real-housewives-star-kim-zolciak-denies-sexual-battery-charge-against-15-year-old-son-after-his-arrest",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T00:50:29+00:00",
-     "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often deadly brain infection . State health officials have not publicly identified Lillian as the patient referenced in the announcement. Her family, however, said on social media that she had been admitted to the pediatric intensive care unit at a Ruston hospital and identified Naegleria fowleri as the caus"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana",
-     "author": "Marina Dunbar",
-     "kind": "news",
-     "published": "2026-08-23T22:17:53+00:00",
-     "summary": "Lillian Smart of Ruston infected with fatal Naegleria fowleri , likely after swimming in Lake Claiborne, health officials say An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne. Lillian Smart, of Ruston, died on Saturday, one day after celebrating her birthday, her family announced in a public Facebook post on the \u201cLove for Lillian\u201d page . Continue reading..."
+     "published": "2026-08-24T02:00:26+00:00",
+     "summary": "KJ Biermann, 15, was arrested and charged with two felony counts stemming from an alleged April incident, according to documents obtained by Fox News Digital. KJ (who's full name is Kroy Jagger) was charged with aggravated sexual battery and aggravated sodomy Aug. 17 following his arrest in Alpharetta, Georgia . The teen is being charged as an adult under Georgia's SB440 law, which gives adult superior courts jurisdiction over teenagers aged 13 to 17 accused of specific violent felonies. REALITY STAR'S DAUGHTER ARRESTED ON ASSAULT CHARGE IN NEW JERSEY STEMMING FROM ALLEGED DISPUTE His mother, \" Real Housewives of Atlanta \" star Kim Zolciak, denied the allegations levied against her son in a statement provided to Fox News Digital. \"The allegations being made against my son are nothing short of reckless and deeply troubling,\" the reality star said. \"He categorically denies ever being involved with this woman or engaging in the conduct she has alleged. GET ENTERTAINMENT SCOOP DELIVERED RIGHT TO YOUR EMAIL BY CLICKING HERE \"My son voluntarily took a polygraph examination regarding these allegations and passed. Additionally, an examination was conducted, and no DNA belonging to my son w"
     },
     {
      "outlet": "dailybeast",
@@ -1175,67 +1184,6 @@
    ]
   },
   {
-   "id": "89a569d889",
-   "topic": "Justice & Policing",
-   "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-   "updated": "2026-08-24T00:20:56+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Father of sailor aboard USS Abraham Lincoln detained by immigration authorities, family says",
-     "url": "https://www.nbcnews.com/news/us-news/father-sailor-uss-abraham-lincoln-detained-immigration-family-says-rcna593961",
-     "author": "Dennis Romero",
-     "kind": "news",
-     "published": "2026-08-24T00:20:56+00:00",
-     "summary": "Joshua Aviles said he has been \u201cfighting for a country that has given me everything,\u201d only to learn his father had been detained."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Navy sailor on USS Lincoln says dad was arrested by immigration officials",
-     "url": "https://www.cbsnews.com/news/uss-lincoln-sailor-dad-immigration-arrest-luis-manuel-aviles-roa/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T22:46:15+00:00",
-     "summary": "Historically rare, immigration arrests of military spouses and parents have become more common under the second Trump administration."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-     "url": "https://www.pbs.org/newshour/nation/he-was-waiting-for-his-son-to-return-from-the-uss-lincoln-then-border-patrol-arrested-him",
-     "author": "Jack Brook, Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T22:02:09+00:00",
-     "summary": "Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, according to his wife, Argelia Aviles. She said her husband, a handyman in Key West, Florida, has a permit to work in the United States."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Father of Sailor on USS Abraham Lincoln Arrested by ICE",
-     "url": "https://www.thedailybeast.com/father-of-sailor-on-uss-abraham-lincoln-arrested-by-ice/",
-     "author": "Sarah-Jane Collins",
-     "kind": "news",
-     "published": "2026-08-23T21:25:29+00:00",
-     "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have downplayed the concerns raised by service members and their families. \u201cThis is heartbreaking for me. I don\u2019t know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,\u201d Joshua Aviles wrote in his Facebook post. The Department of Homeland Secur"
-    }
-   ]
-  },
-  {
    "id": "dce70a84b6",
    "topic": "World",
    "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Constanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Constanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more",
@@ -1244,9 +1192,9 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
+     "economic",
      "states",
      "warns",
-     "economic",
      "united"
     ],
     "indie": []
@@ -1441,8 +1389,8 @@
      "teen"
     ],
     "indie": [
-     "sword",
-     "year-old"
+     "year-old",
+     "sword"
     ]
    },
    "people": [],
@@ -1623,6 +1571,327 @@
    ]
   },
   {
+   "id": "aaddf93c19",
+   "topic": "Justice & Policing",
+   "summary": "A little more than one day after having resumed his role as governor of the Mexican state of Sinaloa, accused drug trafficker Ruben Rocha Moya announced that he was stepping down indefinitely. The move came after the narco-politician sparked much infighting within Mexico\u2019s ruling party MORENA. His move led most party members, including President Claudia Sheinbaum and all the governors, to turn their backs on him, claiming he was putting his personal interests ahead of the party's well-being. The post Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Mexican governor facing US drug charges says leaving office",
+   "updated": "2026-08-23T15:12:23+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office",
+     "url": "https://www.breitbart.com/border/2026/08/23/accused-drug-trafficker-leaves-post-as-mexican-governor-one-day-after-resuming-office/",
+     "author": "Ildefonso Ortiz and Brandon Darby",
+     "kind": "news",
+     "published": "2026-08-23T15:12:23+00:00",
+     "summary": "A little more than one day after having resumed his role as governor of the Mexican state of Sinaloa, accused drug trafficker Ruben Rocha Moya announced that he was stepping down indefinitely. The move came after the narco-politician sparked much infighting within Mexico\u2019s ruling party MORENA. His move led most party members, including President Claudia Sheinbaum and all the governors, to turn their backs on him, claiming he was putting his personal interests ahead of the party's well-being. The post Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office appeared first on Breitbart ."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Mexican official accused by U.S. of drug trafficking abruptly resigns again",
+     "url": "https://www.cbsnews.com/news/mexican-governnor-ruben-rocha-moya-sinaloa-resigns-again-us-drug-trafficking/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T12:45:10+00:00",
+     "summary": "Sinaloa Gov. Ruben Rocha Moya is accused of allegedly colluding with the infamous Sinaloa Cartel to distribute drugs inside the U.S."
+    },
+    {
+     "outlet": "dw",
+     "title": "Mexican governor facing US drug charges says leaving office",
+     "url": "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T04:47:00+00:00",
+     "summary": "Embroiled in drug trafficking charges, Ruben Rocha Moya has asked for another leave of absence just days after returning to his position as Sinaloa state governor."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Governor of Mexico's Sinaloa state, indicted by U.S., steps down from office \u2014 again",
+     "url": "https://www.latimes.com/world-nation/story/2026-08-22/sinaloa-state-governor-indicted-by-u-s-resigns-again",
+     "author": "Patrick J. McDonnell",
+     "kind": "news",
+     "published": "2026-08-23T03:26:04+00:00",
+     "summary": "Gov. Rub\u00e9n Rocha Moya of Mexico's Sinaloa state announced Saturday he is once again taking leave \u2014 a day after returning to office following a months-long absence after being indicted in the United States on drug-trafficking and other charges."
+    }
+   ]
+  },
+  {
+   "id": "1044128985",
+   "topic": "Climate & Energy",
+   "summary": "Forecasters expected Moke to produce as much as 10 inches of total rain across the Big Island, and up to 15 inches in some isolated places, enough to cause life-threatening flooding and mudslides for the windward and southeast slopes.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Tropical Storm Moke set to dump more heavy rain on hurricane-stricken Hawaii",
+   "updated": "2026-08-24T03:12:24+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Moke weakens to tropical depression as Hawaii braces for rain",
+     "url": "https://www.cbsnews.com/news/tropical-storm-moke-rain-hawaii-big-island/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T03:12:24+00:00",
+     "summary": "Hawaii is still cleaning up from Hurricane Lala, which dumped massive amounts of rain on the islands."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Tropical Storm Moke set to dump more heavy rain on hurricane-stricken Hawaii",
+     "url": "https://www.pbs.org/newshour/nation/tropical-storm-moke-carrying-more-rain-toward-hurricane-damaged-hawaii",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T18:22:46+00:00",
+     "summary": "Forecasters expected Moke to produce as much as 10 inches of total rain across the Big Island, and up to 15 inches in some isolated places, enough to cause life-threatening flooding and mudslides for the windward and southeast slopes."
+    },
+    {
+     "outlet": "npr",
+     "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+     "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+     "author": "Chandelis Duster",
+     "kind": "news",
+     "published": "2026-08-23T12:48:05+00:00",
+     "summary": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA. (Image credit: NOAA)"
+    }
+   ]
+  },
+  {
+   "id": "5089e26b6e",
+   "topic": "Culture & Sport",
+   "summary": "There are a number of very obvious reasons why Cleveland Browns fans might boo Deshaun Watson, all of which are a matter of public record and none of which Watson can really afford to concern himself with. It is a requirement of his extremely difficult job that Watson must maintain a towering and preposterous level of self-belief, a load-bearing faith that must be strong enough, which is to say unreasonable and unreasoning enough, to withstand any and every possible failure or humiliation. Being a NFL quarterback is just too difficult to do with any other mindset, and while that work is not really made easier in any meaningful way when it follows the absolute certainty that the man under center is the protagonist of reality and the hero of every story in which he might figure, Watson is not remotely alone in his rarefied professional cohort in his belief that it would be impossible to\u2026",
+   "summaryFrom": "defector",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "pub"
+   ],
+   "headline": "Browns QB Deshaun Watson laments \u2018disrespectful\u2019 booing by team\u2019s own fans",
+   "updated": "2026-08-24T02:46:08+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "coop": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Todd Monken Doesn't Hold Back on Deshaun Watson Going After Browns Fans",
+     "url": "https://www.newsweek.com/todd-monken-doesnt-hold-back-on-deshaun-watson-going-after-browns-fans-12358051",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T02:46:08+00:00",
+     "summary": "Cleveland Browns head coach Todd Monken revealed what he thought about QB Deshaun Watson calling out fans for booing him."
+    },
+    {
+     "outlet": "defector",
+     "title": "Deshaun Watson: Very Telling That Browns Fans Would Boo Me For Being A Lousy Quarterback And Shitty Guy",
+     "url": "https://defector.com/deshaun-watson-booed-in-preseason-for-some-reason",
+     "author": "David Roth",
+     "kind": "news",
+     "published": "2026-08-23T19:49:38+00:00",
+     "summary": "There are a number of very obvious reasons why Cleveland Browns fans might boo Deshaun Watson, all of which are a matter of public record and none of which Watson can really afford to concern himself with. It is a requirement of his extremely difficult job that Watson must maintain a towering and preposterous level of self-belief, a load-bearing faith that must be strong enough, which is to say unreasonable and unreasoning enough, to withstand any and every possible failure or humiliation. Being a NFL quarterback is just too difficult to do with any other mindset, and while that work is not really made easier in any meaningful way when it follows the absolute certainty that the man under center is the protagonist of reality and the hero of every story in which he might figure, Watson is not remotely alone in his rarefied professional cohort in his belief that it would be impossible to do otherwise. This would all be more compelling if that wasn't also how basically every asshole alive sees himself and relates to the rest of the world. When the person acting like that is also a great quarterback, a large and loud cultural apparatus gets to work making it seem significant or even jus"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Browns QB Deshaun Watson laments \u2018disrespectful\u2019 booing by team\u2019s own fans",
+     "url": "https://www.theguardian.com/sport/2026/aug/22/browns-qb-deshaun-watson-says-being-booed-by-teams-own-fans-is-disrespectful",
+     "author": "Guardian sport and agencies",
+     "kind": "news",
+     "published": "2026-08-23T00:46:35+00:00",
+     "summary": "Player booed during team\u2019s preseason loss to Bills QB has battled injuries during time in Cleveland Watson was suspended over sexual assault allegations Browns quarterback Deshaun Watson has called the booing he heard from the team\u2019s own fans during Saturday\u2019s home loss to Buffalo \u201cdisrespectful\u201d and \u201cpersonal.\u201d Watson, who has a complicated relationship with Cleveland fans because of injuries, off-field issues \u2013 including an NFL suspension in 2022 \u2013 and a massive, $230m contract, was booed repeatedly during the second half of the 31-7 loss to the Bills. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "52c12c77a4",
+   "topic": "Other",
+   "summary": "At least 30 people were killed in a massive landslide in Guinea on Sunday when a mountainous open-air landfill collapsed and buried nearby shacks, trapping numerous victims beneath a mass of garbage. The incident happened at Dar Es Salam, the largest waste dump in the West African country's capital, Conakry, according to a report from The Associated Press (AP). Guinea News reported that the weight of the waste caused a three-story building beneath it to cave in. Authorities said heavy rainfall also washed over the refuse overnight, creating hazardous conditions at the landfill , according to the AP. EARTHQUAKE SHAKES PERU'S ANDES REGION, KILLING AT LEAST 5, DISPLACING HUNDREDS Six people were seriously injured and several homes were destroyed in the incident, according to reports. Officials launched a search-and-rescue operation to find any survivors. The AP reported that the landfill\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+   "updated": "2026-08-24T02:32:59+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "At least 30 killed after massive waste pile collapses, trapping victims beneath garbage",
+     "url": "https://nypost.com/2026/08/23/world-news/at-least-30-killed-after-massive-waste-pile-collapses-trapping-victims-beneath-garbage/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-24T02:32:59+00:00",
+     "summary": "Guinea News reported that the weight of the waste caused a three-story building beneath it to cave in."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Massive garbage heap collapses onto homes, killing at least 30 as rescuers search for survivors",
+     "url": "https://www.foxnews.com/world/massive-garbage-heap-collapses-onto-homes-killing-least-30-rescuers-search-survivors",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:53:10+00:00",
+     "summary": "At least 30 people were killed in a massive landslide in Guinea on Sunday when a mountainous open-air landfill collapsed and buried nearby shacks, trapping numerous victims beneath a mass of garbage. The incident happened at Dar Es Salam, the largest waste dump in the West African country's capital, Conakry, according to a report from The Associated Press (AP). Guinea News reported that the weight of the waste caused a three-story building beneath it to cave in. Authorities said heavy rainfall also washed over the refuse overnight, creating hazardous conditions at the landfill , according to the AP. EARTHQUAKE SHAKES PERU'S ANDES REGION, KILLING AT LEAST 5, DISPLACING HUNDREDS Six people were seriously injured and several homes were destroyed in the incident, according to reports. Officials launched a search-and-rescue operation to find any survivors. The AP reported that the landfill was originally scheduled to close Sunday after officials warned of hazardous conditions, citing Lt. Col. Bald\u00e9 Mamadou Bailo, the sanitation officer for the military engineering battalion. The decision followed reports of a similar incident at the landfill in recent years, raising concerns about its s"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T19:27:17+00:00",
+     "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India."
+    }
+   ]
+  },
+  {
+   "id": "3fcf3b3fd5",
+   "topic": "Culture & Sport",
+   "summary": "Former NBA center Enes Kanter Freedom, who is trying to make his way into women\u2019s basketball, was escorted out of Wintrust Arena during the third quarter Sunday after a heated shouting match with Chicago Sky guard Natasha Cloud. With the Indiana Fever holding an 81-75 lead during a third-quarter timeout, Cloud began barking toward Freedom, who was seated courtside. Freedom responded and stepped toward the floor, prompting security to intervene and usher the 11-year NBA veteran out as the Chicago crowd rained down boos. WNBA COMMISSIONER CATHY ENGELBERT BLAMES THE WRONG PEOPLE FOR \u2018SOWING DIVISIVENESS\u2019 IN TRANSGENDER DEBATE Immediately after security removed him, Freedom fired back on X: \"I just got kicked out of a @ WNBA game for supporting WOMEN! Let that sink in, AMERICA!\" He followed with another jab: \"It\u2019s always women hating on other women.\" WNBA COMMISSIONER CATHY ENGELBERT SENDS\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Enes Kanter Freedom escorted out of Fever-Sky game after ugly exchange with WNBA star Natasha Cloud",
+   "updated": "2026-08-24T02:25:24+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 3
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Enes Kanter Freedom escorted out of Fever-Sky game after ugly exchange with WNBA star Natasha Cloud",
+     "url": "https://nypost.com/2026/08/23/sports/enes-kanter-freedom-escorted-out-of-wnba-game-after-exchange-with-natasha-cloud/",
+     "author": "Christian Arnold",
+     "kind": "news",
+     "published": "2026-08-24T02:25:24+00:00",
+     "summary": "Enes Kanter Freedom leaves Fever-Sky game after a heated exchange with Natasha Cloud amid debate over trans athletes."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Enes Kanter Freedom ejected from Sky-Fever game after verbal altercation with Natasha Cloud",
+     "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-ejected-sky-fever-game-verbal-altercation-natasha-cloud",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T01:26:49+00:00",
+     "summary": "Former NBA center Enes Kanter Freedom, who is trying to make his way into women\u2019s basketball, was escorted out of Wintrust Arena during the third quarter Sunday after a heated shouting match with Chicago Sky guard Natasha Cloud. With the Indiana Fever holding an 81-75 lead during a third-quarter timeout, Cloud began barking toward Freedom, who was seated courtside. Freedom responded and stepped toward the floor, prompting security to intervene and usher the 11-year NBA veteran out as the Chicago crowd rained down boos. WNBA COMMISSIONER CATHY ENGELBERT BLAMES THE WRONG PEOPLE FOR \u2018SOWING DIVISIVENESS\u2019 IN TRANSGENDER DEBATE Immediately after security removed him, Freedom fired back on X: \"I just got kicked out of a @ WNBA game for supporting WOMEN! Let that sink in, AMERICA!\" He followed with another jab: \"It\u2019s always women hating on other women.\" WNBA COMMISSIONER CATHY ENGELBERT SENDS TRANS INCLUSION MEMO AFTER ENES FREEDOM, ROYCE WHITE ANNOUNCEMENTS Cloud previously called America \"trash,\" so Freedom offered to buy her a ticket to China, Russia or Turkey, where she could trade her woke complaints for a firsthand look at actual tyranny. He also arrived Sunday wearing a shirt with "
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Enes Kanter Freedom Booted From WNBA Game After Confrontation",
+     "url": "https://www.dailywire.com/news/enes-kanter-freedom-booted-from-wnba-game-after-confrontation",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-23T21:47:51+00:00",
+     "summary": "Former NBA center Enes Kanter Freedom got booted from Sunday night\u2019s WNBA game (Indiana Fever at Chicago Sky) at Chicago\u2019s Wintrust Arena after a brief confrontation with a player on the court. Freedom, wearing a t-shirt emblazoned with the definition of the word \u201cwoman,\u201d was ejected just before the end of the third quarter after a brief confrontation with Chicago Sky guard Natasha Cloud. With 1:22 left in the quarter, Cloud scored \u2013 and the Fever called for a timeout. Cloud approached the baseline where Freedom was seated, pointing and shouting at him \u2014 and he raised both arms and stepped toward the court. Several other players and officials jumped between them, preventing the confrontation from escalating. Freedom spoke briefly with police before leaving the arena. He had attended the game, as well as a pregame rally, to show his support for Indiana Fever shooting guard Sophie Cunningham \u2014 who has become a popular target for pro-trans activists since she declared her support for biological women in sports and sex-specific spaces for women and girls. Protests and rallies have followed the Fever to several recent games, and on several occasions, women and girls who have shown their"
+    }
+   ]
+  },
+  {
+   "id": "89a569d889",
+   "topic": "Justice & Policing",
+   "summary": "Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, according to his wife, Argelia Aviles. She said her husband, a handyman in Key West, Florida, has a permit to work in the United States.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
+   "updated": "2026-08-24T02:24:35+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Navy sailor on USS Lincoln says dad was arrested by immigration officials",
+     "url": "https://www.cbsnews.com/news/uss-lincoln-sailor-dad-immigration-arrest-luis-manuel-aviles-roa/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T02:24:35+00:00",
+     "summary": "Historically rare, immigration arrests of military spouses and parents have become more common under the second Trump administration."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Father of sailor aboard USS Abraham Lincoln detained by immigration authorities, family says",
+     "url": "https://www.nbcnews.com/news/us-news/father-sailor-uss-abraham-lincoln-detained-immigration-family-says-rcna593961",
+     "author": "Dennis Romero",
+     "kind": "news",
+     "published": "2026-08-24T00:20:56+00:00",
+     "summary": "Joshua Aviles said he has been \u201cfighting for a country that has given me everything,\u201d only to learn his father had been detained."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
+     "url": "https://www.pbs.org/newshour/nation/he-was-waiting-for-his-son-to-return-from-the-uss-lincoln-then-border-patrol-arrested-him",
+     "author": "Jack Brook, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T22:02:09+00:00",
+     "summary": "Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, according to his wife, Argelia Aviles. She said her husband, a handyman in Key West, Florida, has a permit to work in the United States."
+    }
+   ]
+  },
+  {
    "id": "856b18d300",
    "topic": "Other",
    "summary": "The Las Vegas Raiders are holding their breath. Star running back Ashton Jeanty suffered an apparent leg injury during practice on Sunday and had to be helped off the field. The 22-year-old was unable to put any pressure on his right leg. Jeanty sustained the injury when he dove to catch a pass during a team period and stayed on the ground until he was helped off. As Jeanty remained on the ground, the indoor practice facility went silent. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM The entire team knelt and prayed for their teammate. The Raiders have not yet provided a statement on Jeanty\u2019s injury, and head coach Klint Kubiak is not scheduled to speak with reporters until Tuesday. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! Coming off a strong rookie season, Jeanty had not played much during the team\u2019s two preseason games. He had just three\u2026",
@@ -1671,214 +1940,6 @@
      "kind": "news",
      "published": "2026-08-23T20:59:47+00:00",
      "summary": "Dallas Cowboys wide receiver Ceedee Lamb at training camp at River Ridge Playing Fields in Oxnard, Calif., on Aug. 1, 2026."
-    }
-   ]
-  },
-  {
-   "id": "f58d018b82",
-   "topic": "Justice & Policing",
-   "summary": "Sean Grayson's defense attorney, Daniel Fultz, confirmed to The Post that the former Illinois deputy died early Sunday \u2014 six months into his 20-year prison sentence.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Sean Grayson, ex-deputy who fatally shot Sonya Massey, dead in prison at 32",
-   "updated": "2026-08-24T01:48:27+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Sean Grayson, ex-deputy who fatally shot Sonya Massey, dead in prison at 32",
-     "url": "https://nypost.com/2026/08/23/us-news/sean-grayson-ex-deputy-who-fatally-shot-sonya-massey-dead-in-prison-at-32/",
-     "author": "Zoe Hussain",
-     "kind": "news",
-     "published": "2026-08-24T01:48:27+00:00",
-     "summary": "Sean Grayson's defense attorney, Daniel Fultz, confirmed to The Post that the former Illinois deputy died early Sunday \u2014 six months into his 20-year prison sentence."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
-     "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
-     "author": "Dennis Romero",
-     "kind": "news",
-     "published": "2026-08-23T23:10:25+00:00",
-     "summary": "Grayson was diagnosed with Stage 3 colon cancer in 2023, one of his attorneys said previously. It was unclear if that is what caused his death."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Sean Grayson, convicted in killing of Sonya Massey, dies in prison, attorney says",
-     "url": "https://www.cbsnews.com/news/sean-grayson-former-sangamon-county-deputy-dies-in-prison/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T23:06:38+00:00",
-     "summary": "Grayson, 32, was found guilty last October of second-degree murder for the shooting of Sonya Massey and was serving a 20-year sentence."
-    }
-   ]
-  },
-  {
-   "id": "5ea8915092",
-   "topic": "Other",
-   "summary": "Speak Freely recently posted, \"You Chose the Wrong Parents,\" an interview I did with them on migration rights. We covered many issues relating to immigration, including the case for migration rights, how immigration restrictions are similar to medieval serfdom, causes of anti-immigrant sentiment, what I think are the strongest arguments for restrictionism, and how migration relates to broader dangers of nationalism , zero-sum thinking , and widespread political ignorance . Thanks in large part to the great questions posed by Speak Freely website editor-in-chief Ogechukwu Egwuatu (herself an African immigrant to France), I think this was one of my best media interviews of the last few years. Speak Freely is a publication of European Students for Liberty, and we conducted the interview in April, during LibertyCon Europe (ESFL's annual convention). I wrote about my experience at LibertyCon\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Australia news live: Joyce says One Nation MP got migration policy wrong; second fur seal dies of suspected bird flu",
-   "updated": "2026-08-24T01:37:46+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Australia news live: Joyce says One Nation MP got migration policy wrong; second fur seal dies of suspected bird flu",
-     "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-     "author": "Nick Visser",
-     "kind": "news",
-     "published": "2026-08-24T01:37:46+00:00",
-     "summary": "David Farley said on Sunday that party\u2019s migration policy is \u2018not too different\u2019 to Labor\u2019s. Follow today\u2019s news live Get our breaking news email , free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, with a series of witnesses expected to give evidence at Sydney\u2019s Downing Centre local court before Judge Glenn Walsh . Continue reading..."
-    },
-    {
-     "outlet": "dw",
-     "title": "Australia confirms H5N1 bird flu case in local mammal",
-     "url": "https://www.dw.com/en/australia-confirms-h5n1-bird-flu-case-in-local-mammal/a-78473874?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T06:58:00+00:00",
-     "summary": "Australian authorities said the deadly virus's spread to mammals was \"concerning\" but \"not unexpected.\""
-    },
-    {
-     "outlet": "reason",
-     "title": "\"You Chose the Wrong Parents\" - My \"Speak Freely\" Interview on the Case for Migration Rights",
-     "url": "https://reason.com/volokh/2026/08/21/you-chose-the-wrong-parents-my-speak-freely-interview-on-the-case-for-migration-rights/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-21T14:47:28+00:00",
-     "summary": "Speak Freely recently posted, \"You Chose the Wrong Parents,\" an interview I did with them on migration rights. We covered many issues relating to immigration, including the case for migration rights, how immigration restrictions are similar to medieval serfdom, causes of anti-immigrant sentiment, what I think are the strongest arguments for restrictionism, and how migration relates to broader dangers of nationalism , zero-sum thinking , and widespread political ignorance . Thanks in large part to the great questions posed by Speak Freely website editor-in-chief Ogechukwu Egwuatu (herself an African immigrant to France), I think this was one of my best media interviews of the last few years. Speak Freely is a publication of European Students for Liberty, and we conducted the interview in April, during LibertyCon Europe (ESFL's annual convention). I wrote about my experience at LibertyCon here , outlining some similarities and differences between European and American libertarians/classical liberals. The transcript of the interview is here (but note there are a lot of transcription errors). I embedded the video below: The post \"You Chose the Wrong Parents\" - My \"Speak Freely\" Intervi"
-    }
-   ]
-  },
-  {
-   "id": "1044128985",
-   "topic": "Climate & Energy",
-   "summary": "Forecasters expected Moke to produce as much as 10 inches of total rain across the Big Island, and up to 15 inches in some isolated places, enough to cause life-threatening flooding and mudslides for the windward and southeast slopes.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Tropical Storm Moke set to dump more heavy rain on hurricane-stricken Hawaii",
-   "updated": "2026-08-24T01:21:31+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Tropical Storm Moke expected to bring up to 15 inches of rain in Hawaii",
-     "url": "https://www.cbsnews.com/news/tropical-storm-moke-rain-hawaii-big-island/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T01:21:31+00:00",
-     "summary": "Hawaii is still cleaning up from Hurricane Lala, which dumped massive amounts of rain on the islands."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Tropical Storm Moke set to dump more heavy rain on hurricane-stricken Hawaii",
-     "url": "https://www.pbs.org/newshour/nation/tropical-storm-moke-carrying-more-rain-toward-hurricane-damaged-hawaii",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T18:22:46+00:00",
-     "summary": "Forecasters expected Moke to produce as much as 10 inches of total rain across the Big Island, and up to 15 inches in some isolated places, enough to cause life-threatening flooding and mudslides for the windward and southeast slopes."
-    },
-    {
-     "outlet": "npr",
-     "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-     "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
-     "author": "Chandelis Duster",
-     "kind": "news",
-     "published": "2026-08-23T12:48:05+00:00",
-     "summary": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA. (Image credit: NOAA)"
-    }
-   ]
-  },
-  {
-   "id": "f9b21cccfd",
-   "topic": "World",
-   "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Andy Burnham to visit Kyiv in first overseas trip as UK PM with Ukraine marking its 35th Independence Day. DW has the latest.",
-   "updated": "2026-08-24T01:04:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Andy Burnham to visit Kyiv in first overseas trip as UK PM with Ukraine marking its 35th Independence Day. DW has the latest.",
-     "url": "https://www.dw.com/en/andy-burnham-to-visit-kyiv-in-first-overseas-trip-as-uk-pm-with-ukraine-marking-its-35th-independence-day-dw-has-the-latest/live-78479580?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T01:04:00+00:00",
-     "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of Ukraine's main backers and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Burnham to visit Ukraine with promise of boost for Kyiv\u2019s long-range missiles",
-     "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-     "author": "Kiran Stacey in London and Dan Sabbagh in Dnipro",
-     "kind": "news",
-     "published": "2026-08-23T23:01:45+00:00",
-     "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading..."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Burnham Enters World Stage With Debut Foreign Trip to Ukraine",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/burnham-enters-world-stage-with-debut-foreign-trip-to-ukraine",
-     "author": "Alex Wickham",
-     "kind": "news",
-     "published": "2026-08-23T23:01:00+00:00",
-     "summary": "Andy Burnham is traveling to Ukraine on Monday for his first international trip as British prime minister, in an attempt to show he\u2019ll maintain diplomatic and military support for Kyiv as Russia\u2019s war enters a decisive phase."
     }
    ]
   },
@@ -1983,110 +2044,6 @@
      "kind": "news",
      "published": "2026-08-21T11:42:10+00:00",
      "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
-    }
-   ]
-  },
-  {
-   "id": "2989c8e332",
-   "topic": "Other",
-   "summary": "A tree-trimming employee has been charged with manslaughter after allegedly crushing his coworker\u2019s head with a hydraulic grapple while the pair were reportedly \"f\u2014ing around\" on the job, according to Minnesota authorities . The incident happened in Apple Valley on Thursday when Christopher Boone Crimmins, 34, was operating machinery on the back of a truck while his coworker, Tyler Anthony Lynch, 26, was on the ground cleaning up branches, according to a criminal complaint filed by Dakota County. Responding to reports of an incident, police discovered Lynch lying on the ground with \"a significant amount of blood around him and significant trauma to his head,\" the complaint said. Lynch was pronounced dead at the scene, according to the county. WORKERS WARNED OHIO TRENCH WAS TOO DEEP BUT WERE TOLD TO ENTER MINUTES BEFORE FATAL CAVE-IN: REPORT Authorities said Crimmins was operating a\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Tree-trimmer charged with killing co-worker by crushing head with hydraulic grapple while \u2018f\u2014king around\u2019 on job",
-   "updated": "2026-08-24T00:23:57+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Tree-trimmer charged with killing co-worker by crushing head with hydraulic grapple while \u2018f\u2014king around\u2019 on job",
-     "url": "https://nypost.com/2026/08/23/us-news/minnesota-tree-trimmer-charged-with-fatally-crushing-co-workers-head-with-hydraulic-grapple-while-fking-around-on-job/",
-     "author": "Zoe Hussain",
-     "kind": "news",
-     "published": "2026-08-24T00:23:57+00:00",
-     "summary": "Tyler Anthony Lynch, 26, was found by officers lying on the ground with a large amount of blood pooled around his body and \"a significant injury\" to his head."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Minnesota tree trimmer charged in coworker\u2019s death after on-the-job horseplay turns deadly",
-     "url": "https://www.foxnews.com/us/minnesota-tree-trimmer-charged-coworkers-death-after-on-the-job-horseplay-turns-deadly",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:06:18+00:00",
-     "summary": "A tree-trimming employee has been charged with manslaughter after allegedly crushing his coworker\u2019s head with a hydraulic grapple while the pair were reportedly \"f\u2014ing around\" on the job, according to Minnesota authorities . The incident happened in Apple Valley on Thursday when Christopher Boone Crimmins, 34, was operating machinery on the back of a truck while his coworker, Tyler Anthony Lynch, 26, was on the ground cleaning up branches, according to a criminal complaint filed by Dakota County. Responding to reports of an incident, police discovered Lynch lying on the ground with \"a significant amount of blood around him and significant trauma to his head,\" the complaint said. Lynch was pronounced dead at the scene, according to the county. WORKERS WARNED OHIO TRENCH WAS TOO DEEP BUT WERE TOLD TO ENTER MINUTES BEFORE FATAL CAVE-IN: REPORT Authorities said Crimmins was operating a boom, a movable mechanical arm attached to a truck, when he and Lynch began messing around with their shadows. \"He and the Victim were \u2018f\u2014ing around\u2019 and saw that the sunlight was casting shadows of both the grapple and of the Victim on the street,\" the criminal complaint said. While looking at the shado"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Minnesota man charged in death of co-worker crushed by hydraulic grapple in prank gone wrong",
-     "url": "https://www.nbcnews.com/news/us-news/minnesota-man-charged-death-co-worker-crushed-hydraulic-grapple-rcna594007",
-     "author": "Austin Mullen",
-     "kind": "news",
-     "published": "2026-08-23T19:35:49+00:00",
-     "summary": "The man is accused of saying he was trying to make the shadows look like a truck\u2019s grapple had his co-worker\u2019s head but didn\u2019t realize where it was before he closed the claw."
-    }
-   ]
-  },
-  {
-   "id": "5089e26b6e",
-   "topic": "Culture & Sport",
-   "summary": "There are a number of very obvious reasons why Cleveland Browns fans might boo Deshaun Watson, all of which are a matter of public record and none of which Watson can really afford to concern himself with. It is a requirement of his extremely difficult job that Watson must maintain a towering and preposterous level of self-belief, a load-bearing faith that must be strong enough, which is to say unreasonable and unreasoning enough, to withstand any and every possible failure or humiliation. Being a NFL quarterback is just too difficult to do with any other mindset, and while that work is not really made easier in any meaningful way when it follows the absolute certainty that the man under center is the protagonist of reality and the hero of every story in which he might figure, Watson is not remotely alone in his rarefied professional cohort in his belief that it would be impossible to\u2026",
-   "summaryFrom": "defector",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "pub"
-   ],
-   "headline": "Browns QB Deshaun Watson laments \u2018disrespectful\u2019 booing by team\u2019s own fans",
-   "updated": "2026-08-23T23:21:03+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "coop": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Shedeur Sanders Calls Out Fans Booing Deshaun Watson in Browns Preseason",
-     "url": "https://www.newsweek.com/sports/nfl/shedeur-sanders-calls-out-fans-booing-deshaun-watson-in-browns-preseason-12357150",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T23:21:03+00:00",
-     "summary": "Shedeur Sanders stood up for his teammate Deshaun Watson after fans booed him during the Browns' preseason loss to Buffalo."
-    },
-    {
-     "outlet": "defector",
-     "title": "Deshaun Watson: Very Telling That Browns Fans Would Boo Me For Being A Lousy Quarterback And Shitty Guy",
-     "url": "https://defector.com/deshaun-watson-booed-in-preseason-for-some-reason",
-     "author": "David Roth",
-     "kind": "news",
-     "published": "2026-08-23T19:49:38+00:00",
-     "summary": "There are a number of very obvious reasons why Cleveland Browns fans might boo Deshaun Watson, all of which are a matter of public record and none of which Watson can really afford to concern himself with. It is a requirement of his extremely difficult job that Watson must maintain a towering and preposterous level of self-belief, a load-bearing faith that must be strong enough, which is to say unreasonable and unreasoning enough, to withstand any and every possible failure or humiliation. Being a NFL quarterback is just too difficult to do with any other mindset, and while that work is not really made easier in any meaningful way when it follows the absolute certainty that the man under center is the protagonist of reality and the hero of every story in which he might figure, Watson is not remotely alone in his rarefied professional cohort in his belief that it would be impossible to do otherwise. This would all be more compelling if that wasn't also how basically every asshole alive sees himself and relates to the rest of the world. When the person acting like that is also a great quarterback, a large and loud cultural apparatus gets to work making it seem significant or even jus"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Browns QB Deshaun Watson laments \u2018disrespectful\u2019 booing by team\u2019s own fans",
-     "url": "https://www.theguardian.com/sport/2026/aug/22/browns-qb-deshaun-watson-says-being-booed-by-teams-own-fans-is-disrespectful",
-     "author": "Guardian sport and agencies",
-     "kind": "news",
-     "published": "2026-08-23T00:46:35+00:00",
-     "summary": "Player booed during team\u2019s preseason loss to Bills QB has battled injuries during time in Cleveland Watson was suspended over sexual assault allegations Browns quarterback Deshaun Watson has called the booing he heard from the team\u2019s own fans during Saturday\u2019s home loss to Buffalo \u201cdisrespectful\u201d and \u201cpersonal.\u201d Watson, who has a complicated relationship with Cleveland fans because of injuries, off-field issues \u2013 including an NFL suspension in 2022 \u2013 and a massive, $230m contract, was booed repeatedly during the second half of the 31-7 loss to the Bills. Continue reading..."
     }
    ]
   },
@@ -2455,9 +2412,52 @@
    ]
   },
   {
-   "id": "014cfa53e3",
-   "topic": "Culture & Sport",
-   "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t\u2026",
+   "id": "27586b29b6",
+   "topic": "Other",
+   "summary": "A video posted on TikTok captured three men clad in headlamps and overalls hurriedly pulling themselves out of the steamy depths of a manhole at 32nd Street and Seventh Avenue.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "New video shows trio of headlamp-wearing \u2018mole people\u2019 emerge from NYC manhole near Penn Station",
+   "updated": "2026-08-24T03:09:20+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "New video shows trio of headlamp-wearing \u2018mole people\u2019 emerge from NYC manhole near Penn Station",
+     "url": "https://nypost.com/2026/08/23/us-news/new-video-shows-trio-of-mole-people-emerge-from-nyc-manhole-near-penn-station/",
+     "author": "Zoe Hussain",
+     "kind": "news",
+     "published": "2026-08-24T03:09:20+00:00",
+     "summary": "A video posted on TikTok captured three men clad in headlamps and overalls hurriedly pulling themselves out of the steamy depths of a manhole at 32nd Street and Seventh Avenue."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "NYPD probes fresh video of people climbing out of Manhattan manhole",
+     "url": "https://www.nbcnews.com/news/us-news/nypd-probes-fresh-video-people-climbing-manhattan-manhole-rcna593991",
+     "author": "Matteo Moschella",
+     "kind": "news",
+     "published": "2026-08-23T15:55:28+00:00",
+     "summary": "Video on TikTok showed three people emerging from a manhole near Penn Station and Madison Square Garden."
+    }
+   ]
+  },
+  {
+   "id": "d7ef9a85b5",
+   "topic": "Other",
+   "summary": "Bubba Watson had heard enough from a fan during the second round of LIV Golf Indianapolis and opted to confront them in what turned into quite the scene at The Club at Chatham Hills. Watson, who was playing alongside Lee Westwood and Bryson DeChambeau on day two of the LIV season finale, was captured on video walking over to a fan who could be heard shouting something while Westwood was preparing to hit his approach shot. The fan in question shouted, \"Bryson, Bryson,\" before Westwood stepped off his golf ball and Watson made his way over to the fan. The two-time Masters champion challenged the rowdy fan to say something, and as expected, the spectator remained quiet. \"Oh, you don\u2019t want to say anything now? Say something, I'm looking at ya, say it,\" Watson said towards the fan. Watson carded a 2-under 68 on Friday to jump into contention, which hasn't exactly been familiar territory for\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
    "people": [],
@@ -2467,24 +2467,67 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "WNBA Team Debuts 'Non-Binary' Turtle Mascot in Apparent Taunt Directed at Sophie Cunningham",
-   "updated": "2026-08-23T03:56:33+00:00",
-   "outletCount": 3,
+   "headline": "Bubba Watson calls out LIV Golf fan after Lee Westwood\u2019s routine gets interrupted",
+   "updated": "2026-08-24T03:03:57+00:00",
+   "outletCount": 2,
    "counts": {
-    "family": 3
+    "family": 2
    },
-   "newsCount": 1,
-   "opinionCount": 2,
+   "newsCount": 2,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "WNBA Team Debuts 'Non-Binary' Turtle Mascot in Apparent Taunt Directed at Sophie Cunningham",
-     "url": "https://www.breitbart.com/sports/2026/08/22/wnba-toronto-tempo-non-binary-turtle-mascot-apparent-taunt-directed-sophie-cunningham/",
-     "author": "Mariane Angela",
+     "outlet": "nypost",
+     "title": "Bubba Watson calls out LIV Golf fan after Lee Westwood\u2019s routine gets interrupted",
+     "url": "https://nypost.com/2026/08/23/sports/bubba-watson-calls-out-liv-golf-fan-after-lee-westwoods-routine-gets-interrupted/",
+     "author": "Christian Arnold",
      "kind": "news",
-     "published": "2026-08-23T03:56:33+00:00",
-     "summary": "The Toronto Tempo unveiled a \u201cnon-binary\u201d turtle mascot Tuesday in an apparent swipe at Indiana Fever guard Sophie Cunningham. The expansion franchise introduced Dez, a \u201cbutch\u201d Borealis Blue Snapping Turtle that uses she/they pronouns, alongside a companion named Dot, an The post WNBA Team Debuts \u2018Non-Binary\u2019 Turtle Mascot in Apparent Taunt Directed at Sophie Cunningham appeared first on Breitbart ."
+     "published": "2026-08-24T03:03:57+00:00",
+     "summary": "Bubba Watson lashed out at a fan during LIV Golf\u2019s event in Indianapolis after the spectator screamed out during Lee Westwood's pre-shot routine."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Frustrated Bubba Watson confronts unruly fan at LIV Golf Indianapolis in intense scene",
+     "url": "https://www.foxnews.com/outkick-sports/frustrated-bubba-watson-confronts-unruly-fan-liv-golf-indianapolis-intense-scene",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T20:03:55+00:00",
+     "summary": "Bubba Watson had heard enough from a fan during the second round of LIV Golf Indianapolis and opted to confront them in what turned into quite the scene at The Club at Chatham Hills. Watson, who was playing alongside Lee Westwood and Bryson DeChambeau on day two of the LIV season finale, was captured on video walking over to a fan who could be heard shouting something while Westwood was preparing to hit his approach shot. The fan in question shouted, \"Bryson, Bryson,\" before Westwood stepped off his golf ball and Watson made his way over to the fan. The two-time Masters champion challenged the rowdy fan to say something, and as expected, the spectator remained quiet. \"Oh, you don\u2019t want to say anything now? Say something, I'm looking at ya, say it,\" Watson said towards the fan. Watson carded a 2-under 68 on Friday to jump into contention, which hasn't exactly been familiar territory for the 47-year-old this season. JORDAN SPIETH SAYS GAMBLING IS FUELING ROWDY GOLF CROWDS AND WANTS THE SPORT TO ADDRESS IT SOON Entering the week, Watson had secured just one top 10 finish in his 11 starts on the breakaway circuit in 2026. The lefty also missed the cut in his lone major championship st"
+    }
+   ]
+  },
+  {
+   "id": "2eeb2ce6ce",
+   "topic": "Other",
+   "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Liberty Savagely Mock Sophie Cunningham Over Transgender Comments",
+   "updated": "2026-08-24T02:27:19+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Liberty Savagely Mock Sophie Cunningham Over Transgender Comments",
+     "url": "https://www.newsweek.com/liberty-savagely-mock-sophie-cunningham-over-transgender-comments-12358032",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T02:27:19+00:00",
+     "summary": "The New York Liberty didn't pass up an opportunity to troll Indiana Fever star Sophie Cunningham over her transgender comments."
     },
     {
      "outlet": "foxnews",
@@ -2494,15 +2537,92 @@
      "kind": "opinion",
      "published": "2026-08-22T11:00:58+00:00",
      "summary": "On the morning of Aug. 8, ABC\u2019s \"Good Morning America\" was celebrating the Women\u2019s National Basketball Association. ABC is one of several networks that air WNBA games nationwide. ABC\u2019s Rachel Scott asked, \"What's the biggest WNBA story right now that fans should be paying attention to?\" ESPN\u2019s Holly Rowe replied, \"It\u2019s going to be really hard to make the playoffs.\" Within hours, a bigger story erupted. Indiana Fever basketball player Sophie Cunningham was brutally whacked in the face going up for a layup after the press decided she was controversial for wanting to keep women's basketball limited to women. WNBA MEDIA PREDICTABLY EMBARRASSES ITSELF AGAIN BY IGNORING SOPHIE CUNNINGHAM STORY OVER ALL-STAR WEEKEND Chicago Sky player DiJonai Carrington was ejected from the game. She then rushed into the locker room and blamed \"White privilege\" for the ejection. The broadcast networks didn\u2019t want to cover this development, either as a sportsmanship or culture war issue. There was one network willing to report a few times on the WNBA facing the issue of men in women\u2019s sports \u2014 CBS \u2014 which might explain why liberals cast aspersions on its editor-in-chief, Bari Weiss. On July 29, \"CBS Evenin"
+    }
+   ]
+  },
+  {
+   "id": "26346eef16",
+   "topic": "Justice & Policing",
+   "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Servicemember aboard USS Lincoln decries father\u2019s ICE detention",
+   "updated": "2026-08-24T02:10:17+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Servicemember aboard USS Lincoln decries father\u2019s ICE detention",
+     "url": "https://thehill.com/homenews/administration/6046254-uss-sailor-father-ice-detained/",
+     "author": "Ashleigh Fields",
+     "kind": "news",
+     "published": "2026-08-24T02:10:17+00:00",
+     "summary": "A sailor onboard the USS Abraham Lincoln on Saturday said his father was detained by Immigration and Customs Enforcement (ICE). Joshua Aviles has spent roughly nine months deployed at sea due to the Iran war amid reported shortages of clean water, food and supplies. \u201cI\u2019ve been deployed for over nine months, out at sea in..."
     },
     {
-     "outlet": "dailywire",
-     "title": "WNBA Team\u2019s New She/They Mascot Is A Taurus DJ Who Loves Tacos",
-     "url": "https://www.dailywire.com/news/wnba-teams-new-she-they-mascot-is-a-taurus-dj-who-loves-tacos",
-     "author": "Daily Wire News",
-     "kind": "opinion",
-     "published": "2026-08-21T19:41:05+00:00",
-     "summary": "Canada\u2019s only WNBA franchise, the Toronto Tempo, unveiled two new official mascots this week, including a DJing snapping turtle that uses she/they pronouns. Dot the Arctic Hare and Dez the Snapping Turtle made their debut Tuesday night during halftime of the Tempo\u2019s game against the Indiana Fever. The timing was particularly notable because Fever star Sophie Cunningham has emerged as one of the WNBA\u2019s most outspoken critics of biological males competing in women\u2019s sports. The Tempo have officially unveiled their mascots. Yes, two! Welcome Dez, the turtle and Dot, the hare. pic.twitter.com/WRbSdu5vxm \u2014 Zulfi Sheikh (@zulfi_sheikh) August 19, 2026 \u201cDez and Dot have completely different personalities, but they\u2019re better together,\u201d said Whitney Bell, chief marketing officer for the Toronto Tempo. \u201cOne knows when to slow things down, the other knows when to turn the energy all the way up.\u201d According to the Tempo, Dez uses she/they pronouns and is a Borealis Blue Snapping Turtle from Muskoka, Ontario, who DJs in their spare time. \u201cLeave the mascots alone!\u201d \ud83d\ude2d Come behind the scenes of our Official Mascot Reveal on our YouTube channel: https://t.co/RrmRh3fg1j pic.twitter.com/prKESxar58 \u2014 T"
+     "outlet": "dailybeast",
+     "title": "Father of Sailor on USS Abraham Lincoln Arrested by ICE",
+     "url": "https://www.thedailybeast.com/father-of-sailor-on-uss-abraham-lincoln-arrested-by-ice/",
+     "author": "Sarah-Jane Collins",
+     "kind": "news",
+     "published": "2026-08-23T21:25:29+00:00",
+     "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have downplayed the concerns raised by service members and their families. \u201cThis is heartbreaking for me. I don\u2019t know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,\u201d Joshua Aviles wrote in his Facebook post. The Department of Homeland Secur"
+    }
+   ]
+  },
+  {
+   "id": "439df469bf",
+   "topic": "Other",
+   "summary": "HBO's 'Lanterns' Episode 2 introduces Sinestro and deepens the Manhunter mystery, but two episodes in there's still not much of a hook. Our full review and theories.",
+   "summaryFrom": "forbes",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "\u2018Lanterns\u2019 Episode 2 Recap: It\u2019s Not Easy Bein\u2019 Green",
+   "updated": "2026-08-24T02:10:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "\u2018Lanterns\u2019 Episode 2 Recap: It\u2019s Not Easy Bein\u2019 Green",
+     "url": "https://decider.com/2026/08/23/lanterns-episode-2-recap/",
+     "author": "mliss1578",
+     "kind": "news",
+     "published": "2026-08-24T02:10:00+00:00",
+     "summary": "Hal Jordan cannot not be a jerk to poor John Stewart."
+    },
+    {
+     "outlet": "forbes",
+     "title": "\u2018Lanterns\u2019 Episode 2 Review: This Should Have Been A Binge Release",
+     "url": "https://www.forbes.com/sites/erikkain/2026/08/23/lanterns-episode-2-review-binge-release/",
+     "author": "Erik Kain, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-24T02:00:59+00:00",
+     "summary": "HBO's 'Lanterns' Episode 2 introduces Sinestro and deepens the Manhunter mystery, but two episodes in there's still not much of a hook. Our full review and theories."
     }
    ]
   },
@@ -2593,52 +2713,9 @@
    ]
   },
   {
-   "id": "397f60bce9",
-   "topic": "Other",
-   "summary": "A California father of five was paralyzed from the neck down after entering the ocean in an effort to help a young child who his family said was caught in a rip current. Josh Collette, 42, was spending time with his family at Riviera Beach in San Clemente, California, on Aug. 15, when a child believed to be 7- or 8-years-old became caught in a rip current, the man's sister, Hillary Collette, told KTLA. The child\u2019s mother first entered the water to go after her child, but Josh Collette ran past her and dove into the ocean in an effort to help the child, Hillary Collette told the outlet. GEORGIA TEACHER, FATHER HAILED AS HERO AFTER DYING TO SAVE GIRL FROM MYRTLE BEACH RIP CURRENT As he entered the water, Collette\u2019s sister said he struck either a sandbar or rocks and was immediately injured. Several people then rushed to his aid and helped pull him from the water. He told his wife right\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "California dad paralyzed from neck down after diving into ocean to rescue child",
-   "updated": "2026-08-24T01:25:06+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "California dad paralyzed from neck down after diving into ocean to rescue child",
-     "url": "https://www.foxnews.com/us/california-dad-paralyzed-neck-diving-ocean-rescue-child",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T01:25:06+00:00",
-     "summary": "A California father of five was paralyzed from the neck down after entering the ocean in an effort to help a young child who his family said was caught in a rip current. Josh Collette, 42, was spending time with his family at Riviera Beach in San Clemente, California, on Aug. 15, when a child believed to be 7- or 8-years-old became caught in a rip current, the man's sister, Hillary Collette, told KTLA. The child\u2019s mother first entered the water to go after her child, but Josh Collette ran past her and dove into the ocean in an effort to help the child, Hillary Collette told the outlet. GEORGIA TEACHER, FATHER HAILED AS HERO AFTER DYING TO SAVE GIRL FROM MYRTLE BEACH RIP CURRENT As he entered the water, Collette\u2019s sister said he struck either a sandbar or rocks and was immediately injured. Several people then rushed to his aid and helped pull him from the water. He told his wife right away that he believed he had broken his neck. The child Josh Collette was attempting to help was safely pulled out of the water before Collette was brought from the water, his sister said. Collette\u2019s sister said doctors told the family that Josh Collette was paralyzed from the neck down . His sister sa"
-    },
-    {
-     "outlet": "nypost",
-     "title": "Hero San Clemente dad paralyzed after diving into the Pacific Ocean to save child caught in rip current",
-     "url": "https://nypost.com/2026/08/23/us-news/hero-san-clemente-dad-paralyzed-after-diving-into-the-pacific-ocean-to-save-child-caught-in-rip-current/",
-     "author": "Marina Pe\u00f1a",
-     "kind": "news",
-     "published": "2026-08-24T01:03:27+00:00",
-     "summary": "Josh was spending the day at Riviera Beach with his family on Saturday, Aug. 15, when a child, believed to be about 7 or 8 years old, got caught in the current, his sister, Hillary Collette, told KTLA."
-    }
-   ]
-  },
-  {
    "id": "fb5a7f2a81",
    "topic": "Climate & Energy",
-   "summary": "A French tourist died last week in California\u2019s Death Valley after the vehicle he was in got stuck in mud and he ventured away for help amid temperatures that reached 116 degrees, officials said.",
+   "summary": "High temperatures in Death Valley were expected to remain in the 115- to 118-degree range for the workweek, with the National Weather Service issuing an extreme heat warning for the area.",
    "summaryFrom": "nbcnews",
    "emphasis": null,
    "people": [],
@@ -2665,7 +2742,7 @@
      "author": "Dennis Romero",
      "kind": "news",
      "published": "2026-08-24T01:24:44+00:00",
-     "summary": "A French tourist died last week in California\u2019s Death Valley after the vehicle he was in got stuck in mud and he ventured away for help amid temperatures that reached 116 degrees, officials said."
+     "summary": "High temperatures in Death Valley were expected to remain in the 115- to 118-degree range for the workweek, with the National Weather Service issuing an extreme heat warning for the area."
     },
     {
      "outlet": "latimes",
@@ -2679,45 +2756,131 @@
    ]
   },
   {
-   "id": "6cb077ead7",
+   "id": "76712aeb2f",
+   "topic": "World",
+   "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Ukraine: UK PM Andy Burnham to visit Kyiv in show of support",
+   "updated": "2026-08-24T01:04:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Ukraine: UK PM Andy Burnham to visit Kyiv in show of support",
+     "url": "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T01:04:00+00:00",
+     "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of Ukraine's main backers and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Burnham to visit Ukraine with promise of boost for Kyiv\u2019s long-range missiles",
+     "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+     "author": "Kiran Stacey in London and Dan Sabbagh in Dnipro",
+     "kind": "news",
+     "published": "2026-08-23T23:01:45+00:00",
+     "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "f8d4827d39",
    "topic": "Other",
-   "summary": "Actress Hayden Panettiere was wheeled out of her Los Angeles apartment on a gurney at least twice prior to her tragic death, a neighbor says. Mia Terrazas, who lived in the same West Hollywood apartment complex where the \u201cHeroes\u201d star lived with on-again off-again boyfriend Brian Hickerson, said that she\u2019d seen Panettiere taken from the building by first responders on two occasions \u2014 and that the actress had appeared to be \u201cbattered\u201d both times. Terrazas told entertainment outlet Page Six that firefighters had been called to their location on July 29, 2023, and again on January 16, 2024 \u2014 and that when they took Panettiere off the premises, Hickerson had been \u201cglued\u201d to her side. The actress, she said, had visible \u201cbruises\u201d and \u201cbright red spots\u201d when she was wheeled away. The neighbor said that she worried about the actress \u2014 with whom she\u2019d spoken on a number of occasions \u2014 and was\u2026",
-   "summaryFrom": "dailywire",
+   "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "Hayden Panettiere\u2019s ex Brian Hickerson pawned her belongings before her death, mom says",
-   "updated": "2026-08-24T00:33:31+00:00",
+   "headline": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
+   "updated": "2026-08-24T00:50:29+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 2
+    "family": 1,
+    "nonprofit": 1
    },
-   "newsCount": 1,
-   "opinionCount": 1,
+   "newsCount": 2,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Hayden Panettiere\u2019s ex Brian Hickerson pawned her belongings before her death, mom says",
-     "url": "https://pagesix.com/2026/08/23/celebrity-news/hayden-panettieres-ex-brian-hickerson-pawned-her-belongings-before-her-death-mom-says/",
-     "author": "Antoinette Bueno",
+     "outlet": "foxnews",
+     "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
+     "url": "https://www.foxnews.com/health/louisiana-girl-8-dies-after-contracting-suspected-brain-eating-amoeba-linked-lake-swim",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-24T00:33:31+00:00",
-     "summary": "The late actress' on-again, off-again boyfriend filed for bankruptcy in 2022."
+     "published": "2026-08-24T00:50:29+00:00",
+     "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often deadly brain infection . State health officials have not publicly identified Lillian as the patient referenced in the announcement. Her family, however, said on social media that she had been admitted to the pediatric intensive care unit at a Ruston hospital and identified Naegleria fowleri as the caus"
     },
     {
-     "outlet": "dailywire",
-     "title": "Hayden Panettiere\u2019s Neighbor Reveals What She Saw Before Star\u2019s Death",
-     "url": "https://www.dailywire.com/news/hayden-panettiere-wheeled-out-on-gurney-twice-before-death-looked-battered-neighbor-says",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-23T11:14:12+00:00",
-     "summary": "Actress Hayden Panettiere was wheeled out of her Los Angeles apartment on a gurney at least twice prior to her tragic death, a neighbor says. Mia Terrazas, who lived in the same West Hollywood apartment complex where the \u201cHeroes\u201d star lived with on-again off-again boyfriend Brian Hickerson, said that she\u2019d seen Panettiere taken from the building by first responders on two occasions \u2014 and that the actress had appeared to be \u201cbattered\u201d both times. Terrazas told entertainment outlet Page Six that firefighters had been called to their location on July 29, 2023, and again on January 16, 2024 \u2014 and that when they took Panettiere off the premises, Hickerson had been \u201cglued\u201d to her side. The actress, she said, had visible \u201cbruises\u201d and \u201cbright red spots\u201d when she was wheeled away. The neighbor said that she worried about the actress \u2014 with whom she\u2019d spoken on a number of occasions \u2014 and was afraid of Hickerson. \u201cShe was just so lovely \u2026 and just seeing her and passing frequently and, you know, the little chats that I had with her \u2014 she made such an impression, and she was such a bright light,\u201d Terrazas said of Panettiere, who died last Sunday at the age of 36. \u201cJust as a human being. Neve"
+     "outlet": "guardian",
+     "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana",
+     "author": "Marina Dunbar",
+     "kind": "news",
+     "published": "2026-08-23T22:17:53+00:00",
+     "summary": "Lillian Smart of Ruston infected with fatal Naegleria fowleri , likely after swimming in Lake Claiborne, health officials say An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne. Lillian Smart, of Ruston, died on Saturday, one day after celebrating her birthday, her family announced in a public Facebook post on the \u201cLove for Lillian\u201d page . Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "bd204fc236",
+   "topic": "Other",
+   "summary": "A tree-trimming employee has been charged with manslaughter after allegedly crushing his coworker\u2019s head with a hydraulic grapple while the pair were reportedly \"f\u2014ing around\" on the job, according to Minnesota authorities . The incident happened in Apple Valley on Thursday when Christopher Boone Crimmins, 34, was operating machinery on the back of a truck while his coworker, Tyler Anthony Lynch, 26, was on the ground cleaning up branches, according to a criminal complaint filed by Dakota County. Responding to reports of an incident, police discovered Lynch lying on the ground with \"a significant amount of blood around him and significant trauma to his head,\" the complaint said. Lynch was pronounced dead at the scene, according to the county. WORKERS WARNED OHIO TRENCH WAS TOO DEEP BUT WERE TOLD TO ENTER MINUTES BEFORE FATAL CAVE-IN: REPORT Authorities said Crimmins was operating a\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Minnesota tree trimmer charged in coworker\u2019s death after on-the-job horseplay turns deadly",
+   "updated": "2026-08-24T00:06:18+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Minnesota tree trimmer charged in coworker\u2019s death after on-the-job horseplay turns deadly",
+     "url": "https://www.foxnews.com/us/minnesota-tree-trimmer-charged-coworkers-death-after-on-the-job-horseplay-turns-deadly",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T00:06:18+00:00",
+     "summary": "A tree-trimming employee has been charged with manslaughter after allegedly crushing his coworker\u2019s head with a hydraulic grapple while the pair were reportedly \"f\u2014ing around\" on the job, according to Minnesota authorities . The incident happened in Apple Valley on Thursday when Christopher Boone Crimmins, 34, was operating machinery on the back of a truck while his coworker, Tyler Anthony Lynch, 26, was on the ground cleaning up branches, according to a criminal complaint filed by Dakota County. Responding to reports of an incident, police discovered Lynch lying on the ground with \"a significant amount of blood around him and significant trauma to his head,\" the complaint said. Lynch was pronounced dead at the scene, according to the county. WORKERS WARNED OHIO TRENCH WAS TOO DEEP BUT WERE TOLD TO ENTER MINUTES BEFORE FATAL CAVE-IN: REPORT Authorities said Crimmins was operating a boom, a movable mechanical arm attached to a truck, when he and Lynch began messing around with their shadows. \"He and the Victim were \u2018f\u2014ing around\u2019 and saw that the sunlight was casting shadows of both the grapple and of the Victim on the street,\" the criminal complaint said. While looking at the shado"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Minnesota man charged in death of co-worker crushed by hydraulic grapple in prank gone wrong",
+     "url": "https://www.nbcnews.com/news/us-news/minnesota-man-charged-death-co-worker-crushed-hydraulic-grapple-rcna594007",
+     "author": "Austin Mullen",
+     "kind": "news",
+     "published": "2026-08-23T19:35:49+00:00",
+     "summary": "The man is accused of saying he was trying to make the shadows look like a truck\u2019s grapple had his co-worker\u2019s head but didn\u2019t realize where it was before he closed the claw."
     }
    ]
   },
@@ -2976,6 +3139,49 @@
      "kind": "news",
      "published": "2026-08-22T12:00:00+00:00",
      "summary": "Attendees at a Trump rally in Racine, Wisconsin, on June 18, 2024. | Scott Olson/Getty Images It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running for a Senate seat, are mired in scandal. The Iran war was unpopular from the start, but it is getting even less popular as it drags on. And Trump\u2019s approval rating recently hit 33 percent , the lowest of his presidency yet. On this week\u2019s episode of America, Actually , host Astead Herndon speaks with one of Trump\u2019s most vocal defenders, conservative influencer CJ Pearson, about whether we\u2019re seeing Trump\u2019s brand slip even among his supporters and the young people who helped him win in 2024, and how that could affect the midterm elections. Pearson, a conservative content creator and influencer, first went viral when he posted himself, then 12 years old, criticizing Barack Obama in a YouTube video. Now 24, Pearson is one of MAGA\u2019s most prominent Black voices. In thi"
+    }
+   ]
+  },
+  {
+   "id": "348bf3de3a",
+   "topic": "Health",
+   "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), noted Sunday the measles, mumps and rubella (MMR) vaccine is not lethal, contradicting President Trump. \u201cThe MMR vaccine is not a lethal vaccine, and it is offered in other countries,\u201d Oz told host Margaret Brennan on CBS News\u2019s \"Face the Nation.\"...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Oz: MMR vaccine 'is not a lethal vaccine'",
+   "updated": "2026-08-23T20:28:23+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Oz: MMR vaccine 'is not a lethal vaccine'",
+     "url": "https://thehill.com/policy/healthcare/6045961-oz-denies-mmr-lethality/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-23T20:28:23+00:00",
+     "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), noted Sunday the measles, mumps and rubella (MMR) vaccine is not lethal, contradicting President Trump. \u201cThe MMR vaccine is not a lethal vaccine, and it is offered in other countries,\u201d Oz told host Margaret Brennan on CBS News\u2019s \"Face the Nation.\"..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Dr. Oz says MMR is \"not a lethal vaccine\" despite Trump's comments",
+     "url": "https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:59:59+00:00",
+     "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services, said the MMR vaccine is \"not a lethal vaccine,\" despite President Trump's claims in recent days."
     }
    ]
   },
@@ -3320,264 +3526,6 @@
      "kind": "news",
      "published": "2026-08-23T05:46:00+00:00",
      "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. His explosive remarks have sparked widespread public debate."
-    }
-   ]
-  },
-  {
-   "id": "927d309c5e",
-   "topic": "World",
-   "summary": "Former Vice President Mike Pence denied Sunday that the U.S. military depleting its weapons stockpiles in the Iran war is hurting Ukraine in its ongoing fight against Russia. \u201cI don't see it that way, and I don't think\u2026 the Ukrainians do either,\u201d Pence told host Dana Bash on CNN\u2019s \u201cState of the Union,\u201d while in...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Can Nigeria cash in on Iran war?",
-   "updated": "2026-08-23T18:44:19+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
-     "url": "https://thehill.com/policy/international/6045828-pence-denies-that-iran-war-hurting-ukraine-by-depleting-us-stockpiles/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-23T18:44:19+00:00",
-     "summary": "Former Vice President Mike Pence denied Sunday that the U.S. military depleting its weapons stockpiles in the Iran war is hurting Ukraine in its ongoing fight against Russia. \u201cI don't see it that way, and I don't think\u2026 the Ukrainians do either,\u201d Pence told host Dana Bash on CNN\u2019s \u201cState of the Union,\u201d while in..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Can Nigeria cash in on Iran war?",
-     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T16:07:01+00:00",
-     "summary": "Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production."
-    }
-   ]
-  },
-  {
-   "id": "c92c1b6e6f",
-   "topic": "Politics",
-   "summary": "A United States Postal Service mail collection box is seen on a street in New York City, United States, on August 7, 2026. \u2014Marcin Golba\u2014NurPhoto The United States Postal Service (USPS) on Friday issued a 95-page final rule that it plans to implement immediately if the government obtains relief from two existing injunctions. It would require USPS employees to verify that outbound federal ballot mailings comply with new envelope, barcode, and data-reporting requirements before accepting them from election officials. The rule was designed to comply with President Donald Trump\u2019s executive order from March 31. It directs the Department of Homeland Security , in coordination with the Social Security Administration , to compile and send lists of adult citizens in each state. Separately, it directs USPS to establish state-specific lists of people to whom election officials intend to send\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "What to Know About the USPS\u2019s Rule for Mail-In Ballots",
-   "updated": "2026-08-23T18:11:24+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "time",
-     "title": "What to Know About the USPS\u2019s Rule for Mail-In Ballots",
-     "url": "https://time.com/article/2026/08/23/what-to-know-about-the-usps-s-rule-for-mail-in-ballots/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-23T18:11:24+00:00",
-     "summary": "A United States Postal Service mail collection box is seen on a street in New York City, United States, on August 7, 2026. \u2014Marcin Golba\u2014NurPhoto The United States Postal Service (USPS) on Friday issued a 95-page final rule that it plans to implement immediately if the government obtains relief from two existing injunctions. It would require USPS employees to verify that outbound federal ballot mailings comply with new envelope, barcode, and data-reporting requirements before accepting them from election officials. The rule was designed to comply with President Donald Trump\u2019s executive order from March 31. It directs the Department of Homeland Security , in coordination with the Social Security Administration , to compile and send lists of adult citizens in each state. Separately, it directs USPS to establish state-specific lists of people to whom election officials intend to send mail-in or absentee ballots, along with unique ballot-envelope identifiers. A pair of court \u200corders blocks the rule from implementing the rule before midterm elections in November. Read More: Trump\u2019s Order Restricting Mail-In Voting Rebuked by States About the two injunctions blocking Trump\u2019s mail-in voti"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "USPS publishes rule to block mail-in ballots from states that don't provide voter lists",
-     "url": "https://www.foxnews.com/politics/usps-publishes-rule-block-mail-in-ballots-states-dont-provide-voter-lists",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T14:00:37+00:00",
-     "summary": "The United States Postal Service (USPS) published a rule Friday that would require states to provide lists of voters who received mail-in ballots to the agency. The USPS rule , first proposed June 2, moves to align the agency with President Donald Trump's March 31 executive order, which, among other things, ordered the agency to mandate that all states that plan to use USPS to send mail-in ballots notify the agency at least 90 days before an election and to send USPS a list of eligible voters the state plans on providing a mail-in ballot to at least 60 days before the election. \"Any state that intends to receive mail-in or absentee ballots from individual voters through the Postal Service must ensure that such individuals have been enrolled with the Postal Service for inclusion on the state's Mail-In and Absentee Participation List,\" the new rule states. To be included on the list, an voter's state must submit to the USPS the individual's name and address and include a \"uniquely serialized Intelligent Mail barcode (IMb)\" on both the outbound federal ballot and the return ballot sent to the individual. DHS PLANS COSTLY CRACKDOWN ON STATES THAT DON\u2019T COOPERATE ON ELECTION SECURITY Th"
-    }
-   ]
-  },
-  {
-   "id": "7e2636bf8e",
-   "topic": "Politics",
-   "summary": "President Trump is reaching deeper into individual markets to try to ease consumer price strains . Why it matters: The administration is under mounting pressure to deliver relief as affordability becomes a bigger political liability ahead of the midterms. The push is cutting against \u2014 and sometimes rolling back \u2014 pillars of Trump's economic agenda, including tariffs and favoring domestic producers. And the moves may offer limited relief, reflecting how difficult it is for presidents to broadly bring down prices. Driving the news: Trump said Friday that he will temporarily waive tariffs on up to 300,000 metric tons of additional beef imports for 90 days, a period that would last through the midterms. A White House official said exporters agreed to a 25% discount, though it's unclear how much will reach consumers. U.S. cattle producers blasted the move, warning that cheaper imports could\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Republicans Revolt Against Trump Over Sky-High Food Costs",
-   "updated": "2026-08-23T18:02:54+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Republicans Revolt Against Trump Over Sky-High Food Costs",
-     "url": "https://www.thedailybeast.com/republicans-revolt-against-trump-over-sky-high-food-costs/",
-     "author": "Katie Francis",
-     "kind": "news",
-     "published": "2026-08-23T18:02:54+00:00",
-     "summary": "KEVIN LAMARQUE / REUTERS Republican lawmakers and producers are raging against Donald Trump\u2019s move to give American consumers more imported beef while leaving domestic ranchers out in the cold. Trump, 80, announced his plan on Truth Social on Friday, outlining his decision to ship food in from overseas rather than support local farmers and holding Joe Biden responsible for current grocery costs. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he posted. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump finds tamping down costs to be tricky",
-     "url": "https://www.axios.com/2026/08/22/trump-affordability-beef-consumers",
-     "author": "Courtenay Brown",
-     "kind": "news",
-     "published": "2026-08-22T11:00:07+00:00",
-     "summary": "President Trump is reaching deeper into individual markets to try to ease consumer price strains . Why it matters: The administration is under mounting pressure to deliver relief as affordability becomes a bigger political liability ahead of the midterms. The push is cutting against \u2014 and sometimes rolling back \u2014 pillars of Trump's economic agenda, including tariffs and favoring domestic producers. And the moves may offer limited relief, reflecting how difficult it is for presidents to broadly bring down prices. Driving the news: Trump said Friday that he will temporarily waive tariffs on up to 300,000 metric tons of additional beef imports for 90 days, a period that would last through the midterms. A White House official said exporters agreed to a 25% discount, though it's unclear how much will reach consumers. U.S. cattle producers blasted the move, warning that cheaper imports could hurt ranchers and efforts to rebuild their depleted herds. By the numbers: Ground beef averaged $6.89 a pound in July, about $3 more than before the pandemic. Prices were up about 10% from a year earlier. The big picture: Beef shows how difficult it can be to quickly bring down prices when multiple f"
-    }
-   ]
-  },
-  {
-   "id": "10096030fb",
-   "topic": "Other",
-   "summary": "Republican senator tries to assuage concerns but does not offer details of Graham\u2019s national security experience Tim Scott defended fellow US South Carolina Republican senator Darline Graham\u2019s knowledge of national security issues ahead of their state\u2019s runoff election on Tuesday. Graham, who was appointed to fill the Senate seat held by her brother Lindsey Graham after his sudden death in July, is in a Republican primary runoff against South Carolina congressman Ralph Norman. During a debate between the two on Tuesday night, Graham struggled to answer a question about US national security interests in Taiwan and the South China Sea. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Tim Scott defends Darline Graham\u2019s \u2018national security is not my thing\u2019 comment",
-   "updated": "2026-08-23T17:18:26+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Tim Scott defends Darline Graham\u2019s \u2018national security is not my thing\u2019 comment",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/tim-scott-defends-darline-graham",
-     "author": "Sam Levine",
-     "kind": "news",
-     "published": "2026-08-23T17:18:26+00:00",
-     "summary": "Republican senator tries to assuage concerns but does not offer details of Graham\u2019s national security experience Tim Scott defended fellow US South Carolina Republican senator Darline Graham\u2019s knowledge of national security issues ahead of their state\u2019s runoff election on Tuesday. Graham, who was appointed to fill the Senate seat held by her brother Lindsey Graham after his sudden death in July, is in a Republican primary runoff against South Carolina congressman Ralph Norman. During a debate between the two on Tuesday night, Graham struggled to answer a question about US national security interests in Taiwan and the South China Sea. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Tim Scott calls support for Darline Graham an \u2018easy choice\u2019 despite her debate flub",
-     "url": "https://www.nbcnews.com/politics/congress/tim-scott-darline-graham-easy-choice-debate-flub-rcna593983",
-     "author": "Alexandra Marquez",
-     "kind": "news",
-     "published": "2026-08-23T14:38:43+00:00",
-     "summary": "In an interview with \u201cMeet the Press,\u201d Scott defended Graham after her recent debate blunder raised questions about her qualifications."
-    }
-   ]
-  },
-  {
-   "id": "18307ae7e2",
-   "topic": "Politics",
-   "summary": "Saudi crown prince Mohammed bin Salman arrives in France for a two-day visit this Sunday. President Emmanuel Macron is hosting the crown prince for the closing ceremony of the so-called Esports World Cup in Paris\u2026 which is organised and financed by the Saudis. Analysis by Andy Miah, chair of Sciences Communication & Future Media at the University of Salford.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-   "updated": "2026-08-23T16:12:55+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-     "url": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T16:12:55+00:00",
-     "summary": "Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman's discussions."
-    },
-    {
-     "outlet": "france24",
-     "title": "Saudi Arabia asserts its dominance over Esports as MBS arrives in Paris for 'World Cup'",
-     "url": "https://www.france24.com/en/saudi-arabia-asserts-its-dominance-over-esports-as-mbs-arrives-in-paris-for-world-cup",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-23T10:09:17+00:00",
-     "summary": "Saudi crown prince Mohammed bin Salman arrives in France for a two-day visit this Sunday. President Emmanuel Macron is hosting the crown prince for the closing ceremony of the so-called Esports World Cup in Paris\u2026 which is organised and financed by the Saudis. Analysis by Andy Miah, chair of Sciences Communication & Future Media at the University of Salford."
-    }
-   ]
-  },
-  {
-   "id": "ac5720c34a",
-   "topic": "Culture & Sport",
-   "summary": "More than 650 teams from across 16 countries are gathered in China for the World Humanoid Robot Games.",
-   "summaryFrom": "abcnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Robot boxing, football and sprinting at World Humanoid Games",
-   "updated": "2026-08-23T15:35:20+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "WATCH: World Humanoid Robot Games open in Beijing",
-     "url": "https://abcnews.com/video/135879856/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T15:35:20+00:00",
-     "summary": "More than 650 teams from across 16 countries are gathered in China for the World Humanoid Robot Games."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Robot boxing, football and sprinting at World Humanoid Games",
-     "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T12:47:06+00:00",
-     "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
     }
    ]
   }
