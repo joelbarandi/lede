@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T05:55:00.714605+00:00",
+ "generated": "2026-08-24T07:30:19.806999+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -15,25 +15,24 @@
     "big": [
      "event",
      "around",
-     "mall",
-     "national",
      "drivers",
+     "national",
+     "mall",
      "course"
     ],
     "indie": [
-     "start",
-     "flag",
      "waves",
+     "flag",
      "green",
-     "mark",
-     "past"
+     "start",
+     "mark"
     ]
    },
    "people": [],
    "absent": [],
    "headline": "Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race",
    "updated": "2026-08-23T23:10:15+00:00",
-   "outletCount": 14,
+   "outletCount": 13,
    "counts": {
     "corp": 3,
     "family": 7,
@@ -136,15 +135,6 @@
      "summary": "Reaching top speeds of about 180 mph, the cars zipped down Pennsylvania Ave between the Capitol and the White House."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
-     "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T19:52:12+00:00",
-     "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts."
-    },
-    {
      "outlet": "escapecollective",
      "title": "Vuelta stage 2: Brennan wins big on the first Grand Tour road stage of his career",
      "url": "https://escapecollective.com/vuelta-stage-2-brennan-wins-big-on-the-first-grand-tour-road-stage-of-his-career/",
@@ -179,6 +169,15 @@
      "kind": "opinion",
      "published": "2026-08-23T12:42:27+00:00",
      "summary": "President Donald Trump joined the crowds in the nation\u2019s capital on Sunday for the Freedom 250 race \u2014 but he didn\u2019t tell the drivers to \u201cbe safe.\u201d The president told reporters his advice to Sunday\u2019s drivers boiled down to two words: have fun. Dwelling on safety, he argued, was more likely to make a driver hold back \u2014 and less likely to help them win. \u201cHave fun,\u201d he said, adding, \u201cI don\u2019t wanna say sort of \u2018be safe\u2019 because it\u2019s sort of a negative thought. Right? They don\u2019t wanna think about that, because if they do, generally speaking, you\u2019re not gonna win when you start thinking that way.\u201d \u201cBut they\u2019re great,\u201d he said of the drivers slated to race on Sunday. \u201cI know many of them through name \u2026 but it\u2019s a great sport.\u201d Trump also said on Sunday that Indianapolis Motor Speedway and INDYCAR owner Roger Penske had been trying to pull off a race in Washington, D.C., for some time \u2014 but that until the Trump administration came along, it had looked like an impossibility. \ud83d\udea8 PRESIDENT TRUMP JUST NOW: \u201cThey\u2019ve been trying to do this for 20 years\u2026when he came to see Trump, it got done in about 15 MINUTES!\u201d \u201cSo many people wanna come! 300,000+, they closed the bridges. Bigger and better!\u201d \u201cI "
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
+     "url": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T21:50:27+00:00",
+     "summary": "The Freedom 250 Grand Prix is part of the nation\u2019s 250th anniversary celebrations and the first major auto race in the US capital in more than 24 years."
     }
    ]
   },
@@ -191,17 +190,17 @@
     "bigCount": 5,
     "indieCount": 6,
     "big": [
-     "strong",
-     "fueled",
      "winds",
+     "fueled",
+     "strong",
      "outside",
      "northern"
     ],
     "indie": [
      "forced",
      "human-caused",
-     "foothills",
-     "approaches"
+     "approaches",
+     "foothills"
     ]
    },
    "people": [],
@@ -323,6 +322,135 @@
    ]
   },
   {
+   "id": "67a4562123",
+   "topic": "World",
+   "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 6,
+    "indieCount": 4,
+    "big": [
+     "canadian",
+     "president",
+     "people",
+     "imports",
+     "need",
+     "former"
+    ],
+    "indie": [
+     "wants"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Canada-US trade war: Who wins? Who loses?",
+   "updated": "2026-08-24T07:00:00+00:00",
+   "outletCount": 8,
+   "counts": {
+    "pub": 2,
+    "family": 5,
+    "corp": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 9,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Canada-US trade war: Who wins? Who loses?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T07:00:00+00:00",
+     "summary": "Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Canada Sees Long Trade War With US",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-24/canada-sees-long-trade-war-with-us-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T05:54:54+00:00",
+     "summary": "Canada sees little hope of resuming US trade talks before the midterms and is preparing to ride out the rest of President Donald Trump\u2019s term, according to people familiar with the matter. The US implemented a new 50% tax on imports of hundreds of Canadian items including furniture, plastics, plywood and electrical equipment on Saturday. Bloomberg's Jon Herskovitz reports. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Escalating trade war with Canada ruptures once close alliance",
+     "url": "https://www.cbsnews.com/video/escalating-trade-war-canada-ruptures-once-close-alliance/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T00:50:00+00:00",
+     "summary": "The escalating trade war with Canada has ruptured a once-close and durable alliance. It will soon have people on both sides of the border paying up. Jarred Hill has more details from New York."
+    },
+    {
+     "outlet": "guardian",
+     "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+     "author": "Lauren Almeida",
+     "kind": "news",
+     "published": "2026-08-23T19:32:59+00:00",
+     "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T19:11:30+00:00",
+     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "US-Canada Trade Talks Fell Apart Over Fine Print, Envoy Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-23/us-canada-talks-fell-apart-over-fine-print-in-deal-envoy-says",
+     "author": "Josh Wingrove",
+     "kind": "news",
+     "published": "2026-08-23T18:53:40+00:00",
+     "summary": "US-Canada trade talks collapsed over a range of issues where the written text of a potential deal was at odds with what the Canadian side believed it had agreed to, Prime Minister Mark Carney\u2019s top US envoy says."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Trump And Canada In Trade \u2018War\u2019: How Hockey Sticks, Puzzles And Wigs Played A Role",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/23/trump-and-canada-in-trade-war-how-hockey-sticks-puzzles-and-wigs-played-a-role/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-23T18:47:16+00:00",
+     "summary": "A large amount of Canadian imports will now be subject to 50% tariffs."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Pence: \u2018Last Thing\u2019 Our Economy Needs Is a Trade War with Canada",
+     "url": "https://www.breitbart.com/clips/2026/08/23/pence-last-thing-our-economy-needs-is-a-trade-war-with-canada/",
+     "author": "Pam Key",
+     "kind": "news",
+     "published": "2026-08-23T17:14:15+00:00",
+     "summary": "Sunday on CNN\u2019s \u201cState of the Union,\u201d former Vice President Mike Pence said \u201cthe last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada.\u201d Host Dana Bash said, \u201cI The post Pence: \u2018Last Thing\u2019 Our Economy Needs Is a Trade War with Canada appeared first on Breitbart ."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
+     "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/",
+     "author": "Sammy Westfall",
+     "kind": "news",
+     "published": "2026-08-23T15:46:33+00:00",
+     "summary": "\u201cI think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,\u201d the former vice president told CNN."
+    },
+    {
+     "outlet": "guardian",
+     "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
+     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
+     "author": "Kenneth Roth",
+     "kind": "opinion",
+     "published": "2026-08-21T12:00:35+00:00",
+     "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "13cfbffff9",
    "topic": "Justice & Policing",
    "summary": "A federal judge struck down the Trump administration\u2019s freeze on immigrant visas from 75 countries Friday, ruling Secretary of State Marco Rubio lacked the legal authority to order denials for applicants otherwise found eligible to enter the United States. U.S. District Judge Jeannette Vargas, a Biden appointee in Manhattan, vacated the State Department policy and any visa refusals based solely on it, directing the government to revisit those cases. \"The Court holds that the Policy is contrary to law and was issued in excess of Secretary Rubio\u2019s statutory authority,\" Vargas wrote in her 61-page opinion. The State Department enacted the policy in January, suspending immigrant visa issuance to nationals of 75 countries the department deemed at high risk of becoming dependent on public benefits. The list spans Africa, Latin America, the Caribbean, Eastern Europe, Southeast Asia and the\u2026",
@@ -336,11 +464,11 @@
     ],
     "indie": [
      "basis",
-     "public",
-     "issuing",
      "because",
+     "ruled",
      "nationality",
-     "ruled"
+     "public",
+     "issuing"
     ]
    },
    "people": [],
@@ -435,118 +563,6 @@
    ]
   },
   {
-   "id": "4760bb9563",
-   "topic": "World",
-   "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 3,
-    "big": [
-     "canadian",
-     "thing",
-     "president",
-     "need",
-     "economy",
-     "feet"
-    ],
-    "indie": [
-     "donald",
-     "wants"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
-   "updated": "2026-08-24T00:50:00+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 2,
-    "pub": 1,
-    "family": 4
-   },
-   "newsCount": 7,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Escalating trade war with Canada ruptures once close alliance",
-     "url": "https://www.cbsnews.com/video/escalating-trade-war-canada-ruptures-once-close-alliance/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:50:00+00:00",
-     "summary": "The escalating trade war with Canada has ruptured a once-close and durable alliance. It will soon have people on both sides of the border paying up. Jarred Hill has more details from New York."
-    },
-    {
-     "outlet": "guardian",
-     "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-     "author": "Lauren Almeida",
-     "kind": "news",
-     "published": "2026-08-23T19:32:59+00:00",
-     "summary": "PM Mark Carney says \u2018we got attacked\u2019 as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: \u201cCanada wants the benefits of being a State, without being one!!!\u201d Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T19:11:30+00:00",
-     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "US-Canada Trade Talks Fell Apart Over Fine Print, Envoy Says",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/us-canada-talks-fell-apart-over-fine-print-in-deal-envoy-says",
-     "author": "Josh Wingrove",
-     "kind": "news",
-     "published": "2026-08-23T18:53:40+00:00",
-     "summary": "US-Canada trade talks collapsed over a range of issues where the written text of a potential deal was at odds with what the Canadian side believed it had agreed to, Prime Minister Mark Carney\u2019s top US envoy says."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Trump And Canada In Trade \u2018War\u2019: How Hockey Sticks, Puzzles And Wigs Played A Role",
-     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/23/trump-and-canada-in-trade-war-how-hockey-sticks-puzzles-and-wigs-played-a-role/",
-     "author": "Zachary Folk, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-23T18:47:16+00:00",
-     "summary": "A large amount of Canadian imports will now be subject to 50% tariffs."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Pence: \u2018Last Thing\u2019 Our Economy Needs Is a Trade War with Canada",
-     "url": "https://www.breitbart.com/clips/2026/08/23/pence-last-thing-our-economy-needs-is-a-trade-war-with-canada/",
-     "author": "Pam Key",
-     "kind": "news",
-     "published": "2026-08-23T17:14:15+00:00",
-     "summary": "Sunday on CNN\u2019s \u201cState of the Union,\u201d former Vice President Mike Pence said \u201cthe last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada.\u201d Host Dana Bash said, \u201cI The post Pence: \u2018Last Thing\u2019 Our Economy Needs Is a Trade War with Canada appeared first on Breitbart ."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
-     "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-23T15:46:33+00:00",
-     "summary": "\u201cI think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,\u201d the former vice president told CNN."
-    },
-    {
-     "outlet": "guardian",
-     "title": "With ICC sanctions, Trump wants to make the world safe for war criminals | Kenneth Roth",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/21/icc-sanctions-trump-war-criminals",
-     "author": "Kenneth Roth",
-     "kind": "opinion",
-     "published": "2026-08-21T12:00:35+00:00",
-     "summary": "The US is engaged in a lawless quest to protect American and Israeli officials The Trump administration has taken another step in its crusade against the international criminal court by imposing sanctions on two more senior ICC officials. The growing number of sanctioned jurists \u2013 now 13 \u2013 does not change the lawless nature of this quest. Donald Trump and his henchman, Marco Rubio, want to make the world safe for US and Israeli war criminals. No one should let them. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "8786cbb9dd",
    "topic": "Justice & Policing",
    "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have\u2026",
@@ -557,8 +573,8 @@
     "big": [
      "aboard",
      "detained",
-     "saturday",
      "months",
+     "saturday",
      "nine"
     ],
     "indie": [
@@ -613,7 +629,7 @@
     },
     {
      "outlet": "nbcnews",
-     "title": "Father of sailor aboard USS Abraham Lincoln detained by immigration authorities, family says",
+     "title": "Father of sailor aboard USS Lincoln detained by immigration authorities, family says",
      "url": "https://www.nbcnews.com/news/us-news/father-sailor-uss-abraham-lincoln-detained-immigration-family-says-rcna593961",
      "author": "Dennis Romero",
      "kind": "news",
@@ -637,6 +653,97 @@
      "kind": "news",
      "published": "2026-08-23T21:25:29+00:00",
      "summary": "Facebook/Joshua Aviles The father of a U.S. sailor deployed aboard the USS Abraham Lincoln for over nine months was detained by ICE on Saturday. Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, his wife, Argelia Aviles, told the Associated Press. She said her husband, who is a handyman in Key West, Florida, has a permit to work in the United States. He is originally from Nicaragua and has lived in the U.S. for 19 years. His son Joshua Aviles wrote in a Facebook post that he was on the USS Abraham Lincoln \u201cfighting for a country that has given me everything\u201d when he got the call about his father\u2019s detention. The Lincoln has been at the center of controversy over conditions aboard the ship after its deployment stretched far beyond its originally scheduled end date. Secretary of Defense Pete Hegseth and other administration officials have downplayed the concerns raised by service members and their families. \u201cThis is heartbreaking for me. I don\u2019t know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,\u201d Joshua Aviles wrote in his Facebook post. The Department of Homeland Secur"
+    }
+   ]
+  },
+  {
+   "id": "df7ede4cc1",
+   "topic": "Politics",
+   "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. What they're saying: \"We are grateful for the Decision of the United States Supreme Court,\" President Trump said in a Friday post on Truth Social. \"The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 2,
+    "big": [
+     "chief",
+     "white",
+     "justice",
+     "roberts",
+     "john",
+     "house"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
+   "updated": "2026-08-24T03:07:32+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 3,
+    "pub": 1,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Insiders Blow Up Trump\u2019s New Ballroom Excuse",
+     "url": "https://www.thedailybeast.com/insiders-expose-trumps-dodgy-new-excuse-for-ballroom/",
+     "author": "Cameron Adams",
+     "kind": "news",
+     "published": "2026-08-24T03:07:32+00:00",
+     "summary": "Evan Vucci / REUTERS White House insiders are throwing cold water on President Donald Trump\u2019s attempts to fast-track his vanity ballroom project after releasing critical new information. Trump, 80, scored a Supreme Court victory last week when Chief Justice John Roberts allowed construction on the project to continue while the high court continues to debate a case to halt it entirely. The ballroom began as a modest event-space renovation costing an estimated $200 million; however, it has since ballooned to $600 million \u2014with taxpayers expected to cover more than half. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T22:02:10+00:00",
+     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
+    },
+    {
+     "outlet": "axios",
+     "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
+     "url": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
+     "author": "Josephine Walker",
+     "kind": "news",
+     "published": "2026-08-21T21:12:53+00:00",
+     "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. What they're saying: \"We are grateful for the Decision of the United States Supreme Court,\" President Trump said in a Friday post on Truth Social. \"The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND!\" \"It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule.\" Catch up quick: The administration turned to the Supreme Co"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Supreme Court chief justice allows construction on White House ballroom to continue",
+     "url": "https://abcnews.com/Politics/supreme-court-chief-justice-allows-construction-white-house/story?id=135846623",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T19:44:50+00:00",
+     "summary": "Chief Justice John Roberts issued an administrative stay of a lower court order."
+    },
+    {
+     "outlet": "npr",
+     "title": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+     "author": "Deepa Shivaram",
+     "kind": "news",
+     "published": "2026-08-21T18:47:48+00:00",
+     "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation. (Image credit: Alex Wong)"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
+     "url": "https://www.dailywire.com/news/scotus-gives-trump-green-light-to-keep-building-white-house-ballroom-for-now",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-21T15:39:02+00:00",
+     "summary": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump\u2019s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court\u2019s injunction from taking effect while the Supreme Court considers the Trump administration\u2019s emergency request. The order does not resolve the underlying legal dispute or determine whether Trump had the authority to construct the ballroom without congressional approval. The move is nevertheless a significant victory for the administration, which has argued that construction should be allowed to continue as the case makes its way through the courts. The dispute is likely to head to the full Supreme Court after the U.S. Court of Appeals for the D.C. Circuit ruled earlier this month that Trump could not proceed with the project without authorization from Congress. That 2-1 ruling by the appeals court held that the decision to construct the massive addition to the White House was ultimately Congress\u2019 to make. \u201cWhether or not a massive bal"
     }
    ]
   },
@@ -743,12 +850,12 @@
      "speaker"
     ],
     "indie": [
-     "democratic",
      "sunday",
+     "democratic",
      "york",
+     "issues",
      "reported",
-     "times",
-     "issues"
+     "immigration"
     ]
    },
    "people": [],
@@ -834,33 +941,29 @@
    ]
   },
   {
-   "id": "df7ede4cc1",
-   "topic": "Politics",
-   "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust\u2026",
-   "summaryFrom": "time",
+   "id": "0d5fc6d4db",
+   "topic": "World",
+   "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face \u2018many problems\u2019 Iran\u2019s foreign minister has dismissed the threat of a fresh round of US economic sanctions as a \u201cdesperate\u201d ploy, even as its president acknowledged that the Iranian people are facing \u201cmany problems\u201d amid Washington\u2019s efforts to isolate and debilitate the country\u2019s economy. Last week, Donald Trump announced a new campaign to increase the pressure on the Iranian economy , calling it \u201cthe most crushing economic operation ever taken against any country\u201d. The US Treasury secretary, Scott Bessent, is expected to announce further punitive economic measures on Iran \u2013 which he has described as \u201cthe toughest sanctions in history\u201d \u2013 on Monday. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
+    "bigCount": 4,
+    "indieCount": 2,
     "big": [
-     "friday",
-     "stay",
-     "issued",
-     "proceed",
-     "lower",
-     "chief"
+     "unveil"
     ],
     "indie": []
    },
    "people": [],
-   "absent": [],
-   "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
-   "updated": "2026-08-23T14:35:20+00:00",
-   "outletCount": 6,
+   "absent": [
+    "coop"
+   ],
+   "headline": "Iran war live: US vows \u2018economic D-Day\u2019; Tehran threatens Gulf oil exports",
+   "updated": "2026-08-24T07:22:43+00:00",
+   "outletCount": 5,
    "counts": {
-    "family": 1,
-    "coop": 1,
+    "family": 3,
+    "corp": 1,
     "pub": 1,
-    "corp": 2,
     "nonprofit": 1
    },
    "newsCount": 6,
@@ -868,58 +971,58 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "time",
-     "title": "The Supreme Court Let Trump\u2019s Ballroom Proceed\u2014for Now. Here\u2019s What That Means",
-     "url": "https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-23T14:35:20+00:00",
-     "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust for Historic Preservation, which argues that a President cannot unilaterally make a major, permanent change to federally owned property when Congress has not authorized it, pointing toward the Property Clause of the Constitution. \u201cWe reiterated that the Administration has no unilateral legal authority\u2014"
-    },
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
-     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-22T00:01:15+00:00",
-     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
-    },
-    {
-     "outlet": "bbc",
-     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+     "outlet": "bloomberg",
+     "title": "Bessent Set to Unveil Iran Economic Isolation Plan",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-24/bessent-set-to-unveil-iran-economic-isolation-plan-video",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T22:02:10+00:00",
-     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
+     "published": "2026-08-24T07:22:43+00:00",
+     "summary": "Treasury Secretary Scott Bessent is due to hold a press conference Monday to unveil details of the US plan to economically isolate Iran and its trading partners after almost six months of war. Bloomberg's Abeer Abu Omar reports. (Source: Bloomberg)"
     },
     {
-     "outlet": "axios",
-     "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
-     "url": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
-     "author": "Josephine Walker",
-     "kind": "news",
-     "published": "2026-08-21T21:12:53+00:00",
-     "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. What they're saying: \"We are grateful for the Decision of the United States Supreme Court,\" President Trump said in a Friday post on Truth Social. \"The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND!\" \"It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule.\" Catch up quick: The administration turned to the Supreme Co"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Supreme Court chief justice allows construction on White House ballroom to continue",
-     "url": "https://abcnews.com/Politics/supreme-court-chief-justice-allows-construction-white-house/story?id=135846623",
+     "outlet": "cbsnews",
+     "title": "U.S. to unveil \"economic D-Day\" sanctions on Iran",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T19:44:50+00:00",
-     "summary": "Chief Justice John Roberts issued an administrative stay of a lower court order."
+     "published": "2026-08-24T07:01:59+00:00",
+     "summary": "Treasury Secretary Scott Bessent said the new measures will be the \"greatest financial offensive\" ever."
     },
     {
-     "outlet": "npr",
-     "title": "Supreme Court allows Trump's ballroom construction to continue for now",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-     "author": "Deepa Shivaram",
+     "outlet": "aljazeera",
+     "title": "Iran war live: US vows \u2018economic D-Day\u2019; Tehran threatens Gulf oil exports",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-21T18:47:48+00:00",
-     "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation. (Image credit: Alex Wong)"
+     "published": "2026-08-24T00:00:00+00:00",
+     "summary": "US Treasury Secretary Scott Bessent says Washington aims to 'sever every economic lifeline' that sustains Iran."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Iran\u2019s foreign minister calls threat of new US economic sanctions \u2018desperate\u2019",
+     "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+     "author": "Sam Jones and agencies",
+     "kind": "news",
+     "published": "2026-08-23T13:56:11+00:00",
+     "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face \u2018many problems\u2019 Iran\u2019s foreign minister has dismissed the threat of a fresh round of US economic sanctions as a \u201cdesperate\u201d ploy, even as its president acknowledged that the Iranian people are facing \u201cmany problems\u201d amid Washington\u2019s efforts to isolate and debilitate the country\u2019s economy. Last week, Donald Trump announced a new campaign to increase the pressure on the Iranian economy , calling it \u201cthe most crushing economic operation ever taken against any country\u201d. The US Treasury secretary, Scott Bessent, is expected to announce further punitive economic measures on Iran \u2013 which he has described as \u201cthe toughest sanctions in history\u201d \u2013 on Monday. Continue reading..."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 -- Threatens \u2018Earthquake-Like\u2019 Retaliation",
+     "url": "https://www.breitbart.com/politics/2026/08/23/iran-warns-neighbors-joining-u-s-economic-war-will-be-enemies-threatens-earthquake-like-retaliation/",
+     "author": "Joshua Klein",
+     "kind": "news",
+     "published": "2026-08-23T08:09:54+00:00",
+     "summary": "Iran threatened neighboring countries Saturday against joining President Donald Trump\u2019s escalating \u201ceconomic war\u201d against the Islamic Republic, warning those cooperating with Washington will be considered \u201cenemies.\u201d The totalitarian regime further cautioned any U.S. supporters will have their interests targeted while threatening \u201cearthquake-like\u201d retaliation as the United States prepares to unleash what it has billed as the toughest sanctions campaign in history. The post Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 \u2014 Threatens \u2018Earthquake-Like\u2019 Retaliation appeared first on Breitbart ."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Iran\u2019s Oil Exports to China Crumble Under U.S. Blockade",
+     "url": "https://www.breitbart.com/middle-east/2026/08/21/irans-oil-exports-to-china-crumble-under-u-s-blockade/",
+     "author": "John Hayward",
+     "kind": "news",
+     "published": "2026-08-21T19:29:26+00:00",
+     "summary": "Oil industry analysts on Friday noted a sharp decline in Iran\u2019s offers of crude oil to Chinese buyers after the U.S. blockade of Iranian ports was reimposed on July 13. The post Iran\u2019s Oil Exports to China Crumble Under U.S. Blockade appeared first on Breitbart ."
     }
    ]
   },
@@ -974,13 +1077,13 @@
      "summary": "Wearing an \"adult human female\" shirt, Enes Kanter got into an explosive argument with Chicago Sky guard Natasha Cloud on Sunday."
     },
     {
-     "outlet": "nypost",
-     "title": "Enes Kanter Freedom escorted out of Fever-Sky game after ugly exchange with WNBA star Natasha Cloud",
-     "url": "https://nypost.com/2026/08/23/sports/enes-kanter-freedom-escorted-out-of-wnba-game-after-exchange-with-natasha-cloud/",
-     "author": "Christian Arnold",
+     "outlet": "breitbart",
+     "title": "Enes Kanter Freedom Ejected from WNBA Game After Confrontation with Chicago Sky Player Natasha Cloud",
+     "url": "https://www.breitbart.com/sports/2026/08/23/enes-kanter-freedom-ejected-from-wnba-game-after-confrontation-with-chicago-sky-player-natasha-cloud/",
+     "author": "Paul Bois",
      "kind": "news",
-     "published": "2026-08-24T02:25:24+00:00",
-     "summary": "Enes Kanter Freedom leaves Fever-Sky game after a heated exchange with Natasha Cloud amid debate over trans athletes."
+     "published": "2026-08-24T03:17:00+00:00",
+     "summary": "Former Boston Celtics center Enes Kanter Freedom was ejected from Sunday's WNBA matchup after a confrontation with Sky guard Natasha Cloud. The post Enes Kanter Freedom Ejected from WNBA Game After Confrontation with Chicago Sky Player Natasha Cloud appeared first on Breitbart ."
     },
     {
      "outlet": "dailywire",
@@ -994,90 +1097,6 @@
    ]
   },
   {
-   "id": "5fe4280c79",
-   "topic": "Justice & Policing",
-   "summary": "KJ Biermann, 15, was arrested and charged with two felony counts stemming from an alleged April incident, according to documents obtained by Fox News Digital. KJ (who's full name is Kroy Jagger) was charged with aggravated sexual battery and aggravated sodomy Aug. 17 following his arrest in Alpharetta, Georgia . The teen is being charged as an adult under Georgia's SB440 law, which gives adult superior courts jurisdiction over teenagers aged 13 to 17 accused of specific violent felonies. REALITY STAR'S DAUGHTER ARRESTED ON ASSAULT CHARGE IN NEW JERSEY STEMMING FROM ALLEGED DISPUTE His mother, \" Real Housewives of Atlanta \" star Kim Zolciak, denied the allegations levied against her son in a statement provided to Fox News Digital. \"The allegations being made against my son are nothing short of reckless and deeply troubling,\" the reality star said. \"He categorically denies ever being\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 2,
-    "big": [
-     "star"
-    ],
-    "indie": [
-     "left",
-     "mount",
-     "fuji",
-     "father",
-     "tired",
-     "hike"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-   "updated": "2026-08-24T02:00:26+00:00",
-   "outletCount": 5,
-   "counts": {
-    "family": 2,
-    "corp": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "'Real Housewives' star Kim Zolciak denies sexual battery charge against 15-year-old son after his arrest",
-     "url": "https://www.foxnews.com/entertainment/real-housewives-star-kim-zolciak-denies-sexual-battery-charge-against-15-year-old-son-after-his-arrest",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T02:00:26+00:00",
-     "summary": "KJ Biermann, 15, was arrested and charged with two felony counts stemming from an alleged April incident, according to documents obtained by Fox News Digital. KJ (who's full name is Kroy Jagger) was charged with aggravated sexual battery and aggravated sodomy Aug. 17 following his arrest in Alpharetta, Georgia . The teen is being charged as an adult under Georgia's SB440 law, which gives adult superior courts jurisdiction over teenagers aged 13 to 17 accused of specific violent felonies. REALITY STAR'S DAUGHTER ARRESTED ON ASSAULT CHARGE IN NEW JERSEY STEMMING FROM ALLEGED DISPUTE His mother, \" Real Housewives of Atlanta \" star Kim Zolciak, denied the allegations levied against her son in a statement provided to Fox News Digital. \"The allegations being made against my son are nothing short of reckless and deeply troubling,\" the reality star said. \"He categorically denies ever being involved with this woman or engaging in the conduct she has alleged. GET ENTERTAINMENT SCOOP DELIVERED RIGHT TO YOUR EMAIL BY CLICKING HERE \"My son voluntarily took a polygraph examination regarding these allegations and passed. Additionally, an examination was conducted, and no DNA belonging to my son w"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Buffalo Bills Star\u2019s 2-Year-Old Son Dies After Drowning",
-     "url": "https://www.thedailybeast.com/buffalo-bills-stars-2-year-old-son-dies-after-drowning/",
-     "author": "Tom Disalvo",
-     "kind": "news",
-     "published": "2026-08-23T04:31:43+00:00",
-     "summary": "Bob Donnan / IMAGN IMAGES via Reuters Connect The two-year-old son of Buffalo Bills player Ed Oliver has tragically died after an accidental drowning, prompting an outpouring of well wishes for the NFL star. Oliver\u2019s son, also named Ed, reportedly drowned in a residential pool in Harris County, Texas, on the evening of June 28. Authorities responded to a life-in-danger call, where they found the toddler unresponsive in the pool. He was rushed to a nearby hospital, where he was pronounced dead. Bills General Manager Brandon Beane was among those to react to the \u201cunthinkable tragedy,\u201d saying the team will support Ed\u2019s family \u201cas we all grieve this tragic loss.\u201d Though he wasn\u2019t identified as Oliver\u2019s son at the time, the Harris County Sheriff\u2019s Department reported the drowning death of a toddler in Houston in late June. Oliver has been participating in training camp since then, with his teammates only recently learning of the tragedy. Bills quarterback Josh Allen said on Saturday that \u201cthere\u2019s nothing that you can say to make the situation any better except being there in whatever ways he needs.\u201d Read more at The Daily Beast."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-     "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T14:35:11+00:00",
-     "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Chris Pratt\u2019s Ex Admits She Grills 14-Year-Old Son Over His Pro-Life, Conservative Views",
-     "url": "https://www.dailywire.com/news/chris-pratts-ex-admits-she-grills-14-year-old-son-over-his-pro-life-conservative-views",
-     "author": "Amanda Prestigiacomo",
-     "kind": "opinion",
-     "published": "2026-08-22T14:00:44+00:00",
-     "summary": "Actress Anna Faris admitted this past week that she challenges her 14-year-old son, whom she shares with ex-husband Chris Pratt, on his pro-life and conservative beliefs. Speaking to comedian Chelsea Handler on her \u201cDear Chelsea\u201d podcast, Faris spoke lovingly of her son, Jack, but noted they have some differences when it comes to religion and politics. She told Handler that she challenges Jack\u2019s beliefs, specifically bringing up his pro-life views. \u201cI try to challenge him. I\u2019m like, \u2018Do you think it\u2019s a luxury that you get to be pro-life?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Maybe.\u2019\u201d \u201cHe is \u2026 religious,\u201d the 49-year-old said, sounding hesitant. Faris said she did not grow up with religion herself, but that Jack has developed strong religious beliefs. When she challenges him on his faith, she said she brings up what she views as religious \u201chypocrisy.\u201d \u201cI\u2019ll say, \u2018So, what do you think of this mega pastor that\u2019s kind of a grifter?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Oh, mega pastors are the worst.\u2019 So it\u2019s like, okay, he\u2019s getting there.\u201d Faris also praised her son, saying she\u2019s impressed by his responses and calling him as \u201csolid as a tugboat, emotionally. \u2026 He just doesn\u2019t get easily jarred \u2014 he hand"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Man leaves young son on Mount Fuji before ascending Japan\u2019s highest peak",
-     "url": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
-     "author": "Donna Ferguson",
-     "kind": "news",
-     "published": "2026-08-22T12:25:16+00:00",
-     "summary": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling tired while on a family hike has been reprimanded by local police. A worker on Japan\u2019s highest mountain discovered the child sitting alone on a bench near the sixth station of the Fujinomiya trail at an altitude of more than 2,000 metres (6,500 feet) on Thursday. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "a23a33e6df",
    "topic": "Business & Economy",
    "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
@@ -1086,9 +1105,9 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
+     "sides",
      "carney",
-     "both",
-     "sides"
+     "both"
     ],
     "indie": []
    },
@@ -1153,6 +1172,74 @@
      "kind": "news",
      "published": "2026-08-22T11:43:25+00:00",
      "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion."
+    }
+   ]
+  },
+  {
+   "id": "c42f0eac18",
+   "topic": "Politics",
+   "summary": "Ukraine's President Volodymyr Zelensky waits for international guests at the Nordic-Baltic Eight summit in Kyiv, Ukraine, on Aug. 23, 2026. \u2014Tetiana Dzhafarova\u2014AFP/Getty Images Volodymyr Zelensky may be under pressure to hold elections in Ukraine, including from his former defense minister Mykhailo Fedorov , but in remarks over the weekend, the Ukrainian President argued that doing so during the ongoing conflict with Russia would \u201cdestroy\u201d the country. \u201cI believe that in a war like this, elections as such are a huge risk,\u201d Zelensky said in remarks to journalists during a two-hour meeting Saturday\u2014parts of which were made public on Sunday. \u201cElections right now are a tsunami for the country that will split Ukraine.\u201d Read More: Zelensky Faces Pressure to Hold Elections. What Stands in the Way? The renewed push for wartime elections was bolstered by Fedorov, who, in a video posted to social\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "ukraine's"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+   "updated": "2026-08-24T07:00:04+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 1,
+    "corp": 1,
+    "pub": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "time",
+     "title": "A \u2018Tsunami\u2019 for Ukraine: Zelensky Rejects Wartime Elections",
+     "url": "https://time.com/article/2026/08/24/volodymyr-zelensky-elections-ukraine-wartime-mykhailo-fedorov/",
+     "author": "Chad de Guzman",
+     "kind": "news",
+     "published": "2026-08-24T07:00:04+00:00",
+     "summary": "Ukraine's President Volodymyr Zelensky waits for international guests at the Nordic-Baltic Eight summit in Kyiv, Ukraine, on Aug. 23, 2026. \u2014Tetiana Dzhafarova\u2014AFP/Getty Images Volodymyr Zelensky may be under pressure to hold elections in Ukraine, including from his former defense minister Mykhailo Fedorov , but in remarks over the weekend, the Ukrainian President argued that doing so during the ongoing conflict with Russia would \u201cdestroy\u201d the country. \u201cI believe that in a war like this, elections as such are a huge risk,\u201d Zelensky said in remarks to journalists during a two-hour meeting Saturday\u2014parts of which were made public on Sunday. \u201cElections right now are a tsunami for the country that will split Ukraine.\u201d Read More: Zelensky Faces Pressure to Hold Elections. What Stands in the Way? The renewed push for wartime elections was bolstered by Fedorov, who, in a video posted to social media last week, argued that \"democracy cannot be held hostage by Russia.\u201d Zelensky fired Fedorov, once his longtime ally, in July over disagreements in how to run the war with Russia. \u201cI believe that if we want to destroy the country, then during such a war we can move towards elections,\u201d Zelensky "
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
+     "url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T00:59:00+00:00",
+     "summary": "After Ukraine's fired defense minister publicly called for wartime elections, Zelenskyy said it would risk splitting the country."
+    },
+    {
+     "outlet": "france24",
+     "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+     "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-23T14:49:42+00:00",
+     "summary": "Ukrainian President Volodymyr Zelensky has said that holding elections during wartime would pose a threat to the country, following a controversial call by his former defense minister to pave the way for an election. According to the latest opinion poll by the Kyiv Institute of Sociology carried out this summer, only 15 per cent of those surveyed want an election to be held at this time. Details by Eliza Herbert."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine: Zelenskyy rejects wartime elections",
+     "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T10:23:00+00:00",
+     "summary": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to mobilize hundreds of thousands of troops after September polls there."
     }
    ]
   },
@@ -1279,67 +1366,6 @@
    ]
   },
   {
-   "id": "c42f0eac18",
-   "topic": "Politics",
-   "summary": "President sharply criticises proposal, saying \u2018elections right now are a tsunami for the state that will split Ukraine\u2019 Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers. The Ukrainian president, responding for the first time to a demand made by the sacked former defence minister Mykhailo Fedorov, sharply criticised an idea that he said was impractical given Russia appeared to have no interest in a ceasefire. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-   "updated": "2026-08-24T00:59:00+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 1,
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Zelenskyy rejects wartime elections, cites \"huge risk\"",
-     "url": "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:59:00+00:00",
-     "summary": "After Ukraine's fired defense minister publicly called for wartime elections, Zelenskyy said it would risk splitting the country."
-    },
-    {
-     "outlet": "france24",
-     "title": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-     "url": "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-23T14:49:42+00:00",
-     "summary": "Ukrainian President Volodymyr Zelensky has said that holding elections during wartime would pose a threat to the country, following a controversial call by his former defense minister to pave the way for an election. According to the latest opinion poll by the Kyiv Institute of Sociology carried out this summer, only 15 per cent of those surveyed want an election to be held at this time. Details by Eliza Herbert."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-     "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-     "author": "Dan Sabbagh in Dnipro",
-     "kind": "news",
-     "published": "2026-08-23T11:50:12+00:00",
-     "summary": "President sharply criticises proposal, saying \u2018elections right now are a tsunami for the state that will split Ukraine\u2019 Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers. The Ukrainian president, responding for the first time to a demand made by the sacked former defence minister Mykhailo Fedorov, sharply criticised an idea that he said was impractical given Russia appeared to have no interest in a ceasefire. Continue reading..."
-    },
-    {
-     "outlet": "dw",
-     "title": "Ukraine: Zelenskyy rejects wartime elections",
-     "url": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T10:23:00+00:00",
-     "summary": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to mobilize hundreds of thousands of troops after September polls there."
-    }
-   ]
-  },
-  {
    "id": "b0d10a715b",
    "topic": "Other",
    "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A \u2060landslide at a huge waste dump in Guinea\u2019s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to \u2060collapse, engulfing nearby tents and shacks. The incident occurred less than a week after the government announced plans to close the \u2060site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash \u2060floods each year in crowded, underdeveloped cities across parts of West Africa. Continue reading...",
@@ -1397,78 +1423,6 @@
      "kind": "news",
      "published": "2026-08-23T17:48:00+00:00",
      "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn."
-    }
-   ]
-  },
-  {
-   "id": "149bcbff58",
-   "topic": "Justice & Policing",
-   "summary": "Teen confirmed to have died in attack at Swedish high school, alleged perpetrator rendered into pretrial detention by the regional court. The post Alleged Swordsman Named After Girl, 17, Killed in Swedish High School Attack appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "teen",
-     "high"
-    ],
-    "indie": [
-     "year-old",
-     "sword"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Girl, 17, killed in Swedish sword attack, police say",
-   "updated": "2026-08-23T20:25:38+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "latimes",
-     "title": "California teen killed in shooting at high school football game; suspect in custody",
-     "url": "https://www.latimes.com/california/story/2026-08-23/teen-killed-shooting-independence-high-school-bakersfield",
-     "author": "Jasmine Mendez",
-     "kind": "news",
-     "published": "2026-08-23T20:25:38+00:00",
-     "summary": "A suspect was arrested after Levi Brown, 17, was fatally shot during a game in Bakersfield."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Alleged Swordsman Named After Girl, 17, Killed in Swedish High School Attack",
-     "url": "https://www.breitbart.com/europe/2026/08/23/alleged-swordsman-named-after-girl-17-killed-in-swedish-high-school-attack/",
-     "author": "Oliver JJ Lane",
-     "kind": "news",
-     "published": "2026-08-23T15:03:19+00:00",
-     "summary": "Teen confirmed to have died in attack at Swedish high school, alleged perpetrator rendered into pretrial detention by the regional court. The post Alleged Swordsman Named After Girl, 17, Killed in Swedish High School Attack appeared first on Breitbart ."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Girl, 17, killed in Swedish sword attack, police say",
-     "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T01:34:15+00:00",
-     "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Student killed in sword attack at a Swedish school was a 17-year-old girl",
-     "url": "https://www.pbs.org/newshour/world/student-killed-in-sword-attack-at-a-swedish-school-was-a-17-year-old-girl",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-22T17:23:37+00:00",
-     "summary": "An 18-year-old man armed with a sword carried out the attack at the Brinell School in Fagersta, northwest of Stockholm, while classes were in session on Friday. One person was killed and three others were wounded, two of them severely."
     }
    ]
   },
@@ -1591,6 +1545,58 @@
      "kind": "opinion",
      "published": "2026-08-23T10:15:50+00:00",
      "summary": "Republican Texas Gov. Greg Abbott is downplaying fears that Democrats could flip the Lone Star State blue this year and, with it, seize control of the U.S. Senate. In an interview with ABC News , Jonathan Karl pressed the three-term governor on Texas Attorney General Ken Paxton\u2019s fundraising woes and whether his political baggage could cost Republicans the must-win U.S. Senate race against Democrat James Talarico. \u201cSo, I\u2019ve heard from Republicans, Texas Republicans, who have real concerns about Ken Paxton, the nominee for Senate or for your party. They say he\u2019s not working hard enough. He\u2019s not raising money. He\u2019s got too much baggage. Do you share some of those concerns?\u201d Karl asked Abbott. \u201c Well, let\u2019s put it in context where Ken Paxton is in his campaign, and that is he was in a three-month-long runoff that demanded capital, it demanded campaigning, demanded his attention, and so he\u2019s just now catching up in the campaign process with Talarico,\u201d Abbott said, adding, \u201cTalarico got away with something, and that is with Ken Paxton campaigning against John Cornyn as opposed to Talarico.\u201d The Senate GOP\u2019s fundraising arms continue to withhold money from Paxton\u2019s campaign after Presid"
+    }
+   ]
+  },
+  {
+   "id": "b3ee245678",
+   "topic": "Business & Economy",
+   "summary": "Film studio giant Paramount took aim at left-wing \"Avengers: Doomsday\" and \"Spider-Man: Brand New Day\" star Mark Ruffalo for calling them \"inhuman,\" and blasted the \"Hulk\" star as an antisemite. The post Paramount Accuses Disney Star Mark Ruffalo of Antisemitism Over Warner Bros. Merger Attack appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "California Cancels Talks With Paramount Over Warner Bros. Merger",
+   "updated": "2026-08-24T07:16:55+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "California Cancels Talks With Paramount Over Warner Bros. Merger",
+     "url": "https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html",
+     "author": "Laurel Rosenhall",
+     "kind": "news",
+     "published": "2026-08-24T07:16:55+00:00",
+     "summary": "Rob Bonta, California\u2019s attorney general, accused Paramount of leaking and misrepresenting earlier settlement discussions. He is leading a group of 12 states that have sued to block the $111 billion deal."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Paramount Accuses Disney Star Mark Ruffalo of Antisemitism Over Warner Bros. Merger Attack",
+     "url": "https://www.breitbart.com/entertainment/2026/08/23/paramount-accuses-disney-star-mark-ruffalo-of-antisemitism-over-warner-bros-merger-attack/",
+     "author": "Warner Todd Huston",
+     "kind": "news",
+     "published": "2026-08-23T17:51:59+00:00",
+     "summary": "Film studio giant Paramount took aim at left-wing \"Avengers: Doomsday\" and \"Spider-Man: Brand New Day\" star Mark Ruffalo for calling them \"inhuman,\" and blasted the \"Hulk\" star as an antisemite. The post Paramount Accuses Disney Star Mark Ruffalo of Antisemitism Over Warner Bros. Merger Attack appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism",
+     "url": "https://www.nbcnews.com/news/us-news/mark-ruffalo-paramount-antisemitism-accusation-dishonest-rcna594004",
+     "author": "Angela Yang",
+     "kind": "news",
+     "published": "2026-08-23T17:49:06+00:00",
+     "summary": "Mark Ruffalo urged his followers to push back against the Paramount-Warner Bros. merger, arguing it would be \u201ccatastrophic for our film industry.\u201d"
     }
    ]
   },
@@ -1751,6 +1757,58 @@
    ]
   },
   {
+   "id": "22e1d25c62",
+   "topic": "World",
+   "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to three sources with knowledge of the matter. Why it matters: The meeting between Syrian Foreign Minister Asaad al-Shaibani and the director of Israel's Mossad spy agency, Roman Gofman, took place days after an Israeli strike on a Syrian airbase sharply escalated tensions between the two countries. Driving the news: On Tuesday, the Israeli Air Force dropped at least eight bombs on runways and hangars at the Abu al-Duhur airbase in northern Syria, about 45 miles from the Turkish border. Israel said the strike was aimed at preventing a Turkish military buildup at the base and that it had intelligence showing Turkey was planning to deploy drones and a radar system there. Israel also warned that if preparations for the Turkish deployment\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+   "updated": "2026-08-24T03:56:59+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+     "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T03:56:59+00:00",
+     "summary": "Syria's foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border."
+    },
+    {
+     "outlet": "france24",
+     "title": "Syria says US-mediated talks addressed de-escalation, staying out of Israel-Turkey tensions",
+     "url": "https://www.france24.com/en/middle-east/20260823-syria-says-us-mediated-talks-with-israel-addressed-de-escalation",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-23T22:39:10+00:00",
+     "summary": "Syria and Israel held US-mediated talks in Jordan on Sunday to defuse the crisis sparked by a strike that Israel said was aimed at preventing a Turkish military deployment. Damascus says it wants to stay out of the tensions between Israel and Turkey."
+    },
+    {
+     "outlet": "axios",
+     "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
+     "url": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-23T16:08:52+00:00",
+     "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to three sources with knowledge of the matter. Why it matters: The meeting between Syrian Foreign Minister Asaad al-Shaibani and the director of Israel's Mossad spy agency, Roman Gofman, took place days after an Israeli strike on a Syrian airbase sharply escalated tensions between the two countries. Driving the news: On Tuesday, the Israeli Air Force dropped at least eight bombs on runways and hangars at the Abu al-Duhur airbase in northern Syria, about 45 miles from the Turkish border. Israel said the strike was aimed at preventing a Turkish military buildup at the base and that it had intelligence showing Turkey was planning to deploy drones and a radar system there. Israel also warned that if preparations for the Turkish deployment didn't stop, it would take military action. During behind-the-scenes discussions between Israel, Syria and the U.S., the Syrian government denied any intention to allow the Turkish military to establish a presence at the base. But Israel was unswayed and attacked the base in what it called a \"warning"
+    }
+   ]
+  },
+  {
    "id": "1044128985",
    "topic": "Climate & Energy",
    "summary": "Forecasters expected Moke to produce as much as 10 inches of total rain across the Big Island, and up to 15 inches in some isolated places, enough to cause life-threatening flooding and mudslides for the windward and southeast slopes.",
@@ -1803,10 +1861,10 @@
    ]
   },
   {
-   "id": "8ede45a94d",
-   "topic": "Politics",
-   "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other\u2026",
-   "summaryFrom": "vox",
+   "id": "27586b29b6",
+   "topic": "Other",
+   "summary": "A video posted on TikTok captured three men clad in headlamps and overalls hurriedly pulling themselves out of the steamy depths of a manhole at 32nd Street and Seventh Avenue.",
+   "summaryFrom": "nypost",
    "emphasis": null,
    "people": [],
    "absent": [
@@ -1814,43 +1872,43 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Insiders Expose Trump\u2019s Dodgy New Excuse for Ballroom",
-   "updated": "2026-08-24T03:07:32+00:00",
+   "headline": "New video shows trio of headlamp-wearing \u2018mole people\u2019 emerge from NYC manhole near Penn Station",
+   "updated": "2026-08-24T03:09:20+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 2,
-    "family": 1
+    "family": 1,
+    "corp": 2
    },
-   "newsCount": 2,
-   "opinionCount": 1,
+   "newsCount": 3,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "Insiders Expose Trump\u2019s Dodgy New Excuse for Ballroom",
-     "url": "https://www.thedailybeast.com/insiders-expose-trumps-dodgy-new-excuse-for-ballroom/",
-     "author": "Cameron Adams",
+     "outlet": "nypost",
+     "title": "New video shows trio of headlamp-wearing \u2018mole people\u2019 emerge from NYC manhole near Penn Station",
+     "url": "https://nypost.com/2026/08/23/us-news/new-video-shows-trio-of-mole-people-emerge-from-nyc-manhole-near-penn-station/",
+     "author": "Zoe Hussain",
      "kind": "news",
-     "published": "2026-08-24T03:07:32+00:00",
-     "summary": "Evan Vucci / REUTERS White House insiders are throwing cold water on President Donald Trump\u2019s attempts to fast track his vanity ballroom project after releasing critical new information. Trump, 80, scored a Supreme Court victory last week when Chief Justice John Roberts allowed construction on the project to continue while the high court continues to debate a case to halt it entirely. The ballroom began as a modest event-space renovation costing an estimated $200 million; however, it has since ballooned to $600 million \u2014with taxpayers expected to cover more than half. Read more at The Daily Beast."
+     "published": "2026-08-24T03:09:20+00:00",
+     "summary": "A video posted on TikTok captured three men clad in headlamps and overalls hurriedly pulling themselves out of the steamy depths of a manhole at 32nd Street and Seventh Avenue."
     },
     {
-     "outlet": "vox",
-     "title": "Trump\u2019s ballroom survives \u2014 for now",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/500218/trump-east-wing-ballroom-construction-scotus-roberts",
-     "author": "Cameron Peters",
+     "outlet": "abcnews",
+     "title": "WATCH: NYPD to investigate new video of people emerging from a sewer in NYC",
+     "url": "https://abcnews.com/video/135889986/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-21T21:35:00+00:00",
-     "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other judges said? Earlier this month, the DC Circuit Court of Appeals upheld a previous district court ruling that Trump had exceeded his authority in unilaterally pursuing the ballroom project and would need to seek congressional approval to continue. (Trump, meanwhile, has attempted to justify the projec"
+     "published": "2026-08-23T23:47:33+00:00",
+     "summary": "Authorities are investigating the latest in a string of bizarre incidents in NYC of people climbing in and out of Manhattan manholes in the middle of the night."
     },
     {
-     "outlet": "dailywire",
-     "title": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
-     "url": "https://www.dailywire.com/news/scotus-gives-trump-green-light-to-keep-building-white-house-ballroom-for-now",
-     "author": "Drew Berkemeyer",
-     "kind": "opinion",
-     "published": "2026-08-21T15:39:02+00:00",
-     "summary": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump\u2019s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court\u2019s injunction from taking effect while the Supreme Court considers the Trump administration\u2019s emergency request. The order does not resolve the underlying legal dispute or determine whether Trump had the authority to construct the ballroom without congressional approval. The move is nevertheless a significant victory for the administration, which has argued that construction should be allowed to continue as the case makes its way through the courts. The dispute is likely to head to the full Supreme Court after the U.S. Court of Appeals for the D.C. Circuit ruled earlier this month that Trump could not proceed with the project without authorization from Congress. That 2-1 ruling by the appeals court held that the decision to construct the massive addition to the White House was ultimately Congress\u2019 to make. \u201cWhether or not a massive bal"
+     "outlet": "nbcnews",
+     "title": "NYPD probes fresh video of people climbing out of Manhattan manhole",
+     "url": "https://www.nbcnews.com/news/us-news/nypd-probes-fresh-video-people-climbing-manhattan-manhole-rcna593991",
+     "author": "Matteo Moschella",
+     "kind": "news",
+     "published": "2026-08-23T15:55:28+00:00",
+     "summary": "Video on TikTok showed three people emerging from a manhole near Penn Station and Madison Square Garden."
     }
    ]
   },
@@ -1907,54 +1965,54 @@
    ]
   },
   {
-   "id": "52c12c77a4",
-   "topic": "Other",
-   "summary": "At least 30 people were killed in a massive landslide in Guinea on Sunday when a mountainous open-air landfill collapsed and buried nearby shacks, trapping numerous victims beneath a mass of garbage. The incident happened at Dar Es Salam, the largest waste dump in the West African country's capital, Conakry, according to a report from The Associated Press (AP). Guinea News reported that the weight of the waste caused a three-story building beneath it to cave in. Authorities said heavy rainfall also washed over the refuse overnight, creating hazardous conditions at the landfill , according to the AP. EARTHQUAKE SHAKES PERU'S ANDES REGION, KILLING AT LEAST 5, DISPLACING HUNDREDS Six people were seriously injured and several homes were destroyed in the incident, according to reports. Officials launched a search-and-rescue operation to find any survivors. The AP reported that the landfill\u2026",
+   "id": "090f5c6b98",
+   "topic": "Justice & Policing",
+   "summary": "KJ Biermann, 15, was arrested and charged with two felony counts stemming from an alleged April incident, according to documents obtained by Fox News Digital. KJ (who's full name is Kroy Jagger) was charged with aggravated sexual battery and aggravated sodomy Aug. 17 following his arrest in Alpharetta, Georgia . The teen is being charged as an adult under Georgia's SB440 law, which gives adult superior courts jurisdiction over teenagers aged 13 to 17 accused of specific violent felonies. REALITY STAR'S DAUGHTER ARRESTED ON ASSAULT CHARGE IN NEW JERSEY STEMMING FROM ALLEGED DISPUTE His mother, \" Real Housewives of Atlanta \" star Kim Zolciak, denied the allegations levied against her son in a statement provided to Fox News Digital. \"The allegations being made against my son are nothing short of reckless and deeply troubling,\" the reality star said. \"He categorically denies ever being\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
    "people": [],
    "absent": [
-    "corp",
     "coop",
-    "nonprofit"
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
-   "updated": "2026-08-24T02:32:59+00:00",
+   "headline": "'Real Housewives' star Kim Zolciak denies sexual battery charge against 15-year-old son after his arrest",
+   "updated": "2026-08-24T02:00:26+00:00",
    "outletCount": 3,
    "counts": {
     "family": 2,
-    "pub": 1
+    "corp": 1
    },
-   "newsCount": 3,
-   "opinionCount": 0,
+   "newsCount": 2,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "At least 30 killed after massive waste pile collapses, trapping victims beneath garbage",
-     "url": "https://nypost.com/2026/08/23/world-news/at-least-30-killed-after-massive-waste-pile-collapses-trapping-victims-beneath-garbage/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-24T02:32:59+00:00",
-     "summary": "Guinea News reported that the weight of the waste caused a three-story building beneath it to cave in."
-    },
-    {
      "outlet": "foxnews",
-     "title": "Massive garbage heap collapses onto homes, killing at least 30 as rescuers search for survivors",
-     "url": "https://www.foxnews.com/world/massive-garbage-heap-collapses-onto-homes-killing-least-30-rescuers-search-survivors",
+     "title": "'Real Housewives' star Kim Zolciak denies sexual battery charge against 15-year-old son after his arrest",
+     "url": "https://www.foxnews.com/entertainment/real-housewives-star-kim-zolciak-denies-sexual-battery-charge-against-15-year-old-son-after-his-arrest",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T20:53:10+00:00",
-     "summary": "At least 30 people were killed in a massive landslide in Guinea on Sunday when a mountainous open-air landfill collapsed and buried nearby shacks, trapping numerous victims beneath a mass of garbage. The incident happened at Dar Es Salam, the largest waste dump in the West African country's capital, Conakry, according to a report from The Associated Press (AP). Guinea News reported that the weight of the waste caused a three-story building beneath it to cave in. Authorities said heavy rainfall also washed over the refuse overnight, creating hazardous conditions at the landfill , according to the AP. EARTHQUAKE SHAKES PERU'S ANDES REGION, KILLING AT LEAST 5, DISPLACING HUNDREDS Six people were seriously injured and several homes were destroyed in the incident, according to reports. Officials launched a search-and-rescue operation to find any survivors. The AP reported that the landfill was originally scheduled to close Sunday after officials warned of hazardous conditions, citing Lt. Col. Bald\u00e9 Mamadou Bailo, the sanitation officer for the military engineering battalion. The decision followed reports of a similar incident at the landfill in recent years, raising concerns about its s"
+     "published": "2026-08-24T02:00:26+00:00",
+     "summary": "KJ Biermann, 15, was arrested and charged with two felony counts stemming from an alleged April incident, according to documents obtained by Fox News Digital. KJ (who's full name is Kroy Jagger) was charged with aggravated sexual battery and aggravated sodomy Aug. 17 following his arrest in Alpharetta, Georgia . The teen is being charged as an adult under Georgia's SB440 law, which gives adult superior courts jurisdiction over teenagers aged 13 to 17 accused of specific violent felonies. REALITY STAR'S DAUGHTER ARRESTED ON ASSAULT CHARGE IN NEW JERSEY STEMMING FROM ALLEGED DISPUTE His mother, \" Real Housewives of Atlanta \" star Kim Zolciak, denied the allegations levied against her son in a statement provided to Fox News Digital. \"The allegations being made against my son are nothing short of reckless and deeply troubling,\" the reality star said. \"He categorically denies ever being involved with this woman or engaging in the conduct she has alleged. GET ENTERTAINMENT SCOOP DELIVERED RIGHT TO YOUR EMAIL BY CLICKING HERE \"My son voluntarily took a polygraph examination regarding these allegations and passed. Additionally, an examination was conducted, and no DNA belonging to my son w"
     },
     {
-     "outlet": "aljazeera",
-     "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
-     "author": null,
+     "outlet": "dailybeast",
+     "title": "Buffalo Bills Star\u2019s 2-Year-Old Son Dies After Drowning",
+     "url": "https://www.thedailybeast.com/buffalo-bills-stars-2-year-old-son-dies-after-drowning/",
+     "author": "Tom Disalvo",
      "kind": "news",
-     "published": "2026-08-23T19:27:17+00:00",
-     "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India."
+     "published": "2026-08-23T04:31:43+00:00",
+     "summary": "Bob Donnan / IMAGN IMAGES via Reuters Connect The two-year-old son of Buffalo Bills player Ed Oliver has tragically died after an accidental drowning, prompting an outpouring of well wishes for the NFL star. Oliver\u2019s son, also named Ed, reportedly drowned in a residential pool in Harris County, Texas, on the evening of June 28. Authorities responded to a life-in-danger call, where they found the toddler unresponsive in the pool. He was rushed to a nearby hospital, where he was pronounced dead. Bills General Manager Brandon Beane was among those to react to the \u201cunthinkable tragedy,\u201d saying the team will support Ed\u2019s family \u201cas we all grieve this tragic loss.\u201d Though he wasn\u2019t identified as Oliver\u2019s son at the time, the Harris County Sheriff\u2019s Department reported the drowning death of a toddler in Houston in late June. Oliver has been participating in training camp since then, with his teammates only recently learning of the tragedy. Bills quarterback Josh Allen said on Saturday that \u201cthere\u2019s nothing that you can say to make the situation any better except being there in whatever ways he needs.\u201d Read more at The Daily Beast."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Chris Pratt\u2019s Ex Admits She Grills 14-Year-Old Son Over His Pro-Life, Conservative Views",
+     "url": "https://www.dailywire.com/news/chris-pratts-ex-admits-she-grills-14-year-old-son-over-his-pro-life-conservative-views",
+     "author": "Amanda Prestigiacomo",
+     "kind": "opinion",
+     "published": "2026-08-22T14:00:44+00:00",
+     "summary": "Actress Anna Faris admitted this past week that she challenges her 14-year-old son, whom she shares with ex-husband Chris Pratt, on his pro-life and conservative beliefs. Speaking to comedian Chelsea Handler on her \u201cDear Chelsea\u201d podcast, Faris spoke lovingly of her son, Jack, but noted they have some differences when it comes to religion and politics. She told Handler that she challenges Jack\u2019s beliefs, specifically bringing up his pro-life views. \u201cI try to challenge him. I\u2019m like, \u2018Do you think it\u2019s a luxury that you get to be pro-life?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Maybe.\u2019\u201d \u201cHe is \u2026 religious,\u201d the 49-year-old said, sounding hesitant. Faris said she did not grow up with religion herself, but that Jack has developed strong religious beliefs. When she challenges him on his faith, she said she brings up what she views as religious \u201chypocrisy.\u201d \u201cI\u2019ll say, \u2018So, what do you think of this mega pastor that\u2019s kind of a grifter?\u2019\u201d Faris said. \u201cHe\u2019s like, \u2018Oh, mega pastors are the worst.\u2019 So it\u2019s like, okay, he\u2019s getting there.\u201d Faris also praised her son, saying she\u2019s impressed by his responses and calling him as \u201csolid as a tugboat, emotionally. \u2026 He just doesn\u2019t get easily jarred \u2014 he hand"
     }
    ]
   },
@@ -2022,7 +2080,7 @@
     "coop"
    ],
    "headline": "Iran's president says U.S. memorandum is best path out of stalled war, and other Middle East news",
-   "updated": "2026-08-24T00:47:05+00:00",
+   "updated": "2026-08-24T00:47:00+00:00",
    "outletCount": 3,
    "counts": {
     "corp": 1,
@@ -2039,7 +2097,7 @@
      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T00:47:05+00:00",
+     "published": "2026-08-24T00:47:00+00:00",
      "summary": "The new head of Iran's supreme national security council issued the warning to countries who join the U.S.'s economic war on Tehran."
     },
     {
@@ -2059,58 +2117,6 @@
      "kind": "news",
      "published": "2026-08-23T14:49:00+00:00",
      "summary": "Iran's president has said the country's economy needs a peace deal to attract investors. The Foreign Ministry said Pakistan's top army official will visit Tehran Monday as Islamabad seeks to mediate a resolution."
-    }
-   ]
-  },
-  {
-   "id": "79bf3b23e6",
-   "topic": "Politics",
-   "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face \u2018many problems\u2019 Iran\u2019s foreign minister has dismissed the threat of a fresh round of US economic sanctions as a \u201cdesperate\u201d ploy, even as its president acknowledged that the Iranian people are facing \u201cmany problems\u201d amid Washington\u2019s efforts to isolate and debilitate the country\u2019s economy. Last week, Donald Trump announced a new campaign to increase the pressure on the Iranian economy , calling it \u201cthe most crushing economic operation ever taken against any country\u201d. The US Treasury secretary, Scott Bessent, is expected to announce further punitive economic measures on Iran \u2013 which he has described as \u201cthe toughest sanctions in history\u201d \u2013 on Monday. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Iran\u2019s foreign minister calls threat of new US economic sanctions \u2018desperate\u2019",
-   "updated": "2026-08-24T00:45:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "White House promises full-throttle economic warfare against Iran with new plan for sanctions",
-     "url": "https://www.cbsnews.com/video/white-house-promises-full-throttle-economic-warfare-against-iran-new-plan-sanctions/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:45:00+00:00",
-     "summary": "The streets of Washington, D.C., turned into a speedway on Sunday as IndyCars raced around the National Mall. Meanwhile, the Trump administration said new economic pressure for allies and enemies alike is its top focus. Olivia Rinaldi has more details."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Iran\u2019s foreign minister calls threat of new US economic sanctions \u2018desperate\u2019",
-     "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
-     "author": "Sam Jones and agencies",
-     "kind": "news",
-     "published": "2026-08-23T13:56:11+00:00",
-     "summary": "Abbas Araghchi says country is unbowed but president Masoud Pezeshkian admits its people face \u2018many problems\u2019 Iran\u2019s foreign minister has dismissed the threat of a fresh round of US economic sanctions as a \u201cdesperate\u201d ploy, even as its president acknowledged that the Iranian people are facing \u201cmany problems\u201d amid Washington\u2019s efforts to isolate and debilitate the country\u2019s economy. Last week, Donald Trump announced a new campaign to increase the pressure on the Iranian economy , calling it \u201cthe most crushing economic operation ever taken against any country\u201d. The US Treasury secretary, Scott Bessent, is expected to announce further punitive economic measures on Iran \u2013 which he has described as \u201cthe toughest sanctions in history\u201d \u2013 on Monday. Continue reading..."
-    },
-    {
-     "outlet": "npr",
-     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-     "author": "NPR Staff",
-     "kind": "news",
-     "published": "2026-08-21T11:42:10+00:00",
-     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
     }
    ]
   },
@@ -2219,54 +2225,54 @@
    ]
   },
   {
-   "id": "b7591a9cd1",
-   "topic": "Business & Economy",
-   "summary": "Three groups, the Anti-Defamation League, the Simon Wiesenthal Center, and the Creative Community for Peace, have joined to condemn Disney film star and \"Spider-Man: Brand New Day\" star Mark Ruffalo for his recent antisemitic comments. The post Anti-Defamation League, Other Major Jewish Groups Slam Disney\u2019s Mark Ruffalo for Antisemitic Paramount Merger Comments appeared first on Breitbart .",
+   "id": "54d83e7110",
+   "topic": "Culture & Sport",
+   "summary": "Teen confirmed to have died in attack at Swedish high school, alleged perpetrator rendered into pretrial detention by the regional court. The post Alleged Swordsman Named After Girl, 17, Killed in Swedish High School Attack appeared first on Breitbart .",
    "summaryFrom": "breitbart",
    "emphasis": null,
    "people": [],
    "absent": [
+    "corp",
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "Anti-Defamation League, Other Major Jewish Groups Slam Disney's Mark Ruffalo for Antisemitic Paramount Merger Comments",
-   "updated": "2026-08-23T22:17:46+00:00",
+   "headline": "Student killed in sword attack at a Swedish school was a 17-year-old girl",
+   "updated": "2026-08-23T20:25:38+00:00",
    "outletCount": 3,
    "counts": {
     "family": 2,
-    "corp": 1
+    "nonprofit": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "Anti-Defamation League, Other Major Jewish Groups Slam Disney's Mark Ruffalo for Antisemitic Paramount Merger Comments",
-     "url": "https://www.breitbart.com/entertainment/2026/08/23/anti-defamation-league-other-major-jewish-groups-slam-disneys-mark-ruffalo-for-antisemitic-paramount-merger-comments/",
-     "author": "Warner Todd Huston",
-     "kind": "news",
-     "published": "2026-08-23T22:17:46+00:00",
-     "summary": "Three groups, the Anti-Defamation League, the Simon Wiesenthal Center, and the Creative Community for Peace, have joined to condemn Disney film star and \"Spider-Man: Brand New Day\" star Mark Ruffalo for his recent antisemitic comments. The post Anti-Defamation League, Other Major Jewish Groups Slam Disney\u2019s Mark Ruffalo for Antisemitic Paramount Merger Comments appeared first on Breitbart ."
-    },
-    {
      "outlet": "latimes",
-     "title": "Paramount accuses Mark Ruffalo of 'antisemitic tropes' on the eve of mediation talks in antitrust battle",
-     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-23/paramount-dustup-with-mark-ruffalo-comes-just-before-mediation-talks-in-antitrust-suit",
-     "author": "Meg James",
+     "title": "California teen killed in shooting at high school football game; suspect in custody",
+     "url": "https://www.latimes.com/california/story/2026-08-23/teen-killed-shooting-independence-high-school-bakersfield",
+     "author": "Jasmine Mendez",
      "kind": "news",
-     "published": "2026-08-23T21:55:44+00:00",
-     "summary": "Amid caustic political charges, Paramount executives and lawyers representing 12 states are set this meet this week to see if a truce is possible."
+     "published": "2026-08-23T20:25:38+00:00",
+     "summary": "A suspect was arrested after Levi Brown, 17, was fatally shot during a game in Bakersfield."
     },
     {
-     "outlet": "nbcnews",
-     "title": "Mark Ruffalo denies antisemitism charge from Paramount Skydance over merger criticism",
-     "url": "https://www.nbcnews.com/news/us-news/mark-ruffalo-paramount-antisemitism-accusation-dishonest-rcna594004",
-     "author": "Angela Yang",
+     "outlet": "breitbart",
+     "title": "Alleged Swordsman Named After Girl, 17, Killed in Swedish High School Attack",
+     "url": "https://www.breitbart.com/europe/2026/08/23/alleged-swordsman-named-after-girl-17-killed-in-swedish-high-school-attack/",
+     "author": "Oliver JJ Lane",
      "kind": "news",
-     "published": "2026-08-23T17:49:06+00:00",
-     "summary": "Mark Ruffalo urged his followers to push back against the Paramount-Warner Bros. merger, arguing it would be \u201ccatastrophic for our film industry.\u201d"
+     "published": "2026-08-23T15:03:19+00:00",
+     "summary": "Teen confirmed to have died in attack at Swedish high school, alleged perpetrator rendered into pretrial detention by the regional court. The post Alleged Swordsman Named After Girl, 17, Killed in Swedish High School Attack appeared first on Breitbart ."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Student killed in sword attack at a Swedish school was a 17-year-old girl",
+     "url": "https://www.pbs.org/newshour/world/student-killed-in-sword-attack-at-a-swedish-school-was-a-17-year-old-girl",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-22T17:23:37+00:00",
+     "summary": "An 18-year-old man armed with a sword carried out the attack at the Brinell School in Fagersta, northwest of Stockholm, while classes were in session on Friday. One person was killed and three others were wounded, two of them severely."
     }
    ]
   },
@@ -2375,6 +2381,58 @@
    ]
   },
   {
+   "id": "e3a57ed3d5",
+   "topic": "Justice & Policing",
+   "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "The Supreme Court Let Trump\u2019s Ballroom Proceed\u2014for Now. Here\u2019s What That Means",
+   "updated": "2026-08-23T14:35:20+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "coop": 1,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "time",
+     "title": "The Supreme Court Let Trump\u2019s Ballroom Proceed\u2014for Now. Here\u2019s What That Means",
+     "url": "https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-23T14:35:20+00:00",
+     "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust for Historic Preservation, which argues that a President cannot unilaterally make a major, permanent change to federally owned property when Congress has not authorized it, pointing toward the Property Clause of the Constitution. \u201cWe reiterated that the Administration has no unilateral legal authority\u2014"
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
+     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-22T00:01:15+00:00",
+     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
+    },
+    {
+     "outlet": "vox",
+     "title": "Trump\u2019s ballroom survives \u2014 for now",
+     "url": "https://www.vox.com/the-logoff-newsletter-trump/500218/trump-east-wing-ballroom-construction-scotus-roberts",
+     "author": "Cameron Peters",
+     "kind": "news",
+     "published": "2026-08-21T21:35:00+00:00",
+     "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other judges said? Earlier this month, the DC Circuit Court of Appeals upheld a previous district court ruling that Trump had exceeded his authority in unilaterally pursuing the ballroom project and would need to seek congressional approval to continue. (Trump, meanwhile, has attempted to justify the projec"
+    }
+   ]
+  },
+  {
    "id": "36ca4c5619",
    "topic": "Other",
    "summary": "Mediators representing the Rwanda-backed AFC/M23 armed group and the Democratic Republic of Congo in a joint statement published Sunday said they have agreed on a roadmap for peace talks. The two sides said they had \"agreed on the importance of a standardised method for reporting allegations of ceasefire violations\".",
@@ -2479,6 +2537,411 @@
    ]
   },
   {
+   "id": "42ab27a6e2",
+   "topic": "Politics",
+   "summary": "Border czar Tom Homan rejected Florida Democratic Senate nominee Angie Nixon\u2019s warning that Immigration and Customs Enforcement (ICE) agents would racially profile Black Americans, calling the accusation \"ridiculous\" and insisting immigration agents do not target people based on skin color. \"We don't arrest people based on the color of their skin. I'm actually an equal opportunity deporter. I deported people to 180 countries last year,\" Homan said on \"Saturday in America.\" \"I don't care if you're from Asia, you're from Europe or you\u2019re from other countries. If you're in the country illegally, you will be deported, regardless of the color of your skin,\" he added. WHO IS ANGIE NIXON? BULLHORN-WIELDING SOCIALIST UPSETS ESTABLISHMENT FAVORITE IN SUNSHINE STATE STUNNER Nixon, who recently won Florida\u2019s Democratic primary , lists ending detention centers and abolishing ICE among her key\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Tom Homan fires back at Florida Democrat over \u2018ridiculous\u2019 ICE racial profiling claim",
+   "updated": "2026-08-24T07:12:27+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Tom Homan fires back at Florida Democrat over \u2018ridiculous\u2019 ICE racial profiling claim",
+     "url": "https://nypost.com/2026/08/24/us-news/tom-homan-fires-back-at-florida-democrat-angie-nixon-over-ridiculous-ice-racial-profiling-claim/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-24T07:12:27+00:00",
+     "summary": "\"We don't arrest people based on the color of their skin. I'm actually an equal opportunity deporter.\""
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Tom Homan fires back at Florida Democrat over 'ridiculous' ICE racial profiling claim",
+     "url": "https://www.foxnews.com/media/tom-homan-fires-back-florida-democrat-ridiculous-ice-racial-profiling-claim",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T23:00:30+00:00",
+     "summary": "Border czar Tom Homan rejected Florida Democratic Senate nominee Angie Nixon\u2019s warning that Immigration and Customs Enforcement (ICE) agents would racially profile Black Americans, calling the accusation \"ridiculous\" and insisting immigration agents do not target people based on skin color. \"We don't arrest people based on the color of their skin. I'm actually an equal opportunity deporter. I deported people to 180 countries last year,\" Homan said on \"Saturday in America.\" \"I don't care if you're from Asia, you're from Europe or you\u2019re from other countries. If you're in the country illegally, you will be deported, regardless of the color of your skin,\" he added. WHO IS ANGIE NIXON? BULLHORN-WIELDING SOCIALIST UPSETS ESTABLISHMENT FAVORITE IN SUNSHINE STATE STUNNER Nixon, who recently won Florida\u2019s Democratic primary , lists ending detention centers and abolishing ICE among her key policy priorities , arguing that mass incarceration and mass deportation are \"moral failures.\" She also argues ICE \"cannot be trusted with the power it has\" and that the agency\u2019s \"terror tactics\" should be dismantled, according to her campaign website. \"It's just lie, after lie, after lie, to try to vilif"
+    }
+   ]
+  },
+  {
+   "id": "6282909530",
+   "topic": "World",
+   "summary": "UK PM to announce support for France in setting up assembly lines for long-range missiles during his Kyiv visit, as coalition of willing the meets later today Hello and welcome to our live coverage of Europe. I am kicking us off but Jakub Krupa will be taking over a little later on. UK \u2060prime \u2060minister Andy Burnham arrived in \u2060the Ukrainian capital Kyiv on Monday alongside a number of European leaders \u2060to mark the \u200ccountry\u2019s independence \u200cday. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles - Europe live",
+   "updated": "2026-08-24T07:10:25+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+     "author": "Vivian Ho",
+     "kind": "news",
+     "published": "2026-08-24T07:10:25+00:00",
+     "summary": "UK PM to announce support for France in setting up assembly lines for long-range missiles during his Kyiv visit, as coalition of willing the meets later today Hello and welcome to our live coverage of Europe. I am kicking us off but Jakub Krupa will be taking over a little later on. UK \u2060prime \u2060minister Andy Burnham arrived in \u2060the Ukrainian capital Kyiv on Monday alongside a number of European leaders \u2060to mark the \u200ccountry\u2019s independence \u200cday. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine news: UK PM Burnham arrives in Kyiv to show support",
+     "url": "https://www.dw.com/en/ukraine-news-uk-pm-burnham-arrives-in-kyiv-to-show-support/live-78479580?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T06:07:00+00:00",
+     "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of the Coalition of the Willing and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more."
+    }
+   ]
+  },
+  {
+   "id": "23766c8ebe",
+   "topic": "Business & Economy",
+   "summary": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to $27bn. Founded in China and now headquartered in Singapore, the online retailer secured Beijing\u2019s approval last month to make its initial public offering in Hong Kong. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Shein aims for almost $27bn valuation in stock market debut",
+   "updated": "2026-08-24T07:00:53+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Shein aims for almost $27bn valuation in stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T07:00:53+00:00",
+     "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+     "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+     "author": "Guardian staff with agencies",
+     "kind": "news",
+     "published": "2026-08-24T04:02:59+00:00",
+     "summary": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to $27bn. Founded in China and now headquartered in Singapore, the online retailer secured Beijing\u2019s approval last month to make its initial public offering in Hong Kong. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "56a0647f88",
+   "topic": "Other",
+   "summary": "As we do every Friday, we're turning Racket over to you, the readers.",
+   "summaryFrom": "racket",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "pub"
+   ],
+   "headline": "Open Thread",
+   "updated": "2026-08-24T07:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 3,
+    "coop": 1
+   },
+   "newsCount": 0,
+   "opinionCount": 4,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/24/open-thread-306/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-24T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/23/open-thread-305/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-23T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/22/open-thread-304/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-22T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "racket",
+     "title": "Let\u2019s Talk WFH in This Week\u2019s Open Thread",
+     "url": "https://racketmn.com/lets-talk-wfh-in-this-weeks-open-thread",
+     "author": "Keith Harris",
+     "kind": "opinion",
+     "published": "2026-08-21T14:31:37+00:00",
+     "summary": "As we do every Friday, we're turning Racket over to you, the readers."
+    }
+   ]
+  },
+  {
+   "id": "5a576b8f3d",
+   "topic": "World",
+   "summary": "Ukraine on Monday hosts a meeting of its key European backers to press for air-defence supplies and more pressure on Moscow, with Russian attacks killing more civilians than at any time since the first months of the invasion. The meeting of the Coalition of the Willing will be jointly chaired by the leaders of Britain, France and Germany. Follow our liveblog for the latest updates.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Ukraine\u2019s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+   "updated": "2026-08-24T06:55:58+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Ukraine\u2019s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+     "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T06:55:58+00:00",
+     "summary": "'Coalition of the Willing' leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks."
+    },
+    {
+     "outlet": "france24",
+     "title": "Live: Ukraine backers gather as Russian attacks escalate, air defence runs low",
+     "url": "https://www.france24.com/en/europe/20260824-live-ukraine-backers-gather-as-russian-attacks-escalate-air-defence-runs-low",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-24T04:50:32+00:00",
+     "summary": "Ukraine on Monday hosts a meeting of its key European backers to press for air-defence supplies and more pressure on Moscow, with Russian attacks killing more civilians than at any time since the first months of the invasion. The meeting of the Coalition of the Willing will be jointly chaired by the leaders of Britain, France and Germany. Follow our liveblog for the latest updates."
+    }
+   ]
+  },
+  {
+   "id": "3601b3bc43",
+   "topic": "World",
+   "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
+   "summaryFrom": "bbc",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Maradona's 'Hand of God' ball sells for \u00a32.5m",
+   "updated": "2026-08-24T06:55:06+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Maradona's 'Hand of God' ball sells for \u00a32.5m",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T06:55:06+00:00",
+     "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Maradona\u2019s \u2018Hand of God\u2019 ball from Mexico sells for $3.35m",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T04:19:46+00:00",
+     "summary": "Maradona\u2019s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the \u2018Hand of God\u2019."
+    }
+   ]
+  },
+  {
+   "id": "8e4cc7a4d2",
+   "topic": "Justice & Policing",
+   "summary": "A young black bear took a rough tumble from a tree in Denver on Sunday after wildlife officers tranquilized the animal before relocating it to a more suitable habitat. Colorado Parks and Wildlife (CPW) said in a thread on X Sunday that officers responded to the bear near Louisiana Avenue and Pennsylvania Street in Denver. \"This morning we responded to a bear in a tree ... in Denver,\" the post read. \"Not a typo. In Denver.\" BEAR CAUGHT ON CAMERA PERCHED ATOP NEW MEXICO UTILITY POLE BEFORE REPORTEDLY SUFFERING FATAL ELECTROCUTION Wildlife officers tranquilized the bear and worked with Denver Police Department officers to catch it as it fell from the tree, according to CPW. \"It didn't have the smoothest landing, but the bear is ok!\" authorities said. Video posted as part of the X thread showed the bear dropping through branches before officers secured the animal on the ground. GATLINBURG\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Young bear takes rough tumble from Colorado tree after wildlife officers tranquilize it",
+   "updated": "2026-08-24T06:23:36+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Young bear takes rough tumble from Colorado tree after wildlife officers tranquilize it",
+     "url": "https://nypost.com/2026/08/24/us-news/colorado-bear-takes-rough-tumble-from-tree-after-wildlife-officers-tranquilize-it/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-24T06:23:36+00:00",
+     "summary": "A young black bear took a rough tumble from a tree after wildlife officers tranquilized the animal before relocating it to a more suitable habitat."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "WATCH: Young bear takes rough tumble from Denver tree after wildlife officers tranquilize it",
+     "url": "https://www.foxnews.com/us/watch-young-bear-takes-rough-tumble-denver-tree-wildlife-officers-tranquilize",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T21:07:24+00:00",
+     "summary": "A young black bear took a rough tumble from a tree in Denver on Sunday after wildlife officers tranquilized the animal before relocating it to a more suitable habitat. Colorado Parks and Wildlife (CPW) said in a thread on X Sunday that officers responded to the bear near Louisiana Avenue and Pennsylvania Street in Denver. \"This morning we responded to a bear in a tree ... in Denver,\" the post read. \"Not a typo. In Denver.\" BEAR CAUGHT ON CAMERA PERCHED ATOP NEW MEXICO UTILITY POLE BEFORE REPORTEDLY SUFFERING FATAL ELECTROCUTION Wildlife officers tranquilized the bear and worked with Denver Police Department officers to catch it as it fell from the tree, according to CPW. \"It didn't have the smoothest landing, but the bear is ok!\" authorities said. Video posted as part of the X thread showed the bear dropping through branches before officers secured the animal on the ground. GATLINBURG POLICE FREE BLACK BEAR THAT LOCKED ITSELF INSIDE HOTEL BATHROOM IN WILD VIRAL VIDEO CPW identified the animal as an approximately 1.5-year-old male yearling weighing about 100 pounds. The agency said the bear would be transported to better habitat and released. The unusual Denver encounter comes as Co"
+    }
+   ]
+  },
+  {
+   "id": "6d4ca3a1b5",
+   "topic": "Other",
+   "summary": "Aleksander Ceferin, president of the European soccer confederation (UEFA) has announced that he will not run against Gianni Infantino but warned the under-fire FIFA president that he must either quit or face a leadership challenge in March. Infantino has been mired in a crisis since the failure of his controversial \u2013 and ultimately abandoned \u2013 plan to open FIFA to private investors.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Ceferin won\u2019t challenge Infantino for FIFA presidency but tells him to quit",
+   "updated": "2026-08-24T06:09:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Ceferin won\u2019t challenge Infantino for FIFA presidency but tells him to quit",
+     "url": "https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T06:09:24+00:00",
+     "summary": "European football chief doesn't want to lose credibility over FIFA job but says Infantino will face a challenger."
+    },
+    {
+     "outlet": "france24",
+     "title": "UEFA chief Ceferin calls for Infantino to quit, but 'not interested' in replacing him",
+     "url": "https://www.france24.com/en/sport/20260824-uefa-chief-ceferin-calls-for-infantino-to-quit-but-not-interested-in-replacing-him",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-24T03:19:11+00:00",
+     "summary": "Aleksander Ceferin, president of the European soccer confederation (UEFA) has announced that he will not run against Gianni Infantino but warned the under-fire FIFA president that he must either quit or face a leadership challenge in March. Infantino has been mired in a crisis since the failure of his controversial \u2013 and ultimately abandoned \u2013 plan to open FIFA to private investors."
+    }
+   ]
+  },
+  {
+   "id": "24d4c264c2",
+   "topic": "Other",
+   "summary": "American beats compatriot Jessica Pegula 6-2, 6-4 Gauff claims first title of season, second in Cincinnati One year ago, Coco Gauff departed the Cincinnati Open with her career at a crossroads. On serve, she had capitulated, offering up countless double faults in most matches, and she had lost confidence in her progress and game. She believed she had to make drastic changes to her team before it was too late. It has taken an enormous amount of resilience, patience and toil, but this week Gauff began to feel the consequences of those efforts as she closed out one of the smoothest tournaments of her career with her best performance of the season, thoroughly outplaying the third seed Jessica Pegula to win 6-2, 6-4 and clinch the Cincinnati Open title for the second time in her career. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Gauff, Fils win Cincinnati tennis titles in run-up to US Open",
+   "updated": "2026-08-24T06:08:15+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Gauff, Fils win Cincinnati tennis titles in run-up to US Open",
+     "url": "https://www.aljazeera.com/sports/2026/8/24/gauff-fils-win-cincinnati-tennis-titles-in-run-up-to-us-open?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T06:08:15+00:00",
+     "summary": "Gauff beat Pegula for her second Cincinnati Open trophy and Fils overcame Tiafoe for his first Masters 1000 title."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Big decisions pay off as Coco Gauff gears up for US Open with Cincinnati title",
+     "url": "https://www.theguardian.com/sport/2026/aug/24/coco-gauff-beats-pegula-wins-cincinnati-open-title",
+     "author": "Tumaini Carayol in Cincinnati",
+     "kind": "news",
+     "published": "2026-08-24T04:33:03+00:00",
+     "summary": "American beats compatriot Jessica Pegula 6-2, 6-4 Gauff claims first title of season, second in Cincinnati One year ago, Coco Gauff departed the Cincinnati Open with her career at a crossroads. On serve, she had capitulated, offering up countless double faults in most matches, and she had lost confidence in her progress and game. She believed she had to make drastic changes to her team before it was too late. It has taken an enormous amount of resilience, patience and toil, but this week Gauff began to feel the consequences of those efforts as she closed out one of the smoothest tournaments of her career with her best performance of the season, thoroughly outplaying the third seed Jessica Pegula to win 6-2, 6-4 and clinch the Cincinnati Open title for the second time in her career. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "1092f915e2",
    "topic": "Other",
    "summary": "Prime minister Christopher Luxon\u2019s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that \u2060seeks to ban children \u2060under 16 from using social media, proposing fines of up to 10% of a platform\u2019s global revenue for non-compliance. The bill would \u2060require social media platforms to take reasonable steps to verify users\u2019 ages, including by utilising existing account information, facial technology and \u2060digital identity documents. Continue reading...",
@@ -2565,92 +3028,6 @@
    ]
   },
   {
-   "id": "23766c8ebe",
-   "topic": "Business & Economy",
-   "summary": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to $27bn. Founded in China and now headquartered in Singapore, the online retailer secured Beijing\u2019s approval last month to make its initial public offering in Hong Kong. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Shein aims for almost $27bn valuation in stock market debut",
-   "updated": "2026-08-24T05:09:22+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Shein aims for almost $27bn valuation in stock market debut",
-     "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T05:09:22+00:00",
-     "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-     "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-     "author": "Guardian staff with agencies",
-     "kind": "news",
-     "published": "2026-08-24T04:02:59+00:00",
-     "summary": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to $27bn. Founded in China and now headquartered in Singapore, the online retailer secured Beijing\u2019s approval last month to make its initial public offering in Hong Kong. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "22e1d25c62",
-   "topic": "World",
-   "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to three sources with knowledge of the matter. Why it matters: The meeting between Syrian Foreign Minister Asaad al-Shaibani and the director of Israel's Mossad spy agency, Roman Gofman, took place days after an Israeli strike on a Syrian airbase sharply escalated tensions between the two countries. Driving the news: On Tuesday, the Israeli Air Force dropped at least eight bombs on runways and hangars at the Abu al-Duhur airbase in northern Syria, about 45 miles from the Turkish border. Israel said the strike was aimed at preventing a Turkish military buildup at the base and that it had intelligence showing Turkey was planning to deploy drones and a radar system there. Israel also warned that if preparations for the Turkish deployment\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-   "updated": "2026-08-24T03:56:59+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-     "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T03:56:59+00:00",
-     "summary": "Syria's foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border."
-    },
-    {
-     "outlet": "axios",
-     "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
-     "url": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
-     "author": "Barak Ravid",
-     "kind": "news",
-     "published": "2026-08-23T16:08:52+00:00",
-     "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to three sources with knowledge of the matter. Why it matters: The meeting between Syrian Foreign Minister Asaad al-Shaibani and the director of Israel's Mossad spy agency, Roman Gofman, took place days after an Israeli strike on a Syrian airbase sharply escalated tensions between the two countries. Driving the news: On Tuesday, the Israeli Air Force dropped at least eight bombs on runways and hangars at the Abu al-Duhur airbase in northern Syria, about 45 miles from the Turkish border. Israel said the strike was aimed at preventing a Turkish military buildup at the base and that it had intelligence showing Turkey was planning to deploy drones and a radar system there. Israel also warned that if preparations for the Turkish deployment didn't stop, it would take military action. During behind-the-scenes discussions between Israel, Syria and the U.S., the Syrian government denied any intention to allow the Turkish military to establish a presence at the base. But Israel was unswayed and attacked the base in what it called a \"warning"
-    }
-   ]
-  },
-  {
    "id": "7ab7660093",
    "topic": "Politics",
    "summary": "Three Dan Sullivans are wading in on Alaska\u2019s Senate race but only one Dan Sullivan has earned the support of a former lawmaker with his namesake. Sen. Dan S. Sullivan (R-Alaska) was endorsed by former Anchorage Mayor Dan A. Sullivan (R) last Tuesday as he prepares to face off against Dan J. Sullivan and Rep....",
@@ -2690,49 +3067,6 @@
      "kind": "news",
      "published": "2026-08-23T22:26:13+00:00",
      "summary": "Three Dan Sullivans are wading in on Alaska\u2019s Senate race but only one Dan Sullivan has earned the support of a former lawmaker with his namesake. Sen. Dan S. Sullivan (R-Alaska) was endorsed by former Anchorage Mayor Dan A. Sullivan (R) last Tuesday as he prepares to face off against Dan J. Sullivan and Rep...."
-    }
-   ]
-  },
-  {
-   "id": "27586b29b6",
-   "topic": "Other",
-   "summary": "A video posted on TikTok captured three men clad in headlamps and overalls hurriedly pulling themselves out of the steamy depths of a manhole at 32nd Street and Seventh Avenue.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "New video shows trio of headlamp-wearing \u2018mole people\u2019 emerge from NYC manhole near Penn Station",
-   "updated": "2026-08-24T03:09:20+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "New video shows trio of headlamp-wearing \u2018mole people\u2019 emerge from NYC manhole near Penn Station",
-     "url": "https://nypost.com/2026/08/23/us-news/new-video-shows-trio-of-mole-people-emerge-from-nyc-manhole-near-penn-station/",
-     "author": "Zoe Hussain",
-     "kind": "news",
-     "published": "2026-08-24T03:09:20+00:00",
-     "summary": "A video posted on TikTok captured three men clad in headlamps and overalls hurriedly pulling themselves out of the steamy depths of a manhole at 32nd Street and Seventh Avenue."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "NYPD probes fresh video of people climbing out of Manhattan manhole",
-     "url": "https://www.nbcnews.com/news/us-news/nypd-probes-fresh-video-people-climbing-manhattan-manhole-rcna593991",
-     "author": "Matteo Moschella",
-     "kind": "news",
-     "published": "2026-08-23T15:55:28+00:00",
-     "summary": "Video on TikTok showed three people emerging from a manhole near Penn Station and Madison Square Garden."
     }
    ]
   },
@@ -2866,49 +3200,6 @@
    ]
   },
   {
-   "id": "d9d0984a7a",
-   "topic": "World",
-   "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Ukraine news: UK PM Burnham to visit Kyiv in show of support",
-   "updated": "2026-08-24T01:04:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Ukraine news: UK PM Burnham to visit Kyiv in show of support",
-     "url": "https://www.dw.com/en/ukraine-news-uk-pm-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T01:04:00+00:00",
-     "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of the Coalition of the Willing and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Burnham to visit Ukraine with promise of boost for Kyiv\u2019s long-range missiles",
-     "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-     "author": "Kiran Stacey in London and Dan Sabbagh in Dnipro",
-     "kind": "news",
-     "published": "2026-08-23T23:01:45+00:00",
-     "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "bd204fc236",
    "topic": "Other",
    "summary": "A tree-trimming employee has been charged with manslaughter after allegedly crushing his coworker\u2019s head with a hydraulic grapple while the pair were reportedly \"f\u2014ing around\" on the job, according to Minnesota authorities . The incident happened in Apple Valley on Thursday when Christopher Boone Crimmins, 34, was operating machinery on the back of a truck while his coworker, Tyler Anthony Lynch, 26, was on the ground cleaning up branches, according to a criminal complaint filed by Dakota County. Responding to reports of an incident, police discovered Lynch lying on the ground with \"a significant amount of blood around him and significant trauma to his head,\" the complaint said. Lynch was pronounced dead at the scene, according to the county. WORKERS WARNED OHIO TRENCH WAS TOO DEEP BUT WERE TOLD TO ENTER MINUTES BEFORE FATAL CAVE-IN: REPORT Authorities said Crimmins was operating a\u2026",
@@ -2948,101 +3239,6 @@
      "kind": "news",
      "published": "2026-08-23T19:35:49+00:00",
      "summary": "The man is accused of saying he was trying to make the shadows look like a truck\u2019s grapple had his co-worker\u2019s head but didn\u2019t realize where it was before he closed the claw."
-    }
-   ]
-  },
-  {
-   "id": "dce70a84b6",
-   "topic": "World",
-   "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Constanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Constanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more",
-   "summaryFrom": "zeteo",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "nonprofit"
-   ],
-   "headline": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
-   "updated": "2026-08-24T00:01:12+00:00",
-   "outletCount": 2,
-   "counts": {
-    "coop": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "zeteo",
-     "title": "Trump Needs to Channel His Inner George Constanza to End His Disastrous Iran War",
-     "url": "https://zeteo.com/p/trump-iran-george-constanza-opposite-seinfeld",
-     "author": "Daniel DePetris",
-     "kind": "news",
-     "published": "2026-08-24T00:01:12+00:00",
-     "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Constanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Constanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
-     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:15:22+00:00",
-     "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker."
-    }
-   ]
-  },
-  {
-   "id": "0d5fc6d4db",
-   "topic": "World",
-   "summary": "Iran threatened neighboring countries Saturday against joining President Donald Trump\u2019s escalating \u201ceconomic war\u201d against the Islamic Republic, warning those cooperating with Washington will be considered \u201cenemies.\u201d The totalitarian regime further cautioned any U.S. supporters will have their interests targeted while threatening \u201cearthquake-like\u201d retaliation as the United States prepares to unleash what it has billed as the toughest sanctions campaign in history. The post Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 \u2014 Threatens \u2018Earthquake-Like\u2019 Retaliation appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran war live: US vows \u2018economic D-Day\u2019; Tehran threatens Gulf oil exports",
-   "updated": "2026-08-24T00:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Iran war live: US vows \u2018economic D-Day\u2019; Tehran threatens Gulf oil exports",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:00:00+00:00",
-     "summary": "US Treasury Secretary Scott Bessent says Washington aims to 'sever every economic lifeline' that sustains Iran."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 -- Threatens \u2018Earthquake-Like\u2019 Retaliation",
-     "url": "https://www.breitbart.com/politics/2026/08/23/iran-warns-neighbors-joining-u-s-economic-war-will-be-enemies-threatens-earthquake-like-retaliation/",
-     "author": "Joshua Klein",
-     "kind": "news",
-     "published": "2026-08-23T08:09:54+00:00",
-     "summary": "Iran threatened neighboring countries Saturday against joining President Donald Trump\u2019s escalating \u201ceconomic war\u201d against the Islamic Republic, warning those cooperating with Washington will be considered \u201cenemies.\u201d The totalitarian regime further cautioned any U.S. supporters will have their interests targeted while threatening \u201cearthquake-like\u201d retaliation as the United States prepares to unleash what it has billed as the toughest sanctions campaign in history. The post Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 \u2014 Threatens \u2018Earthquake-Like\u2019 Retaliation appeared first on Breitbart ."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Iran\u2019s Oil Exports to China Crumble Under U.S. Blockade",
-     "url": "https://www.breitbart.com/middle-east/2026/08/21/irans-oil-exports-to-china-crumble-under-u-s-blockade/",
-     "author": "John Hayward",
-     "kind": "news",
-     "published": "2026-08-21T19:29:26+00:00",
-     "summary": "Oil industry analysts on Friday noted a sharp decline in Iran\u2019s offers of crude oil to Chinese buyers after the U.S. blockade of Iranian ports was reimposed on July 13. The post Iran\u2019s Oil Exports to China Crumble Under U.S. Blockade appeared first on Breitbart ."
     }
    ]
   },
@@ -3262,6 +3458,49 @@
    ]
   },
   {
+   "id": "b7591a9cd1",
+   "topic": "Business & Economy",
+   "summary": "Three groups, the Anti-Defamation League, the Simon Wiesenthal Center, and the Creative Community for Peace, have joined to condemn Disney film star and \"Spider-Man: Brand New Day\" star Mark Ruffalo for his recent antisemitic comments. The post Anti-Defamation League, Other Major Jewish Groups Slam Disney\u2019s Mark Ruffalo for Antisemitic Paramount Merger Comments appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Anti-Defamation League, Other Major Jewish Groups Slam Disney's Mark Ruffalo for Antisemitic Paramount Merger Comments",
+   "updated": "2026-08-23T22:17:46+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Anti-Defamation League, Other Major Jewish Groups Slam Disney's Mark Ruffalo for Antisemitic Paramount Merger Comments",
+     "url": "https://www.breitbart.com/entertainment/2026/08/23/anti-defamation-league-other-major-jewish-groups-slam-disneys-mark-ruffalo-for-antisemitic-paramount-merger-comments/",
+     "author": "Warner Todd Huston",
+     "kind": "news",
+     "published": "2026-08-23T22:17:46+00:00",
+     "summary": "Three groups, the Anti-Defamation League, the Simon Wiesenthal Center, and the Creative Community for Peace, have joined to condemn Disney film star and \"Spider-Man: Brand New Day\" star Mark Ruffalo for his recent antisemitic comments. The post Anti-Defamation League, Other Major Jewish Groups Slam Disney\u2019s Mark Ruffalo for Antisemitic Paramount Merger Comments appeared first on Breitbart ."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Paramount accuses Mark Ruffalo of 'antisemitic tropes' on the eve of mediation talks in antitrust battle",
+     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-23/paramount-dustup-with-mark-ruffalo-comes-just-before-mediation-talks-in-antitrust-suit",
+     "author": "Meg James",
+     "kind": "news",
+     "published": "2026-08-23T21:55:44+00:00",
+     "summary": "Amid caustic political charges, Paramount executives and lawyers representing 12 states are set this meet this week to see if a truce is possible."
+    }
+   ]
+  },
+  {
    "id": "c9954fcf82",
    "topic": "Politics",
    "summary": "Attendees at a Trump rally in Racine, Wisconsin, on June 18, 2024. | Scott Olson/Getty Images It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running for a Senate seat, are mired in scandal. The Iran war was unpopular from the start, but it is getting even less popular as it drags on. And Trump\u2019s approval rating recently hit 33 percent , the lowest of his presidency yet. On this week\u2019s episode of America, Actually , host Astead Herndon speaks with one of Trump\u2019s most vocal defenders, conservative influencer CJ Pearson, about whether we\u2019re seeing Trump\u2019s brand slip even among his supporters and the young people who\u2026",
@@ -3344,221 +3583,6 @@
      "kind": "news",
      "published": "2026-08-23T18:59:59+00:00",
      "summary": "Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services, said the MMR vaccine is \"not a lethal vaccine,\" despite President Trump's claims in recent days."
-    }
-   ]
-  },
-  {
-   "id": "356395ca74",
-   "topic": "Other",
-   "summary": "Amanda Edwards / Amanda Edwards, Getty Images Bunny Levine, known for her roles in Gilmore Girls and La La Land , has died at 97, peacefully in her sleep. She passed Thursday in her Tarzana, California home, from what appears to have been natural causes. Before launching her Hollywood career in the late 1980s, Levine was a school librarian and teacher in Teaneck, New Jersey, for about 25 years. She has appeared in some of television\u2019s biggest shows, including Everybody Loves Raymond , Law & Order , Ugly Betty , Private Practice , Criminal Minds , New Girl , and The Mindy Project . Levine has also acted in comedy movies You Don\u2019t Mess With the Zohan , Sandy Wexler and You Are So Not Invited to My Bat Mitzvah . In March 2025, the actress told the Daily Evergreen about her career pivot after decades of working in education. \u201cI feel very blessed to have been able to get back to what I had\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Bunny Levine, \"Gilmore Girls\" and \"La La Land\" actress, dies at 97",
-   "updated": "2026-08-23T20:23:36+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Bunny Levine, \"Gilmore Girls\" and \"La La Land\" actress, dies at 97",
-     "url": "https://www.cbsnews.com/news/bunny-levine-gilmore-girls-la-la-land-dies/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T20:23:36+00:00",
-     "summary": "Bunny Levine worked as a school librarian for 25 years before pursuing her passion for acting and performing."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "\u2018Gilmore Girls\u2019 Actress Dies at 97",
-     "url": "https://www.thedailybeast.com/bunny-levine-gilmore-girls-actress-dies-at-97/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-23T14:03:35+00:00",
-     "summary": "Amanda Edwards / Amanda Edwards, Getty Images Bunny Levine, known for her roles in Gilmore Girls and La La Land , has died at 97, peacefully in her sleep. She passed Thursday in her Tarzana, California home, from what appears to have been natural causes. Before launching her Hollywood career in the late 1980s, Levine was a school librarian and teacher in Teaneck, New Jersey, for about 25 years. She has appeared in some of television\u2019s biggest shows, including Everybody Loves Raymond , Law & Order , Ugly Betty , Private Practice , Criminal Minds , New Girl , and The Mindy Project . Levine has also acted in comedy movies You Don\u2019t Mess With the Zohan , Sandy Wexler and You Are So Not Invited to My Bat Mitzvah . In March 2025, the actress told the Daily Evergreen about her career pivot after decades of working in education. \u201cI feel very blessed to have been able to get back to what I had always wanted since early memory. I wish that everyone could find that happiness.\u201d Read it at PAGE SIX Read more at The Daily Beast."
-    }
-   ]
-  },
-  {
-   "id": "ffe359bae2",
-   "topic": "World",
-   "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
-   "summaryFrom": "bbc",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Is Israel about to split the occupied West Bank in half?",
-   "updated": "2026-08-23T20:23:01+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Is Israel about to split the occupied West Bank in half?",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T20:23:01+00:00",
-     "summary": "Israel is moving forward with its \u2018E1\u2019 plan. What is it and why could it threaten the future of a Palestinian state?"
-    },
-    {
-     "outlet": "bbc",
-     "title": "How Israel is expanding settlements in drive to reshape West Bank",
-     "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:31:47+00:00",
-     "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
-    }
-   ]
-  },
-  {
-   "id": "cb1aa60977",
-   "topic": "Other",
-   "summary": "An American Airlines flight landed safely in Dallas after a laptop battery caught fire on board, prompting flight attendants to contain the fire and emergency personnel to meet the aircraft, officials confirmed to Fox News Digital. American Airlines Flight 2398 was approaching Dallas Fort Worth International Airport (DFW) on Friday after departing Atlanta when the crew reported a laptop battery fire, according to the Federal Aviation Administration (FAA). Flight attendants contained the fire with a thermal containment bag, the FAA said. The Airbus A321 landed safely at DFW at about 6:55 p.m. local time, according to the agency. The FAA is investigating the incident. TWO PLANES BLOW TIRES WHILE LANDING AT MAJOR US AIRPORT HOURS APART, FAA INVESTIGATING American Airlines separately confirmed to Fox News Digital that smoke was reported from a customer\u2019s device during landing. \"American\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Laptop catches fire on US flight, with passenger treated at airport",
-   "updated": "2026-08-23T20:19:22+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "American Airlines flight lands safely after laptop battery catches fire on board; passenger injured",
-     "url": "https://www.foxnews.com/us/american-airlines-flight-lands-safely-laptop-battery-catches-fire-board-faa-investigating",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T20:19:22+00:00",
-     "summary": "An American Airlines flight landed safely in Dallas after a laptop battery caught fire on board, prompting flight attendants to contain the fire and emergency personnel to meet the aircraft, officials confirmed to Fox News Digital. American Airlines Flight 2398 was approaching Dallas Fort Worth International Airport (DFW) on Friday after departing Atlanta when the crew reported a laptop battery fire, according to the Federal Aviation Administration (FAA). Flight attendants contained the fire with a thermal containment bag, the FAA said. The Airbus A321 landed safely at DFW at about 6:55 p.m. local time, according to the agency. The FAA is investigating the incident. TWO PLANES BLOW TIRES WHILE LANDING AT MAJOR US AIRPORT HOURS APART, FAA INVESTIGATING American Airlines separately confirmed to Fox News Digital that smoke was reported from a customer\u2019s device during landing. \"American Airlines flight 2398 landed safely at DFW after reports of smoke from a customer\u2019s device during landing. We thank our crew for their professionalism and swift response to quickly contain the device,\" a spokesperson said. The aircraft taxied to the gate under its own power, where emergency personnel met"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Laptop catches fire on US flight, with passenger treated at airport",
-     "url": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T10:27:25+00:00",
-     "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely."
-    }
-   ]
-  },
-  {
-   "id": "d8a06eccf7",
-   "topic": "Politics",
-   "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialist\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump Imposes Harmful and Illegal Section 338 Tariffs Against Many Canadian Imports",
-   "updated": "2026-08-23T20:14:35+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Trump Imposes Harmful and Illegal Section 338 Tariffs Against Many Canadian Imports",
-     "url": "https://reason.com/volokh/2026/08/23/trump-imposes-harmful-and-illegal-section-338-tariffs-against-many-canadian-imports/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-23T20:14:35+00:00",
-     "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialist Peter Harrell explained why the then-planned Canada tariffs are illegal even if Section 338 is not defunct. Trump's tariffs don't meet various requirements for invoking the law. I expect there will be legal challenges to these tariffs, and those challenges will deserve to prevail. This is the latest o"
-    },
-    {
-     "outlet": "nyt",
-     "title": "What Canadian Goods Will Take Trump\u2019s 50% Tariffs? Some Pretty Strange Items.",
-     "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
-     "author": "Ian Austen",
-     "kind": "news",
-     "published": "2026-08-23T16:14:35+00:00",
-     "summary": "Buoys, dog muzzles, capes, national flags and \u201cbase metal statuettes\u201d from Canada are now more expensive for U.S. shoppers."
-    }
-   ]
-  },
-  {
-   "id": "5e5ebcdf01",
-   "topic": "World",
-   "summary": "President Volodymyr Zelenskyy said Ukraine played no role in the sabotage of the Nord Stream gas pipelines linking Russia to Europe, following the arrest in Croatia of a second Ukrainian suspect sought by Germany.",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Zelenskyy repeats Ukraine not behind Nord Stream attack",
-   "updated": "2026-08-23T19:50:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Zelenskyy repeats Ukraine not behind Nord Stream attack",
-     "url": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T19:50:00+00:00",
-     "summary": "Volodymyr Zelenskyy said Ukraine was assisting German authorities with their investigation into the Nord Stream explosions. A second Ukrainian national was arrested in connection with the blasts."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Zelenskyy Says Ukraine Had No Role in Nord Stream Pipeline Blast",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/zelenskyy-says-ukraine-had-no-role-in-nord-stream-pipeline-blast",
-     "author": "Olesia Safronova",
-     "kind": "news",
-     "published": "2026-08-23T15:30:00+00:00",
-     "summary": "President Volodymyr Zelenskyy said Ukraine played no role in the sabotage of the Nord Stream gas pipelines linking Russia to Europe, following the arrest in Croatia of a second Ukrainian suspect sought by Germany."
     }
    ]
   }
