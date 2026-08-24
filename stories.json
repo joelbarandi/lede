@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T03:18:14.086399+00:00",
+ "generated": "2026-08-24T05:03:31.634750+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -11,7 +11,7 @@
    "summaryFrom": "foxnews",
    "emphasis": {
     "bigCount": 10,
-    "indieCount": 6,
+    "indieCount": 5,
     "big": [
      "event",
      "around",
@@ -21,10 +21,10 @@
      "course"
     ],
     "indie": [
-     "start",
-     "waves",
      "flag",
      "green",
+     "start",
+     "waves",
      "mark",
      "past"
     ]
@@ -38,10 +38,10 @@
     "corp": 3,
     "family": 7,
     "nonprofit": 2,
-    "pub": 3,
+    "pub": 2,
     "coop": 1
    },
-   "newsCount": 15,
+   "newsCount": 14,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -179,15 +179,119 @@
      "kind": "opinion",
      "published": "2026-08-23T12:42:27+00:00",
      "summary": "President Donald Trump joined the crowds in the nation\u2019s capital on Sunday for the Freedom 250 race \u2014 but he didn\u2019t tell the drivers to \u201cbe safe.\u201d The president told reporters his advice to Sunday\u2019s drivers boiled down to two words: have fun. Dwelling on safety, he argued, was more likely to make a driver hold back \u2014 and less likely to help them win. \u201cHave fun,\u201d he said, adding, \u201cI don\u2019t wanna say sort of \u2018be safe\u2019 because it\u2019s sort of a negative thought. Right? They don\u2019t wanna think about that, because if they do, generally speaking, you\u2019re not gonna win when you start thinking that way.\u201d \u201cBut they\u2019re great,\u201d he said of the drivers slated to race on Sunday. \u201cI know many of them through name \u2026 but it\u2019s a great sport.\u201d Trump also said on Sunday that Indianapolis Motor Speedway and INDYCAR owner Roger Penske had been trying to pull off a race in Washington, D.C., for some time \u2014 but that until the Trump administration came along, it had looked like an impossibility. \ud83d\udea8 PRESIDENT TRUMP JUST NOW: \u201cThey\u2019ve been trying to do this for 20 years\u2026when he came to see Trump, it got done in about 15 MINUTES!\u201d \u201cSo many people wanna come! 300,000+, they closed the bridges. Bigger and better!\u201d \u201cI "
+    }
+   ]
+  },
+  {
+   "id": "82bf31518d",
+   "topic": "World",
+   "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 4,
+    "big": [
+     "winds",
+     "strong",
+     "fueled",
+     "northern"
+    ],
+    "indie": [
+     "human-caused",
+     "forced",
+     "fast-moving",
+     "foothills",
+     "approaches"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+   "updated": "2026-08-24T03:47:04+00:00",
+   "outletCount": 8,
+   "counts": {
+    "nonprofit": 3,
+    "pub": 1,
+    "corp": 1,
+    "family": 3
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+     "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+     "author": "Maria Godoy",
+     "kind": "news",
+     "published": "2026-08-24T03:47:04+00:00",
+     "summary": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave. (Image credit: Haven Daley)"
     },
     {
-     "outlet": "bbc",
-     "title": "Watch: Taking a 180mph spin round America's birthday Grand Prix racetrack",
-     "url": "https://www.bbc.co.uk/news/videos/cn0nd7y883zo?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T21:50:27+00:00",
-     "summary": "The Freedom 250 Grand Prix is part of the nation\u2019s 250th anniversary celebrations and the first major auto race in the US capital in more than 24 years."
+     "published": "2026-08-24T02:55:39+00:00",
+     "summary": "A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate and put another 45,000 on alert."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
+     "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T00:45:53+00:00",
+     "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+     "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
+     "author": "Bernard Mokam",
+     "kind": "news",
+     "published": "2026-08-23T22:42:14+00:00",
+     "summary": "The Hawk fire has burned over 13,000 acres and is encroaching on the northern part of the city. About 42,000 people are under formal evacuation orders and thousands more have been urged to flee."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
+     "url": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations",
+     "author": "John Seewer, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T21:16:34+00:00",
+     "summary": "The Hawk Fire began Saturday and quickly grew to 20 square miles as it spread across the Peavine Peak area of the Humboldt\u2013Toiyabe National Forest, where rugged foothills are ringed by homes and businesses near the California state line."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+     "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+     "author": "Marina Dunbar and agencies",
+     "kind": "news",
+     "published": "2026-08-23T18:22:15+00:00",
+     "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading..."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Thousands evacuated, 6 hurt as Hawk fire grows to over 15,000 acres on California-Nevada border",
+     "url": "https://www.latimes.com/california/story/2026-08-23/hawk-fire-burns-over-10-000-acres-near-reno-prompting-evacuations",
+     "author": "Christopher Reynolds",
+     "kind": "news",
+     "published": "2026-08-23T16:30:58+00:00",
+     "summary": "Fueled by strong winds, the Hawk fire has burned over 15,000 acres near Reno with 0% containment, forcing thousands of evacuations and a state of emergency."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
+     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
+     "author": "Lowell Cauffiel",
+     "kind": "news",
+     "published": "2026-08-23T13:48:34+00:00",
+     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
     }
    ]
   },
@@ -203,9 +307,9 @@
      "canadian",
      "president",
      "range",
-     "need",
+     "vice",
      "economy",
-     "thing"
+     "right"
     ],
     "indie": [
      "donald",
@@ -325,12 +429,12 @@
      "district"
     ],
     "indie": [
-     "basis",
-     "issuing",
      "likely",
+     "basis",
+     "because",
+     "nationality",
      "public",
-     "ruled",
-     "because"
+     "ruled"
     ]
    },
    "people": [],
@@ -421,208 +525,6 @@
      "kind": "news",
      "published": "2026-08-22T02:12:17+00:00",
      "summary": "Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year."
-    }
-   ]
-  },
-  {
-   "id": "f1be6183e6",
-   "topic": "World",
-   "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 3,
-    "big": [
-     "winds",
-     "strong",
-     "fueled",
-     "northern",
-     "burned"
-    ],
-    "indie": [
-     "approaches",
-     "foothills",
-     "human-caused"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
-   "updated": "2026-08-24T00:45:53+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 1,
-    "family": 3,
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Fast-growing Hawk Fire near Reno, Nevada forces thousands to evacuate",
-     "url": "https://www.cbsnews.com/news/hawk-fire-reno-nevada-evacuations/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T00:45:53+00:00",
-     "summary": "The fire apparently began Saturday and grew significantly throughout the day, fueled by strong, gusty winds, low humidity and dry vegetation."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
-     "url": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html",
-     "author": "Bernard Mokam",
-     "kind": "news",
-     "published": "2026-08-23T22:42:14+00:00",
-     "summary": "The Hawk fire has burned over 13,000 acres and is encroaching on the northern part of the city. About 42,000 people are under formal evacuation orders and thousands more have been urged to flee."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
-     "url": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations",
-     "author": "John Seewer, Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T21:16:34+00:00",
-     "summary": "The Hawk Fire began Saturday and quickly grew to 20 square miles as it spread across the Peavine Peak area of the Humboldt\u2013Toiyabe National Forest, where rugged foothills are ringed by homes and businesses near the California state line."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-     "url": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-     "author": "Marina Dunbar and agencies",
-     "kind": "news",
-     "published": "2026-08-23T18:22:15+00:00",
-     "summary": "Human-caused Hawk fire covers more than 15,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the center of Reno and urging nearly 90,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire\u2019s \u201cGO NOW\u201d evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows Fire and Rescue in Reno. Of those urged to evacuate, 42,000 were under strict orders. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-     "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T17:55:52+00:00",
-     "summary": "Authorities said the fire was caused by humans."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Thousands evacuated, 6 hurt as Hawk fire grows to over 15,000 acres on California-Nevada border",
-     "url": "https://www.latimes.com/california/story/2026-08-23/hawk-fire-burns-over-10-000-acres-near-reno-prompting-evacuations",
-     "author": "Christopher Reynolds",
-     "kind": "news",
-     "published": "2026-08-23T16:30:58+00:00",
-     "summary": "Fueled by strong winds, the Hawk fire has burned over 15,000 acres near Reno with 0% containment, forcing thousands of evacuations and a state of emergency."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV",
-     "url": "https://www.breitbart.com/weather/2026/08/23/watch-fast-moving-wildfire-consuming-land-and-structures-near-reno-nv/",
-     "author": "Lowell Cauffiel",
-     "kind": "news",
-     "published": "2026-08-23T13:48:34+00:00",
-     "summary": "Another wildfire in a long, hot, and fiery summer has ignited in the American West, this time in northern Nevada outside of Reno, expanding to nearly 11,000 acres by Saturday evening. The post WATCH: Fast Moving Wildfire Consuming Land and Structures Near Reno, NV appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "df7ede4cc1",
-   "topic": "Politics",
-   "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 3,
-    "big": [
-     "stay",
-     "proceed",
-     "issued",
-     "friday",
-     "here",
-     "chief"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [],
-   "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
-   "updated": "2026-08-23T14:35:20+00:00",
-   "outletCount": 7,
-   "counts": {
-    "family": 1,
-    "coop": 1,
-    "pub": 1,
-    "corp": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "time",
-     "title": "The Supreme Court Let Trump\u2019s Ballroom Proceed\u2014for Now. Here\u2019s What That Means",
-     "url": "https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-23T14:35:20+00:00",
-     "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust for Historic Preservation, which argues that a President cannot unilaterally make a major, permanent change to federally owned property when Congress has not authorized it, pointing toward the Property Clause of the Constitution. \u201cWe reiterated that the Administration has no unilateral legal authority\u2014"
-    },
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
-     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-22T00:01:15+00:00",
-     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
-    },
-    {
-     "outlet": "bbc",
-     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T22:02:10+00:00",
-     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
-    },
-    {
-     "outlet": "vox",
-     "title": "Trump\u2019s ballroom survives \u2014 for now",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/500218/trump-east-wing-ballroom-construction-scotus-roberts",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-21T21:35:00+00:00",
-     "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other judges said? Earlier this month, the DC Circuit Court of Appeals upheld a previous district court ruling that Trump had exceeded his authority in unilaterally pursuing the ballroom project and would need to seek congressional approval to continue. (Trump, meanwhile, has attempted to justify the projec"
-    },
-    {
-     "outlet": "axios",
-     "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
-     "url": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
-     "author": "Josephine Walker",
-     "kind": "news",
-     "published": "2026-08-21T21:12:53+00:00",
-     "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. What they're saying: \"We are grateful for the Decision of the United States Supreme Court,\" President Trump said in a Friday post on Truth Social. \"The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND!\" \"It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule.\" Catch up quick: The administration turned to the Supreme Co"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Supreme Court chief justice allows construction on White House ballroom to continue",
-     "url": "https://abcnews.com/Politics/supreme-court-chief-justice-allows-construction-white-house/story?id=135846623",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:44:50+00:00",
-     "summary": "Chief Justice John Roberts issued an administrative stay of a lower court order."
-    },
-    {
-     "outlet": "npr",
-     "title": "Supreme Court allows Trump's ballroom construction to continue for now",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-     "author": "Deepa Shivaram",
-     "kind": "news",
-     "published": "2026-08-21T18:47:48+00:00",
-     "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation. (Image credit: Alex Wong)"
     }
    ]
   },
@@ -725,16 +627,16 @@
     "indieCount": 4,
     "big": [
      "midterm",
-     "line",
-     "speaker"
+     "speaker",
+     "line"
     ],
     "indie": [
      "democratic",
      "sunday",
      "york",
-     "issues",
-     "reported",
-     "times"
+     "housing",
+     "immigration",
+     "issues"
     ]
    },
    "people": [],
@@ -743,7 +645,7 @@
     "pub"
    ],
    "headline": "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November",
-   "updated": "2026-08-24T00:12:55+00:00",
+   "updated": "2026-08-24T00:12:00+00:00",
    "outletCount": 6,
    "counts": {
     "corp": 2,
@@ -760,8 +662,8 @@
      "url": "https://www.cbsnews.com/news/jared-kushner-hakeem-jeffries-meeting-2026-midterm-elections/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T00:12:55+00:00",
-     "summary": "The meeting comes as Democrats are expected to take control of the House in the November elections, with Jeffries in line to become the next House Speaker."
+     "published": "2026-08-24T00:12:00+00:00",
+     "summary": "The meeting came with Democrats expected to take control of the House in the November elections, which would put Jeffries in line to become the next House speaker."
     },
     {
      "outlet": "pbsnewshour",
@@ -828,9 +730,9 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
+     "carney",
      "sides",
-     "both",
-     "carney"
+     "both"
     ],
     "indie": []
    },
@@ -908,72 +810,92 @@
    ]
   },
   {
-   "id": "dac6c93ab1",
-   "topic": "Justice & Policing",
-   "summary": "Sangamon County Sheriff's Office via Reuters Sean Grayson, the former Illinois sheriff\u2019s deputy convicted of murdering Sonya Massey, a Black woman who called 911 to report a possible prowler, has died at 32. Attorney Daniel Fultz, who represented Grayson during his murder trial, said he died around noon on Sunday, according to NBC News. Grayson had been six months into his 20-year sentence after being found guilty last October of second-degree murder for fatally shooting Massey in 2024. He had been battling Stage 4 colon cancer that spread to his liver and lungs, as well as rectal cancer. The Illinois Prisoner Review Board denied him medical release in July, according to NBC News. It was not immediately known what caused Grayson\u2019s death or whether cancer was a factor. The Daily Beast has reached out to Fultz for comment. On July 6, 2024, Grayson and another sheriff\u2019s deputy, who was not\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Ex-Cop Convicted in Sonya Massey Killing Dies in Prison at 32",
-   "updated": "2026-08-24T02:20:56+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 4,
-    "family": 1
+   "id": "df7ede4cc1",
+   "topic": "Politics",
+   "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 3,
+    "big": [
+     "stay",
+     "friday",
+     "proceed",
+     "issued",
+     "chief",
+     "lower"
+    ],
+    "indie": []
    },
-   "newsCount": 5,
+   "people": [],
+   "absent": [],
+   "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
+   "updated": "2026-08-23T14:35:20+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 1,
+    "coop": 1,
+    "pub": 1,
+    "corp": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "Ex-Cop Convicted in Sonya Massey Killing Dies in Prison at 32",
-     "url": "https://www.thedailybeast.com/ex-cop-convicted-in-sonya-massey-killing-dies-in-prison-at-32/",
-     "author": "Erkki Forster",
+     "outlet": "time",
+     "title": "The Supreme Court Let Trump\u2019s Ballroom Proceed\u2014for Now. Here\u2019s What That Means",
+     "url": "https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/",
+     "author": "Rebecca Schneid",
      "kind": "news",
-     "published": "2026-08-24T02:20:56+00:00",
-     "summary": "Sangamon County Sheriff's Office via Reuters Sean Grayson, the former Illinois sheriff\u2019s deputy convicted of murdering Sonya Massey, a Black woman who called 911 to report a possible prowler, has died at 32. Attorney Daniel Fultz, who represented Grayson during his murder trial, said he died around noon on Sunday, according to NBC News. Grayson had been six months into his 20-year sentence after being found guilty last October of second-degree murder for fatally shooting Massey in 2024. He had been battling Stage 4 colon cancer that spread to his liver and lungs, as well as rectal cancer. The Illinois Prisoner Review Board denied him medical release in July, according to NBC News. It was not immediately known what caused Grayson\u2019s death or whether cancer was a factor. The Daily Beast has reached out to Fultz for comment. On July 6, 2024, Grayson and another sheriff\u2019s deputy, who was not charged, responded to Massey\u2019s home after she called 911. Inside, Grayson instructed Massey to remove a pot of boiling water from the stove. When she told him, \u201cI rebuke you in the name of Jesus,\u201d Grayson drew his gun and threatened to shoot her. Massey apologized and ducked behind a kitchen counter"
+     "published": "2026-08-23T14:35:20+00:00",
+     "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust for Historic Preservation, which argues that a President cannot unilaterally make a major, permanent change to federally owned property when Congress has not authorized it, pointing toward the Property Clause of the Constitution. \u201cWe reiterated that the Administration has no unilateral legal authority\u2014"
     },
     {
-     "outlet": "cbsnews",
-     "title": "Sean Grayson, convicted in killing of Sonya Massey, dies in prison, attorney says",
-     "url": "https://www.cbsnews.com/news/sean-grayson-former-sangamon-county-deputy-dies-in-prison/",
+     "outlet": "zeteo",
+     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
+     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-22T00:01:15+00:00",
+     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
+    },
+    {
+     "outlet": "bbc",
+     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T02:02:27+00:00",
-     "summary": "Grayson, 32, was found guilty last October of second-degree murder for the shooting of Sonya Massey and was serving a 20-year sentence."
+     "published": "2026-08-21T22:02:10+00:00",
+     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
+    },
+    {
+     "outlet": "axios",
+     "title": "Supreme Court allows Trump's ballroom construction to proceed for now",
+     "url": "https://www.axios.com/2026/08/21/trump-ballroom-construction-supreme-court",
+     "author": "Josephine Walker",
+     "kind": "news",
+     "published": "2026-08-21T21:12:53+00:00",
+     "summary": "The Supreme Court ruled Friday that President Trump's sprawling ballroom project can proceed for now, despite a lower court's ruling that halted the administration's plans. Why it matters: The decision is a major win for the administration, which has argued that demolishing the White House's East Wing and building the ballroom are necessary for security. Driving the news: In a brief order, Chief Justice John Roberts paused the halt the D.C. District Court put on construction while the court weighs his request. It did not address the legality of Trump's project or give a timeline for when the court will weigh in. What they're saying: \"We are grateful for the Decision of the United States Supreme Court,\" President Trump said in a Friday post on Truth Social. \"The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND!\" \"It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule.\" Catch up quick: The administration turned to the Supreme Co"
     },
     {
      "outlet": "abcnews",
-     "title": "Sean Grayson, former Illinois deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-     "url": "https://abcnews.com/US/wireStory/sean-grayson-former-illinois-deputy-convicted-killing-sonya-135893521",
+     "title": "Supreme Court chief justice allows construction on White House ballroom to continue",
+     "url": "https://abcnews.com/Politics/supreme-court-chief-justice-allows-construction-white-house/story?id=135846623",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T01:55:23+00:00",
-     "summary": "Sean Grayson, a former Illinois sheriff\u2019s deputy, has died while serving a 20-year prison sentence"
+     "published": "2026-08-21T19:44:50+00:00",
+     "summary": "Chief Justice John Roberts issued an administrative stay of a lower court order."
     },
     {
-     "outlet": "nypost",
-     "title": "Sean Grayson, ex-Illinois deputy who fatally shot Sonya Massey over pot of hot water, dead in prison at 32",
-     "url": "https://nypost.com/2026/08/23/us-news/sean-grayson-ex-deputy-who-fatally-shot-sonya-massey-dead-in-prison-at-32/",
-     "author": "Zoe Hussain",
+     "outlet": "npr",
+     "title": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+     "author": "Deepa Shivaram",
      "kind": "news",
-     "published": "2026-08-24T01:48:27+00:00",
-     "summary": "Sean Grayson's defense attorney, Daniel Fultz, confirmed to The Post that the former Illinois deputy died early Sunday \u2014 six months into his 20-year prison sentence."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
-     "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
-     "author": "Dennis Romero",
-     "kind": "news",
-     "published": "2026-08-23T23:10:25+00:00",
-     "summary": "Grayson was diagnosed with Stage 3 colon cancer in 2023, one of his attorneys said previously. It was unclear if that is what caused his death."
+     "published": "2026-08-21T18:47:48+00:00",
+     "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation. (Image credit: Alex Wong)"
     }
    ]
   },
@@ -989,12 +911,12 @@
      "star"
     ],
     "indie": [
-     "left",
+     "alone",
      "fuji",
      "father",
-     "mount",
      "leaves",
-     "hike"
+     "mount",
+     "left"
     ]
    },
    "people": [],
@@ -1062,63 +984,124 @@
    ]
   },
   {
-   "id": "e6d091a61f",
+   "id": "96f153fad7",
    "topic": "Justice & Policing",
-   "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did\u2026",
-   "summaryFrom": "freepress",
+   "summary": "Sangamon County Sheriff's Office via Reuters Sean Grayson, the former Illinois sheriff\u2019s deputy convicted of murdering Sonya Massey, a Black woman who called 911 to report a possible prowler, has died at 32. Attorney Daniel Fultz, who represented Grayson during his murder trial, said he died around noon on Sunday, according to NBC News. Grayson had been six months into his 20-year sentence after being found guilty last October of second-degree murder for fatally shooting Massey in 2024. He had been battling Stage 4 colon cancer that spread to his liver and lungs, as well as rectal cancer. The Illinois Prisoner Review Board denied him medical release in July, according to NBC News. It was not immediately known what caused Grayson\u2019s death or whether cancer was a factor. The Daily Beast has reached out to Fultz for comment. On July 6, 2024, Grayson and another sheriff\u2019s deputy, who was not\u2026",
+   "summaryFrom": "dailybeast",
    "emphasis": null,
    "people": [],
    "absent": [
-    "corp",
-    "coop"
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-   "updated": "2026-08-24T01:52:16+00:00",
+   "headline": "Sean Grayson, convicted in killing of Sonya Massey, dies in prison, attorney says",
+   "updated": "2026-08-24T04:41:41+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 2,
-    "pub": 1,
-    "nonprofit": 1
+    "corp": 4
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Sean Grayson, convicted in killing of Sonya Massey, dies in prison, attorney says",
+     "url": "https://www.cbsnews.com/news/sean-grayson-former-sangamon-county-deputy-dies-in-prison/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T04:41:41+00:00",
+     "summary": "Grayson, 32, was found guilty last October of second-degree murder for the shooting of Sonya Massey and was serving a 20-year sentence."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Ex-Cop Convicted in Sonya Massey Killing Dies in Prison at 32",
+     "url": "https://www.thedailybeast.com/ex-cop-convicted-in-sonya-massey-killing-dies-in-prison-at-32/",
+     "author": "Erkki Forster",
+     "kind": "news",
+     "published": "2026-08-24T02:20:56+00:00",
+     "summary": "Sangamon County Sheriff's Office via Reuters Sean Grayson, the former Illinois sheriff\u2019s deputy convicted of murdering Sonya Massey, a Black woman who called 911 to report a possible prowler, has died at 32. Attorney Daniel Fultz, who represented Grayson during his murder trial, said he died around noon on Sunday, according to NBC News. Grayson had been six months into his 20-year sentence after being found guilty last October of second-degree murder for fatally shooting Massey in 2024. He had been battling Stage 4 colon cancer that spread to his liver and lungs, as well as rectal cancer. The Illinois Prisoner Review Board denied him medical release in July, according to NBC News. It was not immediately known what caused Grayson\u2019s death or whether cancer was a factor. The Daily Beast has reached out to Fultz for comment. On July 6, 2024, Grayson and another sheriff\u2019s deputy, who was not charged, responded to Massey\u2019s home after she called 911. Inside, Grayson instructed Massey to remove a pot of boiling water from the stove. When she told him, \u201cI rebuke you in the name of Jesus,\u201d Grayson drew his gun and threatened to shoot her. Massey apologized and ducked behind a kitchen counter"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Sean Grayson, former Illinois deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
+     "url": "https://abcnews.com/US/wireStory/sean-grayson-former-illinois-deputy-convicted-killing-sonya-135893521",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T01:55:23+00:00",
+     "summary": "Sean Grayson, a former Illinois sheriff\u2019s deputy, has died while serving a 20-year prison sentence"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
+     "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044",
+     "author": "Dennis Romero",
+     "kind": "news",
+     "published": "2026-08-23T23:10:25+00:00",
+     "summary": "Grayson was diagnosed with Stage 3 colon cancer in 2023, one of his attorneys said previously. It was unclear if that is what caused his death."
+    }
+   ]
+  },
+  {
+   "id": "2f9039e384",
+   "topic": "Culture & Sport",
+   "summary": "Chicago Sky guard Natasha Cloud fired off a pro-trans message on Sunday night following an altercation with Enes Kanter Freedom during the team\u2019s loss to the Indiana Fever. In the third quarter, Cloud scored a bucket that led to the Fever calling a timeout. She directed her emotion toward Freedom, who was sitting near the basket at the Wintrust Arena. Freedom stood up and walked toward Cloud. Sky players and security had to get in between the two. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! It wasn\u2019t immediately clear what Cloud and Freedom were yelling at each other about. Freedom was escorted out of the arena and was unable to return for the rest of the game. Cloud didn\u2019t speak at the Sky\u2019s postgame media availability. She fired off a message on Threads in support of the transgender community. \"To every trans kid/person, You are apart of MY community &\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Enes Kanter Ejected From Fever-Sky After Heated Confrontation With WNBA Player",
+   "updated": "2026-08-24T04:00:01+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "family": 3
    },
    "newsCount": 3,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Miranda Devine: Lindsay Clancy\u2019s sick fans are just normalizing the horror of a mother killing her three children",
-     "url": "https://nypost.com/2026/08/23/opinion/miranda-devine-lindsay-clancys-sick-fans-are-just-normalizing-the-horror-of-a-mother-killing-her-three-children/",
-     "author": "Miranda Devine",
-     "kind": "opinion",
-     "published": "2026-08-24T01:52:16+00:00",
-     "summary": "The bizarre fandom around Lindsay Clancy is the latest example of a moral rot infecting a small cohort of conspiracy-minded, self-engrossed women."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-     "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+     "outlet": "newsweek",
+     "title": "Enes Kanter Ejected From Fever-Sky After Heated Confrontation With WNBA Player",
+     "url": "https://www.newsweek.com/enes-kanter-ejected-from-fever-sky-after-heated-confrontation-with-wnba-player-12358102",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T03:43:26+00:00",
-     "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+     "published": "2026-08-24T04:00:01+00:00",
+     "summary": "Wearing an \"adult human female\" shirt, Enes Kanter got into an explosive argument with Chicago Sky guard Natasha Cloud on Sunday."
     },
     {
-     "outlet": "guardian",
-     "title": "Lindsay Clancy killed her children. Why do many women support her? \u2013 Stateside with Kai and Carter",
-     "url": "https://www.theguardian.com/us-news/video/2026/aug/21/lindsay-clancy-killed-her-children-why-do-many-women-support-her-stateside-with-kai-and-carter",
-     "author": "Hosted by Carter Sherman with Jenna Amatulli, produced by Monica Espitia, edited by Anabel Bacon, engineered by Ivan Kuraev",
+     "outlet": "foxnews",
+     "title": "WNBA player Natasha Cloud fires off pro-trans message following altercation with Enes Kanter Freedom",
+     "url": "https://www.foxnews.com/outkick-sports/wnba-player-natasha-cloud-fires-pro-trans-message-following-altercation-enes-kanter-freedom",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-21T20:45:44+00:00",
-     "summary": "The trial of Lindsay Clancy, a former nurse accused of murdering her three children, is wrapping up its fifth week. On Friday morning, the defense rested, and the public attention to the case is at a fever-pitch \u2014 especially on social media. Clancy, 36, does not deny that she strangled her children, but has pleaded not guilty due to lack of criminal responsibility, also known as an insanity defense. She argues that she was in the throes of postpartum psychosis, a rare and devastating condition that can go unrecognized and untreated. Host Carter Sherman speaks with Jenna Amatulli , deputy head of news for Guardian US, about how the case has renewed attention on the fundamental shortcomings in the US's maternal healthcare system, and about why Clancy's story has captivated \u2013 and polarized \u2013 so many people Continue reading..."
+     "published": "2026-08-24T03:39:04+00:00",
+     "summary": "Chicago Sky guard Natasha Cloud fired off a pro-trans message on Sunday night following an altercation with Enes Kanter Freedom during the team\u2019s loss to the Indiana Fever. In the third quarter, Cloud scored a bucket that led to the Fever calling a timeout. She directed her emotion toward Freedom, who was sitting near the basket at the Wintrust Arena. Freedom stood up and walked toward Cloud. Sky players and security had to get in between the two. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! It wasn\u2019t immediately clear what Cloud and Freedom were yelling at each other about. Freedom was escorted out of the arena and was unable to return for the rest of the game. Cloud didn\u2019t speak at the Sky\u2019s postgame media availability. She fired off a message on Threads in support of the transgender community. \"To every trans kid/person, You are apart of MY community & tribe. You belong. You\u2019re loved. You\u2019re seen. You\u2019re perfect as you are. & you will always be protected by me,\" Cloud wrote. ENES KANTER FREEDOM EJECTED FROM SKY-FEVER GAME AFTER VERBAL ALTERCATION WITH NATASHA CLOUD Cloud\u2019s message appeared to be a swipe at Freedom, who announced his intentions to "
     },
     {
-     "outlet": "freepress",
-     "title": "Everyone Thinks Lindsay Clancy Killed Her Kids. Except Women Online.",
-     "url": "https://www.thefp.com/p/everyone-thinks-lindsay-clancy-killed",
-     "author": "Suzy Weiss",
+     "outlet": "nypost",
+     "title": "Enes Kanter Freedom escorted out of Fever-Sky game after ugly exchange with WNBA star Natasha Cloud",
+     "url": "https://nypost.com/2026/08/23/sports/enes-kanter-freedom-escorted-out-of-wnba-game-after-exchange-with-natasha-cloud/",
+     "author": "Christian Arnold",
      "kind": "news",
-     "published": "2026-08-21T20:01:10+00:00",
-     "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did the murders, but want to stand in solidarity with her. \u201cI could have been Lindsay. Any one of us could have been,\u201d wrote one woman in her defense, echoing a recurring theme . I don\u2019t actually think that\u2019s true; most people are not actually capable of, or at risk of, doing what Clancy did. The whole Cl"
+     "published": "2026-08-24T02:25:24+00:00",
+     "summary": "Enes Kanter Freedom leaves Fever-Sky game after a heated exchange with Natasha Cloud amid debate over trans athletes."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Enes Kanter Freedom Booted From WNBA Game After Confrontation",
+     "url": "https://www.dailywire.com/news/enes-kanter-freedom-booted-from-wnba-game-after-confrontation",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-23T21:47:51+00:00",
+     "summary": "Former NBA center Enes Kanter Freedom got booted from Sunday night\u2019s WNBA game (Indiana Fever at Chicago Sky) at Chicago\u2019s Wintrust Arena after a brief confrontation with a player on the court. Freedom, wearing a t-shirt emblazoned with the definition of the word \u201cwoman,\u201d was ejected just before the end of the third quarter after a brief confrontation with Chicago Sky guard Natasha Cloud. With 1:22 left in the quarter, Cloud scored \u2013 and the Fever called for a timeout. Cloud approached the baseline where Freedom was seated, pointing and shouting at him \u2014 and he raised both arms and stepped toward the court. Several other players and officials jumped between them, preventing the confrontation from escalating. Freedom spoke briefly with police before leaving the arena. He had attended the game, as well as a pregame rally, to show his support for Indiana Fever shooting guard Sophie Cunningham \u2014 who has become a popular target for pro-trans activists since she declared her support for biological women in sports and sex-specific spaces for women and girls. Protests and rallies have followed the Fever to several recent games, and on several occasions, women and girls who have shown their"
     }
    ]
   },
@@ -1180,138 +1163,6 @@
      "kind": "news",
      "published": "2026-08-23T10:23:00+00:00",
      "summary": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to mobilize hundreds of thousands of troops after September polls there."
-    }
-   ]
-  },
-  {
-   "id": "dce70a84b6",
-   "topic": "World",
-   "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Constanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Constanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more",
-   "summaryFrom": "zeteo",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "economic",
-     "states",
-     "warns",
-     "united"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [
-    "corp",
-    "nonprofit"
-   ],
-   "headline": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
-   "updated": "2026-08-24T00:01:12+00:00",
-   "outletCount": 4,
-   "counts": {
-    "coop": 1,
-    "pub": 1,
-    "family": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "zeteo",
-     "title": "Trump Needs to Channel His Inner George Constanza to End His Disastrous Iran War",
-     "url": "https://zeteo.com/p/trump-iran-george-constanza-opposite-seinfeld",
-     "author": "Daniel DePetris",
-     "kind": "news",
-     "published": "2026-08-24T00:01:12+00:00",
-     "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Constanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Constanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
-     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T18:15:22+00:00",
-     "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Iran Warns Gulf States Not to Join Trump\u2019s Economic War",
-     "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-     "author": "Erika Solomon",
-     "kind": "news",
-     "published": "2026-08-23T17:00:10+00:00",
-     "summary": "Mohsen Rezaei, Iran\u2019s new security chief, last month in Tehran. Though hostilities have largely ceased, the United States and Iran are locked in an economic standoff."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 -- Threatens \u2018Earthquake-Like\u2019 Retaliation",
-     "url": "https://www.breitbart.com/politics/2026/08/23/iran-warns-neighbors-joining-u-s-economic-war-will-be-enemies-threatens-earthquake-like-retaliation/",
-     "author": "Joshua Klein",
-     "kind": "news",
-     "published": "2026-08-23T08:09:54+00:00",
-     "summary": "Iran threatened neighboring countries Saturday against joining President Donald Trump\u2019s escalating \u201ceconomic war\u201d against the Islamic Republic, warning those cooperating with Washington will be considered \u201cenemies.\u201d The totalitarian regime further cautioned any U.S. supporters will have their interests targeted while threatening \u201cearthquake-like\u201d retaliation as the United States prepares to unleash what it has billed as the toughest sanctions campaign in history. The post Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 \u2014 Threatens \u2018Earthquake-Like\u2019 Retaliation appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "7caabc65c2",
-   "topic": "Politics",
-   "summary": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump\u2019s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court\u2019s injunction from taking effect while the Supreme Court considers the Trump administration\u2019s emergency request. The order does not resolve the underlying legal dispute or determine whether Trump had the authority to construct the ballroom without congressional approval. The move is nevertheless a significant victory for the administration, which has argued that construction should be allowed to continue as the case makes its way through the courts. The dispute is likely to head to the full Supreme Court after the U.S. Court of Appeals for\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Secret White House bunker undercuts Trump\u2019s ballroom lawsuit, ex-officials say",
-   "updated": "2026-08-23T22:55:35+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 3,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "wapo",
-     "title": "Secret White House bunker undercuts Trump\u2019s ballroom lawsuit, ex-officials say",
-     "url": "https://www.washingtonpost.com/politics/2026/08/23/secret-white-house-bunker-undercuts-trumps-ballroom-lawsuit-ex-officials-say/",
-     "author": "Noah Robertson, Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-23T22:55:35+00:00",
-     "summary": "The White House already has a nuclear-proof facility buried deep underground and built in secret after 9/11."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Trump Insider Spills on Melania\u2019s Mysterious White House Absence",
-     "url": "https://www.thedailybeast.com/trump-insider-spills-on-melanias-mysterious-white-house-absence/",
-     "author": "Katie Francis",
-     "kind": "news",
-     "published": "2026-08-23T21:41:39+00:00",
-     "summary": "Evelyn Hockstein / REUTERS Former deputy press secretary Sarah Matthews has claimed that Melania Trump only shows up for her husband when paid\u2014and her rate may have just gone up. Matthews, 31, spoke on MeidasTouch\u2019s On Sunday with Jack Cocchiarella podcast and painted a picture of a very clocked-out first lady. \u201cWhen I was working on the campaign for a year and then at the White House for the last seven months of the first admin, I met the vice president, I met almost every cabinet official. I met members of the first family; I met all of them at one point or another. The only person I never met was Melania Trump,\u201d she said. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Trump heads to South Carolina as White House shifts to midterms",
-     "url": "https://www.semafor.com/article/08/21/2026/trump-heads-to-south-carolina-as-white-house-shifts-to-midterms",
-     "author": "Shelby Talcott",
-     "kind": "news",
-     "published": "2026-08-21T19:59:29+00:00",
-     "summary": "President Donald Trump is heading to South Carolina today as the White House looks to focus more on the looming election season. Trump\u2019s visit to Myrtle Beach \u2014 where he hopes to provide a boost to Sen. Darline Graham, R-S.C. \u2014 comes as Republicans face a difficult path to retaining full control of Washington. The White House is shifting to an all-hands-on-deck approach, with Vice President JD Vance also campaigning in Ohio today. A White House official told Semafor that Trump plans to continue traveling the country in the months ahead despite myriad foreign policy challenges. Trump has sought to shift focus away from the unpopular Iran conflict recently, though his pivot to economic penalties could make it harder for Republicans to make inroads on affordability. \u201cPresident Trump is the unequivocal leader of the Republican party who is committed to maintaining Republicans\u2019 majority in Congress,\u201d White House spokeswoman Olivia Wales said. \u201cIn just over one year, the President has made our country greater than ever before with the most secure border in American history, the largest middle-class tax cuts ever, and the lowest murder rate since 1900.\u201d \u2014 Shelby Talcott"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
-     "url": "https://www.dailywire.com/news/scotus-gives-trump-green-light-to-keep-building-white-house-ballroom-for-now",
-     "author": "Drew Berkemeyer",
-     "kind": "opinion",
-     "published": "2026-08-21T15:39:02+00:00",
-     "summary": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump\u2019s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court\u2019s injunction from taking effect while the Supreme Court considers the Trump administration\u2019s emergency request. The order does not resolve the underlying legal dispute or determine whether Trump had the authority to construct the ballroom without congressional approval. The move is nevertheless a significant victory for the administration, which has argued that construction should be allowed to continue as the case makes its way through the courts. The dispute is likely to head to the full Supreme Court after the U.S. Court of Appeals for the D.C. Circuit ruled earlier this month that Trump could not proceed with the project without authorization from Congress. That 2-1 ruling by the appeals court held that the decision to construct the massive addition to the White House was ultimately Congress\u2019 to make. \u201cWhether or not a massive bal"
     }
    ]
   },
@@ -1389,8 +1240,8 @@
      "teen"
     ],
     "indie": [
-     "year-old",
-     "sword"
+     "sword",
+     "year-old"
     ]
    },
    "people": [],
@@ -1571,63 +1422,158 @@
    ]
   },
   {
-   "id": "aaddf93c19",
+   "id": "def3824e28",
+   "topic": "World",
+   "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+   "updated": "2026-08-24T05:00:12+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T05:00:12+00:00",
+     "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine news: UK PM Burnham to visit Kyiv in show of support",
+     "url": "https://www.dw.com/en/ukraine-news-uk-pm-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T01:04:00+00:00",
+     "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of the Coalition of the Willing and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Burnham to visit Ukraine with promise of boost for Kyiv\u2019s long-range missiles",
+     "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+     "author": "Kiran Stacey in London and Dan Sabbagh in Dnipro",
+     "kind": "news",
+     "published": "2026-08-23T23:01:45+00:00",
+     "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "b5259caac1",
+   "topic": "World",
+   "summary": "Zelenskyy said that he believes actions taken by dismissed Defense Minister Mykhailo Fedorov, including his involvement in mass protests and calls for an election, were misguided, as he publicly detailed their dispute for the first time.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Zelenskyy details rift with Ukraine's dismissed defense minister Fedorov",
+   "updated": "2026-08-24T04:18:20+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Zelensky details rift with Ukraine\u2019s dismissed Defense Minister Fedorov",
+     "url": "https://nypost.com/2026/08/24/world-news/zelensky-details-rift-with-ukraines-dismissed-defense-minister-fedorov/",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-24T04:18:20+00:00",
+     "summary": "Ukrainian President Volodymyr Zelensky said that he believes actions taken by dismissed Defense Minister Mykhailo Fedorov were misguided, as he publicly detailed their dispute for the first time."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Zelenskyy details rift with Ukraine's dismissed defense minister Fedorov",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-details-rift-with-ukraines-dismissed-defense-minister-fedorov",
+     "author": "Samya Kullab, Associated Press",
+     "kind": "news",
+     "published": "2026-08-23T18:52:58+00:00",
+     "summary": "Zelenskyy said that he believes actions taken by dismissed Defense Minister Mykhailo Fedorov, including his involvement in mass protests and calls for an election, were misguided, as he publicly detailed their dispute for the first time."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
+     "url": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T05:46:00+00:00",
+     "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. His explosive remarks have sparked widespread public debate."
+    }
+   ]
+  },
+  {
+   "id": "5f966df8e3",
    "topic": "Justice & Policing",
-   "summary": "A little more than one day after having resumed his role as governor of the Mexican state of Sinaloa, accused drug trafficker Ruben Rocha Moya announced that he was stepping down indefinitely. The move came after the narco-politician sparked much infighting within Mexico\u2019s ruling party MORENA. His move led most party members, including President Claudia Sheinbaum and all the governors, to turn their backs on him, claiming he was putting his personal interests ahead of the party's well-being. The post Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
+   "summary": "A suspect in the killings of five people whose bodies, and those of several animals, were found on a rural property in Oregon was found dead Sunday, officials said.",
+   "summaryFrom": "nbcnews",
    "emphasis": null,
    "people": [],
    "absent": [
     "coop",
-    "nonprofit"
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Mexican governor facing US drug charges says leaving office",
-   "updated": "2026-08-23T15:12:23+00:00",
-   "outletCount": 4,
+   "headline": "\u2018Quintuple homicide\u2019 suspect found dead after 5 bodies, multiple slaughtered animals discovered on rural Oregon property",
+   "updated": "2026-08-24T04:09:40+00:00",
+   "outletCount": 3,
    "counts": {
-    "family": 2,
-    "corp": 1,
-    "pub": 1
+    "family": 1,
+    "corp": 2
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office",
-     "url": "https://www.breitbart.com/border/2026/08/23/accused-drug-trafficker-leaves-post-as-mexican-governor-one-day-after-resuming-office/",
-     "author": "Ildefonso Ortiz and Brandon Darby",
+     "outlet": "nypost",
+     "title": "\u2018Quintuple homicide\u2019 suspect found dead after 5 bodies, multiple slaughtered animals discovered on rural Oregon property",
+     "url": "https://nypost.com/2026/08/24/us-news/quintuple-homicide-suspect-found-dead-after-5-bodies-multiple-dead-animals-discovered-on-rural-oregon-property/",
+     "author": "Zoe Hussain",
      "kind": "news",
-     "published": "2026-08-23T15:12:23+00:00",
-     "summary": "A little more than one day after having resumed his role as governor of the Mexican state of Sinaloa, accused drug trafficker Ruben Rocha Moya announced that he was stepping down indefinitely. The move came after the narco-politician sparked much infighting within Mexico\u2019s ruling party MORENA. His move led most party members, including President Claudia Sheinbaum and all the governors, to turn their backs on him, claiming he was putting his personal interests ahead of the party's well-being. The post Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office appeared first on Breitbart ."
+     "published": "2026-08-24T04:09:40+00:00",
+     "summary": "The homicide suspect, identified as Benjamin Charles Parker, 36, was found dead of apparent suicide inside a car in Enumclaw."
     },
     {
-     "outlet": "cbsnews",
-     "title": "Mexican official accused by U.S. of drug trafficking abruptly resigns again",
-     "url": "https://www.cbsnews.com/news/mexican-governnor-ruben-rocha-moya-sinaloa-resigns-again-us-drug-trafficking/",
+     "outlet": "nbcnews",
+     "title": "5 people and multiple animals killed on rural Oregon property, with suspect found dead",
+     "url": "https://www.nbcnews.com/news/us-news/suspect-quintuple-homicide-rural-property-portland-found-dead-rcna594055",
+     "author": "Joe Kottke",
+     "kind": "news",
+     "published": "2026-08-24T02:19:35+00:00",
+     "summary": "A suspect in the killings of five people whose bodies, and those of several animals, were found on a rural property in Oregon was found dead Sunday, officials said."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Police investigate after 5 bodies found in rural area outside Portland, Oregon",
+     "url": "https://abcnews.com/US/wireStory/police-investigate-after-5-bodies-found-rural-area-135891949",
      "author": null,
      "kind": "news",
-     "published": "2026-08-23T12:45:10+00:00",
-     "summary": "Sinaloa Gov. Ruben Rocha Moya is accused of allegedly colluding with the infamous Sinaloa Cartel to distribute drugs inside the U.S."
-    },
-    {
-     "outlet": "dw",
-     "title": "Mexican governor facing US drug charges says leaving office",
-     "url": "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T04:47:00+00:00",
-     "summary": "Embroiled in drug trafficking charges, Ruben Rocha Moya has asked for another leave of absence just days after returning to his position as Sinaloa state governor."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Governor of Mexico's Sinaloa state, indicted by U.S., steps down from office \u2014 again",
-     "url": "https://www.latimes.com/world-nation/story/2026-08-22/sinaloa-state-governor-indicted-by-u-s-resigns-again",
-     "author": "Patrick J. McDonnell",
-     "kind": "news",
-     "published": "2026-08-23T03:26:04+00:00",
-     "summary": "Gov. Rub\u00e9n Rocha Moya of Mexico's Sinaloa state announced Saturday he is once again taking leave \u2014 a day after returning to office following a months-long absence after being indicted in the United States on drug-trafficking and other charges."
+     "published": "2026-08-24T00:46:11+00:00",
+     "summary": "Oregon authorities say they're investigating the deaths of five people found on a rural property outside Portland as a quintuple homicide"
     }
    ]
   },
@@ -1680,6 +1626,58 @@
      "kind": "news",
      "published": "2026-08-23T12:48:05+00:00",
      "summary": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA. (Image credit: NOAA)"
+    }
+   ]
+  },
+  {
+   "id": "8ede45a94d",
+   "topic": "Politics",
+   "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Insiders Expose Trump\u2019s Dodgy New Excuse for Ballroom",
+   "updated": "2026-08-24T03:07:32+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Insiders Expose Trump\u2019s Dodgy New Excuse for Ballroom",
+     "url": "https://www.thedailybeast.com/insiders-expose-trumps-dodgy-new-excuse-for-ballroom/",
+     "author": "Cameron Adams",
+     "kind": "news",
+     "published": "2026-08-24T03:07:32+00:00",
+     "summary": "Evan Vucci / REUTERS White House insiders are throwing cold water on President Donald Trump\u2019s attempts to fast track his vanity ballroom project after releasing critical new information. Trump, 80, scored a Supreme Court victory last week when Chief Justice John Roberts allowed construction on the project to continue while the high court continues to debate a case to halt it entirely. The ballroom began as a modest event-space renovation costing an estimated $200 million; however, it has since ballooned to $600 million \u2014with taxpayers expected to cover more than half. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "vox",
+     "title": "Trump\u2019s ballroom survives \u2014 for now",
+     "url": "https://www.vox.com/the-logoff-newsletter-trump/500218/trump-east-wing-ballroom-construction-scotus-roberts",
+     "author": "Cameron Peters",
+     "kind": "news",
+     "published": "2026-08-21T21:35:00+00:00",
+     "summary": "Construction of Trump\u2019s East Wing ballroom continues at the White House on August 18, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump\u2019s ballroom is still happening. What\u2019s the latest? On Friday, Supreme Court Chief Justice John Roberts stayed a lower court injunction threatening to halt construction on Trump\u2019s East Wing ballroom, hours before it would have taken effect. The order came from Roberts alone, and it isn\u2019t final. But the new stay will remain in place \u201cpending further order\u201d (likely, the Court\u2019s full decision), allowing construction to continue for now. It\u2019s the latest in a series of escapes for the project, despite adverse rulings in lower courts. What have other judges said? Earlier this month, the DC Circuit Court of Appeals upheld a previous district court ruling that Trump had exceeded his authority in unilaterally pursuing the ballroom project and would need to seek congressional approval to continue. (Trump, meanwhile, has attempted to justify the projec"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "SCOTUS Gives Trump Green Light To Keep Building White House Ballroom For Now",
+     "url": "https://www.dailywire.com/news/scotus-gives-trump-green-light-to-keep-building-white-house-ballroom-for-now",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-21T15:39:02+00:00",
+     "summary": "The Supreme Court on Friday temporarily cleared the way for President Donald Trump\u2019s administration to continue construction of the White House ballroom, pausing a lower court order that would have halted above-ground work on the controversial project. Chief Justice John Roberts issued an administrative stay Friday, preventing a federal district court\u2019s injunction from taking effect while the Supreme Court considers the Trump administration\u2019s emergency request. The order does not resolve the underlying legal dispute or determine whether Trump had the authority to construct the ballroom without congressional approval. The move is nevertheless a significant victory for the administration, which has argued that construction should be allowed to continue as the case makes its way through the courts. The dispute is likely to head to the full Supreme Court after the U.S. Court of Appeals for the D.C. Circuit ruled earlier this month that Trump could not proceed with the project without authorization from Congress. That 2-1 ruling by the appeals court held that the decision to construct the massive addition to the White House was ultimately Congress\u2019 to make. \u201cWhether or not a massive bal"
     }
    ]
   },
@@ -1784,58 +1782,6 @@
      "kind": "news",
      "published": "2026-08-23T19:27:17+00:00",
      "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India."
-    }
-   ]
-  },
-  {
-   "id": "3fcf3b3fd5",
-   "topic": "Culture & Sport",
-   "summary": "Former NBA center Enes Kanter Freedom, who is trying to make his way into women\u2019s basketball, was escorted out of Wintrust Arena during the third quarter Sunday after a heated shouting match with Chicago Sky guard Natasha Cloud. With the Indiana Fever holding an 81-75 lead during a third-quarter timeout, Cloud began barking toward Freedom, who was seated courtside. Freedom responded and stepped toward the floor, prompting security to intervene and usher the 11-year NBA veteran out as the Chicago crowd rained down boos. WNBA COMMISSIONER CATHY ENGELBERT BLAMES THE WRONG PEOPLE FOR \u2018SOWING DIVISIVENESS\u2019 IN TRANSGENDER DEBATE Immediately after security removed him, Freedom fired back on X: \"I just got kicked out of a @ WNBA game for supporting WOMEN! Let that sink in, AMERICA!\" He followed with another jab: \"It\u2019s always women hating on other women.\" WNBA COMMISSIONER CATHY ENGELBERT SENDS\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Enes Kanter Freedom escorted out of Fever-Sky game after ugly exchange with WNBA star Natasha Cloud",
-   "updated": "2026-08-24T02:25:24+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Enes Kanter Freedom escorted out of Fever-Sky game after ugly exchange with WNBA star Natasha Cloud",
-     "url": "https://nypost.com/2026/08/23/sports/enes-kanter-freedom-escorted-out-of-wnba-game-after-exchange-with-natasha-cloud/",
-     "author": "Christian Arnold",
-     "kind": "news",
-     "published": "2026-08-24T02:25:24+00:00",
-     "summary": "Enes Kanter Freedom leaves Fever-Sky game after a heated exchange with Natasha Cloud amid debate over trans athletes."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Enes Kanter Freedom ejected from Sky-Fever game after verbal altercation with Natasha Cloud",
-     "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-ejected-sky-fever-game-verbal-altercation-natasha-cloud",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T01:26:49+00:00",
-     "summary": "Former NBA center Enes Kanter Freedom, who is trying to make his way into women\u2019s basketball, was escorted out of Wintrust Arena during the third quarter Sunday after a heated shouting match with Chicago Sky guard Natasha Cloud. With the Indiana Fever holding an 81-75 lead during a third-quarter timeout, Cloud began barking toward Freedom, who was seated courtside. Freedom responded and stepped toward the floor, prompting security to intervene and usher the 11-year NBA veteran out as the Chicago crowd rained down boos. WNBA COMMISSIONER CATHY ENGELBERT BLAMES THE WRONG PEOPLE FOR \u2018SOWING DIVISIVENESS\u2019 IN TRANSGENDER DEBATE Immediately after security removed him, Freedom fired back on X: \"I just got kicked out of a @ WNBA game for supporting WOMEN! Let that sink in, AMERICA!\" He followed with another jab: \"It\u2019s always women hating on other women.\" WNBA COMMISSIONER CATHY ENGELBERT SENDS TRANS INCLUSION MEMO AFTER ENES FREEDOM, ROYCE WHITE ANNOUNCEMENTS Cloud previously called America \"trash,\" so Freedom offered to buy her a ticket to China, Russia or Turkey, where she could trade her woke complaints for a firsthand look at actual tyranny. He also arrived Sunday wearing a shirt with "
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Enes Kanter Freedom Booted From WNBA Game After Confrontation",
-     "url": "https://www.dailywire.com/news/enes-kanter-freedom-booted-from-wnba-game-after-confrontation",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-23T21:47:51+00:00",
-     "summary": "Former NBA center Enes Kanter Freedom got booted from Sunday night\u2019s WNBA game (Indiana Fever at Chicago Sky) at Chicago\u2019s Wintrust Arena after a brief confrontation with a player on the court. Freedom, wearing a t-shirt emblazoned with the definition of the word \u201cwoman,\u201d was ejected just before the end of the third quarter after a brief confrontation with Chicago Sky guard Natasha Cloud. With 1:22 left in the quarter, Cloud scored \u2013 and the Fever called for a timeout. Cloud approached the baseline where Freedom was seated, pointing and shouting at him \u2014 and he raised both arms and stepped toward the court. Several other players and officials jumped between them, preventing the confrontation from escalating. Freedom spoke briefly with police before leaving the arena. He had attended the game, as well as a pregame rally, to show his support for Indiana Fever shooting guard Sophie Cunningham \u2014 who has become a popular target for pro-trans activists since she declared her support for biological women in sports and sex-specific spaces for women and girls. Protests and rallies have followed the Fever to several recent games, and on several occasions, women and girls who have shown their"
     }
    ]
   },
@@ -2100,6 +2046,58 @@
    ]
   },
   {
+   "id": "7caabc65c2",
+   "topic": "Politics",
+   "summary": "President Donald Trump is heading to South Carolina today as the White House looks to focus more on the looming election season. Trump\u2019s visit to Myrtle Beach \u2014 where he hopes to provide a boost to Sen. Darline Graham, R-S.C. \u2014 comes as Republicans face a difficult path to retaining full control of Washington. The White House is shifting to an all-hands-on-deck approach, with Vice President JD Vance also campaigning in Ohio today. A White House official told Semafor that Trump plans to continue traveling the country in the months ahead despite myriad foreign policy challenges. Trump has sought to shift focus away from the unpopular Iran conflict recently, though his pivot to economic penalties could make it harder for Republicans to make inroads on affordability. \u201cPresident Trump is the unequivocal leader of the Republican party who is committed to maintaining Republicans\u2019 majority in\u2026",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Secret White House bunker undercuts Trump\u2019s ballroom lawsuit, ex-officials say",
+   "updated": "2026-08-23T22:55:35+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "Secret White House bunker undercuts Trump\u2019s ballroom lawsuit, ex-officials say",
+     "url": "https://www.washingtonpost.com/politics/2026/08/23/secret-white-house-bunker-undercuts-trumps-ballroom-lawsuit-ex-officials-say/",
+     "author": "Noah Robertson, Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-23T22:55:35+00:00",
+     "summary": "The White House already has a nuclear-proof facility buried deep underground and built in secret after 9/11."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Trump Insider Spills on Melania\u2019s Mysterious White House Absence",
+     "url": "https://www.thedailybeast.com/trump-insider-spills-on-melanias-mysterious-white-house-absence/",
+     "author": "Katie Francis",
+     "kind": "news",
+     "published": "2026-08-23T21:41:39+00:00",
+     "summary": "Evelyn Hockstein / REUTERS Former deputy press secretary Sarah Matthews has claimed that Melania Trump only shows up for her husband when paid\u2014and her rate may have just gone up. Matthews, 31, spoke on MeidasTouch\u2019s On Sunday with Jack Cocchiarella podcast and painted a picture of a very clocked-out first lady. \u201cWhen I was working on the campaign for a year and then at the White House for the last seven months of the first admin, I met the vice president, I met almost every cabinet official. I met members of the first family; I met all of them at one point or another. The only person I never met was Melania Trump,\u201d she said. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Trump heads to South Carolina as White House shifts to midterms",
+     "url": "https://www.semafor.com/article/08/21/2026/trump-heads-to-south-carolina-as-white-house-shifts-to-midterms",
+     "author": "Shelby Talcott",
+     "kind": "news",
+     "published": "2026-08-21T19:59:29+00:00",
+     "summary": "President Donald Trump is heading to South Carolina today as the White House looks to focus more on the looming election season. Trump\u2019s visit to Myrtle Beach \u2014 where he hopes to provide a boost to Sen. Darline Graham, R-S.C. \u2014 comes as Republicans face a difficult path to retaining full control of Washington. The White House is shifting to an all-hands-on-deck approach, with Vice President JD Vance also campaigning in Ohio today. A White House official told Semafor that Trump plans to continue traveling the country in the months ahead despite myriad foreign policy challenges. Trump has sought to shift focus away from the unpopular Iran conflict recently, though his pivot to economic penalties could make it harder for Republicans to make inroads on affordability. \u201cPresident Trump is the unequivocal leader of the Republican party who is committed to maintaining Republicans\u2019 majority in Congress,\u201d White House spokeswoman Olivia Wales said. \u201cIn just over one year, the President has made our country greater than ever before with the most secure border in American history, the largest middle-class tax cuts ever, and the lowest murder rate since 1900.\u201d \u2014 Shelby Talcott"
+    }
+   ]
+  },
+  {
    "id": "181ea491fb",
    "topic": "Culture & Sport",
    "summary": "Shelley Fabares, an actor who was a fixture on television for decades from her days as a young teenager on \u201cThe Donna Reed Show,\u201d through \u201cOne Day at a Time\u201d and \u201cCoach,\u201d has died. She was 82. The post Shelley Fabares, \u2018Johnny Angel\u2019 Singer, \u2018The Donna Reed Show,\u2019 and \u2018Coach\u2019 Star, Dies at 82 appeared first on Breitbart .",
@@ -2256,6 +2254,58 @@
    ]
   },
   {
+   "id": "aaddf93c19",
+   "topic": "Politics",
+   "summary": "A little more than one day after having resumed his role as governor of the Mexican state of Sinaloa, accused drug trafficker Ruben Rocha Moya announced that he was stepping down indefinitely. The move came after the narco-politician sparked much infighting within Mexico\u2019s ruling party MORENA. His move led most party members, including President Claudia Sheinbaum and all the governors, to turn their backs on him, claiming he was putting his personal interests ahead of the party's well-being. The post Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Mexican governor facing US drug charges says leaving office",
+   "updated": "2026-08-23T15:12:23+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office",
+     "url": "https://www.breitbart.com/border/2026/08/23/accused-drug-trafficker-leaves-post-as-mexican-governor-one-day-after-resuming-office/",
+     "author": "Ildefonso Ortiz and Brandon Darby",
+     "kind": "news",
+     "published": "2026-08-23T15:12:23+00:00",
+     "summary": "A little more than one day after having resumed his role as governor of the Mexican state of Sinaloa, accused drug trafficker Ruben Rocha Moya announced that he was stepping down indefinitely. The move came after the narco-politician sparked much infighting within Mexico\u2019s ruling party MORENA. His move led most party members, including President Claudia Sheinbaum and all the governors, to turn their backs on him, claiming he was putting his personal interests ahead of the party's well-being. The post Accused Drug Trafficker Leaves Post as Mexican Governor, One Day After Resuming Office appeared first on Breitbart ."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Mexican official accused by U.S. of drug trafficking abruptly resigns again",
+     "url": "https://www.cbsnews.com/news/mexican-governnor-ruben-rocha-moya-sinaloa-resigns-again-us-drug-trafficking/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T12:45:10+00:00",
+     "summary": "Sinaloa Gov. Ruben Rocha Moya is accused of allegedly colluding with the infamous Sinaloa Cartel to distribute drugs inside the U.S."
+    },
+    {
+     "outlet": "dw",
+     "title": "Mexican governor facing US drug charges says leaving office",
+     "url": "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T04:47:00+00:00",
+     "summary": "Embroiled in drug trafficking charges, Ruben Rocha Moya has asked for another leave of absence just days after returning to his position as Sinaloa state governor."
+    }
+   ]
+  },
+  {
    "id": "4b44ad930c",
    "topic": "Tech",
    "summary": "Data centers are being opposed by Democrats and Republicans in key 2026 elections. | Sarah Rice/Bloomberg via Getty Images This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here . Do the words \u201cdata center\u201d make you want to drop everything and call your congressional representative? You\u2019re not alone, if we judge the nation\u2019s mood by the actions of politicians who poll-test what they eat for breakfast (and there are worse ways). This looks like the week that the data center backlash broke containment and became the defining issue of this political moment. In the Texas governor\u2019s race, Democrat Gina Hinojosa went up with an ad against Republican Gov. Greg Abbott over data centers with the punchline: \u201cGreg Abbott is selling you out.\u201d In a critical toss-up House race, Rep. Marcy Kaptur (D-OH)\u2026",
@@ -2408,6 +2458,187 @@
      "kind": "news",
      "published": "2026-08-21T09:36:06+00:00",
      "summary": "Cambridge professor Jason Arday was found dead at his home in London on Aug. 14, 2026, days after he resigned from his position amid accusations of plagiarism, which he had denied. Nordin Catic/Getty Images After a meteoric rise to the top ranks of British academia, scholar Jason Arday was found dead at his London home on Aug. 14, 2026. Arday had spent weeks fighting plagiarism accusations. The way they took on a life of their own in the media ecosystem is a stark reminder of the steep price people can pay in a culture that has made originality a kind of moral virtue. In 2023, at age 38, he had been appointed to a professorship in sociology of education at the University of Cambridge, becoming the youngest Black professor in the institution\u2019s 800-year history. Nine days before his death, Arday had resigned from his faculty position. He was facing growing criticism about improbable and inconsistent details appearing in his memoir, scheduled to be released in the coming weeks by Simon & Schuster. Arday\u2019s publisher had stood by him, lauding the academic\u2019s \u201c professionalism and integrity .\u201d But the originality of Arday\u2019s dissertation and his other academic work was also coming under sc"
+    }
+   ]
+  },
+  {
+   "id": "e6d091a61f",
+   "topic": "Justice & Policing",
+   "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did\u2026",
+   "summaryFrom": "freepress",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+   "updated": "2026-08-22T03:43:26+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+     "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T03:43:26+00:00",
+     "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Lindsay Clancy killed her children. Why do many women support her? \u2013 Stateside with Kai and Carter",
+     "url": "https://www.theguardian.com/us-news/video/2026/aug/21/lindsay-clancy-killed-her-children-why-do-many-women-support-her-stateside-with-kai-and-carter",
+     "author": "Hosted by Carter Sherman with Jenna Amatulli, produced by Monica Espitia, edited by Anabel Bacon, engineered by Ivan Kuraev",
+     "kind": "news",
+     "published": "2026-08-21T20:45:44+00:00",
+     "summary": "The trial of Lindsay Clancy, a former nurse accused of murdering her three children, is wrapping up its fifth week. On Friday morning, the defense rested, and the public attention to the case is at a fever-pitch \u2014 especially on social media. Clancy, 36, does not deny that she strangled her children, but has pleaded not guilty due to lack of criminal responsibility, also known as an insanity defense. She argues that she was in the throes of postpartum psychosis, a rare and devastating condition that can go unrecognized and untreated. Host Carter Sherman speaks with Jenna Amatulli , deputy head of news for Guardian US, about how the case has renewed attention on the fundamental shortcomings in the US's maternal healthcare system, and about why Clancy's story has captivated \u2013 and polarized \u2013 so many people Continue reading..."
+    },
+    {
+     "outlet": "freepress",
+     "title": "Everyone Thinks Lindsay Clancy Killed Her Kids. Except Women Online.",
+     "url": "https://www.thefp.com/p/everyone-thinks-lindsay-clancy-killed",
+     "author": "Suzy Weiss",
+     "kind": "news",
+     "published": "2026-08-21T20:01:10+00:00",
+     "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did the murders, but want to stand in solidarity with her. \u201cI could have been Lindsay. Any one of us could have been,\u201d wrote one woman in her defense, echoing a recurring theme . I don\u2019t actually think that\u2019s true; most people are not actually capable of, or at risk of, doing what Clancy did. The whole Cl"
+    }
+   ]
+  },
+  {
+   "id": "23766c8ebe",
+   "topic": "Business & Economy",
+   "summary": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to $27bn. Founded in China and now headquartered in Singapore, the online retailer secured Beijing\u2019s approval last month to make its initial public offering in Hong Kong. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Shein aims for almost $27bn valuation in stock market debut",
+   "updated": "2026-08-24T04:06:54+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Shein aims for almost $27bn valuation in stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T04:06:54+00:00",
+     "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+     "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+     "author": "Guardian staff with agencies",
+     "kind": "news",
+     "published": "2026-08-24T04:02:59+00:00",
+     "summary": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to $27bn. Founded in China and now headquartered in Singapore, the online retailer secured Beijing\u2019s approval last month to make its initial public offering in Hong Kong. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "22e1d25c62",
+   "topic": "World",
+   "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to three sources with knowledge of the matter. Why it matters: The meeting between Syrian Foreign Minister Asaad al-Shaibani and the director of Israel's Mossad spy agency, Roman Gofman, took place days after an Israeli strike on a Syrian airbase sharply escalated tensions between the two countries. Driving the news: On Tuesday, the Israeli Air Force dropped at least eight bombs on runways and hangars at the Abu al-Duhur airbase in northern Syria, about 45 miles from the Turkish border. Israel said the strike was aimed at preventing a Turkish military buildup at the base and that it had intelligence showing Turkey was planning to deploy drones and a radar system there. Israel also warned that if preparations for the Turkish deployment\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+   "updated": "2026-08-24T03:56:59+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+     "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T03:56:59+00:00",
+     "summary": "Syria's foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border."
+    },
+    {
+     "outlet": "axios",
+     "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
+     "url": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-23T16:08:52+00:00",
+     "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to three sources with knowledge of the matter. Why it matters: The meeting between Syrian Foreign Minister Asaad al-Shaibani and the director of Israel's Mossad spy agency, Roman Gofman, took place days after an Israeli strike on a Syrian airbase sharply escalated tensions between the two countries. Driving the news: On Tuesday, the Israeli Air Force dropped at least eight bombs on runways and hangars at the Abu al-Duhur airbase in northern Syria, about 45 miles from the Turkish border. Israel said the strike was aimed at preventing a Turkish military buildup at the base and that it had intelligence showing Turkey was planning to deploy drones and a radar system there. Israel also warned that if preparations for the Turkish deployment didn't stop, it would take military action. During behind-the-scenes discussions between Israel, Syria and the U.S., the Syrian government denied any intention to allow the Turkish military to establish a presence at the base. But Israel was unswayed and attacked the base in what it called a \"warning"
+    }
+   ]
+  },
+  {
+   "id": "7ab7660093",
+   "topic": "Politics",
+   "summary": "Three Dan Sullivans are wading in on Alaska\u2019s Senate race but only one Dan Sullivan has earned the support of a former lawmaker with his namesake. Sen. Dan S. Sullivan (R-Alaska) was endorsed by former Anchorage Mayor Dan A. Sullivan (R) last Tuesday as he prepares to face off against Dan J. Sullivan and Rep....",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Dan Sullivan endorses Dan Sullivan to beat Dan Sullivan in perplexing Alaska Senate race",
+   "updated": "2026-08-24T03:29:13+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Dan Sullivan endorses Dan Sullivan to beat Dan Sullivan in perplexing Alaska Senate race",
+     "url": "https://www.nbcnews.com/politics/2026-election/dan-sullivan-endorses-dan-sullivan-beat-dan-sullivan-perplexing-alaska-rcna594063",
+     "author": "Raquel Coronell Uribe",
+     "kind": "news",
+     "published": "2026-08-24T03:29:13+00:00",
+     "summary": "A third Dan Sullivan \u2014 a former Anchorage mayor \u2014 has weighed in on the competitive Senate race, endorsing Sen. Dan S. Sullivan over former teacher Dan J. Sullivan."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Sullivan endorses Sullivan against Sullivan in Alaska",
+     "url": "https://thehill.com/homenews/campaign/6046069-alaska-senate-race-three-sullivan/",
+     "author": "Ashleigh Fields",
+     "kind": "news",
+     "published": "2026-08-23T22:26:13+00:00",
+     "summary": "Three Dan Sullivans are wading in on Alaska\u2019s Senate race but only one Dan Sullivan has earned the support of a former lawmaker with his namesake. Sen. Dan S. Sullivan (R-Alaska) was endorsed by former Anchorage Mayor Dan A. Sullivan (R) last Tuesday as he prepares to face off against Dan J. Sullivan and Rep...."
     }
    ]
   },
@@ -2627,49 +2858,6 @@
    ]
   },
   {
-   "id": "4c9e5474b5",
-   "topic": "Other",
-   "summary": "Former Disney child actress Raquel Lee is accusing the entertainment giant of ignoring the sexual abuse she suffered years ago on-set, early in her acting career. The post Former Child Star Raquel Lee Accuses Disney of Ignoring On-Set Rape and Sex Abuse appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Former Disney child star Raquel Lee sues studio for negligence, claiming alleged on-set sexual abuse",
-   "updated": "2026-08-24T01:54:17+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Former Disney child star Raquel Lee sues studio for negligence, claiming alleged on-set sexual abuse",
-     "url": "https://pagesix.com/2026/08/23/celebrity-news/former-disney-child-star-raquel-lee-sues-studio-for-negligence-claiming-alleged-on-set-sexual-abuse/",
-     "author": "Antoinette Bueno, Sarah Jones",
-     "kind": "news",
-     "published": "2026-08-24T01:54:17+00:00",
-     "summary": "The actress alleges the abuse occurred multiple times while filming 2001's \"The Poof Point.\""
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Former Child Star Raquel Lee Accuses Disney of Ignoring On-Set Rape and Sex Abuse",
-     "url": "https://www.breitbart.com/entertainment/2026/08/23/former-child-star-raquel-lee-accuses-disney-of-ignoring-on-set-rape-and-sex-abuse/",
-     "author": "Warner Todd Huston",
-     "kind": "news",
-     "published": "2026-08-23T18:21:29+00:00",
-     "summary": "Former Disney child actress Raquel Lee is accusing the entertainment giant of ignoring the sexual abuse she suffered years ago on-set, early in her acting career. The post Former Child Star Raquel Lee Accuses Disney of Ignoring On-Set Rape and Sex Abuse appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
    "id": "9bebd04b0e",
    "topic": "Justice & Policing",
    "summary": "Never interrupt your enemy when they\u2019re making a mistake. And never, ever interrupt the Left when they\u2019re being spectacularly, self-immolatingly stupid. On Thursday, the New York Times published a piece that was supposed to manufacture outrage. Instead, it handed the entire country a gift-wrapped argument for deportation. \u201cTrans Migrants in ICE Detention Are Losing Their Rights and Medical Care\u201d Translation: Biological men who entered the country illegally, some with criminal records at home, some with criminal records here, who had been receiving taxpayer-funded cross-sex hormones, are now no longer receiving those hormones\u2026 and are being removed. I\u2019m struggling to locate the tragedy. The Department of Homeland Security responded with this clarity: [The NYT] is more concerned about us not providing hormone therapy for these criminals than the countless Americans who have been\u2026",
@@ -2756,49 +2944,6 @@
    ]
   },
   {
-   "id": "76712aeb2f",
-   "topic": "World",
-   "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Ukraine: UK PM Andy Burnham to visit Kyiv in show of support",
-   "updated": "2026-08-24T01:04:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Ukraine: UK PM Andy Burnham to visit Kyiv in show of support",
-     "url": "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T01:04:00+00:00",
-     "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of Ukraine's main backers and meet with Volodymyr Zelenskyy. The visit comes as Ukraine marks its 35th independence day. DW has more."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Burnham to visit Ukraine with promise of boost for Kyiv\u2019s long-range missiles",
-     "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-     "author": "Kiran Stacey in London and Dan Sabbagh in Dnipro",
-     "kind": "news",
-     "published": "2026-08-23T23:01:45+00:00",
-     "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine\u2019s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country\u2019s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country\u2019s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "f8d4827d39",
    "topic": "Other",
    "summary": "Lillian Smart, an 8-year-old girl who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday at a Ruston hospital from an infection linked to the pathogen. Lillian died one day after celebrating her eighth birthday. \"The injuries to her brain were too severe for her little body to recover from,\" the Smart family said in a statement posted Sunday morning on Facebook. \"Everyone did everything they could to keep her here. We are heartbroken and honestly do not know what to do next. How do we put one foot in front of the other without our girl?\" MICHIGAN REPORTS 2 DEATHS IN RARE PARASITE OUTBREAK THAT HAS SICKENED MORE THAN 11,000 The Louisiana Department of Health announced Wednesday that a state resident had been hospitalized after becoming infected with Naegleria fowleri, a microscopic amoeba that can cause a rare and often\u2026",
@@ -2881,6 +3026,101 @@
      "kind": "news",
      "published": "2026-08-23T19:35:49+00:00",
      "summary": "The man is accused of saying he was trying to make the shadows look like a truck\u2019s grapple had his co-worker\u2019s head but didn\u2019t realize where it was before he closed the claw."
+    }
+   ]
+  },
+  {
+   "id": "dce70a84b6",
+   "topic": "World",
+   "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Constanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Constanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more",
+   "summaryFrom": "zeteo",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "nonprofit"
+   ],
+   "headline": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
+   "updated": "2026-08-24T00:01:12+00:00",
+   "outletCount": 2,
+   "counts": {
+    "coop": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "zeteo",
+     "title": "Trump Needs to Channel His Inner George Constanza to End His Disastrous Iran War",
+     "url": "https://zeteo.com/p/trump-iran-george-constanza-opposite-seinfeld",
+     "author": "Daniel DePetris",
+     "kind": "news",
+     "published": "2026-08-24T00:01:12+00:00",
+     "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Constanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Constanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
+     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-23T18:15:22+00:00",
+     "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker."
+    }
+   ]
+  },
+  {
+   "id": "0d5fc6d4db",
+   "topic": "World",
+   "summary": "Iran threatened neighboring countries Saturday against joining President Donald Trump\u2019s escalating \u201ceconomic war\u201d against the Islamic Republic, warning those cooperating with Washington will be considered \u201cenemies.\u201d The totalitarian regime further cautioned any U.S. supporters will have their interests targeted while threatening \u201cearthquake-like\u201d retaliation as the United States prepares to unleash what it has billed as the toughest sanctions campaign in history. The post Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 \u2014 Threatens \u2018Earthquake-Like\u2019 Retaliation appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran war live: US vows \u2018economic D-Day\u2019; Tehran threatens Gulf oil exports",
+   "updated": "2026-08-24T00:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Iran war live: US vows \u2018economic D-Day\u2019; Tehran threatens Gulf oil exports",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T00:00:00+00:00",
+     "summary": "US Treasury Secretary Scott Bessent says Washington aims to 'sever every economic lifeline' that sustains Iran."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 -- Threatens \u2018Earthquake-Like\u2019 Retaliation",
+     "url": "https://www.breitbart.com/politics/2026/08/23/iran-warns-neighbors-joining-u-s-economic-war-will-be-enemies-threatens-earthquake-like-retaliation/",
+     "author": "Joshua Klein",
+     "kind": "news",
+     "published": "2026-08-23T08:09:54+00:00",
+     "summary": "Iran threatened neighboring countries Saturday against joining President Donald Trump\u2019s escalating \u201ceconomic war\u201d against the Islamic Republic, warning those cooperating with Washington will be considered \u201cenemies.\u201d The totalitarian regime further cautioned any U.S. supporters will have their interests targeted while threatening \u201cearthquake-like\u201d retaliation as the United States prepares to unleash what it has billed as the toughest sanctions campaign in history. The post Iran Warns Neighbors Joining U.S. \u2018Economic War\u2019 Will Be \u2018Enemies\u2019 \u2014 Threatens \u2018Earthquake-Like\u2019 Retaliation appeared first on Breitbart ."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Iran\u2019s Oil Exports to China Crumble Under U.S. Blockade",
+     "url": "https://www.breitbart.com/middle-east/2026/08/21/irans-oil-exports-to-china-crumble-under-u-s-blockade/",
+     "author": "John Hayward",
+     "kind": "news",
+     "published": "2026-08-21T19:29:26+00:00",
+     "summary": "Oil industry analysts on Friday noted a sharp decline in Iran\u2019s offers of crude oil to Chinese buyers after the U.S. blockade of Iranian ports was reimposed on July 13. The post Iran\u2019s Oil Exports to China Crumble Under U.S. Blockade appeared first on Breitbart ."
     }
    ]
   },
@@ -3268,264 +3508,6 @@
      "kind": "news",
      "published": "2026-08-21T19:31:47+00:00",
      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
-    }
-   ]
-  },
-  {
-   "id": "cb1aa60977",
-   "topic": "Other",
-   "summary": "An American Airlines flight landed safely in Dallas after a laptop battery caught fire on board, prompting flight attendants to contain the fire and emergency personnel to meet the aircraft, officials confirmed to Fox News Digital. American Airlines Flight 2398 was approaching Dallas Fort Worth International Airport (DFW) on Friday after departing Atlanta when the crew reported a laptop battery fire, according to the Federal Aviation Administration (FAA). Flight attendants contained the fire with a thermal containment bag, the FAA said. The Airbus A321 landed safely at DFW at about 6:55 p.m. local time, according to the agency. The FAA is investigating the incident. TWO PLANES BLOW TIRES WHILE LANDING AT MAJOR US AIRPORT HOURS APART, FAA INVESTIGATING American Airlines separately confirmed to Fox News Digital that smoke was reported from a customer\u2019s device during landing. \"American\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Laptop catches fire on US flight, with passenger treated at airport",
-   "updated": "2026-08-23T20:19:22+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "American Airlines flight lands safely after laptop battery catches fire on board; passenger injured",
-     "url": "https://www.foxnews.com/us/american-airlines-flight-lands-safely-laptop-battery-catches-fire-board-faa-investigating",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T20:19:22+00:00",
-     "summary": "An American Airlines flight landed safely in Dallas after a laptop battery caught fire on board, prompting flight attendants to contain the fire and emergency personnel to meet the aircraft, officials confirmed to Fox News Digital. American Airlines Flight 2398 was approaching Dallas Fort Worth International Airport (DFW) on Friday after departing Atlanta when the crew reported a laptop battery fire, according to the Federal Aviation Administration (FAA). Flight attendants contained the fire with a thermal containment bag, the FAA said. The Airbus A321 landed safely at DFW at about 6:55 p.m. local time, according to the agency. The FAA is investigating the incident. TWO PLANES BLOW TIRES WHILE LANDING AT MAJOR US AIRPORT HOURS APART, FAA INVESTIGATING American Airlines separately confirmed to Fox News Digital that smoke was reported from a customer\u2019s device during landing. \"American Airlines flight 2398 landed safely at DFW after reports of smoke from a customer\u2019s device during landing. We thank our crew for their professionalism and swift response to quickly contain the device,\" a spokesperson said. The aircraft taxied to the gate under its own power, where emergency personnel met"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Laptop catches fire on US flight, with passenger treated at airport",
-     "url": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T10:27:25+00:00",
-     "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely."
-    }
-   ]
-  },
-  {
-   "id": "d8a06eccf7",
-   "topic": "Politics",
-   "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialist\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump Imposes Harmful and Illegal Section 338 Tariffs Against Many Canadian Imports",
-   "updated": "2026-08-23T20:14:35+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Trump Imposes Harmful and Illegal Section 338 Tariffs Against Many Canadian Imports",
-     "url": "https://reason.com/volokh/2026/08/23/trump-imposes-harmful-and-illegal-section-338-tariffs-against-many-canadian-imports/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-23T20:14:35+00:00",
-     "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialist Peter Harrell explained why the then-planned Canada tariffs are illegal even if Section 338 is not defunct. Trump's tariffs don't meet various requirements for invoking the law. I expect there will be legal challenges to these tariffs, and those challenges will deserve to prevail. This is the latest o"
-    },
-    {
-     "outlet": "nyt",
-     "title": "What Canadian Goods Will Take Trump\u2019s 50% Tariffs? Some Pretty Strange Items.",
-     "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
-     "author": "Ian Austen",
-     "kind": "news",
-     "published": "2026-08-23T16:14:35+00:00",
-     "summary": "Buoys, dog muzzles, capes, national flags and \u201cbase metal statuettes\u201d from Canada are now more expensive for U.S. shoppers."
-    }
-   ]
-  },
-  {
-   "id": "0155c692a5",
-   "topic": "Culture & Sport",
-   "summary": "The sports world was rocked this past week by accusations that Major League Baseball's richest team, the Los Angeles Dodgers , were funded primarily by fraud. Those accusations were false, and based on a prolific misunderstanding of where the team gets most of its revenue, who owns the majority of the organization, as well as how much of their television income comes from cable company Spectrum. It didn't matter though, because once accusations were made, baseball fan internet, already consumed by hatred and jealousy of the Dodgers money and success, ran wild. ESPN reporter Jeff Passan was the target of a days-long harassment campaign, demanding he speak out based on fans' complete and often purposeful misunderstanding. PRIVATE EQUITY COMPANY APOLLO AGREES TO FINANCE DEAL WITH NEW YORK YANKEES ORGANIZATION FOR $2.6 BILLION But for some quick backstory, Mark Walter, the Dodgers' largest\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Los Angeles Dodgers ownership group shoots back at suggestions team is funded by fraud",
-   "updated": "2026-08-23T19:51:17+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Los Angeles Dodgers ownership group shoots back at suggestions team is funded by fraud",
-     "url": "https://www.foxnews.com/outkick-sports/los-angeles-dodgers-ownership-group-shoots-back-suggestions-team-funded-fraud",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T19:51:17+00:00",
-     "summary": "The sports world was rocked this past week by accusations that Major League Baseball's richest team, the Los Angeles Dodgers , were funded primarily by fraud. Those accusations were false, and based on a prolific misunderstanding of where the team gets most of its revenue, who owns the majority of the organization, as well as how much of their television income comes from cable company Spectrum. It didn't matter though, because once accusations were made, baseball fan internet, already consumed by hatred and jealousy of the Dodgers money and success, ran wild. ESPN reporter Jeff Passan was the target of a days-long harassment campaign, demanding he speak out based on fans' complete and often purposeful misunderstanding. PRIVATE EQUITY COMPANY APOLLO AGREES TO FINANCE DEAL WITH NEW YORK YANKEES ORGANIZATION FOR $2.6 BILLION But for some quick backstory, Mark Walter, the Dodgers' largest single owner, is currently under investigation for allegedly improperly handling of insurance company investments. Several companies used investor funds to make loans to businesses also under his control. While this is allowed by federal regulators, it's reportedly alleged that these loans far exceed"
-    },
-    {
-     "outlet": "defector",
-     "title": "Why Your Team Sucks 2026: Los Angeles Chargers",
-     "url": "https://defector.com/why-your-team-sucks-2026-los-angeles-chargers",
-     "author": "Samer Kalaf",
-     "kind": "news",
-     "published": "2026-08-21T16:27:09+00:00",
-     "summary": "Some people are fans of the Los Angeles Chargers. But many, many more people are NOT fans of the Los Angeles Chargers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far here . Your team: Los Angeles Chargers. https://twitter.com/ChargersCountry/status/2086143238252183978"
-    }
-   ]
-  },
-  {
-   "id": "5e5ebcdf01",
-   "topic": "World",
-   "summary": "President Volodymyr Zelenskyy said Ukraine played no role in the sabotage of the Nord Stream gas pipelines linking Russia to Europe, following the arrest in Croatia of a second Ukrainian suspect sought by Germany.",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Zelenskyy repeats Ukraine not behind Nord Stream attack",
-   "updated": "2026-08-23T19:50:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Zelenskyy repeats Ukraine not behind Nord Stream attack",
-     "url": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T19:50:00+00:00",
-     "summary": "Volodymyr Zelenskyy said Ukraine was assisting German authorities with their investigation into the Nord Stream explosions. A second Ukrainian national was arrested in connection with the blasts."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Zelenskyy Says Ukraine Had No Role in Nord Stream Pipeline Blast",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-23/zelenskyy-says-ukraine-had-no-role-in-nord-stream-pipeline-blast",
-     "author": "Olesia Safronova",
-     "kind": "news",
-     "published": "2026-08-23T15:30:00+00:00",
-     "summary": "President Volodymyr Zelenskyy said Ukraine played no role in the sabotage of the Nord Stream gas pipelines linking Russia to Europe, following the arrest in Croatia of a second Ukrainian suspect sought by Germany."
-    }
-   ]
-  },
-  {
-   "id": "4a50844a4a",
-   "topic": "Justice & Policing",
-   "summary": "A Texas judge has denied convicted murderer Karmelo Anthony's request for a re-trial after the release of details about the case The post Judge Denies Karmelo Anthony\u2019s Request for New Trial appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Texas judge denies Karmelo Anthony's request for new trial in deadly stabbing at track meet",
-   "updated": "2026-08-23T19:33:48+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Judge Denies Karmelo Anthony's Request for New Trial",
-     "url": "https://www.breitbart.com/sports/2026/08/23/judge-denies-karmelo-anthonys-request-new-trial/",
-     "author": "Warner Todd Huston",
-     "kind": "news",
-     "published": "2026-08-23T19:33:48+00:00",
-     "summary": "A Texas judge has denied convicted murderer Karmelo Anthony's request for a re-trial after the release of details about the case The post Judge Denies Karmelo Anthony\u2019s Request for New Trial appeared first on Breitbart ."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Texas judge denies Karmelo Anthony's request for new trial in deadly stabbing at track meet",
-     "url": "https://www.pbs.org/newshour/nation/texas-judge-denies-karmelo-anthonys-request-for-new-trial-in-deadly-stabbing-at-track-meet",
-     "author": "Jamie Stengle, Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T17:57:32+00:00",
-     "summary": "Judge Michael Chitty denied the retrial motion in a half-page order following a two-day hearing this week near Dallas, citing a review of the evidence and arguments. He did not elaborate."
-    }
-   ]
-  },
-  {
-   "id": "b5259caac1",
-   "topic": "World",
-   "summary": "Zelenskyy said that he believes actions taken by dismissed Defense Minister Mykhailo Fedorov, including his involvement in mass protests and calls for an election, were misguided, as he publicly detailed their dispute for the first time.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Zelenskyy details rift with Ukraine's dismissed defense minister Fedorov",
-   "updated": "2026-08-23T18:52:58+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Zelenskyy details rift with Ukraine's dismissed defense minister Fedorov",
-     "url": "https://www.pbs.org/newshour/world/zelenskyy-details-rift-with-ukraines-dismissed-defense-minister-fedorov",
-     "author": "Samya Kullab, Associated Press",
-     "kind": "news",
-     "published": "2026-08-23T18:52:58+00:00",
-     "summary": "Zelenskyy said that he believes actions taken by dismissed Defense Minister Mykhailo Fedorov, including his involvement in mass protests and calls for an election, were misguided, as he publicly detailed their dispute for the first time."
-    },
-    {
-     "outlet": "dw",
-     "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
-     "url": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-23T05:46:00+00:00",
-     "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. His explosive remarks have sparked widespread public debate."
     }
    ]
   }
