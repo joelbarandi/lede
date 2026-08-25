@@ -1,28 +1,193 @@
 {
- "generated": "2026-08-25T04:02:03.891967+00:00",
+ "generated": "2026-08-25T04:55:11.954868+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
+  {
+   "id": "bdd6f334a5",
+   "topic": "Politics",
+   "summary": "The Trump administration unveiled a proposal on Monday to codify an unprecedented fee of more than $100,000 for cap-subject H-1B petitions for highly skilled foreign workers, replacing a charge first imposed by presidential proclamation last year that has thus far been blocked by a federal court. The Department of Homeland Security's proposed rule would charge $103,265 as an additional fee for every H-1B petition subject to the annual statutory cap, including petitions eligible for the advanced-degree exemption. The worker visas are heavily relied on in the tech, education and research industries. The fee would be used to cover the federal government\u2019s costs of administering the legal immigration system , including actions carried out by DHS and the Department of Justice, Department of State and Department of Labor. FEDERAL JUDGE STRIKES DOWN TRUMP\u2019S $100K H-1B VISA FEE, RULING IT AN\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 9,
+    "indieCount": 5,
+    "big": [
+     "ever",
+     "admin",
+     "foreign",
+     "expected",
+     "target",
+     "many"
+    ],
+    "indie": [
+     "non-immigrant",
+     "donald",
+     "status"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
+   "updated": "2026-08-25T04:44:00+00:00",
+   "outletCount": 12,
+   "counts": {
+    "pub": 3,
+    "family": 7,
+    "nonprofit": 2,
+    "corp": 2
+   },
+   "newsCount": 13,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
+     "url": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T04:44:00+00:00",
+     "summary": "The State Department is reportedly looking to revoke the visas of up to 200,000 foreigners who sought asylum after entering on tourist or business visas, in what could be the largest mass visa revocation in US history."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Trump admin to target 200,000 foreigners in largest mass visa revocation ever: report",
+     "url": "https://nypost.com/2026/08/25/us-news/trump-admin-to-target-200000-foreigners-in-largest-mass-visa-revocation-ever-report/",
+     "author": "Victor Nava",
+     "kind": "news",
+     "published": "2026-08-25T04:36:15+00:00",
+     "summary": "The revocations will target the holders of B1 and B2 visas, issued between 2016 and 2026, who have sought or are currently seeking asylum."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Administration Aims to Revoke Visas of Foreign Citizens Applying for Asylum",
+     "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-administration-aims-to-revoke-visas-of-foreign-citizens-applying-for-asylum.html",
+     "author": "Edward Wong",
+     "kind": "news",
+     "published": "2026-08-25T03:37:32+00:00",
+     "summary": "The State Department, in a move that could affect as many as 200,000 visa holders and asylum applicants, has begun its review. Cancellations could occur in waves."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Report: 200,000 Asylum Filers Set to Lose Tourist Visas in Record Purge",
+     "url": "https://www.breitbart.com/immigration/2026/08/24/state-dept-revoke-visas-200000-asylum-filers/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-25T02:56:19+00:00",
+     "summary": "The State Department is preparing to revoke the tourist and business visas of up to 200,000 foreigners who have applied for asylum in the United States. The post Report: 200,000 Asylum Filers Set to Lose Tourist Visas in Record Purge appeared first on Breitbart ."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
+     "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-25T01:45:35+00:00",
+     "summary": "The state department will revoke B1 and B2 visas issued between 2016 and 2026, whose holders have sought or are now seeking asylum Donald Trump\u2019s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the US, marking its latest step in a sweeping immigration crackdown. A state department spokesperson said it was coordinating with the Department of Homeland Security \u201cto identify and revoke the non-immigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently\u201d. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump administration proposes six-figure price tag for new H-1B visas",
+     "url": "https://www.foxnews.com/politics/trump-administration-proposes-six-figure-price-tag-new-h-1b-visas",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T01:30:02+00:00",
+     "summary": "The Trump administration unveiled a proposal on Monday to codify an unprecedented fee of more than $100,000 for cap-subject H-1B petitions for highly skilled foreign workers, replacing a charge first imposed by presidential proclamation last year that has thus far been blocked by a federal court. The Department of Homeland Security's proposed rule would charge $103,265 as an additional fee for every H-1B petition subject to the annual statutory cap, including petitions eligible for the advanced-degree exemption. The worker visas are heavily relied on in the tech, education and research industries. The fee would be used to cover the federal government\u2019s costs of administering the legal immigration system , including actions carried out by DHS and the Department of Justice, Department of State and Department of Labor. FEDERAL JUDGE STRIKES DOWN TRUMP\u2019S $100K H-1B VISA FEE, RULING IT AN UNCONSTITUTIONAL TAX \"The proposed H\u20111B fee is intended to recover the costs incurred across the federal government to adjudicate, vet, and support lawful immigration programs that otherwise must be funded by taxpayers,\" U.S. Citizenship and Immigration Services spokesperson Zach Kahler said in a news "
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers",
+     "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T01:01:44+00:00",
+     "summary": "If the action happens, it will be the largest single mass revocation of visas in US history, AP reports."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump admin eyes historic mass visa revocation targeting up to 200K asylum seekers: report",
+     "url": "https://www.foxnews.com/politics/trump-admin-eyes-historic-mass-visa-revocation-targeting-200k-asylum-seekers",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T00:17:47+00:00",
+     "summary": "The Trump administration is reportedly preparing to revoke business and tourist visas held by as many as 200,000 foreigners who have applied for asylum in the U.S. The State Department is expected to announce the sweeping action in the coming weeks, The Associated Press reported , citing internal documents and two U.S. officials. The effort would target B1 and B2 visas issued between 2016 and 2026 to foreigners who later sought asylum. If carried out, the move would mark the largest mass visa revocation in U.S. history and could face legal challenges , according to the outlet. FOREIGN DRUNK DRIVERS COULD FACE SWIFT BOOT OUT OF COUNTRY UNDER TRUMP'S 'AMERICA FIRST' CRACKDOWN \"We are coordinating with DHS to identify and revoke the nonimmigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently,\" State Department spokesman Tommy Pigott said in a statement. Pigott did not confirm how many people could be affected, saying the revocations would occur on a \"rolling basis\" and the total remained \"dynamic,\" according to the AP. The move would not automatically lead to immediate deportations . Foreigne"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Officials Propose Charging More Than $100,000 for Skilled Worker Visas",
+     "url": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html",
+     "author": "Madeleine Ngo",
+     "kind": "news",
+     "published": "2026-08-25T00:03:11+00:00",
+     "summary": "The Trump administration has called for an overhaul of the H-1B visa program, saying it has unfairly allowed companies to sideline Americans and hire foreign workers at lower pay."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
+     "url": "https://thehill.com/homenews/administration/6048047-mass-b1-b2-visa-revocations/",
+     "author": "Ryan Mancini",
+     "kind": "news",
+     "published": "2026-08-24T22:58:28+00:00",
+     "summary": "The Trump administration is preparing to revoke business and tourism visas from up to 200,000 migrants who have applied for or are currently seeking asylum in the U.S. on a rolling basis \u2014 a move that would trigger the largest mass visa revocation ever, The Associated Press reported Monday. The State Department is expected to..."
+    },
+    {
+     "outlet": "france24",
+     "title": "Trump administration to revoke visas of foreigners seeking asylum in US, officials say",
+     "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-24T22:54:49+00:00",
+     "summary": "President Donald Trump\u2019s administration said on Monday it plans to revoke non-immigrant visas held by foreigners who applied for or are seeking asylum in the United States. The move could affect up to 200,000 people, the Associated Press reported, potentially making it the largest mass visa revocation in US history."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump administration to revoke up to 200,000 visas of asylum seekers",
+     "url": "https://www.axios.com/2026/08/24/trump-visas-asylum-seekers-revoke",
+     "author": "Rebecca Falconer",
+     "kind": "news",
+     "published": "2026-08-24T21:12:46+00:00",
+     "summary": "The Trump administration plans to revoke up to 200,000 business and tourism visas held by people who've sought asylum in the U.S., AP first reported on Monday. Why it matters: It would be the largest mass visa revocation in U.S. history and would likely trigger legal challenges. What they're saying: \"We are coordinating with DHS to identify and revoke the nonimmigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently,\" State Department spokesman Tommy Pigott told AP. He wouldn't say how many visas might be revoked, adding, \"as the process will be ongoing, the number of revocations remains dynamic and will be done on a rolling basis.\" Representatives for the State Department and the U.S. Citizenship and Immigration Services did not immediately respond to Axios' request for comment. The big picture: President Trump has made immigration enforcement a key priority during his second administration, aggressively cracking down on undocumented immigrants and revoking visas over issues ranging from pro-Palestinian activism to comments about Charlie Kirk's killing . Last year, the administration began "
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "U.S. set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+     "url": "https://www.pbs.org/newshour/politics/u-s-set-for-largest-mass-visa-revocation-in-history-targeting-up-to-200000-foreigners-officials-say",
+     "author": "Matthew Lee, Associated Press",
+     "kind": "news",
+     "published": "2026-08-24T20:59:38+00:00",
+     "summary": "The Trump administration is preparing to revoke the visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Admin Prepares To Revoke More Visas Than Ever Before",
+     "url": "https://www.dailywire.com/news/trump-admin-readies-for-largest-mass-visa-revocation-effort",
+     "author": "Jennie Taer",
+     "kind": "opinion",
+     "published": "2026-08-24T18:07:23+00:00",
+     "summary": "The Trump administration is preparing to revoke up to 200,000 visas issued to foreigners who later sought asylum in the United States, part of an effort to crack down on what officials say is abuse of the immigration system, The Associated Press reported Monday. The State Department is expected to announce the effort soon, targeting foreigners with B1 and B2 business and tourist visas issued between 2016 and 2026 who later applied for asylum, according to the AP. The administration says some foreigners are obtaining temporary visas under false pretenses and then using the asylum process to remain in the United States. \u201cWe are coordinating with DHS to identify and revoke the nonimmigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently,\u201d State Department spokesman Tommy Pigott said in a statement to the AP. Pigott did not reveal the exact number of foreigners the State Department is hoping to target, saying \u201cas the process will be ongoing, the number of revocations remains dynamic and will be done on a rolling basis.\u201d Revoking the visas would not necessarily result in immediate deportation, t"
+    }
+   ]
+  },
   {
    "id": "e97578298a",
    "topic": "Justice & Policing",
    "summary": "President Trump can implement an executive order restricting mail-in ballots just months before the midterm elections, the Supreme Court said Monday . Why it matters: It's a win for the president, who has opposed mail-in voting for years, but the legal battle is far from over, and the exact impact on November's elections is still unclear. Driving the news: The Supreme Court said in the unsigned order that states lack standing to challenge the executive order because it was an \"internal directive\" that didn't harm the states that sued. But the majority wrote that the administration was \"likely to suffer irreparable harm\" from the freeze. \"This internal directive does not regulate the States' voter registration processes,\" the court's order reads. \"Nor does it impinge on the States' authority 'to create and enforce a legal code' for elections.\" A federal appeals court previously found the\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 12,
-    "indieCount": 4,
+    "bigCount": 11,
+    "indieCount": 3,
     "big": [
-     "executive",
-     "monday",
-     "restricting",
+     "ballots",
+     "order",
+     "implement",
+     "service",
      "ballot",
-     "decision",
-     "election"
+     "postal"
     ],
-    "indie": [
-     "proceed"
-    ]
+    "indie": []
    },
    "people": [],
    "absent": [
@@ -30,15 +195,15 @@
    ],
    "headline": "Gavin Newsom says California will sue Trump administration again to block \u2018Orwellian rules\u2019 meant to curb mail-in voting \u2013 as it happened",
    "updated": "2026-08-25T01:55:36+00:00",
-   "outletCount": 14,
+   "outletCount": 12,
    "counts": {
-    "nonprofit": 3,
+    "nonprofit": 2,
     "corp": 5,
-    "family": 7,
+    "family": 6,
     "pub": 1
    },
-   "newsCount": 15,
-   "opinionCount": 1,
+   "newsCount": 14,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
@@ -132,24 +297,6 @@
      "summary": "California Attorney General Rob Bonta discusses why he canceled talks with Paramount over the company\u2019s merger with Warner Bros. Discovery. Speaking on \"Balance of Power: Evening Edition,\" Bonta also comments on the US Supreme Court siding with President Donald Trump over his plan to use the Postal Service to impose new restrictions on the distribution of mail ballots and Meta Platforms being sued by a bipartisan coalition of states on allegations of deceiving the public. (Source: Bloomberg)"
     },
     {
-     "outlet": "foxnews",
-     "title": "Trump scores Supreme Court win on mail-in voting restrictions before midterms",
-     "url": "https://www.foxnews.com/politics/trump-scores-supreme-court-win-mail-in-voting-restrictions-before-midterms",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T21:13:42+00:00",
-     "summary": "In a 6-3 decision, the Supreme Court handed the Trump administration a victory on Monday, allowing it to enforce President Donald Trump\u2019s \"election integrity\" executive order restricting mail-in voting ahead of the November midterms. The high court lifted an injunction that had blocked the order in 23 states that challenged it after the administration appealed in July. The U.S. Postal Service and Justice Department said they would immediately implement the revised mail-ballot restrictions after the ruling. Most immediately, the ruling clears the path for the U.S. Postal Service to check its distribution of mail-in ballots against a list of citizens maintained by the Department of Homeland Security. But it\u2019s also a significant political victory for the Trump administration as it has advocated against the widespread use of mail-in-voting, citing what it believes is a heightened vulnerability to tampering and voter fraud. USPS PUBLISHES RULE TO BLOCK MAIL-IN BALLOTS FROM STATES THAT DON\u2019T PROVIDE VOTER LISTS Most recently, Trump slammed what he called a suspiciously high volume of mail-in-ballots cast for Cynthia Raman in the 2026 LA mayoral race primaries. \"You know, they don\u2019t have "
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Supreme Court clears the way for Trump mail voting order ahead of midterms",
-     "url": "https://www.pbs.org/newshour/politics/supreme-court-clears-the-way-for-trump-mail-voting-order-ahead-of-midterms",
-     "author": "Lindsay Whitehurst, Associated Press",
-     "kind": "news",
-     "published": "2026-08-24T21:09:52+00:00",
-     "summary": "The U.S. Postal Service laid out how it would implement the order last week, but time is running short to impose major changes with some states beginning to send mail ballots to voters in just a few weeks."
-    },
-    {
      "outlet": "bloomberg",
      "title": "Supreme Court Sides With Trump for Now on Mail Ballot Curbs",
      "url": "https://www.bloomberg.com/news/articles/2026-08-24/supreme-court-sides-with-trump-for-now-on-his-mail-ballot-curbs",
@@ -168,15 +315,6 @@
      "summary": "Paramount insisted it has \u201cnot been the source of the leaks\u201d about confidential talks with California, which sued to block the company\u2019s merger with Warner Bros. Discovery."
     },
     {
-     "outlet": "dailywire",
-     "title": "Supreme Court Makes Decision In Mail-In Ballot Fight Ahead Of Midterms",
-     "url": "https://www.dailywire.com/news/supreme-court-makes-decision-in-mail-in-ballot-fight-ahead-of-midterms",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-24T17:08:29+00:00",
-     "summary": "The U.S. Supreme Court on Monday cleared the way for President Donald Trump to begin enforcing parts of an executive order aimed at restricting mail-in voting ahead of the midterm elections. In an unsigned order , a majority of the justices agreed to pause a lower-court ruling by U.S. District Judge Indira Talwani in Boston that blocked the Trump administration from carrying out portions of a March executive action. Monday\u2019s order allows the Department of Homeland Security to move forward with creating and distributing \u201cState Citizenship Lists\u201d cataloging adult U.S. citizens in each state ahead of federal elections. Monday\u2019s decision is an interim victory for Trump but does not resolve the order\u2019s underlying legality, CNBC reported. The Supreme Court found that the Trump administration was likely to prevail on its argument that the district court lacked jurisdiction to block the order, concluding that the states challenging it had not shown the concrete and imminent injuries required to bring their claims at this stage. \u201cThe Court\u2019s disposition of this application does not mean that any measure taken by the Government to implement the Order will necessarily be lawful. On that score"
-    },
-    {
      "outlet": "calmatters",
      "title": "The Trump administration upended how the West fights wildfires. California is bracing too",
      "url": "https://calmatters.org/environment/wildfires/2026/08/trump-wildfire-wildland-firefighting-federal-california/",
@@ -184,6 +322,15 @@
      "kind": "news",
      "published": "2026-08-24T12:00:00+00:00",
      "summary": "Four firefighters , two helicopter pilots and a contractor bulldozing a fireline have died in Colorado, Utah and Oregon this year. Fast-moving fires have burned millions of acres and destroyed hundreds of homes and buildings in the West. California, which is having an unusually quiet fire summer , has deployed engines and crews to fight fires raging in Colorado and the Pacific Northwest \u2014 but even this well-resourced state continues to feel vulnerable. The U.S. has been at Preparedness Level 5 since July 18, a status that means the federal government is committing the highest possible level of crews, aircraft and firefighting resources to wildfires across the country. And yet requests for help or equipment are going unanswered. How we collaborated on this story Rachel Becker from CalMatters reported with Amy Alonzo, of The Nevada Independent; Robert Chaney, of Montana Free Press/Mountain Journal; Mike Koshmrl, of WyoFile; Brooke Larsen, of The Salt Lake Tribune; Joseph T. O\u2019Connor, of Montana Free Press/Mountain Journal; and Olivia Prentzel, of The Colorado Sun. This dangerous fire season hit as the Trump administration has reshaped how America fights wildfire \u2014 consolidating crews"
+    },
+    {
+     "outlet": "time",
+     "title": "The Supreme Court Let Trump\u2019s Ballroom Proceed\u2014for Now. Here\u2019s What That Means",
+     "url": "https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-23T14:35:20+00:00",
+     "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust for Historic Preservation, which argues that a President cannot unilaterally make a major, permanent change to federally owned property when Congress has not authorized it, pointing toward the Property Clause of the Constitution. \u201cWe reiterated that the Administration has no unilateral legal authority\u2014"
     }
    ]
   },
@@ -196,12 +343,12 @@
     "bigCount": 6,
     "indieCount": 6,
     "big": [
-     "doug",
      "ford",
+     "doug",
      "threatened",
-     "ontario",
+     "insults",
      "trades",
-     "insults"
+     "ontario"
     ],
     "indie": [
      "collapse",
@@ -338,55 +485,48 @@
    ]
   },
   {
-   "id": "d82a06973a",
+   "id": "0a44ecf8e5",
    "topic": "World",
    "summary": "The tariff war between the US and Canada has started back up. David Ryder/Bloomberg via Getty Images The US-Canada tariff war has flared up again, with Trump imposing a fresh set of 50% levies. Goods like alcohol and plywood are affected, but US employment likely won't be hit too hard. Canadian employment could take a hit, and tariffs will affect businesses caught in the back-and-forth. It's tariff time in America and Canada \u2014 again. On Saturday, after trade talks between Canada and the US collapsed, the Trump administration imposed 50% tariffs on a slew of Canadian items , including alcohol and hockey equipment. Canadian Prime Minister Mark Carney has already announced a dollar-for-dollar counter-tariff, marking yet another bumpy moment in tensions between the two formerly friendly neighbors. The specificity of the tariffs means that different sectors of the economy \u2014 and your everyday\u2026",
    "summaryFrom": "businessinsider",
    "emphasis": {
-    "bigCount": 9,
-    "indieCount": 6,
+    "bigCount": 8,
+    "indieCount": 5,
     "big": [
-     "president",
-     "saturday",
-     "steel",
-     "exports",
-     "failed",
-     "post"
+     "businesses",
+     "saturday"
     ],
-    "indie": [
-     "products",
-     "worth"
-    ]
+    "indie": []
    },
    "people": [],
    "absent": [
     "coop"
    ],
-   "headline": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
-   "updated": "2026-08-25T03:57:01+00:00",
-   "outletCount": 11,
+   "headline": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+   "updated": "2026-08-25T04:48:50+00:00",
+   "outletCount": 10,
    "counts": {
     "family": 5,
     "pub": 2,
-    "corp": 4,
-    "nonprofit": 4
+    "corp": 3,
+    "nonprofit": 3
    },
-   "newsCount": 15,
+   "newsCount": 13,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
      "outlet": "nyt",
-     "title": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
-     "url": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html",
-     "author": "Ana Swanson and Tony Romm",
+     "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+     "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+     "author": "Matina Stevis-Gridneff and Ana Swanson",
      "kind": "news",
-     "published": "2026-08-25T03:57:01+00:00",
-     "summary": "Trade tensions between the United States and Canada have spiraled over the past few days, after the two sides failed to reach a trade deal and President Trump imposed 50 percent tariffs on $20 billion of the country\u2019s exports on Saturday."
+     "published": "2026-08-25T04:48:50+00:00",
+     "summary": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable."
     },
     {
      "outlet": "bbc",
-     "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+     "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
@@ -410,15 +550,6 @@
      "kind": "news",
      "published": "2026-08-25T00:49:47+00:00",
      "summary": "The announcement comes days after trade negotiations broke down between the U.S. and Canada."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Trump announces 50% tariffs on Canadian automotive and steel imports",
-     "url": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T00:17:35+00:00",
-     "summary": "President Trump said tariffs on Canadian automotive and steel imports will rise to 50% on Jan. 1, 2027, in a social media post."
     },
     {
      "outlet": "bloomberg",
@@ -500,155 +631,6 @@
      "kind": "news",
      "published": "2026-08-22T20:02:46+00:00",
      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
-    },
-    {
-     "outlet": "npr",
-     "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
-     "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-     "author": "Miguel Macias",
-     "kind": "news",
-     "published": "2026-08-22T04:36:27+00:00",
-     "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8. (Image credit: Graham Hughes)"
-    }
-   ]
-  },
-  {
-   "id": "3b63ee9c7a",
-   "topic": "Politics",
-   "summary": "The Trump administration unveiled a proposal on Monday to codify an unprecedented fee of more than $100,000 for cap-subject H-1B petitions for highly skilled foreign workers, replacing a charge first imposed by presidential proclamation last year that has thus far been blocked by a federal court. The Department of Homeland Security's proposed rule would charge $103,265 as an additional fee for every H-1B petition subject to the annual statutory cap, including petitions eligible for the advanced-degree exemption. The worker visas are heavily relied on in the tech, education and research industries. The fee would be used to cover the federal government\u2019s costs of administering the legal immigration system , including actions carried out by DHS and the Department of Justice, Department of State and Department of Labor. FEDERAL JUDGE STRIKES DOWN TRUMP\u2019S $100K H-1B VISA FEE, RULING IT AN\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 4,
-    "big": [
-     "business",
-     "foreign",
-     "expected",
-     "many",
-     "skilled",
-     "workers"
-    ],
-    "indie": [
-     "status",
-     "non-immigrant",
-     "donald"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Trump administration plans to revoke 200,000 visas of asylum seekers",
-   "updated": "2026-08-25T03:37:32+00:00",
-   "outletCount": 9,
-   "counts": {
-    "family": 5,
-    "nonprofit": 2,
-    "pub": 2,
-    "corp": 2
-   },
-   "newsCount": 10,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Trump Administration Aims to Revoke Visas of Foreign Citizens Applying for Asylum",
-     "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-administration-aims-to-revoke-visas-of-foreign-citizens-applying-for-asylum.html",
-     "author": "Edward Wong",
-     "kind": "news",
-     "published": "2026-08-25T03:37:32+00:00",
-     "summary": "The State Department, in a move that could affect as many as 200,000 visa holders and asylum applicants, has begun its review. Cancellations could occur in waves."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
-     "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-25T01:45:35+00:00",
-     "summary": "The state department will revoke B1 and B2 visas issued between 2016 and 2026, whose holders have sought or are now seeking asylum Donald Trump\u2019s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the US, marking its latest step in a sweeping immigration crackdown. A state department spokesperson said it was coordinating with the Department of Homeland Security \u201cto identify and revoke the non-immigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently\u201d. Continue reading..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump administration proposes six-figure price tag for new H-1B visas",
-     "url": "https://www.foxnews.com/politics/trump-administration-proposes-six-figure-price-tag-new-h-1b-visas",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T01:30:02+00:00",
-     "summary": "The Trump administration unveiled a proposal on Monday to codify an unprecedented fee of more than $100,000 for cap-subject H-1B petitions for highly skilled foreign workers, replacing a charge first imposed by presidential proclamation last year that has thus far been blocked by a federal court. The Department of Homeland Security's proposed rule would charge $103,265 as an additional fee for every H-1B petition subject to the annual statutory cap, including petitions eligible for the advanced-degree exemption. The worker visas are heavily relied on in the tech, education and research industries. The fee would be used to cover the federal government\u2019s costs of administering the legal immigration system , including actions carried out by DHS and the Department of Justice, Department of State and Department of Labor. FEDERAL JUDGE STRIKES DOWN TRUMP\u2019S $100K H-1B VISA FEE, RULING IT AN UNCONSTITUTIONAL TAX \"The proposed H\u20111B fee is intended to recover the costs incurred across the federal government to adjudicate, vet, and support lawful immigration programs that otherwise must be funded by taxpayers,\" U.S. Citizenship and Immigration Services spokesperson Zach Kahler said in a news "
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers",
-     "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T01:01:44+00:00",
-     "summary": "If the action happens, it will be the largest single mass revocation of visas in US history, AP reports."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump admin eyes historic mass visa revocation targeting up to 200K asylum seekers: report",
-     "url": "https://www.foxnews.com/politics/trump-admin-eyes-historic-mass-visa-revocation-targeting-200k-asylum-seekers",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T00:17:47+00:00",
-     "summary": "The Trump administration is reportedly preparing to revoke business and tourist visas held by as many as 200,000 foreigners who have applied for asylum in the U.S. The State Department is expected to announce the sweeping action in the coming weeks, The Associated Press reported , citing internal documents and two U.S. officials. The effort would target B1 and B2 visas issued between 2016 and 2026 to foreigners who later sought asylum. If carried out, the move would mark the largest mass visa revocation in U.S. history and could face legal challenges , according to the outlet. FOREIGN DRUNK DRIVERS COULD FACE SWIFT BOOT OUT OF COUNTRY UNDER TRUMP'S 'AMERICA FIRST' CRACKDOWN \"We are coordinating with DHS to identify and revoke the nonimmigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently,\" State Department spokesman Tommy Pigott said in a statement. Pigott did not confirm how many people could be affected, saying the revocations would occur on a \"rolling basis\" and the total remained \"dynamic,\" according to the AP. The move would not automatically lead to immediate deportations . Foreigne"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Officials Propose Charging More Than $100,000 for Skilled Worker Visas",
-     "url": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html",
-     "author": "Madeleine Ngo",
-     "kind": "news",
-     "published": "2026-08-25T00:03:11+00:00",
-     "summary": "The Trump administration has called for an overhaul of the H-1B visa program, saying it has unfairly allowed companies to sideline Americans and hire foreign workers at lower pay."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
-     "url": "https://thehill.com/homenews/administration/6048047-mass-b1-b2-visa-revocations/",
-     "author": "Ryan Mancini",
-     "kind": "news",
-     "published": "2026-08-24T22:58:28+00:00",
-     "summary": "The Trump administration is preparing to revoke business and tourism visas from up to 200,000 migrants who have applied for or are currently seeking asylum in the U.S. on a rolling basis \u2014 a move that would trigger the largest mass visa revocation ever, The Associated Press reported Monday. The State Department is expected to..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Trump administration to revoke visas of foreigners seeking asylum in US, officials say",
-     "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-24T22:54:49+00:00",
-     "summary": "President Donald Trump\u2019s administration said on Monday it plans to revoke non-immigrant visas held by foreigners who applied for or are seeking asylum in the United States. The move could affect up to 200,000 people, the Associated Press reported, potentially making it the largest mass visa revocation in US history."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump administration to revoke up to 200,000 visas of asylum seekers",
-     "url": "https://www.axios.com/2026/08/24/trump-visas-asylum-seekers-revoke",
-     "author": "Rebecca Falconer",
-     "kind": "news",
-     "published": "2026-08-24T21:12:46+00:00",
-     "summary": "The Trump administration plans to revoke up to 200,000 business and tourism visas held by people who've sought asylum in the U.S., AP first reported on Monday. Why it matters: It would be the largest mass visa revocation in U.S. history and would likely trigger legal challenges. What they're saying: \"We are coordinating with DHS to identify and revoke the nonimmigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently,\" State Department spokesman Tommy Pigott told AP. He wouldn't say how many visas might be revoked, adding, \"as the process will be ongoing, the number of revocations remains dynamic and will be done on a rolling basis.\" Representatives for the State Department and the U.S. Citizenship and Immigration Services did not immediately respond to Axios' request for comment. The big picture: President Trump has made immigration enforcement a key priority during his second administration, aggressively cracking down on undocumented immigrants and revoking visas over issues ranging from pro-Palestinian activism to comments about Charlie Kirk's killing . Last year, the administration began "
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "U.S. set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
-     "url": "https://www.pbs.org/newshour/politics/u-s-set-for-largest-mass-visa-revocation-in-history-targeting-up-to-200000-foreigners-officials-say",
-     "author": "Matthew Lee, Associated Press",
-     "kind": "news",
-     "published": "2026-08-24T20:59:38+00:00",
-     "summary": "The Trump administration is preparing to revoke the visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Admin Prepares To Revoke More Visas Than Ever Before",
-     "url": "https://www.dailywire.com/news/trump-admin-readies-for-largest-mass-visa-revocation-effort",
-     "author": "Jennie Taer",
-     "kind": "opinion",
-     "published": "2026-08-24T18:07:23+00:00",
-     "summary": "The Trump administration is preparing to revoke up to 200,000 visas issued to foreigners who later sought asylum in the United States, part of an effort to crack down on what officials say is abuse of the immigration system, The Associated Press reported Monday. The State Department is expected to announce the effort soon, targeting foreigners with B1 and B2 business and tourist visas issued between 2016 and 2026 who later applied for asylum, according to the AP. The administration says some foreigners are obtaining temporary visas under false pretenses and then using the asylum process to remain in the United States. \u201cWe are coordinating with DHS to identify and revoke the nonimmigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently,\u201d State Department spokesman Tommy Pigott said in a statement to the AP. Pigott did not reveal the exact number of foreigners the State Department is hoping to target, saying \u201cas the process will be ongoing, the number of revocations remains dynamic and will be done on a rolling basis.\u201d Revoking the visas would not necessarily result in immediate deportation, t"
     }
    ]
   },
@@ -659,13 +641,13 @@
    "summaryFrom": "reason",
    "emphasis": {
     "bigCount": 6,
-    "indieCount": 3,
+    "indieCount": 4,
     "big": [
-     "allowed",
-     "getty",
+     "election",
+     "donald",
+     "allowing",
+     "images",
      "jackson",
-     "power",
-     "proceed",
      "brown"
     ],
     "indie": [
@@ -679,14 +661,14 @@
    ],
    "headline": "How Long Did Justice Jackson's \"Kafkaesque Nightmare\" Dissent Hold Up Trump v. California?",
    "updated": "2026-08-25T02:01:08+00:00",
-   "outletCount": 9,
+   "outletCount": 10,
    "counts": {
-    "nonprofit": 3,
+    "nonprofit": 4,
     "corp": 4,
     "family": 2
    },
    "newsCount": 8,
-   "opinionCount": 1,
+   "opinionCount": 2,
    "underreported": false,
    "articles": [
     {
@@ -744,13 +726,22 @@
      "summary": "The Supreme Court on Monday temporarily handed President Trump a key victory in his crusade to restrict mail-in voting. The unsigned opinion by the court\u2019s conservative majority, issued over dissents from the three Democratic appointees, said it was too soon for states to challenge Trump\u2019s executive order from March 2026 severely restricting mail-in voting because they had not shown how they would be harmed by it. \u201cThis ruling violates well-established precedents concerning this Court\u2019s equitable discretion and needlessly injects chaos and uncertainty into the upcoming midterm elections,\u201d Justice Ketanji Brown Jackson wrote in dissent. \u201cIt also lets another shoe drop in the Kafkaesque nightmare that our precedents have been steadily creating for certain plaintiffs who seek to bring election-related challenges. The Court has held for a while now that even valid election-related legal claims can come too late. Today\u2019s revelation is that such claims can also come too early\u2014never mind that an election is looming and related harms are presently occurring. Never mind, too, that the Government (which controls the timing of proposed and final rules) can easily game the system.\u201d While not a"
     },
     {
-     "outlet": "nyt",
-     "title": "Justices Allow Plans to Restrict Mail Voting, for Now",
-     "url": "https://www.nytimes.com/2026/08/24/briefing/supreme-court-mail-voting-restrictions.html",
-     "author": "Matthew Cullen",
+     "outlet": "foxnews",
+     "title": "Trump scores Supreme Court win on mail-in voting restrictions before midterms",
+     "url": "https://www.foxnews.com/politics/trump-scores-supreme-court-win-mail-in-voting-restrictions-before-midterms",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-24T21:53:34+00:00",
-     "summary": "Also, the college admissions process is shifting once again. Here\u2019s the latest at the end of Monday."
+     "published": "2026-08-24T21:13:42+00:00",
+     "summary": "In a 6-3 decision, the Supreme Court handed the Trump administration a victory on Monday, allowing it to enforce President Donald Trump\u2019s \"election integrity\" executive order restricting mail-in voting ahead of the November midterms. The high court lifted an injunction that had blocked the order in 23 states that challenged it after the administration appealed in July. The U.S. Postal Service and Justice Department said they would immediately implement the revised mail-ballot restrictions after the ruling. Most immediately, the ruling clears the path for the U.S. Postal Service to check its distribution of mail-in ballots against a list of citizens maintained by the Department of Homeland Security. But it\u2019s also a significant political victory for the Trump administration as it has advocated against the widespread use of mail-in-voting, citing what it believes is a heightened vulnerability to tampering and voter fraud. USPS PUBLISHES RULE TO BLOCK MAIL-IN BALLOTS FROM STATES THAT DON\u2019T PROVIDE VOTER LISTS Most recently, Trump slammed what he called a suspiciously high volume of mail-in-ballots cast for Cynthia Raman in the 2026 LA mayoral race primaries. \"You know, they don\u2019t have "
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Supreme Court clears the way for Trump mail voting order ahead of midterms",
+     "url": "https://www.pbs.org/newshour/politics/supreme-court-clears-the-way-for-trump-mail-voting-order-ahead-of-midterms",
+     "author": "Lindsay Whitehurst, Associated Press",
+     "kind": "news",
+     "published": "2026-08-24T21:09:52+00:00",
+     "summary": "The U.S. Postal Service laid out how it would implement the order last week, but time is running short to impose major changes with some states beginning to send mail ballots to voters in just a few weeks."
     },
     {
      "outlet": "npr",
@@ -762,146 +753,36 @@
      "summary": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide. (Image credit: Alex Wong)"
     },
     {
-     "outlet": "time",
-     "title": "The Supreme Court Let Trump\u2019s Ballroom Proceed\u2014for Now. Here\u2019s What That Means",
-     "url": "https://time.com/article/2026/08/23/the-supreme-court-let-trumps-ballroom-proceed-for-now-heres-what-that-means/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-23T14:35:20+00:00",
-     "summary": "Artist renderings relating to White House Ballroom construction, contained in a filing by the Trump Administration to the U.S. Supreme Court, are shown on Aug. 14, 2026. \u2014Jon Elswick\u2014AP The U.S. Supreme Court has allowed President Donald Trump to continue construction on a new White House ballroom with a temporary stay issued Friday\u2014just before the aboveground portion of the project was about to be halted. Chief Justice John Roberts, in a one-sentence order , stayed a federal district court judge\u2019s injunction that barred further development. The move gives the full Supreme Court more time to consider the Trump Administration\u2019s request to keep the injunction on hold while it seeks further review. However, there is no established timeline for when Roberts or the Court might take further action. The ruling comes after months of debate over a legal challenge brought by the National Trust for Historic Preservation, which argues that a President cannot unilaterally make a major, permanent change to federally owned property when Congress has not authorized it, pointing toward the Property Clause of the Constitution. \u201cWe reiterated that the Administration has no unilateral legal authority\u2014"
-    }
-   ]
-  },
-  {
-   "id": "13e95f3759",
-   "topic": "Climate & Energy",
-   "summary": "Local residents look over a fence at the Hawk fire burning in Reno, Nevada, on August 23, 2026. \u2014Trevor Bexon\u2014Getty Images The ongoing \u201cHawk\u201d fire outside the city of Reno, Nevada, has prompted the evacuation of tens of thousands of people in yet another devastating blaze contributing to one of the worst U.S. wildfire seasons in recent history. Roughly 42,000 people have been evacuated around Reno, while an additional 45,000 were warned that they may also have to flee. The evacuation is among the largest prompted by a U.S. wildfire this year, following the fires around Spokane, Washington, in early August during which roughly 60,000 people were evacuated. The Reno evacuations mark another flashpoint of a record-breaking fire season. The fire is dwarfed in acreage by larger blazes from this year, at roughly 15,000 acres burned so far, but its direct effect on civilians is one of the\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 5,
-    "big": [
-     "evacuated"
-    ],
-    "indie": [
-     "wind-driven",
-     "monday",
-     "orders",
-     "order",
-     "evacuations"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
-   "updated": "2026-08-25T03:41:38+00:00",
-   "outletCount": 8,
-   "counts": {
-    "family": 2,
-    "pub": 3,
-    "nonprofit": 2,
-    "corp": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
-     "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
-     "author": "Christina Morales and Alex Hoeft",
-     "kind": "news",
-     "published": "2026-08-25T03:41:38+00:00",
-     "summary": "The Hawk fire has burned more than 15,000 acres since it began on Saturday in the foothills of the Sierra Nevada near Reno."
-    },
-    {
-     "outlet": "france24",
-     "title": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
-     "url": "https://www.france24.com/en/americas/20260825-nevada-wildfire-reno-evacuations",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-25T02:45:28+00:00",
-     "summary": "Tens of thousands of people faced another night away from home on Monday as a wind-driven wildfire threatened Reno, Nevada, blanketing the city in smoke and closing schools. About 24,000 people remained under evacuation orders, down from more than 40,000 at the peak, while tens of thousands more were on alert."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
-     "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
-     "author": "Edward Helmore, Dani Anguiano , Cecilia Nowell and agencies",
-     "kind": "news",
-     "published": "2026-08-25T01:28:27+00:00",
-     "summary": "Tens of thousands are still under evacuation orders or warnings amid \u2018human-caused\u2019, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving , wind-driven wildfire sparked near Reno, Nevada . Authorities added that 23,000 people are under a \u201cgo-now\u201d order and 40,000 people are under a \u201cget-set\u201d warning, an improvement from the 90,000 Nevadans under evacuation orders or warnings on Monday morning. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Fast-moving wildfire forces thousands to evacuate near Reno, Nevada",
-     "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T01:06:18+00:00",
-     "summary": "Firefighters are still working to contain the blaze, which has burned 15,000 acres and injured seven people, officials say."
-    },
-    {
-     "outlet": "time",
-     "title": "Tens of Thousands of Nevadans Evacuated in Latest Wildfire of Record-Breaking Year",
-     "url": "https://time.com/article/2026/08/24/reno-nevada-hawk-fire-evacuations/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-24T23:01:47+00:00",
-     "summary": "Local residents look over a fence at the Hawk fire burning in Reno, Nevada, on August 23, 2026. \u2014Trevor Bexon\u2014Getty Images The ongoing \u201cHawk\u201d fire outside the city of Reno, Nevada, has prompted the evacuation of tens of thousands of people in yet another devastating blaze contributing to one of the worst U.S. wildfire seasons in recent history. Roughly 42,000 people have been evacuated around Reno, while an additional 45,000 were warned that they may also have to flee. The evacuation is among the largest prompted by a U.S. wildfire this year, following the fires around Spokane, Washington, in early August during which roughly 60,000 people were evacuated. The Reno evacuations mark another flashpoint of a record-breaking fire season. The fire is dwarfed in acreage by larger blazes from this year, at roughly 15,000 acres burned so far, but its direct effect on civilians is one of the largest in recent years, and demonstrates the potential risk that worsening wildfires may have on people and their communities in years to come. Here\u2019s how fires around the U.S. have set new records, and why they have been so bad this year. More acres burned and more entrapments Compared to the past 10 y"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Ten of thousands evacuated from Nevada wildfire",
-     "url": "https://www.nbcnews.com/nightly-news/video/ten-of-thousands-evacuated-from-nevada-wildfire-268795973727",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T22:46:10+00:00",
-     "summary": "In Reno, Nevada, the Hawk Fire, officials say, has destroyed dozens of homes and forced 45,000 people to evacuate. The fire is said to be human caused, but still under investigation, if that act was intentional. NBC News\u2019 Steve Patterson reports from Reno."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "News Wrap: Wildfire forces evacuations near Reno",
-     "url": "https://www.pbs.org/newshour/show/news-wrap-wildfire-forces-evacuations-near-reno",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T22:40:47+00:00",
-     "summary": "In our news wrap Monday, tens of thousands have been urged to evacuate amid a wildfire near Reno, Nevada, the Supreme Court cleared the way for President Trump to move ahead with his executive order restricting mail-in voting and the Pentagon says it struck a boat in the eastern Pacific, killing two people it accused of trafficking drugs."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
-     "url": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T05:18:00+00:00",
-     "summary": "A wind-driven wildfire has forced roughly 42,000 people to evacuate and destroyed homes as fire crews continue to battle extreme conditions."
+     "outlet": "dailywire",
+     "title": "Supreme Court Makes Decision In Mail-In Ballot Fight Ahead Of Midterms",
+     "url": "https://www.dailywire.com/news/supreme-court-makes-decision-in-mail-in-ballot-fight-ahead-of-midterms",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-24T17:08:29+00:00",
+     "summary": "The U.S. Supreme Court on Monday cleared the way for President Donald Trump to begin enforcing parts of an executive order aimed at restricting mail-in voting ahead of the midterm elections. In an unsigned order , a majority of the justices agreed to pause a lower-court ruling by U.S. District Judge Indira Talwani in Boston that blocked the Trump administration from carrying out portions of a March executive action. Monday\u2019s order allows the Department of Homeland Security to move forward with creating and distributing \u201cState Citizenship Lists\u201d cataloging adult U.S. citizens in each state ahead of federal elections. Monday\u2019s decision is an interim victory for Trump but does not resolve the order\u2019s underlying legality, CNBC reported. The Supreme Court found that the Trump administration was likely to prevail on its argument that the district court lacked jurisdiction to block the order, concluding that the states challenging it had not shown the concrete and imminent injuries required to bring their claims at this stage. \u201cThe Court\u2019s disposition of this application does not mean that any measure taken by the Government to implement the Order will necessarily be lawful. On that score"
     }
    ]
   },
   {
    "id": "f161880b92",
-   "topic": "Business & Economy",
+   "topic": "Politics",
    "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialists\u2026",
    "summaryFrom": "reason",
    "emphasis": {
     "bigCount": 5,
     "indieCount": 3,
     "big": [
+     "post",
      "prime",
-     "carney",
      "minister",
-     "united",
-     "states",
-     "percent"
+     "carney",
+     "media",
+     "social"
     ],
     "indie": [
      "neighbors",
-     "other",
-     "goods"
+     "goods",
+     "other"
     ]
    },
    "people": [],
@@ -909,12 +790,12 @@
     "coop"
    ],
    "headline": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-   "updated": "2026-08-25T00:33:34+00:00",
+   "updated": "2026-08-25T00:17:35+00:00",
    "outletCount": 8,
    "counts": {
-    "family": 4,
+    "corp": 2,
+    "family": 3,
     "nonprofit": 2,
-    "corp": 1,
     "pub": 1
    },
    "newsCount": 7,
@@ -922,13 +803,13 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
-     "url": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
-     "author": "Ian Austen",
+     "outlet": "cbsnews",
+     "title": "Trump announces 50% tariffs on Canadian automotive and steel imports",
+     "url": "https://www.cbsnews.com/news/trump-canadian-automotive-steel-tariffs/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-25T00:33:34+00:00",
-     "summary": "The 50 percent tariffs President Trump imposed on Canadian exports to the United States will make it impossible for many Canadian companies to continue to sell to the U.S. market, economists say."
+     "published": "2026-08-25T00:17:35+00:00",
+     "summary": "President Trump said tariffs on Canadian automotive and steel imports will rise to 50% on Jan. 1, 2027, in a social media post."
     },
     {
      "outlet": "semafor",
@@ -1093,6 +974,213 @@
    ]
   },
   {
+   "id": "13e95f3759",
+   "topic": "Climate & Energy",
+   "summary": "Local residents look over a fence at the Hawk fire burning in Reno, Nevada, on August 23, 2026. \u2014Trevor Bexon\u2014Getty Images The ongoing \u201cHawk\u201d fire outside the city of Reno, Nevada, has prompted the evacuation of tens of thousands of people in yet another devastating blaze contributing to one of the worst U.S. wildfire seasons in recent history. Roughly 42,000 people have been evacuated around Reno, while an additional 45,000 were warned that they may also have to flee. The evacuation is among the largest prompted by a U.S. wildfire this year, following the fires around Spokane, Washington, in early August during which roughly 60,000 people were evacuated. The Reno evacuations mark another flashpoint of a record-breaking fire season. The fire is dwarfed in acreage by larger blazes from this year, at roughly 15,000 acres burned so far, but its direct effect on civilians is one of the\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 5,
+    "big": [
+     "evacuated"
+    ],
+    "indie": [
+     "forces",
+     "near",
+     "monday",
+     "wind-driven",
+     "orders",
+     "order"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
+   "updated": "2026-08-25T02:45:28+00:00",
+   "outletCount": 7,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 2,
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
+     "url": "https://www.france24.com/en/americas/20260825-nevada-wildfire-reno-evacuations",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-25T02:45:28+00:00",
+     "summary": "Tens of thousands of people faced another night away from home on Monday as a wind-driven wildfire threatened Reno, Nevada, blanketing the city in smoke and closing schools. About 24,000 people remained under evacuation orders, down from more than 40,000 at the peak, while tens of thousands more were on alert."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+     "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+     "author": "Edward Helmore, Dani Anguiano , Cecilia Nowell and agencies",
+     "kind": "news",
+     "published": "2026-08-25T01:28:27+00:00",
+     "summary": "Tens of thousands are still under evacuation orders or warnings amid \u2018human-caused\u2019, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving , wind-driven wildfire sparked near Reno, Nevada . Authorities added that 23,000 people are under a \u201cgo-now\u201d order and 40,000 people are under a \u201cget-set\u201d warning, an improvement from the 90,000 Nevadans under evacuation orders or warnings on Monday morning. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Fast-moving wildfire forces thousands to evacuate near Reno, Nevada",
+     "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T01:06:18+00:00",
+     "summary": "Firefighters are still working to contain the blaze, which has burned 15,000 acres and injured seven people, officials say."
+    },
+    {
+     "outlet": "time",
+     "title": "Tens of Thousands of Nevadans Evacuated in Latest Wildfire of Record-Breaking Year",
+     "url": "https://time.com/article/2026/08/24/reno-nevada-hawk-fire-evacuations/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-24T23:01:47+00:00",
+     "summary": "Local residents look over a fence at the Hawk fire burning in Reno, Nevada, on August 23, 2026. \u2014Trevor Bexon\u2014Getty Images The ongoing \u201cHawk\u201d fire outside the city of Reno, Nevada, has prompted the evacuation of tens of thousands of people in yet another devastating blaze contributing to one of the worst U.S. wildfire seasons in recent history. Roughly 42,000 people have been evacuated around Reno, while an additional 45,000 were warned that they may also have to flee. The evacuation is among the largest prompted by a U.S. wildfire this year, following the fires around Spokane, Washington, in early August during which roughly 60,000 people were evacuated. The Reno evacuations mark another flashpoint of a record-breaking fire season. The fire is dwarfed in acreage by larger blazes from this year, at roughly 15,000 acres burned so far, but its direct effect on civilians is one of the largest in recent years, and demonstrates the potential risk that worsening wildfires may have on people and their communities in years to come. Here\u2019s how fires around the U.S. have set new records, and why they have been so bad this year. More acres burned and more entrapments Compared to the past 10 y"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Ten of thousands evacuated from Nevada wildfire",
+     "url": "https://www.nbcnews.com/nightly-news/video/ten-of-thousands-evacuated-from-nevada-wildfire-268795973727",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T22:46:10+00:00",
+     "summary": "In Reno, Nevada, the Hawk Fire, officials say, has destroyed dozens of homes and forced 45,000 people to evacuate. The fire is said to be human caused, but still under investigation, if that act was intentional. NBC News\u2019 Steve Patterson reports from Reno."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "News Wrap: Wildfire forces evacuations near Reno",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-wildfire-forces-evacuations-near-reno",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T22:40:47+00:00",
+     "summary": "In our news wrap Monday, tens of thousands have been urged to evacuate amid a wildfire near Reno, Nevada, the Supreme Court cleared the way for President Trump to move ahead with his executive order restricting mail-in voting and the Pentagon says it struck a boat in the eastern Pacific, killing two people it accused of trafficking drugs."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
+     "url": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T05:18:00+00:00",
+     "summary": "A wind-driven wildfire has forced roughly 42,000 people to evacuate and destroyed homes as fire crews continue to battle extreme conditions."
+    }
+   ]
+  },
+  {
+   "id": "62b74e123d",
+   "topic": "Justice & Policing",
+   "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255). While failures by people, medical professionals and systems around Lindsay Clancy deserve scrutiny, nothing should erase a parent\u2019s responsibility for killing a child, according to a veteran prosecutor who said he's concerned that public support for the Massachusetts mom is overshadowing the killing of her three young children. Clancy is accused of killing her three young children \u2014 Cora, 5, Dawson, 3, and Callan, 8 months \u2014 and trying to end her own life by dropping from a second-floor window after sending her husband to pick up takeout and something from a pharmacy, according to the Plymouth County District Attorney's Office. But as the case has drawn national attention, Clancy has also attracted supporters both online and in-person at the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [
+     "mistrial",
+     "judge",
+     "defense",
+     "witness",
+     "killing",
+     "denies"
+    ],
+    "indie": [
+     "heilbrun",
+     "psychologist",
+     "kirk",
+     "forensic"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating",
+   "updated": "2026-08-25T04:00:25+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 3,
+    "corp": 2,
+    "nonprofit": 2
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Lindsay Clancy trial: Postpartum is real, but child killing demands accountability, veteran prosecutor says",
+     "url": "https://www.foxnews.com/us/lindsay-clancy-trial-postpartum-real-child-killing-demands-accountability-veteran-prosecutor-says",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T04:00:25+00:00",
+     "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255). While failures by people, medical professionals and systems around Lindsay Clancy deserve scrutiny, nothing should erase a parent\u2019s responsibility for killing a child, according to a veteran prosecutor who said he's concerned that public support for the Massachusetts mom is overshadowing the killing of her three young children. Clancy is accused of killing her three young children \u2014 Cora, 5, Dawson, 3, and Callan, 8 months \u2014 and trying to end her own life by dropping from a second-floor window after sending her husband to pick up takeout and something from a pharmacy, according to the Plymouth County District Attorney's Office. But as the case has drawn national attention, Clancy has also attracted supporters both online and in-person at the courthouse, and experts have warned that that support has taken attention away from the victims. LINDSAY CLANCY'S THREE CHILD VICTIMS FORGOTTEN AMID CROWDS OF SUPPORT: MOTHER OF SIX \"Nobody who murders children is a victim no matter what they\u2019re suffering through,\" said Jonathan Hatami, a veteran child abus"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Lindsay Clancy trial judge denies mistrial request, reprimands prosecution",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-19-rebuttal/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T03:30:20+00:00",
+     "summary": "Lindsay Clancy trial testimony ended abruptly Monday in Plymouth Superior Court when a witness began speaking about religion and the defense unsuccessfully called for a mistrial."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Religious References in Lindsay Clancy Trial Anger Judge and Defense",
+     "url": "https://www.nytimes.com/2026/08/24/us/lindsay-clancy-trial-religion-catholic.html",
+     "author": "Maia Spoto and Jacey Fortin",
+     "kind": "news",
+     "published": "2026-08-24T23:28:53+00:00",
+     "summary": "The religious reference by a prosecution witness on Monday incensed the presiding judge, who sternly instructed jurors to disregard it. Lindsay Clancy\u2019s lawyer asked for a mistrial."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating",
+     "url": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
+     "author": "Gabrielle Canon and agencies",
+     "kind": "news",
+     "published": "2026-08-24T23:00:53+00:00",
+     "summary": "Dr Kirk Heilbrun says he believes Clancy took children\u2019s lives so they wouldn\u2019t \u2018suffer\u2019 after she killed herself With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called by the prosecution testified on Monday that he did not believe she was experiencing acute psychosis when she killed her three children. Kirk Heilbrun, who reportedly performed psychiatric tests on Clancy in April, told the court that he questioned her claims that a hallucinated voice commanded her to commit the act, and that he believed she took their lives so they wouldn\u2019t \u201csuffer\u201d after she killed herself. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Judge in Lindsay Clancy case denies defense's motion for mistrial after witness brings up religion",
+     "url": "https://www.nbcnews.com/video/judge-in-lindsay-clancy-case-denies-defense-s-motion-for-mistrial-after-witness-brings-up-religion-268788805983",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T21:35:23+00:00",
+     "summary": "Lindsay Clancy's trial defense team requested a mistrial after a prosecution witness brought up Clancy's Catholic faith. The judge denied the motion, but instructed jurors to dismiss the comments and sent them home early. NBC Boston's Sue O'Connell reports."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "WATCH: Forensic psychologist testifies that Lindsay Clancy has bipolar disorder",
+     "url": "https://www.pbs.org/newshour/nation/watch-forensic-psychologist-testifies-that-lindsay-clancy-has-bipolar-disorder",
+     "author": "Michael Casey, Associated Press",
+     "kind": "news",
+     "published": "2026-08-24T20:38:10+00:00",
+     "summary": "Kirk Heilbrun, who examined Clancy over three days this year, said he struggled to reach a diagnosis of bipolar 2 disorder \"because of all the diagnoses in the records and all the symptoms that she experienced.\""
+    },
+    {
+     "outlet": "nyt",
+     "title": "Why the Lindsay Clancy Case Is Dividing Americans",
+     "url": "https://www.nytimes.com/2026/08/22/us/lindsay-clancy-mothers-kill-children-punishment.html",
+     "author": "Shaila Dewan",
+     "kind": "news",
+     "published": "2026-08-22T18:31:06+00:00",
+     "summary": "She is being tried on murder charges for killing her three young children. The tragedy has resurrected debates over whether such women are criminals or victims."
+    }
+   ]
+  },
+  {
    "id": "edca62934c",
    "topic": "Politics",
    "summary": "Democrats are angry with House Minority Leader Hakeem Jeffries (D-NY) after he privately met with President Donald Trump\u2019s son-in-law Jared Kushner to discuss potential areas of cooperation. Former Obama aide Tommy Vietor blasted Jeffries over the meeting, arguing that Kushner should be the target of congressional scrutiny rather than an ally. \u201cJared Kushner has no actual government job. He just uses his family connections to get money from Gulf autocrats and fund corrupt deals,\u201d Vietor said. \u201cThe only way Jeffries should work with him is with demands for documents and subpoenas.\u201d Democratic pundit Jennifer Welch was even more direct. \u201cI don\u2019t want to work with fascists. I don\u2019t want to collaborate with fascists,\u201d she said. Mehdi Hasan, founder and editor-in-chief of the left-wing news outlet Zeteo, also criticized the meeting. \u201cThis is just pathetic stuff from the House Democratic\u2026",
@@ -1102,8 +1190,8 @@
     "indieCount": 2,
     "big": [
      "elections",
-     "minority",
      "privately",
+     "minority",
      "areas",
      "donald",
      "adviser"
@@ -1269,102 +1357,6 @@
      "kind": "opinion",
      "published": "2026-08-24T11:26:00+00:00",
      "summary": "Iranian state television has reached a chilling new low, broadcasting an explicit segment detailing threats against 20-year-old Barron Trump. The alarming three-minute clip targets President Donald Trump\u2019s youngest son, deploying highly stylized graphics to map out ways to reach the NYU student on U.S. soil. As Iran International reported , the broadcast claimed to track Barron across various locations and social media platforms and plot ways to breach his Secret Service detail. Much of the montage relied on AI-generated visuals, including footage of a hooded hacker hunting for data alongside clips of Barron Trump in an Arsenal soccer jersey playing Xbox. The narrator referenced a $10 million bounty, boasting that \u201cmany would be willing\u201d to collect. The latest news is far from an isolated threat. The despotic Iranian regime has spent years orchestrating complex assassination schemes against Trump and his inner circle, driven by a bloodthirsty desire for revenge following the 2020 U.S. strike that eliminated Quds Force Commander Qasem Soleimani. Iran has even made videos similar to its recent threat against Barron Trump before targeting the U.S. president and his wife, Melania, acco"
-    }
-   ]
-  },
-  {
-   "id": "62b74e123d",
-   "topic": "Justice & Policing",
-   "summary": "Dr Kirk Heilbrun says he believes Clancy took children\u2019s lives so they wouldn\u2019t \u2018suffer\u2019 after she killed herself With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called by the prosecution testified on Monday that he did not believe she was experiencing acute psychosis when she killed her three children. Kirk Heilbrun, who reportedly performed psychiatric tests on Clancy in April, told the court that he questioned her claims that a hallucinated voice commanded her to commit the act, and that he believed she took their lives so they wouldn\u2019t \u201csuffer\u201d after she killed herself. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 2,
-    "big": [
-     "judge",
-     "defense",
-     "witness",
-     "mistrial",
-     "denies",
-     "religion"
-    ],
-    "indie": [
-     "psychologist",
-     "heilbrun",
-     "kirk",
-     "forensic"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating",
-   "updated": "2026-08-25T03:30:20+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "family": 2,
-    "nonprofit": 2
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Lindsay Clancy trial judge denies mistrial request, reprimands prosecution",
-     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-19-rebuttal/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T03:30:20+00:00",
-     "summary": "Lindsay Clancy trial testimony ended abruptly Monday in Plymouth Superior Court when a witness began speaking about religion and the defense unsuccessfully called for a mistrial."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Religious References in Lindsay Clancy Trial Anger Judge and Defense",
-     "url": "https://www.nytimes.com/2026/08/24/us/lindsay-clancy-trial-religion-catholic.html",
-     "author": "Maia Spoto and Jacey Fortin",
-     "kind": "news",
-     "published": "2026-08-24T23:28:53+00:00",
-     "summary": "The religious reference by a prosecution witness on Monday incensed the presiding judge, who sternly instructed jurors to disregard it. Lindsay Clancy\u2019s lawyer asked for a mistrial."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating",
-     "url": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
-     "author": "Gabrielle Canon and agencies",
-     "kind": "news",
-     "published": "2026-08-24T23:00:53+00:00",
-     "summary": "Dr Kirk Heilbrun says he believes Clancy took children\u2019s lives so they wouldn\u2019t \u2018suffer\u2019 after she killed herself With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called by the prosecution testified on Monday that he did not believe she was experiencing acute psychosis when she killed her three children. Kirk Heilbrun, who reportedly performed psychiatric tests on Clancy in April, told the court that he questioned her claims that a hallucinated voice commanded her to commit the act, and that he believed she took their lives so they wouldn\u2019t \u201csuffer\u201d after she killed herself. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Judge in Lindsay Clancy case denies defense's motion for mistrial after witness brings up religion",
-     "url": "https://www.nbcnews.com/video/judge-in-lindsay-clancy-case-denies-defense-s-motion-for-mistrial-after-witness-brings-up-religion-268788805983",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T21:35:23+00:00",
-     "summary": "Lindsay Clancy's trial defense team requested a mistrial after a prosecution witness brought up Clancy's Catholic faith. The judge denied the motion, but instructed jurors to dismiss the comments and sent them home early. NBC Boston's Sue O'Connell reports."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "WATCH: Forensic psychologist testifies that Lindsay Clancy has bipolar disorder",
-     "url": "https://www.pbs.org/newshour/nation/watch-forensic-psychologist-testifies-that-lindsay-clancy-has-bipolar-disorder",
-     "author": "Michael Casey, Associated Press",
-     "kind": "news",
-     "published": "2026-08-24T20:38:10+00:00",
-     "summary": "Kirk Heilbrun, who examined Clancy over three days this year, said he struggled to reach a diagnosis of bipolar 2 disorder \"because of all the diagnoses in the records and all the symptoms that she experienced.\""
-    },
-    {
-     "outlet": "nyt",
-     "title": "Why the Lindsay Clancy Case Is Dividing Americans",
-     "url": "https://www.nytimes.com/2026/08/22/us/lindsay-clancy-mothers-kill-children-punishment.html",
-     "author": "Shaila Dewan",
-     "kind": "news",
-     "published": "2026-08-22T18:31:06+00:00",
-     "summary": "She is being tried on murder charges for killing her three young children. The tragedy has resurrected debates over whether such women are criminals or victims."
     }
    ]
   },
@@ -1638,12 +1630,12 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "rial",
      "dollar",
-     "hits",
-     "currency",
+     "rial",
+     "d-day",
+     "monday",
      "record",
-     "monday"
+     "hits"
     ],
     "indie": [
      "fresh"
@@ -1979,67 +1971,6 @@
      "kind": "news",
      "published": "2026-08-25T01:32:00+00:00",
      "summary": "At least 40 people were killed, some of them execution-style, during the attack in Kenscoff. The local mayor described \"a night of terror\" in the town that has been plagued by gang violence for months."
-    }
-   ]
-  },
-  {
-   "id": "20367e519d",
-   "topic": "World",
-   "summary": "As well as pledging military help and diplomatic backing, the prime minister could be useful in dealing with the US Since moving into Downing Street in July, Andy Burnham \u2013 a foreign policy neophyte \u2013 has expressed strong support for Ukraine. But on Monday he saw the bitter human cost of the war up close for the first time, visiting Kyiv during his first international trip as prime minister. The occasion was the 35th anniversary of Ukraine\u2019s independence. Volodymyr Zelenskyy gave awards to the families of fallen soldiers. Relatives wept, hugging Ukraine\u2019s president. Photos of young men in their prime were shown on a giant screen. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-   "updated": "2026-08-25T01:48:24+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-     "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T01:48:24+00:00",
-     "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Burnham says UK with Ukraine \u2018all the way\u2019 despite \u2018outrageous threats\u2019 from Russia \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-     "author": "Tom Ambrose (now); Jakub Krupa and Vivian Ho (earlier)",
-     "kind": "news",
-     "published": "2026-08-24T16:46:17+00:00",
-     "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on \u2018constraining Russia\u2019s war chest\u2019 Here\u2019s the full quote from Kremlin\u2019s Peskov , via AFP: \u201c Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.\u201d Continue reading..."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Burnham\u2019s visit to Kyiv marks a renewal of badly needed support for Ukraine",
-     "url": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
-     "author": "Luke Harding and Dan Sabbagh in Pavlohrad, Ukraine",
-     "kind": "news",
-     "published": "2026-08-24T16:33:22+00:00",
-     "summary": "As well as pledging military help and diplomatic backing, the prime minister could be useful in dealing with the US Since moving into Downing Street in July, Andy Burnham \u2013 a foreign policy neophyte \u2013 has expressed strong support for Ukraine. But on Monday he saw the bitter human cost of the war up close for the first time, visiting Kyiv during his first international trip as prime minister. The occasion was the 35th anniversary of Ukraine\u2019s independence. Volodymyr Zelenskyy gave awards to the families of fallen soldiers. Relatives wept, hugging Ukraine\u2019s president. Photos of young men in their prime were shown on a giant screen. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Ukraine showing \u2018remarkable innovation\u2019: Kyiv \u2018holding front line\u2019 while striking Russia\u2019s economy",
-     "url": "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-24T13:32:21+00:00",
-     "summary": "Genie Godula is pleased to welcome Samantha de Bendern, Associate Fellow at Chatham House. Europe is taking increasingly consequential steps to support Ukraine, but de Bendern warns that they remain insufficient to address the country's fundamental vulnerability. Are Ukraine's allies prepared to actively help protect Ukrainian airspace? That debate reaches back to the earliest weeks of the full-scale invasion: even after President Biden warned in 2022 of an imminent Russian attack, Kyiv's allies ruled out enforcing a no-fly zone, fearing that direct NATO engagement could escalate into a wider war with Moscow."
     }
    ]
   },
@@ -2824,7 +2755,7 @@
    ]
   },
   {
-   "id": "1787e88ec2",
+   "id": "d1572259dc",
    "topic": "Politics",
    "summary": "Andrew Harnik / Getty Images Donald Trump\u2019s newest White House vanity project is undergoing changes as work continues around the clock to finish construction. Crews have torn up much of the South Lawn to make way for Trump\u2019s new helipad, but the president has launched additional construction work on the project: changing the slope of the lawn itself. The helipad is just one of the president\u2019s White House projects, with a combined cost estimated at $927 million, according to the Washington Post. That outlet reported Monday that workers are raising the lawn\u2019s level to bring it flush with the helipad, which Trump wants completed before Chinese President Xi Jinping\u2019s state visit next month. Read more at The Daily Beast.",
    "summaryFrom": "dailybeast",
@@ -2835,7 +2766,7 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "New Trump Twist to White House Desecration Exposed",
+   "headline": "New Twist to Trump\u2019s White House Desecration Exposed",
    "updated": "2026-08-25T03:53:57+00:00",
    "outletCount": 2,
    "counts": {
@@ -2848,7 +2779,7 @@
    "articles": [
     {
      "outlet": "dailybeast",
-     "title": "New Trump Twist to White House Desecration Exposed",
+     "title": "New Twist to Trump\u2019s White House Desecration Exposed",
      "url": "https://www.thedailybeast.com/new-trump-twist-to-white-house-desecration-exposed/",
      "author": "William Vaillancourt",
      "kind": "news",
@@ -3177,49 +3108,6 @@
    ]
   },
   {
-   "id": "90445a9c95",
-   "topic": "Other",
-   "summary": "The All-Star second baseman mysteriously disappeared before a game in Boston two weeks ago, an absence the team has not fully been able to explain.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Ketel Marte\u2019s Diamondbacks return plan emerges \u2014 along with manager\u2019s plea for fans",
-   "updated": "2026-08-25T02:02:20+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Ketel Marte\u2019s Diamondbacks return plan emerges \u2014 along with manager\u2019s plea for fans",
-     "url": "https://nypost.com/2026/08/24/sports/ketel-martes-diamondbacks-return-plan-emerges-comes-with-a-plea-for-fans/",
-     "author": "Michael Blinn",
-     "kind": "news",
-     "published": "2026-08-25T02:02:20+00:00",
-     "summary": "The All-Star second baseman mysteriously disappeared before a game in Boston two weeks ago, an absence the team has not fully been able to explain."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Diamondbacks' Ketel Marte Expected Return Date Revealed",
-     "url": "https://www.newsweek.com/sports/mlb/diamondbacks-ketel-marte-expected-return-date-revealed-12361720",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T01:38:39+00:00",
-     "summary": "Arizona Diamondbacks second baseman Ketel Marte will return to the team Tuesday, Sept. 1, per Francys Romero."
-    }
-   ]
-  },
-  {
    "id": "6d15c46417",
    "topic": "Politics",
    "summary": "History records that in the year 67, the Roman emperor Nero participated in a chariot race at the Olympic Games. The mad emperor, who would become infamous for all time for overseeing Rome\u2019s burning while he (almost certainly apocryphally) played the violin, crashed in the race but was declared the victor anyway. Nero may have taken things to egomaniacal extremes, but massive athletic spectacles were par for the course. The gladiatorial games were designed as a sort of tribute that powerful politicians and wealthy sponsors would hold for the entertainment and bonding of the masses. It was important and relatively harmless to let the people have their fun. There was, after all, no Netflix in ancient Rome. We do have Netflix now, but very little compares to the thrill of live racing, as Nero learned. So for all the same reasons that Romans had chariot races, President Donald Trump\u2026",
@@ -3302,49 +3190,6 @@
      "kind": "news",
      "published": "2026-08-25T00:15:17+00:00",
      "summary": "Former NBA center Enes Kanter Freedom joined Laura Ingraham on \"The Ingraham Angle\" Monday night to set the record straight following his chaotic courtside ejection from Sunday's Indiana Fever-Chicago Sky matchup. Freedom was escorted out of Wintrust Arena late in the third quarter after Chicago Sky guard Natasha Cloud unleashed an explicit, profanity-laced tirade against him after simply celebrating a 3-pointer by Fever guard Sophie Cunningham . Freedom, who sat baseline wearing a shirt defining \"woman\" as an \"adult human female,\" explained to Ingraham that he attended purely out of love for basketball and to back Cunningham, an athlete who has faced relentless backlash for defending female sports. ENES KANTER FREEDOM MET WITH HOSTILE WNBA FANS EN ROUTE TO FEVER-SKY MATCHUP But after Freedom put his hands up following a made bucket, Cloud immediately confronted him with personal insults, mocking and screaming that Cunningham was \"not going to sleep\" with him. \"I actually loved the game and enjoyed the game,\" Freedom told Ingraham. \"This is my passion... first half I watched the game; it was an amazing time. They put Sophie Cunningham in. I remember around the last three-minute mar"
-    }
-   ]
-  },
-  {
-   "id": "5167424b77",
-   "topic": "Other",
-   "summary": "WWE Raw results, winners and grades on August 24, 2026 with LA Knight and Solo vs. the Usos.",
-   "summaryFrom": "forbes",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "WWE Raw Results, Winners And Grades On August 24, 2026",
-   "updated": "2026-08-25T00:23:21+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "WWE Raw Results, Winners And Grades On August 24, 2026",
-     "url": "https://www.forbes.com/sites/alfredkonuwa/2026/08/24/wwe-raw-results-winners-and-grades-on-august-24-2026/",
-     "author": "Alfred Konuwa, Contributor",
-     "kind": "news",
-     "published": "2026-08-25T00:23:21+00:00",
-     "summary": "WWE Raw results, winners and grades on August 24, 2026 with LA Knight and Solo vs. the Usos."
-    },
-    {
-     "outlet": "slate",
-     "title": "Slate SoundBites for August 24, 2026",
-     "url": "https://slate.com/life/2026/08/slate-soundbites-for-august-24-2026.html?via=rss",
-     "author": "Jenny Fey",
-     "kind": "news",
-     "published": "2026-08-24T10:00:00+00:00",
-     "summary": "Build your answer from the sound up with our new game, SoundBites!"
     }
    ]
   },
@@ -3818,6 +3663,135 @@
      "kind": "news",
      "published": "2026-08-24T18:15:22+00:00",
      "summary": "Things seemed a little awkward between Trump, his wife, and his deeply devoted personal aide during Sunday\u2019s IndyCar Freedom250 Grand Prix"
+    }
+   ]
+  },
+  {
+   "id": "f905c8994b",
+   "topic": "World",
+   "summary": "On Monday afternoon, President Trump\u2019s Treasury Secretary Scott Bessent announced that the US would impose all-encompassing sanctions on countries and institutions that conduct business with Iran, in an apparent attempt to end the war after most viable military options have failed. Bessent described the plan , dubbed Operation Economic Outcast, as an \u201ceconomic D-Day,\u201d in reference to the Allied invasion of Normandy during World War II, with the Iranian regime replacing Nazi Germany. Bessent vowed to \u201csever every economic lifeline\u201d that sustains Iran\u2014including digital assets, technology, gold, aviation, and shipping\u2014by enforcing a \u201czero-leakage approach\u201d that will shut down \u201cevery facilitator and every network\u201d that Iran has used to smuggle oil past existing sanctions . But Bessent did not disclose how that process would work, or on what timeline. When we don\u2019t know what to do, we\u2026",
+   "summaryFrom": "motherjones",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Maybe Trump\u2019s Iran Sanctions Will Work This Time",
+   "updated": "2026-08-24T22:34:15+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Moore: China Key to Success of Iran Sanctions",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-24/moore-china-key-to-success-of-iran-sanctions-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T22:34:15+00:00",
+     "summary": "Stephen Moore, former Trump economic advisor, says China is key to the success of the Trump administration's secondary sanctions targeting countries that continue to do business with Iran. Moore also says he is \u201cnot a fan\u201d of the escalating tariffs between the US and Canada, warning that higher input prices could make things more expensive at home. He speaks with Kailey Leinz and Joe Mathieu on the late edition of Bloomberg's Balance of Power. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "motherjones",
+     "title": "Maybe Trump\u2019s Iran Sanctions Will Work This Time",
+     "url": "https://www.motherjones.com/politics/2026/08/bessent-trump-iran-sanctions-secondary-oil-d-day-uae/",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-24T20:02:51+00:00",
+     "summary": "On Monday afternoon, President Trump\u2019s Treasury Secretary Scott Bessent announced that the US would impose all-encompassing sanctions on countries and institutions that conduct business with Iran, in an apparent attempt to end the war after most viable military options have failed. Bessent described the plan , dubbed Operation Economic Outcast, as an \u201ceconomic D-Day,\u201d in reference to the Allied invasion of Normandy during World War II, with the Iranian regime replacing Nazi Germany. Bessent vowed to \u201csever every economic lifeline\u201d that sustains Iran\u2014including digital assets, technology, gold, aviation, and shipping\u2014by enforcing a \u201czero-leakage approach\u201d that will shut down \u201cevery facilitator and every network\u201d that Iran has used to smuggle oil past existing sanctions . But Bessent did not disclose how that process would work, or on what timeline. When we don\u2019t know what to do, we sanction Iran. In fact, the treasury secretary offered almost nothing in the way of details\u2014perhaps because, over roughly 47 years of US sanctions on Iran, there is little that the United States hasn\u2019t tried and even less indication that Iran has become more compliant. When we don\u2019t know what to do, we san"
+    }
+   ]
+  },
+  {
+   "id": "fd17e700da",
+   "topic": "Politics",
+   "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. One of the few issues that unites voters and politicians of both parties right now is data centers. Three-quarters of Americans would oppose a data center being built near where they live, according to a new poll released last week by Heatmap Pro and Embold Research. The two leading lights of the left, Representative Alexandria Ocasio-Cortez and Senator Bernie Sanders, have sponsored a bill in Congress to create a temporary moratorium on new centers. They have an unlikely ally in archconservative Governor Greg Abbott of Texas, who said yesterday on ABC\u2019s This Week that data-center companies \u201cbasically dug their own grave\u201d and \u201cgot the backlash they deserve.\u201d Standing against this consensus is\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump Is Losing Touch With the Public",
+   "updated": "2026-08-24T22:31:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "theatlantic",
+     "title": "Trump Is Losing Touch With the Public",
+     "url": "https://www.theatlantic.com/newsletters/2026/08/trump-out-of-touch-public-data-centers/688402/?utm_source=feed",
+     "author": "David A. Graham",
+     "kind": "news",
+     "published": "2026-08-24T22:31:00+00:00",
+     "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. One of the few issues that unites voters and politicians of both parties right now is data centers. Three-quarters of Americans would oppose a data center being built near where they live, according to a new poll released last week by Heatmap Pro and Embold Research. The two leading lights of the left, Representative Alexandria Ocasio-Cortez and Senator Bernie Sanders, have sponsored a bill in Congress to create a temporary moratorium on new centers. They have an unlikely ally in archconservative Governor Greg Abbott of Texas, who said yesterday on ABC\u2019s This Week that data-center companies \u201cbasically dug their own grave\u201d and \u201cgot the backlash they deserve.\u201d Standing against this consensus is Donald Trump. The president remains a big booster of data centers. \u201cCommunities that don\u2019t take a data center\u2014they\u2019re making a mistake,\u201d he said Thursday during an interview with his on-again, off-again lackey Michael Cohen. \u201cData centers throw off tremendous amounts of jobs and money.\u201d This was no "
+    },
+    {
+     "outlet": "semafor",
+     "title": "Norman could add to Trump\u2019s primary losing streak",
+     "url": "https://www.semafor.com/article/08/24/2026/norman-could-add-to-trumps-primary-losing-streak",
+     "author": "David Weigel",
+     "kind": "news",
+     "published": "2026-08-24T08:40:25+00:00",
+     "summary": "South Carolina Republicans could nominate Rep. Ralph Norman on Tuesday for Senate, denying Sen. Darline Graham six more years in the seat held by her late brother. Graham campaigned with President Donald Trump in Myrtle Beach on Friday, and promised to vote to Lindsey Graham\u2019s right. \u201cOn illegal immigration, I\u2019m tougher than he was,\u201d she said. But Norman, a member of the House Freedom Caucus, has benefited from his opponent\u2019s shaky performance in the special election runoff\u2019s only debate. \u201cShe\u2019ll get beaten by the Democrat,\u201d Norman said at a Friday night town hall. \u201cY\u2019all saw how she debates. The candidate that the Democratic Party has put up is smart.\u201d Ten other Republicans endorsed by Trump have lost primaries, including his first choice for governor of South Carolina. Norman would be the first to have endorsed Nikki Haley, not Trump, in the 2024 primaries. \u2014 David Weigel"
+    }
+   ]
+  },
+  {
+   "id": "f5c98c489e",
+   "topic": "World",
+   "summary": "Stars and Stripes is a newspaper that has served American troops for generations. Recently, its publisher was fired, and its editor and one of its reporters were removed, raising questions about its future. Stars and Stripes is funded in part by the Pentagon, but is protected from military censorship and control. Erik Slaven was its editor until last week and joined Geoff Bennett to discuss more.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Military newspaper editor says he was fired for raising concerns about Pentagon censorship",
+   "updated": "2026-08-24T22:30:50+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Military newspaper editor says he was fired for raising concerns about Pentagon censorship",
+     "url": "https://www.pbs.org/newshour/show/military-newspaper-editor-says-he-was-fired-for-raising-concerns-about-pentagon-censorship",
+     "author": "Dan Sagalyn",
+     "kind": "news",
+     "published": "2026-08-24T22:30:50+00:00",
+     "summary": "Stars and Stripes is a newspaper that has served American troops for generations. Recently, its publisher was fired, and its editor and one of its reporters were removed, raising questions about its future. Stars and Stripes is funded in part by the Pentagon, but is protected from military censorship and control. Erik Slaven was its editor until last week and joined Geoff Bennett to discuss more."
+    },
+    {
+     "outlet": "bbc",
+     "title": "US military newspaper editor voices censorship fears after being fired",
+     "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T16:57:19+00:00",
+     "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\"."
     }
    ]
   }
