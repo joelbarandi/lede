@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T05:48:55.835600+00:00",
+ "generated": "2026-08-25T07:09:50.642841+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -177,169 +177,6 @@
    ]
   },
   {
-   "id": "0a44ecf8e5",
-   "topic": "World",
-   "summary": "The tariff war between the US and Canada has started back up. David Ryder/Bloomberg via Getty Images The US-Canada tariff war has flared up again, with Trump imposing a fresh set of 50% levies. Goods like alcohol and plywood are affected, but US employment likely won't be hit too hard. Canadian employment could take a hit, and tariffs will affect businesses caught in the back-and-forth. It's tariff time in America and Canada \u2014 again. On Saturday, after trade talks between Canada and the US collapsed, the Trump administration imposed 50% tariffs on a slew of Canadian items , including alcohol and hockey equipment. Canadian Prime Minister Mark Carney has already announced a dollar-for-dollar counter-tariff, marking yet another bumpy moment in tensions between the two formerly friendly neighbors. The specificity of the tariffs means that different sectors of the economy \u2014 and your everyday\u2026",
-   "summaryFrom": "businessinsider",
-   "emphasis": {
-    "bigCount": 10,
-    "indieCount": 4,
-    "big": [
-     "ford",
-     "doug",
-     "tariffs",
-     "president",
-     "everything",
-     "exchange"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-   "updated": "2026-08-25T05:12:25+00:00",
-   "outletCount": 11,
-   "counts": {
-    "family": 6,
-    "pub": 2,
-    "corp": 4,
-    "nonprofit": 2
-   },
-   "newsCount": 14,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-     "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-     "author": "Matina Stevis-Gridneff and Ana Swanson",
-     "kind": "news",
-     "published": "2026-08-25T05:12:25+00:00",
-     "summary": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable."
-    },
-    {
-     "outlet": "bbc",
-     "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-     "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T02:51:53+00:00",
-     "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\"."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump Laments Lack of US Aluminum Amid Trade Row With Canada",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-25/trump-laments-lack-of-us-aluminum-amid-trade-row-with-canada",
-     "author": "Jeff Mason and Josh Wingrove",
-     "kind": "news",
-     "published": "2026-08-25T02:10:54+00:00",
-     "summary": "President Donald Trump, who has argued that the US does not need Canada, lamented Monday that his northern neighbor did have something he wants: aluminum."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "'Bully': Feud erupts between Trump and Ontario's Doug Ford over US-Canada trade war",
-     "url": "https://abcnews.com/Politics/bully-feud-erupts-trump-ontarios-doug-ford-us/story?id=135920499",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T01:48:55+00:00",
-     "summary": "Ford suggested that Canada needed to \"throw everything and the kitchen sink\" at Trump."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Canada to Unveil Trump Tariff Response Including Loans, Benefits",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-25/canada-to-unveil-trump-tariff-response-including-loans-benefits",
-     "author": "Josh Wingrove and Thomas Seal",
-     "kind": "news",
-     "published": "2026-08-25T00:00:59+00:00",
-     "summary": "Canada\u2019s government on Tuesday will announce a range of measures to \u201cprotect and support\u201d its workers and businesses in response to 50% US tariffs which were applied to about $20 billion of its annual exports on Saturday."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Trade war of words intensifies between U.S., Canada",
-     "url": "https://www.cbsnews.com/video/trade-war-words-intensifies-between-us-canada/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T23:31:50+00:00",
-     "summary": "The Trump administration announced its so-called \"economic D-Day\" plans against Iran on Monday, while also lashing out at Canada and threatening more tariffs. Nancy Cordes has more details on this and a new Supreme Court ruling backing Trump's order to limit mail-in ballots."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "\u2018Flunky,\u2019 \u2018Loser\u2019: Trump Trades Wild Insults With Canada\u2019s Ford",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-24/-flunky-loser-trump-trades-wild-insults-with-canada-s-ford",
-     "author": "Thomas Seal",
-     "kind": "news",
-     "published": "2026-08-24T23:15:00+00:00",
-     "summary": "The trade war between the US and Canada erupted into an extraordinary exchange of insults and threats between President Donald Trump and Doug Ford, the leader of Ontario."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "The potential economic fallout of Trump's trade war with Canada",
-     "url": "https://www.pbs.org/newshour/show/the-potential-economic-fallout-of-trumps-trade-war-with-canada",
-     "author": "Azhar Merchant",
-     "kind": "news",
-     "published": "2026-08-24T22:55:06+00:00",
-     "summary": "The trade war between the U.S. and Canada is intensifying after negotiations broke down over the weekend. Canadian Prime Minister Mark Carney said his country had been preparing for a fundamental shift in its relationship with the U.S., which it no longer views as a reliable partner. Geoff Bennett discussed the economic fallout on both sides of the border with Peter Armstrong of the CBC."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Ontario's Ford warns US power could be cut as he trades insults with Trump",
-     "url": "https://thehill.com/policy/international/6047866-ford-threatens-ontario-power-cuts/",
-     "author": "Ashleigh Fields",
-     "kind": "news",
-     "published": "2026-08-24T21:36:33+00:00",
-     "summary": "Ontario Premier Doug Ford on Monday threatened to cut the province\u2019s power exports to the U.S. as a trade war with President Trump plays out publicly for a second time. Ford told reporters \u201ceverything is on the table\u201d when it comes to retaliatory measures against the White House in response to failed trade talks and..."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Mark Carney Says Canada \u2018at War\u2019 After Failed U.S. Trade Talks",
-     "url": "https://www.breitbart.com/economy/2026/08/24/mark-carney-says-canada-war-after-failed-u-s-trade-talks/",
-     "author": "John Hayward",
-     "kind": "news",
-     "published": "2026-08-24T20:42:45+00:00",
-     "summary": "Canadian Prime Minister Mark Carney told reporters on Saturday that his country was \u201cat war\u201d with the United States after trade talks collapsed. The post Mark Carney Says Canada \u2018at War\u2019 After Failed U.S. Trade Talks appeared first on Breitbart ."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Canada\u2019s Doug Ford Calls Trump A \u2018Dictator\u2019 As \u2018Economic War\u2019 Escalates",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/24/canadas-doug-ford-calls-trump-a-dictator-as-economic-war-escalates/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-24T20:05:03+00:00",
-     "summary": "Trump wants significant trade concessions from Canada including a reduction in retaliatory tariffs on American industries like agriculture and automotive."
-    },
-    {
-     "outlet": "businessinsider",
-     "title": "How Trump's new trade war with Canada affects everything from building new homes to dog jackets",
-     "url": "https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8",
-     "author": "Juliana Kaplan,Madison Hoff,Allie Kelly (jkaplan@businessinsider.com)",
-     "kind": "news",
-     "published": "2026-08-24T19:32:45+00:00",
-     "summary": "The tariff war between the US and Canada has started back up. David Ryder/Bloomberg via Getty Images The US-Canada tariff war has flared up again, with Trump imposing a fresh set of 50% levies. Goods like alcohol and plywood are affected, but US employment likely won't be hit too hard. Canadian employment could take a hit, and tariffs will affect businesses caught in the back-and-forth. It's tariff time in America and Canada \u2014 again. On Saturday, after trade talks between Canada and the US collapsed, the Trump administration imposed 50% tariffs on a slew of Canadian items , including alcohol and hockey equipment. Canadian Prime Minister Mark Carney has already announced a dollar-for-dollar counter-tariff, marking yet another bumpy moment in tensions between the two formerly friendly neighbors. The specificity of the tariffs means that different sectors of the economy \u2014 and your everyday purchases \u2014 will get hit unevenly. The tariffs affect alcohol, milk, plywood, and more. For consumers craving Canadian whisky or finally getting around to home renovations, that might mean a bigger bite out of their wallets. Census Bureau data showed that paper and paper products alone accounted for"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Mark Carney says Canada can\u2019t accept US trade deal that would weaken French language",
-     "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
-     "author": "Leyland Cecco in Toronto",
-     "kind": "news",
-     "published": "2026-08-24T18:22:14+00:00",
-     "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute Are you a Canadian boycotting US products? We\u2019d like to hear from you Mark Carney said on Monday that while American negotiators saw the French language in Canada as an \u201cirritant \u2026 in Quebec, these are rights,\u201d days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening the country\u2019s Francophone culture. The prime minister\u2019s remarks came hours after the US president, Donald Trump, showed little interest in retreating from the spat, posting on social media that Canada had been \u201cripping off the United States of America for years\u201d and threatening a swath of new, economically devastating tariffs on cars and trucks. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Carney faces crucial test after walking away from Trump's deal",
-     "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T20:02:46+00:00",
-     "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
-    }
-   ]
-  },
-  {
    "id": "8fc13c6b1b",
    "topic": "World",
    "summary": "President Donald Trump at Joint Base Andrews, Maryland, on August 21, 2026. | Win McNamee/Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: Donald Trump\u2019s trade war with Canada is back in full force. What\u2019s happening? Remember last week, when Trump said that the US and Canada had a trade deal in place? It turns out they do not. After negotiations fell through on Friday, Trump responded with a 50 percent tariff on some $20 billion in Canadian goods, plus threats of higher tariffs on cars, car parts, and steel to come in 2027. Trump, Vice President JD Vance, and other administration officials are also leaning into ever more inflammatory rhetoric, with Vance taunting Canada on Monday as \u201ca state\u201d that \u201cquite literally\u2026",
@@ -350,15 +187,15 @@
     "big": [
      "threatened",
      "political",
-     "happening",
      "images",
      "getty",
+     "happening",
      "escalating"
     ],
     "indie": [
-     "collapsed",
-     "collapse",
      "countries",
+     "collapse",
+     "collapsed",
      "huge"
     ]
    },
@@ -471,20 +308,159 @@
    ]
   },
   {
+   "id": "0a44ecf8e5",
+   "topic": "World",
+   "summary": "The trade war between the U.S. and Canada is intensifying after negotiations broke down over the weekend. Canadian Prime Minister Mark Carney said his country had been preparing for a fundamental shift in its relationship with the U.S., which it no longer views as a reliable partner. Geoff Bennett discussed the economic fallout on both sides of the border with Peter Armstrong of the CBC.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": {
+    "bigCount": 8,
+    "indieCount": 3,
+    "big": [
+     "doug",
+     "ford",
+     "president",
+     "monday",
+     "tariffs",
+     "exchange"
+    ],
+    "indie": [
+     "mark",
+     "carney"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+   "updated": "2026-08-25T05:12:26+00:00",
+   "outletCount": 9,
+   "counts": {
+    "family": 5,
+    "pub": 2,
+    "corp": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 11,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+     "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+     "author": "Matina Stevis-Gridneff and Ana Swanson",
+     "kind": "news",
+     "published": "2026-08-25T05:12:26+00:00",
+     "summary": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable."
+    },
+    {
+     "outlet": "bbc",
+     "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+     "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T02:51:53+00:00",
+     "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\"."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump Laments Lack of US Aluminum Amid Trade Row With Canada",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-25/trump-laments-lack-of-us-aluminum-amid-trade-row-with-canada",
+     "author": "Jeff Mason and Josh Wingrove",
+     "kind": "news",
+     "published": "2026-08-25T02:10:54+00:00",
+     "summary": "President Donald Trump, who has argued that the US does not need Canada, lamented Monday that his northern neighbor did have something he wants: aluminum."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "'Bully': Feud erupts between Trump and Ontario's Doug Ford over US-Canada trade war",
+     "url": "https://abcnews.com/Politics/bully-feud-erupts-trump-ontarios-doug-ford-us/story?id=135920499",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T01:48:55+00:00",
+     "summary": "Ford suggested that Canada needed to \"throw everything and the kitchen sink\" at Trump."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Canada to Unveil Trump Tariff Response Including Loans, Benefits",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-25/canada-to-unveil-trump-tariff-response-including-loans-benefits",
+     "author": "Josh Wingrove and Thomas Seal",
+     "kind": "news",
+     "published": "2026-08-25T00:00:59+00:00",
+     "summary": "Canada\u2019s government on Tuesday will announce a range of measures to \u201cprotect and support\u201d its workers and businesses in response to 50% US tariffs which were applied to about $20 billion of its annual exports on Saturday."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Trade war of words intensifies between U.S., Canada",
+     "url": "https://www.cbsnews.com/video/trade-war-words-intensifies-between-us-canada/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T23:31:50+00:00",
+     "summary": "The Trump administration announced its so-called \"economic D-Day\" plans against Iran on Monday, while also lashing out at Canada and threatening more tariffs. Nancy Cordes has more details on this and a new Supreme Court ruling backing Trump's order to limit mail-in ballots."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "\u2018Flunky,\u2019 \u2018Loser\u2019: Trump Trades Wild Insults With Canada\u2019s Ford",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-24/-flunky-loser-trump-trades-wild-insults-with-canada-s-ford",
+     "author": "Thomas Seal",
+     "kind": "news",
+     "published": "2026-08-24T23:15:00+00:00",
+     "summary": "The trade war between the US and Canada erupted into an extraordinary exchange of insults and threats between President Donald Trump and Doug Ford, the leader of Ontario."
+    },
+    {
+     "outlet": "france24",
+     "title": "How the French language contributed to the US-Canada trade war",
+     "url": "https://www.france24.com/en/live-news/20260824-how-the-french-language-contributed-to-the-us-canada-trade-war",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T23:07:11+00:00",
+     "summary": "The trade war between the United States and Canada has taken on the flavor of a culture war after the collapse of negotiations last week."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "The potential economic fallout of Trump's trade war with Canada",
+     "url": "https://www.pbs.org/newshour/show/the-potential-economic-fallout-of-trumps-trade-war-with-canada",
+     "author": "Azhar Merchant",
+     "kind": "news",
+     "published": "2026-08-24T22:55:06+00:00",
+     "summary": "The trade war between the U.S. and Canada is intensifying after negotiations broke down over the weekend. Canadian Prime Minister Mark Carney said his country had been preparing for a fundamental shift in its relationship with the U.S., which it no longer views as a reliable partner. Geoff Bennett discussed the economic fallout on both sides of the border with Peter Armstrong of the CBC."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Ontario's Ford warns US power could be cut as he trades insults with Trump",
+     "url": "https://thehill.com/policy/international/6047866-ford-threatens-ontario-power-cuts/",
+     "author": "Ashleigh Fields",
+     "kind": "news",
+     "published": "2026-08-24T21:36:33+00:00",
+     "summary": "Ontario Premier Doug Ford on Monday threatened to cut the province\u2019s power exports to the U.S. as a trade war with President Trump plays out publicly for a second time. Ford told reporters \u201ceverything is on the table\u201d when it comes to retaliatory measures against the White House in response to failed trade talks and..."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Canada\u2019s Doug Ford Calls Trump A \u2018Dictator\u2019 As \u2018Economic War\u2019 Escalates",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/24/canadas-doug-ford-calls-trump-a-dictator-as-economic-war-escalates/",
+     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-24T20:05:03+00:00",
+     "summary": "Trump wants significant trade concessions from Canada including a reduction in retaliatory tariffs on American industries like agriculture and automotive."
+    }
+   ]
+  },
+  {
    "id": "d109ca4d96",
    "topic": "Politics",
    "summary": "The Trump administration is reportedly preparing to revoke business and tourist visas held by as many as 200,000 foreigners who have applied for asylum in the U.S. The State Department is expected to announce the sweeping action in the coming weeks, The Associated Press reported , citing internal documents and two U.S. officials. The effort would target B1 and B2 visas issued between 2016 and 2026 to foreigners who later sought asylum. If carried out, the move would mark the largest mass visa revocation in U.S. history and could face legal challenges , according to the outlet. FOREIGN DRUNK DRIVERS COULD FACE SWIFT BOOT OUT OF COUNTRY UNDER TRUMP'S 'AMERICA FIRST' CRACKDOWN \"We are coordinating with DHS to identify and revoke the nonimmigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently,\"\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
     "bigCount": 6,
-    "indieCount": 3,
+    "indieCount": 2,
     "big": [
      "issued",
      "admin",
      "ever",
-     "state",
+     "associated",
      "expected",
-     "department"
+     "state"
     ],
     "indie": [
      "status"
@@ -492,18 +468,18 @@
    },
    "people": [],
    "absent": [
-    "coop"
+    "coop",
+    "pub"
    ],
    "headline": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
    "updated": "2026-08-25T04:56:29+00:00",
-   "outletCount": 9,
+   "outletCount": 8,
    "counts": {
     "nonprofit": 2,
     "family": 5,
-    "corp": 1,
-    "pub": 1
+    "corp": 1
    },
-   "newsCount": 8,
+   "newsCount": 7,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -553,15 +529,6 @@
      "summary": "The Trump administration is preparing to revoke business and tourism visas from up to 200,000 migrants who have applied for or are currently seeking asylum in the U.S. on a rolling basis \u2014 a move that would trigger the largest mass visa revocation ever, The Associated Press reported Monday. The State Department is expected to..."
     },
     {
-     "outlet": "france24",
-     "title": "Trump administration to revoke hundreds of thousands of asylum visas, officials say",
-     "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-24T22:54:49+00:00",
-     "summary": "President Donald Trump\u2019s administration said on Monday it plans to revoke non-immigrant visas held by foreigners who applied for or are seeking asylum in the United States. The move could affect up to 200,000 people, the Associated Press reported, potentially making it the largest mass visa revocation in US history."
-    },
-    {
      "outlet": "forbes",
      "title": "Trump Administration Preparing For Largest Visa Revocation In U.S. History, Report Says",
      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/24/trump-administration-preparing-for-largest-visa-revocation-in-us-history-report-says/",
@@ -597,11 +564,15 @@
    "summaryFrom": "foxnews",
    "emphasis": {
     "bigCount": 4,
-    "indieCount": 3,
+    "indieCount": 4,
     "big": [
      "foreign"
     ],
-    "indie": []
+    "indie": [
+     "non-immigrant",
+     "seeking",
+     "donald"
+    ]
    },
    "people": [],
    "absent": [
@@ -609,14 +580,14 @@
    ],
    "headline": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
    "updated": "2026-08-25T04:44:00+00:00",
-   "outletCount": 7,
+   "outletCount": 8,
    "counts": {
-    "pub": 2,
+    "pub": 3,
     "family": 3,
     "nonprofit": 1,
     "corp": 1
    },
-   "newsCount": 7,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -673,6 +644,15 @@
      "kind": "news",
      "published": "2026-08-25T01:01:44+00:00",
      "summary": "If the action happens, it will be the largest single mass revocation of visas in US history, AP reports."
+    },
+    {
+     "outlet": "france24",
+     "title": "Trump administration to revoke hundreds of thousands of asylum visas",
+     "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-24T22:54:49+00:00",
+     "summary": "President Donald Trump\u2019s administration said on Monday it plans to revoke non-immigrant visas held by foreigners who applied for or are seeking asylum in the United States. The move could affect up to 200,000 people, the Associated Press reported, potentially making it the largest mass visa revocation in US history."
     },
     {
      "outlet": "axios",
@@ -783,108 +763,6 @@
    ]
   },
   {
-   "id": "13e95f3759",
-   "topic": "Climate & Energy",
-   "summary": "Local residents look over a fence at the Hawk fire burning in Reno, Nevada, on August 23, 2026. \u2014Trevor Bexon\u2014Getty Images The ongoing \u201cHawk\u201d fire outside the city of Reno, Nevada, has prompted the evacuation of tens of thousands of people in yet another devastating blaze contributing to one of the worst U.S. wildfire seasons in recent history. Roughly 42,000 people have been evacuated around Reno, while an additional 45,000 were warned that they may also have to flee. The evacuation is among the largest prompted by a U.S. wildfire this year, following the fires around Spokane, Washington, in early August during which roughly 60,000 people were evacuated. The Reno evacuations mark another flashpoint of a record-breaking fire season. The fire is dwarfed in acreage by larger blazes from this year, at roughly 15,000 acres burned so far, but its direct effect on civilians is one of the\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 5,
-    "big": [
-     "evacuated"
-    ],
-    "indie": [
-     "forces",
-     "near",
-     "monday",
-     "wind-driven",
-     "orders",
-     "fast-moving"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
-   "updated": "2026-08-25T02:45:28+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 2,
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
-     "url": "https://www.france24.com/en/americas/20260825-nevada-wildfire-reno-evacuations",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-25T02:45:28+00:00",
-     "summary": "Tens of thousands of people faced another night away from home on Monday as a wind-driven wildfire threatened Reno, Nevada, blanketing the city in smoke and closing schools. About 24,000 people remained under evacuation orders, down from more than 40,000 at the peak, while tens of thousands more were on alert."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
-     "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
-     "author": "Edward Helmore, Dani Anguiano , Cecilia Nowell and agencies",
-     "kind": "news",
-     "published": "2026-08-25T01:28:27+00:00",
-     "summary": "Tens of thousands are still under evacuation orders or warnings amid \u2018human-caused\u2019, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving , wind-driven wildfire sparked near Reno, Nevada . Authorities added that 23,000 people are under a \u201cgo-now\u201d order and 40,000 people are under a \u201cget-set\u201d warning, an improvement from the 90,000 Nevadans under evacuation orders or warnings on Monday morning. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Fast-moving wildfire forces thousands to evacuate near Reno, Nevada",
-     "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T01:06:18+00:00",
-     "summary": "Firefighters are still working to contain the blaze, which has burned 15,000 acres and injured seven people, officials say."
-    },
-    {
-     "outlet": "time",
-     "title": "Tens of Thousands of Nevadans Evacuated in Latest Wildfire of Record-Breaking Year",
-     "url": "https://time.com/article/2026/08/24/reno-nevada-hawk-fire-evacuations/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-24T23:01:47+00:00",
-     "summary": "Local residents look over a fence at the Hawk fire burning in Reno, Nevada, on August 23, 2026. \u2014Trevor Bexon\u2014Getty Images The ongoing \u201cHawk\u201d fire outside the city of Reno, Nevada, has prompted the evacuation of tens of thousands of people in yet another devastating blaze contributing to one of the worst U.S. wildfire seasons in recent history. Roughly 42,000 people have been evacuated around Reno, while an additional 45,000 were warned that they may also have to flee. The evacuation is among the largest prompted by a U.S. wildfire this year, following the fires around Spokane, Washington, in early August during which roughly 60,000 people were evacuated. The Reno evacuations mark another flashpoint of a record-breaking fire season. The fire is dwarfed in acreage by larger blazes from this year, at roughly 15,000 acres burned so far, but its direct effect on civilians is one of the largest in recent years, and demonstrates the potential risk that worsening wildfires may have on people and their communities in years to come. Here\u2019s how fires around the U.S. have set new records, and why they have been so bad this year. More acres burned and more entrapments Compared to the past 10 y"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Ten of thousands evacuated from Nevada wildfire",
-     "url": "https://www.nbcnews.com/nightly-news/video/ten-of-thousands-evacuated-from-nevada-wildfire-268795973727",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T22:46:10+00:00",
-     "summary": "In Reno, Nevada, the Hawk Fire, officials say, has destroyed dozens of homes and forced 45,000 people to evacuate. The fire is said to be human caused, but still under investigation, if that act was intentional. NBC News\u2019 Steve Patterson reports from Reno."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "News Wrap: Wildfire forces evacuations near Reno",
-     "url": "https://www.pbs.org/newshour/show/news-wrap-wildfire-forces-evacuations-near-reno",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T22:40:47+00:00",
-     "summary": "In our news wrap Monday, tens of thousands have been urged to evacuate amid a wildfire near Reno, Nevada, the Supreme Court cleared the way for President Trump to move ahead with his executive order restricting mail-in voting and the Pentagon says it struck a boat in the eastern Pacific, killing two people it accused of trafficking drugs."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
-     "url": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T05:18:00+00:00",
-     "summary": "A wind-driven wildfire has forced roughly 42,000 people to evacuate and destroyed homes as fire crews continue to battle extreme conditions."
-    }
-   ]
-  },
-  {
    "id": "ab58d984ec",
    "topic": "Politics",
    "summary": "On July 27, 2026, the Solicitor General submitted an emergency application in Trump v. California . This case concerns proposed regulations for mail-in ballots. The government filed its reply brief on August 12. After a flurry of litigation in the lower court, and new action by the government, the Supreme Court finally decided the case on August 24. This emergency case took nearly a month. The majority opinion, at a brisk ten pages, finds the District Court lacked jurisdiction because the case was not yet ripe. Moreover, any alleged injuries were speculative under Clapper . The per curiam opinion reads a lot of Justice Kavanaugh's voice. I do like the word \"concretize.\" Justice Kavanuagh has taken the lead in writing some of the Court's more significant jurisdictional cases. One would think that a former federal courts professor in the majority would get these cases, but apparently not.\u2026",
@@ -893,12 +771,12 @@
     "bigCount": 4,
     "indieCount": 3,
     "big": [
-     "jackson",
      "ketanji",
      "election",
-     "power",
+     "images",
      "brown",
-     "images"
+     "getty",
+     "jackson"
     ],
     "indie": [
      "lower"
@@ -995,18 +873,18 @@
     "bigCount": 5,
     "indieCount": 2,
     "big": [
+     "defense",
      "judge",
      "mistrial",
      "witness",
-     "defense",
      "killing",
-     "denies"
+     "religion"
     ],
     "indie": [
      "heilbrun",
-     "forensic",
      "psychologist",
-     "kirk"
+     "kirk",
+     "forensic"
     ]
    },
    "people": [],
@@ -1092,6 +970,99 @@
    ]
   },
   {
+   "id": "13e95f3759",
+   "topic": "Climate & Energy",
+   "summary": "Local residents look over a fence at the Hawk fire burning in Reno, Nevada, on August 23, 2026. \u2014Trevor Bexon\u2014Getty Images The ongoing \u201cHawk\u201d fire outside the city of Reno, Nevada, has prompted the evacuation of tens of thousands of people in yet another devastating blaze contributing to one of the worst U.S. wildfire seasons in recent history. Roughly 42,000 people have been evacuated around Reno, while an additional 45,000 were warned that they may also have to flee. The evacuation is among the largest prompted by a U.S. wildfire this year, following the fires around Spokane, Washington, in early August during which roughly 60,000 people were evacuated. The Reno evacuations mark another flashpoint of a record-breaking fire season. The fire is dwarfed in acreage by larger blazes from this year, at roughly 15,000 acres burned so far, but its direct effect on civilians is one of the\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 4,
+    "big": [
+     "evacuated"
+    ],
+    "indie": [
+     "monday",
+     "forces",
+     "near",
+     "orders",
+     "wind-driven",
+     "fast-moving"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
+   "updated": "2026-08-25T02:45:28+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 2,
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Nevada wildfire forces tens of thousands to evacuate as blaze threatens city of Reno",
+     "url": "https://www.france24.com/en/americas/20260825-nevada-wildfire-reno-evacuations",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-25T02:45:28+00:00",
+     "summary": "Tens of thousands of people faced another night away from home on Monday as a wind-driven wildfire threatened Reno, Nevada, blanketing the city in smoke and closing schools. About 24,000 people remained under evacuation orders, down from more than 40,000 at the peak, while tens of thousands more were on alert."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
+     "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+     "author": "Edward Helmore, Dani Anguiano , Cecilia Nowell and agencies",
+     "kind": "news",
+     "published": "2026-08-25T01:28:27+00:00",
+     "summary": "Tens of thousands are still under evacuation orders or warnings amid \u2018human-caused\u2019, wind-driven blaze The Hawk fire is about 27% contained, authorities said on Monday afternoon, two days after the fast-moving , wind-driven wildfire sparked near Reno, Nevada . Authorities added that 23,000 people are under a \u201cgo-now\u201d order and 40,000 people are under a \u201cget-set\u201d warning, an improvement from the 90,000 Nevadans under evacuation orders or warnings on Monday morning. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Fast-moving wildfire forces thousands to evacuate near Reno, Nevada",
+     "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T01:06:18+00:00",
+     "summary": "Firefighters are still working to contain the blaze, which has burned 15,000 acres and injured seven people, officials say."
+    },
+    {
+     "outlet": "time",
+     "title": "Tens of Thousands of Nevadans Evacuated in Latest Wildfire of Record-Breaking Year",
+     "url": "https://time.com/article/2026/08/24/reno-nevada-hawk-fire-evacuations/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-24T23:01:47+00:00",
+     "summary": "Local residents look over a fence at the Hawk fire burning in Reno, Nevada, on August 23, 2026. \u2014Trevor Bexon\u2014Getty Images The ongoing \u201cHawk\u201d fire outside the city of Reno, Nevada, has prompted the evacuation of tens of thousands of people in yet another devastating blaze contributing to one of the worst U.S. wildfire seasons in recent history. Roughly 42,000 people have been evacuated around Reno, while an additional 45,000 were warned that they may also have to flee. The evacuation is among the largest prompted by a U.S. wildfire this year, following the fires around Spokane, Washington, in early August during which roughly 60,000 people were evacuated. The Reno evacuations mark another flashpoint of a record-breaking fire season. The fire is dwarfed in acreage by larger blazes from this year, at roughly 15,000 acres burned so far, but its direct effect on civilians is one of the largest in recent years, and demonstrates the potential risk that worsening wildfires may have on people and their communities in years to come. Here\u2019s how fires around the U.S. have set new records, and why they have been so bad this year. More acres burned and more entrapments Compared to the past 10 y"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Ten of thousands evacuated from Nevada wildfire",
+     "url": "https://www.nbcnews.com/nightly-news/video/ten-of-thousands-evacuated-from-nevada-wildfire-268795973727",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T22:46:10+00:00",
+     "summary": "In Reno, Nevada, the Hawk Fire, officials say, has destroyed dozens of homes and forced 45,000 people to evacuate. The fire is said to be human caused, but still under investigation, if that act was intentional. NBC News\u2019 Steve Patterson reports from Reno."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "News Wrap: Wildfire forces evacuations near Reno",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-wildfire-forces-evacuations-near-reno",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T22:40:47+00:00",
+     "summary": "In our news wrap Monday, tens of thousands have been urged to evacuate amid a wildfire near Reno, Nevada, the Supreme Court cleared the way for President Trump to move ahead with his executive order restricting mail-in voting and the Pentagon says it struck a boat in the eastern Pacific, killing two people it accused of trafficking drugs."
+    }
+   ]
+  },
+  {
    "id": "edca62934c",
    "topic": "Politics",
    "summary": "Democrats are angry with House Minority Leader Hakeem Jeffries (D-NY) after he privately met with President Donald Trump\u2019s son-in-law Jared Kushner to discuss potential areas of cooperation. Former Obama aide Tommy Vietor blasted Jeffries over the meeting, arguing that Kushner should be the target of congressional scrutiny rather than an ally. \u201cJared Kushner has no actual government job. He just uses his family connections to get money from Gulf autocrats and fund corrupt deals,\u201d Vietor said. \u201cThe only way Jeffries should work with him is with demands for documents and subpoenas.\u201d Democratic pundit Jennifer Welch was even more direct. \u201cI don\u2019t want to work with fascists. I don\u2019t want to collaborate with fascists,\u201d she said. Mehdi Hasan, founder and editor-in-chief of the left-wing news outlet Zeteo, also criticized the meeting. \u201cThis is just pathetic stuff from the House Democratic\u2026",
@@ -1103,8 +1074,8 @@
      "elections",
      "areas",
      "privately",
-     "donald",
      "minority",
+     "donald",
      "adviser"
     ],
     "indie": []
@@ -1183,95 +1154,6 @@
    ]
   },
   {
-   "id": "6e7b83dcde",
-   "topic": "World",
-   "summary": "Iranian state television has reached a chilling new low, broadcasting an explicit segment detailing threats against 20-year-old Barron Trump. The alarming three-minute clip targets President Donald Trump\u2019s youngest son, deploying highly stylized graphics to map out ways to reach the NYU student on U.S. soil. As Iran International reported , the broadcast claimed to track Barron across various locations and social media platforms and plot ways to breach his Secret Service detail. Much of the montage relied on AI-generated visuals, including footage of a hooded hacker hunting for data alongside clips of Barron Trump in an Arsenal soccer jersey playing Xbox. The narrator referenced a $10 million bounty, boasting that \u201cmany would be willing\u201d to collect. The latest news is far from an isolated threat. The despotic Iranian regime has spent years orchestrating complex assassination schemes\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 2,
-    "big": [
-     "secretary",
-     "iranian"
-    ],
-    "indie": [
-     "campaign"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Video: Iran reacts to US \u2018economic D-Day\u2019 sanctions",
-   "updated": "2026-08-25T00:47:15+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 2,
-    "family": 2,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "U.S. unveils new Iran sanctions after Trump threatened \"economic D-Day\"",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T00:47:15+00:00",
-     "summary": "Treasury Secretary Scott Bessent said new sanctions being imposed on Iran would amount to the \"greatest financial offensive\" ever."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Trump forgoes military strikes, attempts economic chokehold on Iran",
-     "url": "https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran/",
-     "author": "Ellen Mitchell",
-     "kind": "news",
-     "published": "2026-08-24T22:05:59+00:00",
-     "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Trump bets on economic chokehold on Iran over military strikes, for now Defense Secretary Pete Hegseth said Monday that the Trump administration\u2019s economic pressure on Iran is hurting the regime \u201cthe most right now,\u201d but did not..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Iran Pledges to Defy Trump\u2019s Economic Sanctions",
-     "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
-     "author": "Aaron Boxerman, Sanam Mahoozi and Ephrat Livni",
-     "kind": "news",
-     "published": "2026-08-24T21:12:01+00:00",
-     "summary": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran\u2019s economy. One Iranian official vowed that \u201cnot a single drop of oil\u201d would leave the gulf."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Video: Iran reacts to US \u2018economic D-Day\u2019 sanctions",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T20:48:21+00:00",
-     "summary": "Iran\u2019s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign."
-    },
-    {
-     "outlet": "guardian",
-     "title": "US threatens severe sanctions against countries with economic ties to Iran",
-     "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
-     "author": "Julian Borger Senior international correspondent",
-     "kind": "news",
-     "published": "2026-08-24T18:57:57+00:00",
-     "summary": "Washington launches campaign to isolate Tehran but it is unclear whether it will apply measures to China The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with Iran, hoping to achieve with economic measures what military means have so far failed to do. It is unclear, however, how far the Trump administration is prepared to go in confronting China, Iran\u2019s biggest trading partner, which has signalled its resistance to US economic pressure to cut off links with an ally. Continue reading..."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Iran Airs Sick AI Video Threatening Barron Trump With $10M Bounty To Killer",
-     "url": "https://www.dailywire.com/news/iran-airs-sick-ai-video-threatening-barron-trump-with-10m-bounty-to-killer",
-     "author": "Hank Berrien",
-     "kind": "opinion",
-     "published": "2026-08-24T11:26:00+00:00",
-     "summary": "Iranian state television has reached a chilling new low, broadcasting an explicit segment detailing threats against 20-year-old Barron Trump. The alarming three-minute clip targets President Donald Trump\u2019s youngest son, deploying highly stylized graphics to map out ways to reach the NYU student on U.S. soil. As Iran International reported , the broadcast claimed to track Barron across various locations and social media platforms and plot ways to breach his Secret Service detail. Much of the montage relied on AI-generated visuals, including footage of a hooded hacker hunting for data alongside clips of Barron Trump in an Arsenal soccer jersey playing Xbox. The narrator referenced a $10 million bounty, boasting that \u201cmany would be willing\u201d to collect. The latest news is far from an isolated threat. The despotic Iranian regime has spent years orchestrating complex assassination schemes against Trump and his inner circle, driven by a bloodthirsty desire for revenge following the 2020 U.S. strike that eliminated Quds Force Commander Qasem Soleimani. Iran has even made videos similar to its recent threat against Barron Trump before targeting the U.S. president and his wife, Melania, acco"
-    }
-   ]
-  },
-  {
    "id": "f161880b92",
    "topic": "Politics",
    "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialists\u2026",
@@ -1285,8 +1167,8 @@
     ],
     "indie": [
      "neighbors",
-     "other",
-     "goods"
+     "goods",
+     "other"
     ]
    },
    "people": [],
@@ -1433,45 +1315,59 @@
    ]
   },
   {
-   "id": "79bf3b23e6",
-   "topic": "World",
-   "summary": "The News Treasury Secretary Scott Bessent on Monday threatened a wider range of secondary sanctions on countries that do business with Iran, stopping short of imposing them as the Trump administration continues its battle against inflation. \u201cWe are giving everyone the opportunity to remedy that behavior,\u201d Bessent told reporters at the Treasury Department. \u201cWhy would I want to blow up the global financial system? We believe that it\u2019s important to level-set.\u201d President Donald Trump is calling foreign counterparts \u201cwith specific requests to cease their interaction with the regime,\u201d Bessent said. Every country, he added, \u201chas a defined timeline to shut down activities we have identified.\u201d Those activities span five Iranian sectors: digital assets, technology, gold, aviation, and shipping. Not cited: Chinese banks that help facilitate Iranian transactions, which would have rattled the US\u2019\u2026",
-   "summaryFrom": "semafor",
-   "emphasis": null,
+   "id": "bf4bb53db9",
+   "topic": "Politics",
+   "summary": "Treasury Secretary Scott Bessent announced on Monday that the U.S. will impose punishing sanctions on countries and entities that do business with Iran \u2014 an attempt to bring the country to heel absent renewed military strikes. Why it matters: The plan, which Bessent dubbed \"Operation Economic Outcast,\" is aimed at ratcheting up pressure on the Iranian regime amid the current \"no war, no deal\" limbo. U.S. officials say the expanded \"secondary\" sanctions are expected to be the main course of action against Iran until at least after the midterm elections, when a new military campaign could again be on the table. What he said: \" Let there be no ambiguity as to the position of the United States,\" Bessent said at a news conference. \"An economic engagement of any kind with this murderous regime will expose those responsible to the full reach of American power.\" Bessent did not give a deadline\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "imposing",
+     "cripple",
+     "monday",
+     "business",
+     "countries"
+    ],
+    "indie": [
+     "isolate",
+     "fresh"
+    ]
+   },
    "people": [],
    "absent": [
-    "corp",
     "coop",
     "pub"
    ],
-   "headline": "Iran\u2019s foreign minister calls threat of new US economic sanctions \u2018desperate\u2019",
-   "updated": "2026-08-25T05:00:05+00:00",
-   "outletCount": 4,
+   "headline": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
+   "updated": "2026-08-24T22:26:44+00:00",
+   "outletCount": 5,
    "counts": {
-    "family": 3,
-    "nonprofit": 1
+    "family": 2,
+    "corp": 1,
+    "nonprofit": 2
    },
-   "newsCount": 3,
-   "opinionCount": 1,
+   "newsCount": 5,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
      "outlet": "nyt",
-     "title": "China Is the Iran War\u2019s Unexpected Winner",
-     "url": "https://www.nytimes.com/2026/08/25/opinion/iran-china-energy-power.html",
-     "author": "Michal Meidan",
-     "kind": "opinion",
-     "published": "2026-08-25T05:00:05+00:00",
-     "summary": "The Iran war was supposed to expose China\u2019s weakness on oil, but it didn\u2019t quite work out that way."
+     "title": "U.S. Unveils Campaign to Cripple Iran\u2019s Economy, but Offers Few Details",
+     "url": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
+     "author": "Alan Rappeport",
+     "kind": "news",
+     "published": "2026-08-24T22:26:44+00:00",
+     "summary": "Treasury Secretary Scott Bessent said the United States would \u201ctighten the noose\u201d around Iran by imposing sanctions on every source or facilitator of its revenue."
     },
     {
-     "outlet": "bloomberg",
-     "title": "Bessent\u2019s Iran Threat Hinges on US Willingness to Hit China",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-25/trump-s-iran-pivot-from-war-to-sanctions-will-hit-china-or-fail",
-     "author": "Magdalena Del Valle and Yash Roy",
+     "outlet": "axios",
+     "title": "Bessent unveils sanctions designed to cripple Iran",
+     "url": "https://www.axios.com/2026/08/24/bessent-dday-iran-secondary-sanctions",
+     "author": "Barak Ravid",
      "kind": "news",
-     "published": "2026-08-25T00:00:00+00:00",
-     "summary": "Treasury Secretary Scott Bessent\u2019s threat to unleash an \u201ceconomic D-Day\u201d against Iran risks setting the US on a collision course with China, its main trading partner."
+     "published": "2026-08-24T18:08:22+00:00",
+     "summary": "Treasury Secretary Scott Bessent announced on Monday that the U.S. will impose punishing sanctions on countries and entities that do business with Iran \u2014 an attempt to bring the country to heel absent renewed military strikes. Why it matters: The plan, which Bessent dubbed \"Operation Economic Outcast,\" is aimed at ratcheting up pressure on the Iranian regime amid the current \"no war, no deal\" limbo. U.S. officials say the expanded \"secondary\" sanctions are expected to be the main course of action against Iran until at least after the midterm elections, when a new military campaign could again be on the table. What he said: \" Let there be no ambiguity as to the position of the United States,\" Bessent said at a news conference. \"An economic engagement of any kind with this murderous regime will expose those responsible to the full reach of American power.\" Bessent did not give a deadline for compliance, but said, \"I'm not going to set a timeline, but we do not have infinite patience here.\" \"No one is above this,\" Bessent said in response to a question about whether the initiative would encompass China. \"This is economic asphyxiation of this regime ... and no one should test our resol"
     },
     {
      "outlet": "semafor",
@@ -1481,6 +1377,15 @@
      "kind": "news",
      "published": "2026-08-24T18:00:11+00:00",
      "summary": "The News Treasury Secretary Scott Bessent on Monday threatened a wider range of secondary sanctions on countries that do business with Iran, stopping short of imposing them as the Trump administration continues its battle against inflation. \u201cWe are giving everyone the opportunity to remedy that behavior,\u201d Bessent told reporters at the Treasury Department. \u201cWhy would I want to blow up the global financial system? We believe that it\u2019s important to level-set.\u201d President Donald Trump is calling foreign counterparts \u201cwith specific requests to cease their interaction with the regime,\u201d Bessent said. Every country, he added, \u201chas a defined timeline to shut down activities we have identified.\u201d Those activities span five Iranian sectors: digital assets, technology, gold, aviation, and shipping. Not cited: Chinese banks that help facilitate Iranian transactions, which would have rattled the US\u2019 relationship with the country before Trump meets with Chinese leader Xi Jinping next month. Echoing previous comments, Bessent declined to rule out targeting the banks in the future. He later teased \u201ca major announcement of a financial institution being sanctioned by the end of this week.\u201d Know More Al"
+    },
+    {
+     "outlet": "npr",
+     "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
+     "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+     "author": "Fatima Al-Kassab",
+     "kind": "news",
+     "published": "2026-08-24T12:26:00+00:00",
+     "summary": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\" (Image credit: Julia Demaree Nikhinson)"
     },
     {
      "outlet": "guardian",
@@ -1494,36 +1399,50 @@
    ]
   },
   {
-   "id": "22a3eeb9cb",
+   "id": "67069ebde5",
    "topic": "Politics",
    "summary": "Treasury Secretary Scott Bessent on Monday launched \u201cOperation Economic Outcast,\u201d a campaign to cut Iran off from the global economy and punish governments, banks, and companies that continue doing business with Tehran. The announcement comes roughly six months after President Donald Trump launched his military campaign against Iran, with Bessent saying the new economic offensive will target the financial networks and revenue streams that sustain the Iranian government, military, and security apparatus. Bessent described the campaign as an \u201ceconomic D-Day,\u201d comparing it to the Allied invasion of Normandy during World War II, and warned that countries enabling Iran\u2019s trade and financial activity will face U.S. sanctions. \u201cOur objective is to sever every economic lifeline that sustains this tyrannical regime until Tehran stands alone,\u201d Bessent said. \u201cPresident Trump has taken action that\u2026",
    "summaryFrom": "dailywire",
-   "emphasis": null,
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "tehran",
+     "economic",
+     "operation",
+     "global",
+     "monday",
+     "outcast"
+    ],
+    "indie": [
+     "further"
+    ]
+   },
    "people": [],
    "absent": [
     "corp",
     "coop",
-    "nonprofit",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Bessent Unleashes \u2018Operation Economic Outcast\u2019 on Iran | Balance of Power: Late Edition 08/24/2026",
-   "updated": "2026-08-24T23:22:30+00:00",
-   "outletCount": 4,
+   "headline": "US announces bid to further isolate Iran economically",
+   "updated": "2026-08-24T19:03:00+00:00",
+   "outletCount": 5,
    "counts": {
-    "family": 4
+    "pub": 2,
+    "family": 3
    },
-   "newsCount": 3,
+   "newsCount": 4,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "bloomberg",
-     "title": "Bessent Unleashes \u2018Operation Economic Outcast\u2019 on Iran | Balance of Power: Late Edition 08/24/2026",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-24/balance-of-power-late-edition-08-24-2026-video",
+     "outlet": "dw",
+     "title": "US announces bid to further isolate Iran economically",
+     "url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-24T23:22:30+00:00",
-     "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Rep. Jake Auchincloss (D-MA) says he will not vote \u201cfor a single dollar\u201d to fund what he calls a failed and illegal war, arguing Congress must prevent it from becoming a \u201cforever war.\u201d Stephen Moore, former Trump economic advisor, says China is key to the success of the Trump administration's secondary sanctions targeting countries that continue to do business with Iran. Rob Bonta, Attorney General of California, says he canceled a meeting with Paramount over its proposed merger with Warner Bros., accusing the company of \u201cplaying games\u201d and leaking details of confidential negotiations to the press. (Source: Bloomberg)"
+     "published": "2026-08-24T19:03:00+00:00",
+     "summary": "US Treasury Secretary Scott Bessent has outlined what he called \"unprecedented\" moves to isolate Iran economically. He said it will focus on third countries, warning those who don't comply will \"share\" in the isolation."
     },
     {
      "outlet": "breitbart",
@@ -1551,6 +1470,156 @@
      "kind": "news",
      "published": "2026-08-24T14:16:44+00:00",
      "summary": "The US warned of an impending \u201c economic D-Day \u201d against Iran that could envelop some of Washington\u2019s allies and trading partners. The US Treasury secretary will today unveil a raft of measures against Tehran and its financial and commercial \u201cenablers,\u201d he wrote in the Financial Times. Diplomacy is ostensibly still underway \u2014 Pakistan\u2019s leader is due in Iran today, Oman\u2019s foreign minister tomorrow \u2014 and Iran\u2019s politicians have called for an end to war with the US. But its powerful security forces are defiant: Iran\u2019s security chief warned Gulf states against joining US efforts , while the Institute for the Study of War noted \u201c there is no indication that economic pressure \u2026 has changed [top officials\u2019] anti-concessions position.\u201d \u2014 Prashant Rao"
+    },
+    {
+     "outlet": "france24",
+     "title": "France's left fractures further as MEP launches presidential bid",
+     "url": "https://www.france24.com/en/france-s-left-fractures-further-as-mep-launches-presidential-bid",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-24T13:39:18+00:00",
+     "summary": "French centre-left politician Raphael Glucksmann announced his candidacy for France's presidential election next year, joining a crowded field of far-right figures, centrists and fellow left-wingers. Hard-left leader Jean-Luc Melenchon is planning to stand while Greens leader Marine Tondelier is campaigning while pregnant, socialist Party (PS) leader Olivier Faure and even possibly ex-president Francois Hollande are also mulling runs."
+    }
+   ]
+  },
+  {
+   "id": "339ff6bc5e",
+   "topic": "Politics",
+   "summary": "On Monday afternoon, President Trump\u2019s Treasury Secretary Scott Bessent announced that the US would impose all-encompassing sanctions on countries and institutions that conduct business with Iran, in an apparent attempt to end the war after most viable military options have failed. Bessent described the plan , dubbed Operation Economic Outcast, as an \u201ceconomic D-Day,\u201d in reference to the Allied invasion of Normandy during World War II, with the Iranian regime replacing Nazi Germany. Bessent vowed to \u201csever every economic lifeline\u201d that sustains Iran\u2014including digital assets, technology, gold, aviation, and shipping\u2014by enforcing a \u201czero-leakage approach\u201d that will shut down \u201cevery facilitator and every network\u201d that Iran has used to smuggle oil past existing sanctions . But Bessent did not disclose how that process would work, or on what timeline. When we don\u2019t know what to do, we\u2026",
+   "summaryFrom": "motherjones",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+   "updated": "2026-08-25T06:54:46+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 1,
+    "family": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+     "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T06:54:46+00:00",
+     "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Iran Pledges to Defy Trump\u2019s Economic Sanctions",
+     "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+     "author": "Aaron Boxerman, Sanam Mahoozi and Ephrat Livni",
+     "kind": "news",
+     "published": "2026-08-24T21:12:01+00:00",
+     "summary": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran\u2019s economy. One Iranian official vowed that \u201cnot a single drop of oil\u201d would leave the gulf."
+    },
+    {
+     "outlet": "motherjones",
+     "title": "Maybe Trump\u2019s Iran Sanctions Will Work This Time",
+     "url": "https://www.motherjones.com/politics/2026/08/bessent-trump-iran-sanctions-secondary-oil-d-day-uae/",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-24T20:02:51+00:00",
+     "summary": "On Monday afternoon, President Trump\u2019s Treasury Secretary Scott Bessent announced that the US would impose all-encompassing sanctions on countries and institutions that conduct business with Iran, in an apparent attempt to end the war after most viable military options have failed. Bessent described the plan , dubbed Operation Economic Outcast, as an \u201ceconomic D-Day,\u201d in reference to the Allied invasion of Normandy during World War II, with the Iranian regime replacing Nazi Germany. Bessent vowed to \u201csever every economic lifeline\u201d that sustains Iran\u2014including digital assets, technology, gold, aviation, and shipping\u2014by enforcing a \u201czero-leakage approach\u201d that will shut down \u201cevery facilitator and every network\u201d that Iran has used to smuggle oil past existing sanctions . But Bessent did not disclose how that process would work, or on what timeline. When we don\u2019t know what to do, we sanction Iran. In fact, the treasury secretary offered almost nothing in the way of details\u2014perhaps because, over roughly 47 years of US sanctions on Iran, there is little that the United States hasn\u2019t tried and even less indication that Iran has become more compliant. When we don\u2019t know what to do, we san"
+    },
+    {
+     "outlet": "guardian",
+     "title": "US threatens severe sanctions against countries with economic ties to Iran",
+     "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
+     "author": "Julian Borger Senior international correspondent",
+     "kind": "news",
+     "published": "2026-08-24T18:57:57+00:00",
+     "summary": "Washington launches campaign to isolate Tehran but it is unclear whether it will apply measures to China The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with Iran, hoping to achieve with economic measures what military means have so far failed to do. It is unclear, however, how far the Trump administration is prepared to go in confronting China, Iran\u2019s biggest trading partner, which has signalled its resistance to US economic pressure to cut off links with an ally. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "a3b2827181",
+   "topic": "World",
+   "summary": "Canada's icebreaker expertise is playing a role in US efforts to expand its own Arctic fleet. Jim West/UCG/Universal Images Group/Getty Images Mark Carney says icebreakers are one of the \"many, many, many things\" the US needs from Canada. Canada is spending $8.2 billion on six new icebreakers as it strengthens its presence in the Arctic. The US is racing to expand its own polar fleet as melting Arctic ice fuels new routes and rivalry. As trade tensions between the US and Canada boil over, Mark Carney pointed out one area where the two countries' interests are closely intertwined: icebreakers. On Monday, the Canadian Prime Minister said that cooperation on the specialized vessels was a \"reminder of one of the many, many, many things that the United States needs from Canada.\" Carney was speaking at a news conference in Quebec, where he announced an 11.3 billion Canadian dollar, or $8.2\u2026",
+   "summaryFrom": "businessinsider",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "images",
+     "getty"
+    ],
+    "indie": [
+     "deal"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Mark Carney says Canada can\u2019t accept US trade deal that would weaken French language",
+   "updated": "2026-08-25T05:52:36+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "family": 1,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "businessinsider",
+     "title": "Mark Carney says there are many things the US needs from Canada \u2014 and a very special kind of boat is one of them",
+     "url": "https://www.businessinsider.com/us-canada-trump-rade-tariffs-mark-carney-icebreakers-ships-arctic-2026-8",
+     "author": "Huileng Tan (htan@insider.com)",
+     "kind": "news",
+     "published": "2026-08-25T05:52:36+00:00",
+     "summary": "Canada's icebreaker expertise is playing a role in US efforts to expand its own Arctic fleet. Jim West/UCG/Universal Images Group/Getty Images Mark Carney says icebreakers are one of the \"many, many, many things\" the US needs from Canada. Canada is spending $8.2 billion on six new icebreakers as it strengthens its presence in the Arctic. The US is racing to expand its own polar fleet as melting Arctic ice fuels new routes and rivalry. As trade tensions between the US and Canada boil over, Mark Carney pointed out one area where the two countries' interests are closely intertwined: icebreakers. On Monday, the Canadian Prime Minister said that cooperation on the specialized vessels was a \"reminder of one of the many, many, many things that the United States needs from Canada.\" Carney was speaking at a news conference in Quebec, where he announced an 11.3 billion Canadian dollar, or $8.2 billion, contract for shipbuilder Chantier Davie to build six new icebreakers for the Canadian Coast Guard. He also used the occasion to take a jab at the size of the US fleet, which Washington is racing to expand as melting Arctic ice opens new shipping routes and intensifies competition in the region"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Mark Carney Says Canada \u2018at War\u2019 After Failed U.S. Trade Talks",
+     "url": "https://www.breitbart.com/economy/2026/08/24/mark-carney-says-canada-war-after-failed-u-s-trade-talks/",
+     "author": "John Hayward",
+     "kind": "news",
+     "published": "2026-08-24T20:42:45+00:00",
+     "summary": "Canadian Prime Minister Mark Carney told reporters on Saturday that his country was \u201cat war\u201d with the United States after trade talks collapsed. The post Mark Carney Says Canada \u2018at War\u2019 After Failed U.S. Trade Talks appeared first on Breitbart ."
+    },
+    {
+     "outlet": "businessinsider",
+     "title": "How Trump's new trade war with Canada affects everything from building new homes to dog jackets",
+     "url": "https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8",
+     "author": "Juliana Kaplan,Madison Hoff,Allie Kelly (jkaplan@businessinsider.com)",
+     "kind": "news",
+     "published": "2026-08-24T19:32:45+00:00",
+     "summary": "The tariff war between the US and Canada has started back up. David Ryder/Bloomberg via Getty Images The US-Canada tariff war has flared up again, with Trump imposing a fresh set of 50% levies. Goods like alcohol and plywood are affected, but US employment likely won't be hit too hard. Canadian employment could take a hit, and tariffs will affect businesses caught in the back-and-forth. It's tariff time in America and Canada \u2014 again. On Saturday, after trade talks between Canada and the US collapsed, the Trump administration imposed 50% tariffs on a slew of Canadian items , including alcohol and hockey equipment. Canadian Prime Minister Mark Carney has already announced a dollar-for-dollar counter-tariff, marking yet another bumpy moment in tensions between the two formerly friendly neighbors. The specificity of the tariffs means that different sectors of the economy \u2014 and your everyday purchases \u2014 will get hit unevenly. The tariffs affect alcohol, milk, plywood, and more. For consumers craving Canadian whisky or finally getting around to home renovations, that might mean a bigger bite out of their wallets. Census Bureau data showed that paper and paper products alone accounted for"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Mark Carney says Canada can\u2019t accept US trade deal that would weaken French language",
+     "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+     "author": "Leyland Cecco in Toronto",
+     "kind": "news",
+     "published": "2026-08-24T18:22:14+00:00",
+     "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute Are you a Canadian boycotting US products? We\u2019d like to hear from you Mark Carney said on Monday that while American negotiators saw the French language in Canada as an \u201cirritant \u2026 in Quebec, these are rights,\u201d days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening the country\u2019s Francophone culture. The prime minister\u2019s remarks came hours after the US president, Donald Trump, showed little interest in retreating from the spat, posting on social media that Canada had been \u201cripping off the United States of America for years\u201d and threatening a swath of new, economically devastating tariffs on cars and trucks. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Carney faces crucial test after walking away from Trump's deal",
+     "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T20:02:46+00:00",
+     "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
     }
    ]
   },
@@ -1616,129 +1685,54 @@
    ]
   },
   {
-   "id": "ebca7c1a10",
+   "id": "605e106b58",
    "topic": "World",
-   "summary": "U.S. Treasury Secretary Scott Bessent speaks during a press conference, announcing a new set of sanctions against Iran and describing the measures as an \"economic D-Day,\" on Aug. 24, 2026. \u2014Mehmet Eser\u2014Anadolu Iran\u2019s currency plummeted in value Monday, hitting a record-low open-market rate of 2.02 million rials to the dollar, amid the White House \u2019s launch of \u201c Operation Economic Outcast ,\u201d which aims to force concessions from Iran through isolation and a financial stranglehold. Treasury Secretary Scott Bessent warned Sunday that an \u201ceconomic D-Day\u201d was coming, and he shared a first sense of what that might look like at a press conference the following day. \"D-Day marked a historic campaign with our allies,\u201d Bessent said Monday. \u201cToday, in that same spirit, we are launching an economic onslaught against Iran's financial connections around the globe.\" The U.S. announced sanctions on more\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "hits",
-     "record",
-     "million",
-     "rial",
-     "dollar",
-     "d-day"
-    ],
-    "indie": [
-     "fresh"
-    ]
-   },
+   "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Trump bets on economic chokehold on Iran over military strikes, for now Defense Secretary Pete Hegseth said Monday that the Trump administration\u2019s economic pressure on Iran is hurting the regime \u201cthe most right now,\u201d but did not...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
    "people": [],
    "absent": [
-    "corp",
-    "coop"
+    "coop",
+    "nonprofit",
+    "pub"
    ],
-   "headline": "\ud83d\udd34 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
-   "updated": "2026-08-24T18:49:49+00:00",
-   "outletCount": 4,
+   "headline": "How China Is Caught in Trump, Bessent\u2019s Push for Economic D-Day for Iran",
+   "updated": "2026-08-25T06:56:20+00:00",
+   "outletCount": 3,
    "counts": {
     "family": 2,
-    "pub": 1,
-    "nonprofit": 1
+    "corp": 1
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "time",
-     "title": "Iranian Rial Hits Record Low as the U.S. Unveils New Sanctions",
-     "url": "https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-24T18:49:49+00:00",
-     "summary": "U.S. Treasury Secretary Scott Bessent speaks during a press conference, announcing a new set of sanctions against Iran and describing the measures as an \"economic D-Day,\" on Aug. 24, 2026. \u2014Mehmet Eser\u2014Anadolu Iran\u2019s currency plummeted in value Monday, hitting a record-low open-market rate of 2.02 million rials to the dollar, amid the White House \u2019s launch of \u201c Operation Economic Outcast ,\u201d which aims to force concessions from Iran through isolation and a financial stranglehold. Treasury Secretary Scott Bessent warned Sunday that an \u201ceconomic D-Day\u201d was coming, and he shared a first sense of what that might look like at a press conference the following day. \"D-Day marked a historic campaign with our allies,\u201d Bessent said Monday. \u201cToday, in that same spirit, we are launching an economic onslaught against Iran's financial connections around the globe.\" The U.S. announced sanctions on more than 60 targets while expanding sanctionable sectors to digital assets, technology, gold, aviation, and shipping\u2014which Bessent described as some of the country\u2019s \u201cmost vital lifelines.\u201d The government may also impose secondary sanctions on Iran\u2019s trade partners, Bessent said, adding that those sanct"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Iran\u2019s Currency Hits Record Low as U.S. Rolls Out \u2018Economic D-Day\u2019 Sanctions",
-     "url": "https://www.breitbart.com/middle-east/2026/08/24/irans-currency-hits-record-low-as-u-s-rolls-out-economic-d-day-sanctions/",
-     "author": "John Hayward",
-     "kind": "news",
-     "published": "2026-08-24T18:26:07+00:00",
-     "summary": "Iran\u2019s currency, the rial, hit a record low over 2.02 million to the U.S. dollar on Monday as the Trump administration prepared to unveil its \u201cEconomic D-Day\u201d maximum sanctions against Tehran. The post Iran\u2019s Currency Hits Record Low as U.S. Rolls Out \u2018Economic D-Day\u2019 Sanctions appeared first on Breitbart ."
-    },
-    {
-     "outlet": "france24",
-     "title": "\ud83d\udd34 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
-     "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-24T17:16:05+00:00",
-     "summary": null
-    },
-    {
-     "outlet": "guardian",
-     "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-     "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-     "author": "Patrick Wintour Diplomatic editor",
-     "kind": "news",
-     "published": "2026-08-24T11:53:10+00:00",
-     "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as \u201cthe single greatest financial offensive ever marshalled against an adversary\u201d. In advance of the US announcement, the United Arab Emirates, Iran\u2019s single biggest trading partner in the Middle East, announced it was ending all trade with Iran, a move Tehran believes was coordinated between Washington and the UAE. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "ed1c1b50e7",
-   "topic": "World",
-   "summary": "The US says it is preparing to announce new sanctions on Iran. It's been billed an economic D-day and is expected to add further pressure on the country's economy that's already been battered from previous sanctions and a US naval blockade. The renewed economic pressure would not be the first time the US has used economic tools at its disposal to corner Iran. But what could the new measures likely entail?",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
-   "updated": "2026-08-25T05:41:01+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
      "outlet": "bloomberg",
-     "title": "What to Know About US Threats on Iran and Its Partners",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-25/what-to-know-about-us-threats-on-iran-and-its-partners-video",
-     "author": null,
+     "title": "How China Is Caught in Trump, Bessent\u2019s Push for Economic D-Day for Iran",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-25/how-china-is-caught-in-trump-bessent-s-push-for-economic-d-day-for-iran",
+     "author": "Bloomberg News",
      "kind": "news",
-     "published": "2026-08-25T05:41:01+00:00",
-     "summary": "US Treasury Secretary Scott Bessent threatened economic punishment against any country doing business with Iran, but provided few details on how the administration\u2019s new initiative would achieve any of President Donald Trump\u2019s desired results, namely the full opening of the Strait of Hormuz. Bloomberg's Abeer Abu Omar breaks down the situation. (Source: Bloomberg)"
+     "published": "2026-08-25T06:56:20+00:00",
+     "summary": "China is Iran\u2019s most important economic partner, buying some 90% of its oil exports and providing a financial lifeline to the heavily sanctioned regime. But since the US and Israel began their war with Iran six months ago, Beijing has offered little visible support to Tehran beyond criticizing the attacks."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
-     "url": "https://www.pbs.org/newshour/show/a-look-at-the-new-u-s-sanctions-on-iran-and-threats-against-its-trading-partners",
-     "author": "Dan Sagalyn",
+     "outlet": "nyt",
+     "title": "Trump\u2019s Attempt to Strangle Iran\u2019s Economy Depends on China\u2019s Cooperation",
+     "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
+     "author": "David E. Sanger",
      "kind": "news",
-     "published": "2026-08-24T22:50:12+00:00",
-     "summary": "The U.S. launched what the Trump administration calls \"Operation Economic Outcast\" against Iran. It includes threats to increase sanctions on Iran's trading partners. The pressure comes as the administration indicates it is trying to avoid returning to war, but cannot overcome Iran's stranglehold over the Strait of Hormuz. Nick Schifrin discussed more with Miad Maleki."
+     "published": "2026-08-25T01:10:23+00:00",
+     "summary": "The U.S. has spent 20 years promising \u2018crippling sanctions\u2019 on Iran. But the latest effort comes with a reverse twist, after military action failed to accomplish President Trump\u2019s goals."
     },
     {
-     "outlet": "france24",
-     "title": "What could new US sanctions on Iran entail?",
-     "url": "https://www.france24.com/en/what-could-new-us-sanctions-on-iran-entail",
-     "author": "FRANCE24",
+     "outlet": "thehill",
+     "title": "Trump forgoes military strikes, attempts economic chokehold on Iran",
+     "url": "https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran/",
+     "author": "Ellen Mitchell",
      "kind": "news",
-     "published": "2026-08-24T13:42:25+00:00",
-     "summary": "The US says it is preparing to announce new sanctions on Iran. It's been billed an economic D-day and is expected to add further pressure on the country's economy that's already been battered from previous sanctions and a US naval blockade. The renewed economic pressure would not be the first time the US has used economic tools at its disposal to corner Iran. But what could the new measures likely entail?"
+     "published": "2026-08-24T22:05:59+00:00",
+     "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Trump bets on economic chokehold on Iran over military strikes, for now Defense Secretary Pete Hegseth said Monday that the Trump administration\u2019s economic pressure on Iran is hurting the regime \u201cthe most right now,\u201d but did not..."
     }
    ]
   },
@@ -2055,58 +2049,6 @@
    ]
   },
   {
-   "id": "bf4bb53db9",
-   "topic": "Politics",
-   "summary": "Treasury Secretary Scott Bessent announced on Monday that the U.S. will impose punishing sanctions on countries and entities that do business with Iran \u2014 an attempt to bring the country to heel absent renewed military strikes. Why it matters: The plan, which Bessent dubbed \"Operation Economic Outcast,\" is aimed at ratcheting up pressure on the Iranian regime amid the current \"no war, no deal\" limbo. U.S. officials say the expanded \"secondary\" sanctions are expected to be the main course of action against Iran until at least after the midterm elections, when a new military campaign could again be on the table. What he said: \" Let there be no ambiguity as to the position of the United States,\" Bessent said at a news conference. \"An economic engagement of any kind with this murderous regime will expose those responsible to the full reach of American power.\" Bessent did not give a deadline\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-   "updated": "2026-08-24T22:26:44+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "U.S. Unveils Campaign to Cripple Iran\u2019s Economy, but Offers Few Details",
-     "url": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
-     "author": "Alan Rappeport",
-     "kind": "news",
-     "published": "2026-08-24T22:26:44+00:00",
-     "summary": "Treasury Secretary Scott Bessent said the United States would \u201ctighten the noose\u201d around Iran by imposing sanctions on every source or facilitator of its revenue."
-    },
-    {
-     "outlet": "axios",
-     "title": "Bessent unveils sanctions designed to cripple Iran",
-     "url": "https://www.axios.com/2026/08/24/bessent-dday-iran-secondary-sanctions",
-     "author": "Barak Ravid",
-     "kind": "news",
-     "published": "2026-08-24T18:08:22+00:00",
-     "summary": "Treasury Secretary Scott Bessent announced on Monday that the U.S. will impose punishing sanctions on countries and entities that do business with Iran \u2014 an attempt to bring the country to heel absent renewed military strikes. Why it matters: The plan, which Bessent dubbed \"Operation Economic Outcast,\" is aimed at ratcheting up pressure on the Iranian regime amid the current \"no war, no deal\" limbo. U.S. officials say the expanded \"secondary\" sanctions are expected to be the main course of action against Iran until at least after the midterm elections, when a new military campaign could again be on the table. What he said: \" Let there be no ambiguity as to the position of the United States,\" Bessent said at a news conference. \"An economic engagement of any kind with this murderous regime will expose those responsible to the full reach of American power.\" Bessent did not give a deadline for compliance, but said, \"I'm not going to set a timeline, but we do not have infinite patience here.\" \"No one is above this,\" Bessent said in response to a question about whether the initiative would encompass China. \"This is economic asphyxiation of this regime ... and no one should test our resol"
-    },
-    {
-     "outlet": "npr",
-     "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-     "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-     "author": "Fatima Al-Kassab",
-     "kind": "news",
-     "published": "2026-08-24T12:26:00+00:00",
-     "summary": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\" (Image credit: Julia Demaree Nikhinson)"
-    }
-   ]
-  },
-  {
    "id": "8f4fdfdad7",
    "topic": "World",
    "summary": "The U.S. military conducted a deadly attack against a vessel on Sunday, killing two people that it described as \"narco-terrorists.\" Video footage shows the explosive strike on the low-profile vessel. \"On August 23, under the commander of U.S. Southern Command, Gen. Francis L. Donovan\u2019s direction, Joint Task Force Western Hemisphere executed a lethal kinetic strike on a low-profile vessel operating along established narco-trafficking routes in the Eastern Pacific,\" an Aug. 24 news release stated. DEM SENATOR ACCUSES PENTAGON OF MURDER WITH BOAT STRIKES TARGETING DRUG TRAFFICKERS \"Confirmed intelligence revealed the vessel's active involvement in narco-trafficking. The operation killed two narco-terrorists,\" the release noted. The military has executed dozens of strikes against alleged drug trafficking vessels during President Donald Trump's second term in office, a policy that has been\u2026",
@@ -2367,58 +2309,6 @@
    ]
   },
   {
-   "id": "b61cb51b65",
-   "topic": "Other",
-   "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A \u2060landslide at a huge waste dump in Guinea\u2019s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to \u2060collapse, engulfing nearby tents and shacks. The incident occurred less than a week after the government announced plans to close the \u2060site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash \u2060floods each year in crowded, underdeveloped cities across parts of West Africa. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Guinea rubbish landfill collapse kills 31",
-   "updated": "2026-08-24T20:37:39+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Garbage Landslide in Guinea Kills 30",
-     "url": "https://www.breitbart.com/africa/2026/08/24/garbage-landslide-in-guinea-kills-30/",
-     "author": "John Hayward",
-     "kind": "news",
-     "published": "2026-08-24T20:37:39+00:00",
-     "summary": "Torrential rains caused a gigantic pile of garbage to become a deadly landslide in Guinea\u2019s capital city of Conakry on Sunday morning, killing at least 30 people as homes were completely buried under the avalanche of refuse. The post Garbage Landslide in Guinea Kills 30 appeared first on Breitbart ."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Guinea rubbish landfill collapse kills 31",
-     "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T11:26:19+00:00",
-     "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-     "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-23T22:16:53+00:00",
-     "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A \u2060landslide at a huge waste dump in Guinea\u2019s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to \u2060collapse, engulfing nearby tents and shacks. The incident occurred less than a week after the government announced plans to close the \u2060site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash \u2060floods each year in crowded, underdeveloped cities across parts of West Africa. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "596629084e",
    "topic": "Justice & Policing",
    "summary": "FIRST ON FOX: U.S. Immigration and Customs Enforcement (ICE) quietly arrested more than 1,000 illegal immigrants in the Washington, D.C., region in what federal sources said was one of the agency\u2019s most successful operations to date. Multiple ICE sources told Fox News that the agency arrested 1,328 illegal immigrants over 14 days in the Washington, D.C. , suburbs. The arrests took place in Virginia and Maryland, both of which have sanctuary-type policies in place. Of those arrested, almost 400 illegal immigrants had criminal convictions or pending criminal charges, including a Salvadoran national wanted in Richmond, Virginia, on a murder warrant. Other crimes included rape, sexual assault, kidnapping, DUI, robbery and attempted murder. Additionally, ICE officers arrested members of the foreign terrorist organizations MS-13 and Tren de Aragua and the 18th Street Gang. ABIGAIL\u2026",
@@ -2467,6 +2357,58 @@
      "kind": "opinion",
      "published": "2026-08-24T09:45:20+00:00",
      "summary": "The first deportation flight to Haiti since the Trump administration terminated protections for Haitian illegal immigrants left on Aug. 20 loaded with gang members, child sex predators, and other violent criminals, The Daily Wire has learned. The Department of Homeland Security (DHS) revealed that 162 illegal immigrants from Haiti were deported on the latest flight and shared the photos and rap sheets of 15 of the deportees. It came after the Supreme Court opened the door for President Donald Trump to end the longstanding Temporary Protected Status (TPS) for roughly 350,000 Haitians in June. On the one-way flight was Zoe Pound gang member McGuyverson Jetin, who has convictions for four counts of lewd or lascivious battery with a victim between the ages of 12 and 15 and sexual battery, according to DHS. He came to the United States in June 2006 and received a green card in March 2007 before an immigration judge ordered his removal in 2018. Another Zoe Pound gang member, Modeler Hyppolite, who has a conviction for second-degree assault on a pregnant woman, was sent back to Haiti, according to DHS. Hyppolite crossed the southern border in 2024 and was released under the Biden administ"
+    }
+   ]
+  },
+  {
+   "id": "ebca7c1a10",
+   "topic": "World",
+   "summary": "U.S. Treasury Secretary Scott Bessent speaks during a press conference, announcing a new set of sanctions against Iran and describing the measures as an \"economic D-Day,\" on Aug. 24, 2026. \u2014Mehmet Eser\u2014Anadolu Iran\u2019s currency plummeted in value Monday, hitting a record-low open-market rate of 2.02 million rials to the dollar, amid the White House \u2019s launch of \u201c Operation Economic Outcast ,\u201d which aims to force concessions from Iran through isolation and a financial stranglehold. Treasury Secretary Scott Bessent warned Sunday that an \u201ceconomic D-Day\u201d was coming, and he shared a first sense of what that might look like at a press conference the following day. \"D-Day marked a historic campaign with our allies,\u201d Bessent said Monday. \u201cToday, in that same spirit, we are launching an economic onslaught against Iran's financial connections around the globe.\" The U.S. announced sanctions on more\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "\ud83d\udd34 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
+   "updated": "2026-08-24T18:49:49+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "time",
+     "title": "Iranian Rial Hits Record Low as the U.S. Unveils New Sanctions",
+     "url": "https://time.com/article/2026/08/24/iranian-rial-hits-record-low-new-us-sanctions/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-24T18:49:49+00:00",
+     "summary": "U.S. Treasury Secretary Scott Bessent speaks during a press conference, announcing a new set of sanctions against Iran and describing the measures as an \"economic D-Day,\" on Aug. 24, 2026. \u2014Mehmet Eser\u2014Anadolu Iran\u2019s currency plummeted in value Monday, hitting a record-low open-market rate of 2.02 million rials to the dollar, amid the White House \u2019s launch of \u201c Operation Economic Outcast ,\u201d which aims to force concessions from Iran through isolation and a financial stranglehold. Treasury Secretary Scott Bessent warned Sunday that an \u201ceconomic D-Day\u201d was coming, and he shared a first sense of what that might look like at a press conference the following day. \"D-Day marked a historic campaign with our allies,\u201d Bessent said Monday. \u201cToday, in that same spirit, we are launching an economic onslaught against Iran's financial connections around the globe.\" The U.S. announced sanctions on more than 60 targets while expanding sanctionable sectors to digital assets, technology, gold, aviation, and shipping\u2014which Bessent described as some of the country\u2019s \u201cmost vital lifelines.\u201d The government may also impose secondary sanctions on Iran\u2019s trade partners, Bessent said, adding that those sanct"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Iran\u2019s Currency Hits Record Low as U.S. Rolls Out \u2018Economic D-Day\u2019 Sanctions",
+     "url": "https://www.breitbart.com/middle-east/2026/08/24/irans-currency-hits-record-low-as-u-s-rolls-out-economic-d-day-sanctions/",
+     "author": "John Hayward",
+     "kind": "news",
+     "published": "2026-08-24T18:26:07+00:00",
+     "summary": "Iran\u2019s currency, the rial, hit a record low over 2.02 million to the U.S. dollar on Monday as the Trump administration prepared to unveil its \u201cEconomic D-Day\u201d maximum sanctions against Tehran. The post Iran\u2019s Currency Hits Record Low as U.S. Rolls Out \u2018Economic D-Day\u2019 Sanctions appeared first on Breitbart ."
+    },
+    {
+     "outlet": "france24",
+     "title": "\ud83d\udd34 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
+     "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-24T17:16:05+00:00",
+     "summary": null
     }
    ]
   },
@@ -2523,58 +2465,6 @@
    ]
   },
   {
-   "id": "14a97baf82",
-   "topic": "Other",
-   "summary": "Everyone has seen them out at restaurants: the \"iPad babies\" and zoned-out families. Parents letting their children, some quite young, stare at phones or tablets throughout the meal, sometimes while mom and dad also look at screens. It's easy to judge those families, though I try to remind myself that we, as casual onlookers, never know the full story. Maybe this almost never happens but tonight the parent has a crucial work deadline. Maybe it's been that rare kind of extraordinarily stressful day. Maybe that boy has developmental issues and this is the only way he can get through a restaurant meal, which the family needs to do because they're traveling. Maybe, whatever the reason, this is an anomaly and not the mealtime norm. But screen time during meals may be the norm for many families, according to some new research published in JAMA Pediatrics . Hold up, though\u2014before you call in\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Study: Most Mealtime Screen Time Is TV, Not Social Media",
-   "updated": "2026-08-24T16:33:18+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Study: Most Mealtime Screen Time Is TV, Not Social Media",
-     "url": "https://reason.com/2026/08/24/study-most-mealtime-screen-time-is-tv-not-social-media/",
-     "author": "Elizabeth Nolan Brown",
-     "kind": "opinion",
-     "published": "2026-08-24T16:33:18+00:00",
-     "summary": "Everyone has seen them out at restaurants: the \"iPad babies\" and zoned-out families. Parents letting their children, some quite young, stare at phones or tablets throughout the meal, sometimes while mom and dad also look at screens. It's easy to judge those families, though I try to remind myself that we, as casual onlookers, never know the full story. Maybe this almost never happens but tonight the parent has a crucial work deadline. Maybe it's been that rare kind of extraordinarily stressful day. Maybe that boy has developmental issues and this is the only way he can get through a restaurant meal, which the family needs to do because they're traveling. Maybe, whatever the reason, this is an anomaly and not the mealtime norm. But screen time during meals may be the norm for many families, according to some new research published in JAMA Pediatrics . Hold up, though\u2014before you call in Jonathan Haidt (or Josh Hawley, or Jean Twenge, or whoever your favorite tech-panic evangelist might be), take a closer look at what sorts of screens that kids are using. The most common form of mealtime media consumption for kids in this study was \"watching content on a large-screen device.\" That is,"
-    },
-    {
-     "outlet": "dw",
-     "title": "New Zealand proposes social media ban for under-16s",
-     "url": "https://www.dw.com/en/new-zealand-proposes-social-media-ban-for-under-16s/a-78480389?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T05:45:00+00:00",
-     "summary": "The government is set to follow Australia's lead and introduce a bill banning children from social media. But the plan already faces opposition from within the ruling coalition."
-    },
-    {
-     "outlet": "guardian",
-     "title": "New Zealand to consider banning children under 16 from social media",
-     "url": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-24T05:22:19+00:00",
-     "summary": "Prime minister Christopher Luxon\u2019s party to introduce bill seeking the ban, citing harm to a generation of children New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that \u2060seeks to ban children \u2060under 16 from using social media, proposing fines of up to 10% of a platform\u2019s global revenue for non-compliance. The bill would \u2060require social media platforms to take reasonable steps to verify users\u2019 ages, including by utilising existing account information, facial technology and \u2060digital identity documents. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "1dc9d23cab",
    "topic": "Politics",
    "summary": "This January, Secretary of State Marco Rubio directed consular officers to refuse to process immigration visas for people from 75 countries because, he said, those immigrants would be more likely than others to \u201cextract wealth\u201d or \u201ctake welfare and public benefits\u201d from the US. Since January, people from those 75 countries\u2014all located in Africa, Latin America, the Middle East, or Eastern Europe\u2014have had their visa applications frozen or denied. On August 21, though, a federal judge in New York struck down this blanket visa ban, on the grounds that it violates the Immigration and Nationality Act of 1965\u2019s prohibition on nationality-based discrimination in issuing a visa. As my colleague Julia M\u00e9traux reported earlier this year , these \u201cpublic charge\u201d bans are in part based on eugenicist ideas. Since the 19th century, the United States has used \u201cpublic charge\u201d rules to restrict entry,\u2026",
@@ -2627,6 +2517,325 @@
    ]
   },
   {
+   "id": "30e3dec368",
+   "topic": "Other",
+   "summary": "What used to be free is now ticketed, and ticket prices are sky-rocketing.",
+   "summaryFrom": "hellgate",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "pub"
+   ],
+   "headline": "Open Thread",
+   "updated": "2026-08-25T07:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 3,
+    "coop": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 3,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/25/open-thread-307/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-25T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "hellgate",
+     "title": "The US Open US Closes Up, Then US Opens Again",
+     "url": "https://hellgatenyc.com/the-us-open-ticket-problems/",
+     "author": "Max Rivlin-Nadler",
+     "kind": "news",
+     "published": "2026-08-24T15:44:06+00:00",
+     "summary": "What used to be free is now ticketed, and ticket prices are sky-rocketing."
+    },
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/24/open-thread-306/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-24T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/23/open-thread-305/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-23T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    }
+   ]
+  },
+  {
+   "id": "15dccba86c",
+   "topic": "Justice & Policing",
+   "summary": "A federal judge has postponed a trial in the U.S. for a Libyan man charged in the 1988 bombing of Pan Am Flight 103 over Lockerbie, Scotland, citing the discovery of new evidence.",
+   "summaryFrom": "cbsnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Lockerbie bombing trial postponed days before it was due to start",
+   "updated": "2026-08-25T06:59:03+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Lockerbie bombing trial postponed days before it was due to start",
+     "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T06:59:03+00:00",
+     "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Judge postpones U.S. trial for man accused in deadly 1988 Lockerbie bombing",
+     "url": "https://www.cbsnews.com/news/lockerbie-bombing-suspect-us-trial-postponed-new-evidence/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T00:08:50+00:00",
+     "summary": "A federal judge has postponed a trial in the U.S. for a Libyan man charged in the 1988 bombing of Pan Am Flight 103 over Lockerbie, Scotland, citing the discovery of new evidence."
+    }
+   ]
+  },
+  {
+   "id": "a617a7296d",
+   "topic": "World",
+   "summary": "The US says it is preparing to announce new sanctions on Iran. It's been billed an economic D-day and is expected to add further pressure on the country's economy that's already been battered from previous sanctions and a US naval blockade. The renewed economic pressure would not be the first time the US has used economic tools at its disposal to corner Iran. But what could the new measures likely entail?",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "What could new US sanctions on Iran entail?",
+   "updated": "2026-08-25T06:39:47+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Iran says it's ready for new U.S. sanctions, has 2-year plan",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-sanctions-strait-of-hormuz/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T06:39:47+00:00",
+     "summary": "Iran's economy minister said the country has been preparing for a long time for the sanctions U.S. Treasury Secretary Scott Bessent described as the \"greatest financial offensive\" ever."
+    },
+    {
+     "outlet": "france24",
+     "title": "What could new US sanctions on Iran entail?",
+     "url": "https://www.france24.com/en/what-could-new-us-sanctions-on-iran-entail",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-24T13:42:25+00:00",
+     "summary": "The US says it is preparing to announce new sanctions on Iran. It's been billed an economic D-day and is expected to add further pressure on the country's economy that's already been battered from previous sanctions and a US naval blockade. The renewed economic pressure would not be the first time the US has used economic tools at its disposal to corner Iran. But what could the new measures likely entail?"
+    }
+   ]
+  },
+  {
+   "id": "24f5ac96a1",
+   "topic": "World",
+   "summary": "Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.",
+   "summaryFrom": "aljazeera",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "The Iran war is bringing cyberwarfare into critical infrastructure",
+   "updated": "2026-08-25T06:37:32+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 0,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+     "url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-25T06:37:32+00:00",
+     "summary": "Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address."
+    },
+    {
+     "outlet": "nyt",
+     "title": "China Is the Iran War\u2019s Unexpected Winner",
+     "url": "https://www.nytimes.com/2026/08/25/opinion/iran-china-energy-power.html",
+     "author": "Michal Meidan",
+     "kind": "opinion",
+     "published": "2026-08-25T05:00:05+00:00",
+     "summary": "The Iran war was supposed to expose China\u2019s weakness on oil, but it didn\u2019t quite work out that way."
+    }
+   ]
+  },
+  {
+   "id": "bbdd7b0f05",
+   "topic": "Other",
+   "summary": "An illegal immigrant from El Salvador who has faced a final deportation order since 2024 was caught and later released on bond at the Texas border in 2016 before his arrest last week for allegedly dealing fentanyl near a Virginia high school, according to the Department of Homeland Security (DHS). Isaac Melendez-Carranza, 31, was arrested Aug. 20 and charged with distributing fentanyl within 1,000 feet of a school. He is being held without bond at the Loudoun County Adult Detention Center. \"ICE lodged a detainer on August 20 for Isaac Melendez-Carranza, an illegal alien from El Salvador, with the Loudoun County Jail,\" a DHS spokesperson told Fox News. An immigration judge issued Melendez-Carranza a final order of removal on July 18, 2024, according to DHS. THE BORDER IS CLOSED THANKS TO PRESIDENT TRUMP. IN VIRGINIA, THAT DOESN\u2019T MATTER Melendez-Carranza was encountered in Sterling,\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
+   "updated": "2026-08-25T06:16:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
+     "url": "https://nypost.com/2026/08/25/us-news/illegal-immigrant-isaac-melendez-carranza-accused-of-fentanyl-dealing-linked-to-virginia-high-school-overdoses/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-25T06:16:00+00:00",
+     "summary": "Isaac Melendez-Carranza was caught and later released at the Texas border in 2016 before his arrest in Loudoun County last week."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
+     "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T01:57:08+00:00",
+     "summary": "An illegal immigrant from El Salvador who has faced a final deportation order since 2024 was caught and later released on bond at the Texas border in 2016 before his arrest last week for allegedly dealing fentanyl near a Virginia high school, according to the Department of Homeland Security (DHS). Isaac Melendez-Carranza, 31, was arrested Aug. 20 and charged with distributing fentanyl within 1,000 feet of a school. He is being held without bond at the Loudoun County Adult Detention Center. \"ICE lodged a detainer on August 20 for Isaac Melendez-Carranza, an illegal alien from El Salvador, with the Loudoun County Jail,\" a DHS spokesperson told Fox News. An immigration judge issued Melendez-Carranza a final order of removal on July 18, 2024, according to DHS. THE BORDER IS CLOSED THANKS TO PRESIDENT TRUMP. IN VIRGINIA, THAT DOESN\u2019T MATTER Melendez-Carranza was encountered in Sterling, Virginia, less than a month later, on Aug. 16, 2024, but no action was taken, DHS said. The department cited the Biden administration for the lack of action. U.S. Border Patrol arrested Melendez-Carranza near Hebbronville, Texas, on May 3, 2016, after he illegally entered the U.S. via the Rio Grande, acc"
+    }
+   ]
+  },
+  {
+   "id": "22f81a9bc1",
+   "topic": "Tech",
+   "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+   "summaryFrom": "bbc",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Australia\u2019s music charts ban AI-made songs amid backlash over Madonna cover",
+   "updated": "2026-08-25T06:00:38+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Australia\u2019s music charts ban AI-made songs amid backlash over Madonna cover",
+     "url": "https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T06:00:38+00:00",
+     "summary": "Tracks that use AI in a 'supporting role' will still be eligible for inclusion in the official charts."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Songs created by AI banned from Australia's music charts",
+     "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T04:54:01+00:00",
+     "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts."
+    }
+   ]
+  },
+  {
+   "id": "ed1c1b50e7",
+   "topic": "World",
+   "summary": "The U.S. launched what the Trump administration calls \"Operation Economic Outcast\" against Iran. It includes threats to increase sanctions on Iran's trading partners. The pressure comes as the administration indicates it is trying to avoid returning to war, but cannot overcome Iran's stranglehold over the Strait of Hormuz. Nick Schifrin discussed more with Miad Maleki.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
+   "updated": "2026-08-25T05:41:01+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "What to Know About US Threats on Iran and Its Partners",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-25/what-to-know-about-us-threats-on-iran-and-its-partners-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T05:41:01+00:00",
+     "summary": "US Treasury Secretary Scott Bessent threatened economic punishment against any country doing business with Iran, but provided few details on how the administration\u2019s new initiative would achieve any of President Donald Trump\u2019s desired results, namely the full opening of the Strait of Hormuz. Bloomberg's Abeer Abu Omar breaks down the situation. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
+     "url": "https://www.pbs.org/newshour/show/a-look-at-the-new-u-s-sanctions-on-iran-and-threats-against-its-trading-partners",
+     "author": "Dan Sagalyn",
+     "kind": "news",
+     "published": "2026-08-24T22:50:12+00:00",
+     "summary": "The U.S. launched what the Trump administration calls \"Operation Economic Outcast\" against Iran. It includes threats to increase sanctions on Iran's trading partners. The pressure comes as the administration indicates it is trying to avoid returning to war, but cannot overcome Iran's stranglehold over the Strait of Hormuz. Nick Schifrin discussed more with Miad Maleki."
+    }
+   ]
+  },
+  {
    "id": "4e7cab9327",
    "topic": "Other",
    "summary": "TLC/90 Day Fianc\u00e9 A 90 Day Fianc\u00e9 alum showed off her remarkable weight loss in never-before-seen photos. Tiffany Franco, 35, weighed almost 300 pounds at her heaviest. On Saturday, she shared before-and-after photos of her figure on Instagram after losing over 110 pounds. In the first slide of her post, Franco placed two photos side by side. Read more at The Daily Beast.",
@@ -2639,7 +2848,7 @@
     "pub"
    ],
    "headline": "Jelly Roll Celebrates His 300-Pound Weight Loss on \u2018Jimmy Kimmel Live\u2019",
-   "updated": "2026-08-25T05:13:15+00:00",
+   "updated": "2026-08-25T05:13:16+00:00",
    "outletCount": 2,
    "counts": {
     "family": 1,
@@ -2655,7 +2864,7 @@
      "url": "https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html",
      "author": "Trish Bendix",
      "kind": "news",
-     "published": "2026-08-25T05:13:15+00:00",
+     "published": "2026-08-25T05:13:16+00:00",
      "summary": "\u201cThat means I\u2019ve lost an entire Donald Trump,\u201d the country singer said while guest hosting Monday\u2019s late night show."
     },
     {
@@ -3367,49 +3576,6 @@
    ]
   },
   {
-   "id": "15dccba86c",
-   "topic": "Justice & Policing",
-   "summary": "A federal judge has postponed a trial in the U.S. for a Libyan man charged in the 1988 bombing of Pan Am Flight 103 over Lockerbie, Scotland, citing the discovery of new evidence.",
-   "summaryFrom": "cbsnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Lockerbie bombing trial postponed days before it was due to start",
-   "updated": "2026-08-25T00:08:50+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Judge postpones U.S. trial for man accused in deadly 1988 Lockerbie bombing",
-     "url": "https://www.cbsnews.com/news/lockerbie-bombing-suspect-us-trial-postponed-new-evidence/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T00:08:50+00:00",
-     "summary": "A federal judge has postponed a trial in the U.S. for a Libyan man charged in the 1988 bombing of Pan Am Flight 103 over Lockerbie, Scotland, citing the discovery of new evidence."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Lockerbie bombing trial postponed days before it was due to start",
-     "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T22:13:36+00:00",
-     "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
-    }
-   ]
-  },
-  {
    "id": "34872c409b",
    "topic": "Justice & Policing",
    "summary": "In Trump administration\u2019s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years Nevada filed a federal lawsuit on Monday challenging the Trump administration\u2019s new plan for the imperiled Colorado River, launching what could become the first of many court battles over the waterway that supplies 40 million people, dozens of tribes and 5.5m acres of farm land across the American west. The federal plan, issued Friday, cut roughly 20% from the water supplied to lower basin states \u2013 Nevada, Arizona and California \u2013 over the next two years, with a potential for harsher cutbacks in the future, based on conditions. Continue reading...",
@@ -3535,178 +3701,6 @@
      "kind": "news",
      "published": "2026-08-24T16:22:32+00:00",
      "summary": "A makeshift road block prevents drivers from driving through downed utility lines stretching across a street on August 20, 2026 in Gary, Indiana. Photo by Scott Olson/Getty Images. Monday, August 24, 2026 \u2013 Israeli strikes kill six Palestinians on Monday. Palestinian man executed by Israel in Gaza, family says. Israeli forces kill Palestinian child, settler assaults elderly amputee as attacks continue across the West Bank. Israeli Defense Minister Israel Katz says Israeli military will act \u201cforcefully\u201d over kites from Gaza. Drop Site contributor Mohamed Awad to be detained without charge for months. Hamas tells U.S. envoy Jared Kushner that it will not abide by an unenforced deal. Hamas discusses electoral strategy. \u201cAnti-Netanyahu\u201d says there will be no Palestinian state if he controls government. U.S. to announce \u201ceconomic D-Day\u201d sanctions against Iran. Iran permits Iraqi tankers to pass through Hormuz. Qatari spending is dramatically reduced by war. U.S. officials claim that 40 tankers crossed Hormuz on Friday; data shows none. Iranian refinery approaching full repair, official says. Pakistan army chief set to visit Iran on Monday. Iran announces it will choke \u201cshuttle\u201d trade th"
-    }
-   ]
-  },
-  {
-   "id": "8b0c5d7424",
-   "topic": "Politics",
-   "summary": "U.S. Vice President J.D. Vance delivers remarks in Brewer, Maine, on Aug. 24, 2026. \u2014Anna Moneymaker\u2014POOL/AFP/Getty Images Vice President J.D. Vance on Monday called Canada a \u201cstate,\u201d before claiming it was an accident. \u201cWe have to remember, Canada is a state\u2014sorry, Freudian slip,\u201d Vance said during a political event in Maine, after being asked about the recent heated trade talks between the U.S. and its northern neighbor. \u201cThat was actually an accident.\u201d He went on to say that \u201cCanada is a country that has underinvested in its military that quite literally would get invaded by a foreign country were it not for the umbrella of protection provided by the United States of America.\u201d Vance\u2019s slip-up comes after President Donald Trump has hurled a number of barbs at Canada and its political leaders since he took office for a second term. The President has repeatedly referred to Canada as the\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "J.D. Vance Calls Canada a \u2018State,\u2019 Claims \u2018Freudian Slip\u2019",
-   "updated": "2026-08-24T23:05:20+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "time",
-     "title": "J.D. Vance Calls Canada a \u2018State,\u2019 Claims \u2018Freudian Slip\u2019",
-     "url": "https://time.com/article/2026/08/24/vance-canada-state-freudian-slip-us-trade-trump-carney-ford/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-24T23:05:20+00:00",
-     "summary": "U.S. Vice President J.D. Vance delivers remarks in Brewer, Maine, on Aug. 24, 2026. \u2014Anna Moneymaker\u2014POOL/AFP/Getty Images Vice President J.D. Vance on Monday called Canada a \u201cstate,\u201d before claiming it was an accident. \u201cWe have to remember, Canada is a state\u2014sorry, Freudian slip,\u201d Vance said during a political event in Maine, after being asked about the recent heated trade talks between the U.S. and its northern neighbor. \u201cThat was actually an accident.\u201d He went on to say that \u201cCanada is a country that has underinvested in its military that quite literally would get invaded by a foreign country were it not for the umbrella of protection provided by the United States of America.\u201d Vance\u2019s slip-up comes after President Donald Trump has hurled a number of barbs at Canada and its political leaders since he took office for a second term. The President has repeatedly referred to Canada as the \u201c51st state,\u201d suggesting that the U.S. should annex its northern neighbor. In March, Trump called Canadian Prime Minister Mark Carney the \u201cfuture Governor of Canada.\u201d Carney has repeatedly and firmly pushed back on Trump\u2019s comments; last year, the Canadian Prime Minister said of the suggestion of an"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Vance Jumbles Words While Calling Canada a State",
-     "url": "https://www.thedailybeast.com/vance-jumbles-words-while-calling-canada-a-state/",
-     "author": "Sarah Ewall-Wice",
-     "kind": "news",
-     "published": "2026-08-24T18:51:47+00:00",
-     "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty Vice President JD Vance has often proven to be a smooth talker, but he appeared more flustered than usual on Monday while hitting the stump, where he misspoke, mixed up his words, and the jokes fell flat. Vance was campaigning for Republican House candidate Paul LePage ahead of the midterms in Brewer, Maine, where he took several questions from reporters. Read more at The Daily Beast."
-    }
-   ]
-  },
-  {
-   "id": "902664e46b",
-   "topic": "Tech",
-   "summary": "For how much longer will the fate of American artificial intelligence be steered from Silicon Valley rather than Washington? To watch the pace of AI progress, one might imagine that the answer to that question is rapidly shortening. Each milestone in the capability of AI increases the desire among lawmakers and much of the public to rein in the technology. That includes positive breakthroughs, such as the declaration last week by payments company Stripe that AI has achieved the long-awaited \u201csingularity\u201d: the ability to improve itself beyond what humans can contribute. It also includes worrying episodes, like the breach of the AI database Hugging Face last month by a powerful model gone rogue. Yet for all of the risks that AI brings, the harm caused by overregulating it would likely be much worse for the public. That is why AI developers and experts are devising proposals to promote AI\u2026",
-   "summaryFrom": "freepress",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Tyler Cowen: The Least Bad Way to Regulate AI",
-   "updated": "2026-08-24T22:57:56+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "freepress",
-     "title": "Tyler Cowen: The Least Bad Way to Regulate AI",
-     "url": "https://www.thefp.com/p/tyler-cowen-ai-regulation-private-public",
-     "author": "Tyler Cowen",
-     "kind": "news",
-     "published": "2026-08-24T22:57:56+00:00",
-     "summary": "For how much longer will the fate of American artificial intelligence be steered from Silicon Valley rather than Washington? To watch the pace of AI progress, one might imagine that the answer to that question is rapidly shortening. Each milestone in the capability of AI increases the desire among lawmakers and much of the public to rein in the technology. That includes positive breakthroughs, such as the declaration last week by payments company Stripe that AI has achieved the long-awaited \u201csingularity\u201d: the ability to improve itself beyond what humans can contribute. It also includes worrying episodes, like the breach of the AI database Hugging Face last month by a powerful model gone rogue. Yet for all of the risks that AI brings, the harm caused by overregulating it would likely be much worse for the public. That is why AI developers and experts are devising proposals to promote AI safety without putting too much control in the hands of the federal government. I have some definite recommendations, which are drawn in part from ideas put forward earlier by Dean Ball , now head of strategic futures at OpenAI but formerly a senior White House policy adviser for the Trump administra"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "The Bad Ex Who Blackmailed Her Way Back To The Washington Post",
-     "url": "https://www.dailywire.com/news/the-bad-ex-who-blackmailed-her-way-back-to-the-washington-post",
-     "author": "Chloe Trapanotto",
-     "kind": "opinion",
-     "published": "2026-08-24T14:08:20+00:00",
-     "summary": "A year ago, Karen Attiah , an untalented, narcissistic, racist, terror-sympathizing man-hater who loves the word \u201c democracy \u201d more than life itself, was fired from her job as an opinion writer at The Washington Post. Her crimes against journalism? Lying, failing basic standards of accuracy, and posting egregious commentary about Charlie Kirk within hours of his assassination. This week, after a year-long public tantrum, a private arbitrator forced the Post to take her back. Like a bad ex blackmailing you into getting back together. Democracy Lives On \u2026in the forced rehire of every Bluesky Karen who cannot accurately quote a dead man. On September 10, 2025, the same day Charlie Kirk was assassinated in front of thousands, Attiah posted this: \u201cBlack women do not have the brain processing power to be taken seriously. You have to go steal a white person\u2019s slot\u201d. \u2013 Charlie Kirk Kirk was not, of course, speaking about all black women. He was responding on a live show to Joy Reid, Michelle Obama, Sheila Jackson Lee, and Ketanji Brown Jackson, discussing their own affirmative-action status. He played the clip of Sheila Jackson Lee declaring from the House floor: I rise today, as a clear r"
-    }
-   ]
-  },
-  {
-   "id": "6d0c49eebc",
-   "topic": "World",
-   "summary": "Ukraine marked its 35th Independence Day on Monday under the shadow of continued Russian attacks, with one regional security expert arguing that Russian President Vladimir Putin is \"panicked\" as Ukrainian forces strike deeper inside Russia. The anniversary, commemorating Ukraine's Aug. 24, 1991, declaration of independence from the Soviet Union, came amid intensified Russian strikes on civilian infrastructure and heightened security concerns after Ukraine's Security Service warned of possible terrorist attacks ahead of the holiday. European leaders joined Ukrainian President Volodymyr Zelenskyy in Kyiv for Independence Day events in a show of support as the war grinds on. Zelenskyy declared that Ukraine wants peace but is not prepared to surrender to Moscow's demands. A Russian drone strike Friday on a packed shopping center in Kryvyi Rih, Zelenskyy\u2019s hometown, killed at least 16 people\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Ukraine celebrates Independence Day amid war's latest escalation",
-   "updated": "2026-08-24T22:53:40+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Putin \u2018panicked\u2019 as defiant Ukraine marks Independence Day under Russian bombardment",
-     "url": "https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T22:53:40+00:00",
-     "summary": "Ukraine marked its 35th Independence Day on Monday under the shadow of continued Russian attacks, with one regional security expert arguing that Russian President Vladimir Putin is \"panicked\" as Ukrainian forces strike deeper inside Russia. The anniversary, commemorating Ukraine's Aug. 24, 1991, declaration of independence from the Soviet Union, came amid intensified Russian strikes on civilian infrastructure and heightened security concerns after Ukraine's Security Service warned of possible terrorist attacks ahead of the holiday. European leaders joined Ukrainian President Volodymyr Zelenskyy in Kyiv for Independence Day events in a show of support as the war grinds on. Zelenskyy declared that Ukraine wants peace but is not prepared to surrender to Moscow's demands. A Russian drone strike Friday on a packed shopping center in Kryvyi Rih, Zelenskyy\u2019s hometown, killed at least 16 people and injured 130, according to The Associated Press. 'PURE HELL' IN MOSCOW AS UKRAINIAN DRONES STRIKE MAJOR REFINERY SUPPLYING CAPITAL'S FUEL MARKET Putin has warned that Ukrainian strikes on Russian economic targets open a \"Pandora\u2019s box,\" while Kyiv maintains deep strikes are vital to disrupting Mo"
-    },
-    {
-     "outlet": "france24",
-     "title": "Ukraine celebrates Independence Day amid war's latest escalation",
-     "url": "https://www.france24.com/en/video/20260824-ukraine-celebrates-independence-day-amid-war-s-latest-escalation",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-24T15:44:06+00:00",
-     "summary": "Ukraine wants peace but will not just give in to Russia at any price, President Volodymyr Zelensky said in a defiant speech on Monday as foreign leaders gathered in Kyiv to mark its Independence Day celebrations."
-    }
-   ]
-  },
-  {
-   "id": "e80fc07cc6",
-   "topic": "World",
-   "summary": "US and Canadian officials traded blame after the two sides failed to reach a trade deal Friday, teeing up a damaging trade war that could threaten broad swaths of both economies. The US\u2019 50% tariffs on roughly $20 billion of Canadian goods took effect Saturday, with Canadian Prime Minister Mark Carney vowing to match \u201cWashington\u2019s new tariffs dollar-for-dollar,\u201d adding that Canada was \u201cat war.\u201d Relations between the allies have deteriorated under US President Donald Trump\u2019s second administration, with Trump calling for Canada to become a US state and Canadian provinces boycotting US booze. Polls show most Canadians oppose concessions , hardening Carney\u2019s stance. The breakdown signals \u201cthe old Canada-US relationship is over ,\u201d a Canadian political science professor told The Associated Press. \u2014 Lauren Morganbesser",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Canada will announce retaliatory tariffs against U.S. on Tuesday, official tells AP",
-   "updated": "2026-08-24T22:50:25+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Canada will announce retaliatory tariffs against U.S. on Tuesday, official tells AP",
-     "url": "https://www.pbs.org/newshour/world/canada-will-announce-retaliatory-tariffs-against-u-s-on-tuesday-official-tells-ap",
-     "author": "Rob Gillies, Associated Press",
-     "kind": "news",
-     "published": "2026-08-24T22:50:25+00:00",
-     "summary": "Canada will announce retaliatory tariffs against the United States on Tuesday, an official familiar with the plans told The Associated Press, escalating a trade fight that has sharply worsened since negotiations with the Trump administration collapsed."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US-Canada rift deepens over tariffs",
-     "url": "https://www.semafor.com/article/08/23/2026/us-canada-rift-deepens-over-tariffs",
-     "author": "Lauren Morganbesser",
-     "kind": "news",
-     "published": "2026-08-23T22:38:50+00:00",
-     "summary": "US and Canadian officials traded blame after the two sides failed to reach a trade deal Friday, teeing up a damaging trade war that could threaten broad swaths of both economies. The US\u2019 50% tariffs on roughly $20 billion of Canadian goods took effect Saturday, with Canadian Prime Minister Mark Carney vowing to match \u201cWashington\u2019s new tariffs dollar-for-dollar,\u201d adding that Canada was \u201cat war.\u201d Relations between the allies have deteriorated under US President Donald Trump\u2019s second administration, with Trump calling for Canada to become a US state and Canadian provinces boycotting US booze. Polls show most Canadians oppose concessions , hardening Carney\u2019s stance. The breakdown signals \u201cthe old Canada-US relationship is over ,\u201d a Canadian political science professor told The Associated Press. \u2014 Lauren Morganbesser"
     }
    ]
   }
