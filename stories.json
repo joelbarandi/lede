@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T04:57:16.669772+00:00",
+ "generated": "2026-08-26T05:51:41.170662+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -16,8 +16,8 @@
      "tuesday",
      "lindsey",
      "full",
-     "victory",
      "term",
+     "victory",
      "general"
     ],
     "indie": []
@@ -204,180 +204,6 @@
    ]
   },
   {
-   "id": "7e5d416bcb",
-   "topic": "Business & Economy",
-   "summary": "Canada has imposed retaliatory tariffs of up to 50% on U.S. goods in response to President Donald Trump \u2019s sweeping tariffs and amid an escalating trade war between the neighboring allies. Canada\u2019s Finance Minister Fran\u00e7ois-Philippe Champagne announced Tuesday that effective Sept. 8 the country \u201cwill match the United States tariffs dollar for dollar, rate for rate,\" by imposing counter tariffs of up to 15%, 25%, or 50% on near $20 billion U.S. imports. \u201cFor each product, our tariff would match the American tariff on the same type of Canadian goods,\u201d he said during a press conference alongside Canadian federal officials. Read More: 'We Don't Need Canada': Trump Escalates Trade War Tensions between the U.S. and its northern neighbor have deepened after trade negotiations broke down over the weekend , with both sides blaming one another for last-minute changes. A broad set of 50% tariffs\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 8,
-    "big": [
-     "lake",
-     "rename",
-     "ontario",
-     "america",
-     "duties",
-     "minister"
-    ],
-    "indie": [
-     "escalates",
-     "strikes"
-    ]
-   },
-   "people": [],
-   "absent": [],
-   "headline": "Canada retaliates with tariffs against U.S. as relations deteriorate",
-   "updated": "2026-08-25T23:47:03+00:00",
-   "outletCount": 13,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 2,
-    "family": 5,
-    "pub": 5,
-    "coop": 1
-   },
-   "newsCount": 15,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Canada announces tariffs of up to 50% on $20 billion in U.S. goods",
-     "url": "https://www.cbsnews.com/news/canada-imposes-tariffs-us-imports/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T23:47:03+00:00",
-     "summary": "Canadian government officials said they are also providing aid for workers and businesses that could be hurt by U.S.-imposed tariffs."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Canada retaliates with tariffs against U.S. as relations deteriorate",
-     "url": "https://www.pbs.org/newshour/show/canada-retaliates-with-tariffs-against-u-s-as-relations-deteriorate",
-     "author": "Daniel Okay",
-     "kind": "news",
-     "published": "2026-08-25T22:55:27+00:00",
-     "summary": "Canada imposed retaliatory tariffs against the United States as the two neighbors slide toward an all-out trade war. The tariffs will hit a range of U.S. products, from industrial goods to everyday items. At the same time, President Trump is threatening Canada with even steeper tariffs. William Brangham reports."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Canada announces retaliatory tariffs of up to 50% against the US",
-     "url": "https://www.semafor.com/article/08/25/2026/canada-announces-retaliatory-tariffs-of-up-to-50-against-the-us",
-     "author": "Brendan Ruberry",
-     "kind": "news",
-     "published": "2026-08-25T22:20:19+00:00",
-     "summary": "Canada struck back against the US with retaliatory tariffs of up to 50% on $20 billion worth of American products on Tuesday, as a defiant Ottawa fulfilled its vow to match US duties \u201cdollar for dollar.\u201d US President Donald Trump threatened to rename Lake Ontario as Lake America, as relations hit a new low, making any climbdown more onerous. Canada\u2019s industrial minister said reprisals were intended to apply economic pressure in US states ahead of November\u2019s midterm elections. The breakdown in relations is an in-kind gift to Democrats in battleground states, a source close to the Trump administration told Politico. \u201c If this gets worse , congressional Republicans\u2026 are going to be the first ones to feel it.\u201d \u2014 Brendan Ruberry"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-     "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T19:50:57+00:00",
-     "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
-    },
-    {
-     "outlet": "time",
-     "title": "Canada Retaliates Against Trump\u2019s Tariffs With Levies of Up to 50% on U.S. Goods",
-     "url": "https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/",
-     "author": "Tiago Ventura",
-     "kind": "news",
-     "published": "2026-08-25T17:36:01+00:00",
-     "summary": "Canada has imposed retaliatory tariffs of up to 50% on U.S. goods in response to President Donald Trump \u2019s sweeping tariffs and amid an escalating trade war between the neighboring allies. Canada\u2019s Finance Minister Fran\u00e7ois-Philippe Champagne announced Tuesday that effective Sept. 8 the country \u201cwill match the United States tariffs dollar for dollar, rate for rate,\" by imposing counter tariffs of up to 15%, 25%, or 50% on near $20 billion U.S. imports. \u201cFor each product, our tariff would match the American tariff on the same type of Canadian goods,\u201d he said during a press conference alongside Canadian federal officials. Read More: 'We Don't Need Canada': Trump Escalates Trade War Tensions between the U.S. and its northern neighbor have deepened after trade negotiations broke down over the weekend , with both sides blaming one another for last-minute changes. A broad set of 50% tariffs affecting about $20 billion of Canadian exports to the U.S. came into effect Saturday, after which Prime Minister Mark Carney vowed to match them \u201cdollar for dollar.\u201d \u201cUltimately, the terms proposed by the U.S. Administration were uneconomic, unfair, and ultimately unacceptable. They asked too much of"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates \u2013 video",
-     "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T16:39:26+00:00",
-     "summary": "Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar' Continue reading..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
-     "url": "https://www.washingtonpost.com/politics/2026/08/25/trump-says-us-could-rename-lake-ontario-amid-canada-trade-war/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-25T16:25:46+00:00",
-     "summary": "The president cited his tariff fight in a social media post, saying the United States doesn\u2019t expect to be \u201cdoing much business with Ontario any longer.\u201d"
-    },
-    {
-     "outlet": "france24",
-     "title": "Canada strikes back at Trump with retaliatory tariffs as US trade war escalates",
-     "url": "https://www.france24.com/en/americas/20260825-canada-strikes-back-trump-with-retaliatory-tariffs-us-trade-war-escalates",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-25T16:15:47+00:00",
-     "summary": "Canada on Tuesday announced retaliatory tariffs on C$27.6 billion ($19.94 billion) worth of US goods, including steel and dairy products, in a dollar-for-dollar response to President Donald Trump's punitive tariffs on Canadian products. Ottawa also announced a C$7.5 billion aid package for impacted Canadian businesses and workers as the trade war between the two countries escalated."
-    },
-    {
-     "outlet": "rollingstone",
-     "title": "Trump Threatens to Rename Lake Ontario \u2018Lake America\u2019 Amid New Canadian Trade War",
-     "url": "https://www.rollingstone.com/politics/politics-news/trump-threatens-to-rename-lake-ontario-lake-america-1235614575/",
-     "author": "Sean Woods",
-     "kind": "news",
-     "published": "2026-08-25T16:02:21+00:00",
-     "summary": "The president has decided to escalate his trade war with our northern neighbor, amidst a real war with Iran and skyrocketing costs at home"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Threatens to Rename Lake Ontario to Lake America as U.S.-Canada Trade War Heats Up",
-     "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-lake-ontario-america-canada-trade.html",
-     "author": "Karoun Demirjian",
-     "kind": "news",
-     "published": "2026-08-25T15:45:57+00:00",
-     "summary": "The president\u2019s threat is his latest jab at Canada since trade talks between the two countries broke down."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Canada retaliates in rapidly escalating U.S. trade war",
-     "url": "https://www.latimes.com/world-nation/story/2026-08-25/canada-strikes-back-at-u-s-with-retaliatory-tariffs-as-trade-war-escalates",
-     "author": "Michael Wilner",
-     "kind": "news",
-     "published": "2026-08-25T15:32:31+00:00",
-     "summary": "The new duties will hit a variety of American products with tariffs as high as 50%, including steel, dairy products, appliances and farm equipment."
-    },
-    {
-     "outlet": "dw",
-     "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
-     "url": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T15:31:00+00:00",
-     "summary": "The Iran-backed Houthis are using regional warfare to increase pressure on Saudi Arabia, while their attacks risk reopening Yemen's own conflict and disrupting shipping in the Red Sea."
-    },
-    {
-     "outlet": "bbc",
-     "title": "How Canada could hit back to hurt the US economy - and Trump",
-     "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T02:49:22+00:00",
-     "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?"
-    },
-    {
-     "outlet": "zeteo",
-     "title": "First Draft: \ud83c\udf41 It\u2019s a Huge Scandal That Trump Is Plunging Us Into \u2018War\u2019 With Canada",
-     "url": "https://zeteo.com/p/its-a-huge-scandal-that-trump-is",
-     "author": "Asawin Suebsaeng",
-     "kind": "news",
-     "published": "2026-08-24T11:12:36+00:00",
-     "summary": "On this day in 2023, Donald Trump had his mugshot taken after surrendering in Fulton County, Georgia, on charges arising from his attempt to overturn the 2020 election. Trump monetized the mugshot. The case eventually collapsed. We made it to Monday! It\u2019s Swin again. If you\u2019re living in the U.S., you woke up this morning to our nation very much at war. No, I\u2019m not talking about that war . Or that one . Or that other one . Or this war \u2026 Nope, not that one , either. I\u2019m referring to the other insanely stupid war that President Donald Trump is forcing his fellow Americans to go along with \u2013 the one he\u2019s waging on our neighbors to the north. In today\u2019s \u2019 First Draft ,\u2019 we\u2019ll get right to the point about Trump\u2019s latest endless war; just because the bombs aren\u2019t falling in this one (yet?) does not make the damage any less substantial or consequential. Plus, Hakeem Jeffries takes more fire over a secret meeting with Jared Kushner and the Trump administration prepares for its \u201cEconomic D-Day\u201d with Iran. Let\u2019s read in. Subscribe now DON\u2019T Blame Canada US President Donald Trump meets with Canadian Prime Minister Mark Carney in the Oval Office on May 6, 2025. Photo by Jim Watson/AFP via Getty"
-    },
-    {
-     "outlet": "bbc",
-     "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-     "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-24T09:47:22+00:00",
-     "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up."
-    }
-   ]
-  },
-  {
    "id": "926d20d5ac",
    "topic": "Culture & Sport",
    "summary": "Dolly Parton, the country music legend behind hits like \u201cJolene\u201d and \u201c9 to 5\u201d as well as actress, businesswoman, fashion icon , and philanthropist , died on Tuesday. She was 80. Her death was announced in a video featuring her nephew, Bryan Seaver, that was shared on Parton\u2019s social media accounts. Seaver didn\u2019t disclose a cause of death in the video. He said that his aunt \u201chas lived in the light and is in the arms of Jesus, surely met by\u201d her loved ones, including her husband Carl Dean, who died last year , as well as her parents and \u201ccountless others who have watched her and longed for her to meet them in the heavens.\u201d \u201cShe never saw a door she couldn\u2019t open, and the doors she opened made and changed history,\u201d Seaver said. \u201cMy family and I have shared a lifetime of beautiful memories with Dolly, but so have you. She has always been on your television, your record player, your CD, and\u2026",
@@ -541,10 +367,10 @@
    "outletCount": 9,
    "counts": {
     "corp": 4,
-    "family": 6,
+    "family": 5,
     "nonprofit": 1
    },
-   "newsCount": 10,
+   "newsCount": 9,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -621,15 +447,6 @@
      "summary": "Canadian officials announced they plan to impose tariffs on $20 billion worth of US goods in retaliation for new US levies. The tariffs will mostly mirror President Donald Trump\u2019s, with the heftiest affecting steel and aluminum. \u201cWhen the United States asked too much and offered too little, we chose to stand up for Canadians,\u201d said Fran\u00e7ois-Philippe Champagne, Canada\u2019s finance minister. The move heightens the stakes for congressional Republicans in states that border Canada, many of whom are already taking heat for rising prices ahead of midterms. \u201cIf you are a Midwestern-northern state with a big auto industry, or you rely on Canadian tourism \u2026 I can\u2019t imagine this is helpful,\u201d Ernst & Young\u2019s Blake Harden, former GOP trade counsel for the House Ways and Means Committee, told Semafor. \u201cI don\u2019t think this is the thing they really want to be talking about.\u201d It could be worse: Ontario Premier Doug Ford said earlier this week that \u201ceverything on the table,\u201d including surcharges on electricity Canada exports to the US. That would hit states like Maine, where Republican Sen. Susan Collins is in a close reelection race, especially hard. Still, voters nationally are already grappling with"
     },
     {
-     "outlet": "bloomberg",
-     "title": "How Trump\u2019s Feud With Canada Became a Full-Blown Trade War",
-     "url": "https://www.bloomberg.com/news/newsletters/2026-08-25/how-trump-s-feud-with-canada-became-a-full-blown-trade-war",
-     "author": "Nancy Cook",
-     "kind": "news",
-     "published": "2026-08-25T20:29:32+00:00",
-     "summary": "The president may not back down immediately \u2014 despite the damage it could cause to US states during the midterm elections."
-    },
-    {
      "outlet": "time",
      "title": "\u2018Lake America\u2019: Trump Floats Renaming Lake Ontario Amid Canada Tensions",
      "url": "https://time.com/article/2026/08/25/trump-lake-america-ontario-name-change-canada/",
@@ -663,12 +480,12 @@
      "cancer",
      "died",
      "dies",
-     "nashville"
+     "center"
     ],
     "indie": [
-     "touched",
+     "extraordinary",
      "remembering",
-     "extraordinary"
+     "touched"
     ]
    },
    "people": [],
@@ -790,16 +607,16 @@
     "indieCount": 4,
     "big": [
      "washington",
-     "asked",
-     "intelligence"
+     "intelligence",
+     "asked"
     ],
     "indie": [
      "media",
      "flight",
-     "data",
      "aircraft",
+     "american",
      "tracking",
-     "american"
+     "data"
     ]
    },
    "people": [],
@@ -927,7 +744,7 @@
    "articles": [
     {
      "outlet": "forbes",
-     "title": "Trump-Backed Businessman Mike Mazzei Wins GOP Runoff For Oklahoma Gov. Race",
+     "title": "Trump-Backed Mike Mazzei Wins GOP Runoff For Oklahoma Gov. Race",
      "url": "https://www.forbes.com/sites/siladityaray/2026/08/26/trump-backed-businessman-mike-mazzei-wins-gop-runoff-for-oklahoma-gov-race/",
      "author": "Siladitya Ray, Forbes Staff",
      "kind": "news",
@@ -1124,21 +941,239 @@
    ]
   },
   {
+   "id": "7e5d416bcb",
+   "topic": "Business & Economy",
+   "summary": "Canada has imposed retaliatory tariffs of up to 50% on U.S. goods in response to President Donald Trump \u2019s sweeping tariffs and amid an escalating trade war between the neighboring allies. Canada\u2019s Finance Minister Fran\u00e7ois-Philippe Champagne announced Tuesday that effective Sept. 8 the country \u201cwill match the United States tariffs dollar for dollar, rate for rate,\" by imposing counter tariffs of up to 15%, 25%, or 50% on near $20 billion U.S. imports. \u201cFor each product, our tariff would match the American tariff on the same type of Canadian goods,\u201d he said during a press conference alongside Canadian federal officials. Read More: 'We Don't Need Canada': Trump Escalates Trade War Tensions between the U.S. and its northern neighbor have deepened after trade negotiations broke down over the weekend , with both sides blaming one another for last-minute changes. A broad set of 50% tariffs\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 7,
+    "big": [
+     "minister"
+    ],
+    "indie": [
+     "latest",
+     "steel",
+     "escalates",
+     "mark",
+     "strikes"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Canada retaliates with tariffs against U.S. as relations deteriorate",
+   "updated": "2026-08-25T23:47:03+00:00",
+   "outletCount": 8,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 2,
+    "family": 2,
+    "pub": 5
+   },
+   "newsCount": 10,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Canada announces tariffs of up to 50% on $20 billion in U.S. goods",
+     "url": "https://www.cbsnews.com/news/canada-imposes-tariffs-us-imports/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T23:47:03+00:00",
+     "summary": "Canadian government officials said they are also providing aid for workers and businesses that could be hurt by U.S.-imposed tariffs."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Canada retaliates with tariffs against U.S. as relations deteriorate",
+     "url": "https://www.pbs.org/newshour/show/canada-retaliates-with-tariffs-against-u-s-as-relations-deteriorate",
+     "author": "Daniel Okay",
+     "kind": "news",
+     "published": "2026-08-25T22:55:27+00:00",
+     "summary": "Canada imposed retaliatory tariffs against the United States as the two neighbors slide toward an all-out trade war. The tariffs will hit a range of U.S. products, from industrial goods to everyday items. At the same time, President Trump is threatening Canada with even steeper tariffs. William Brangham reports."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Canada announces retaliatory tariffs of up to 50% against the US",
+     "url": "https://www.semafor.com/article/08/25/2026/canada-announces-retaliatory-tariffs-of-up-to-50-against-the-us",
+     "author": "Brendan Ruberry",
+     "kind": "news",
+     "published": "2026-08-25T22:20:19+00:00",
+     "summary": "Canada struck back against the US with retaliatory tariffs of up to 50% on $20 billion worth of American products on Tuesday, as a defiant Ottawa fulfilled its vow to match US duties \u201cdollar for dollar.\u201d US President Donald Trump threatened to rename Lake Ontario as Lake America, as relations hit a new low, making any climbdown more onerous. Canada\u2019s industrial minister said reprisals were intended to apply economic pressure in US states ahead of November\u2019s midterm elections. The breakdown in relations is an in-kind gift to Democrats in battleground states, a source close to the Trump administration told Politico. \u201c If this gets worse , congressional Republicans\u2026 are going to be the first ones to feel it.\u201d \u2014 Brendan Ruberry"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+     "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T19:50:57+00:00",
+     "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+    },
+    {
+     "outlet": "time",
+     "title": "Canada Retaliates Against Trump\u2019s Tariffs With Levies of Up to 50% on U.S. Goods",
+     "url": "https://time.com/article/2026/08/25/canada-retaliates-trumps-tariffs-with-levies/",
+     "author": "Tiago Ventura",
+     "kind": "news",
+     "published": "2026-08-25T17:36:01+00:00",
+     "summary": "Canada has imposed retaliatory tariffs of up to 50% on U.S. goods in response to President Donald Trump \u2019s sweeping tariffs and amid an escalating trade war between the neighboring allies. Canada\u2019s Finance Minister Fran\u00e7ois-Philippe Champagne announced Tuesday that effective Sept. 8 the country \u201cwill match the United States tariffs dollar for dollar, rate for rate,\" by imposing counter tariffs of up to 15%, 25%, or 50% on near $20 billion U.S. imports. \u201cFor each product, our tariff would match the American tariff on the same type of Canadian goods,\u201d he said during a press conference alongside Canadian federal officials. Read More: 'We Don't Need Canada': Trump Escalates Trade War Tensions between the U.S. and its northern neighbor have deepened after trade negotiations broke down over the weekend , with both sides blaming one another for last-minute changes. A broad set of 50% tariffs affecting about $20 billion of Canadian exports to the U.S. came into effect Saturday, after which Prime Minister Mark Carney vowed to match them \u201cdollar for dollar.\u201d \u201cUltimately, the terms proposed by the U.S. Administration were uneconomic, unfair, and ultimately unacceptable. They asked too much of"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates \u2013 video",
+     "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T16:39:26+00:00",
+     "summary": "Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar' Continue reading..."
+    },
+    {
+     "outlet": "france24",
+     "title": "Canada strikes back at Trump with retaliatory tariffs as US trade war escalates",
+     "url": "https://www.france24.com/en/americas/20260825-canada-strikes-back-trump-with-retaliatory-tariffs-us-trade-war-escalates",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-25T16:15:47+00:00",
+     "summary": "Canada on Tuesday announced retaliatory tariffs on C$27.6 billion ($19.94 billion) worth of US goods, including steel and dairy products, in a dollar-for-dollar response to President Donald Trump's punitive tariffs on Canadian products. Ottawa also announced a C$7.5 billion aid package for impacted Canadian businesses and workers as the trade war between the two countries escalated."
+    },
+    {
+     "outlet": "dw",
+     "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
+     "url": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T15:31:00+00:00",
+     "summary": "The Iran-backed Houthis are using regional warfare to increase pressure on Saudi Arabia, while their attacks risk reopening Yemen's own conflict and disrupting shipping in the Red Sea."
+    },
+    {
+     "outlet": "dw",
+     "title": "Canada announces retaliatory tariffs on US goods",
+     "url": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T15:17:00+00:00",
+     "summary": "Canada's government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carney."
+    },
+    {
+     "outlet": "bbc",
+     "title": "How Canada could hit back to hurt the US economy - and Trump",
+     "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T02:49:22+00:00",
+     "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?"
+    }
+   ]
+  },
+  {
+   "id": "64d1c38b41",
+   "topic": "World",
+   "summary": "Canadian politicians aren't too concerned about Trump's threat to rename Lake Ontario. Arrush Chopra/NurPhoto via Getty Images Canada's leaders heard Trump's threat to rename Lake Ontario to Lake America, and they don't really care. They said it will always be Lake Ontario in Canada, regardless of what Trump decides to name it. Trump's threat comes as yet another trade war is erupting between the two neighbors. Canadian politicians say President Donald Trump can rename Lake Ontario on the map if he wants to \u2014 it won't change what they call it. In a Tuesday morning Truth Social post, Trump wrote that the US is \"giving serious consideration to changing the name of Lake Ontario to Lake America\" as \"we don't expect to be doing much business with Ontario any longer.\" He later posted a picture of the map of Lake Ontario with its name crossed out and replaced by \"Lake America\" in a bold\u2026",
+   "summaryFrom": "businessinsider",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [
+     "america",
+     "ontario",
+     "lake",
+     "rename",
+     "president",
+     "canadian"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [
+    "nonprofit"
+   ],
+   "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
+   "updated": "2026-08-26T05:15:35+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 3,
+    "family": 2,
+    "coop": 1,
+    "pub": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "businessinsider",
+     "title": "Canadian politicians say Trump can rename that lake whatever he likes, but it'll 'always be Lake Ontario'",
+     "url": "https://www.businessinsider.com/canadian-politicians-trump-rename-lake-ontario-doesnt-matter-2026-8",
+     "author": "Aditi Bharade (abharade@businessinsider.com)",
+     "kind": "news",
+     "published": "2026-08-26T05:15:35+00:00",
+     "summary": "Canadian politicians aren't too concerned about Trump's threat to rename Lake Ontario. Arrush Chopra/NurPhoto via Getty Images Canada's leaders heard Trump's threat to rename Lake Ontario to Lake America, and they don't really care. They said it will always be Lake Ontario in Canada, regardless of what Trump decides to name it. Trump's threat comes as yet another trade war is erupting between the two neighbors. Canadian politicians say President Donald Trump can rename Lake Ontario on the map if he wants to \u2014 it won't change what they call it. In a Tuesday morning Truth Social post, Trump wrote that the US is \"giving serious consideration to changing the name of Lake Ontario to Lake America\" as \"we don't expect to be doing much business with Ontario any longer.\" He later posted a picture of the map of Lake Ontario with its name crossed out and replaced by \"Lake America\" in a bold metallic font. His threat comes as trade tensions between the two countries flare. But Canadian politicians shrugged off Trump's message. Talking about Trump, Ontario Premier Doug Ford told: CBS News on Tuesday: \"I have to laugh when he comes up with these ideas.\" \"It's always going to be Lake Ontario here"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
+     "url": "https://www.washingtonpost.com/politics/2026/08/25/trump-says-us-could-rename-lake-ontario-amid-canada-trade-war/",
+     "author": "Sammy Westfall",
+     "kind": "news",
+     "published": "2026-08-25T16:25:46+00:00",
+     "summary": "The president cited his tariff fight in a social media post, saying the United States doesn\u2019t expect to be \u201cdoing much business with Ontario any longer.\u201d"
+    },
+    {
+     "outlet": "rollingstone",
+     "title": "Trump Threatens to Rename Lake Ontario \u2018Lake America\u2019 Amid New Canadian Trade War",
+     "url": "https://www.rollingstone.com/politics/politics-news/trump-threatens-to-rename-lake-ontario-lake-america-1235614575/",
+     "author": "Sean Woods",
+     "kind": "news",
+     "published": "2026-08-25T16:02:21+00:00",
+     "summary": "The president has decided to escalate his trade war with our northern neighbor, amidst a real war with Iran and skyrocketing costs at home"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Threatens to Rename Lake Ontario to Lake America as U.S.-Canada Trade War Heats Up",
+     "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-lake-ontario-america-canada-trade.html",
+     "author": "Karoun Demirjian",
+     "kind": "news",
+     "published": "2026-08-25T15:45:57+00:00",
+     "summary": "The president\u2019s threat is his latest jab at Canada since trade talks between the two countries broke down."
+    },
+    {
+     "outlet": "axios",
+     "title": "\"Lake America\": Trump turns Canada feud toward Lake Ontario",
+     "url": "https://www.axios.com/2026/08/25/trump-french-language-canada-lake-ontario",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-25T14:01:29+00:00",
+     "summary": "President Trump 's war of words with Canada continued Tuesday amid a dispute over trade negotiations. The big picture: U.S. and Canadian officials have swapped barbs since negotiations collapsed last week, but Trump took the spat to a new level when he threatened to rename Lake Ontario to \"Lake America\" and claimed Canada had lied about a sticking point in trade talks. What they're saying: \"The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don't expect to be doing much business with Ontario any longer.\" Trump wrote on Truth Social. Lake Ontario stretches across the U.S.-Canada border, with approximately 47% of the lake belonging to the U.S. Later in the morning, Trump posted a map of the lake, with \"Lake Ontario\" crossed out and \"Lake America\" in gold letters above it. The president then posted that he would \"never interfere with Canadians speaking French!\" referencing comments Canadian Prime Minister Mark Carney made about U.S. threats to the French language . \"In fact, I have never even thought of doing such a stupid thing,\" Trump added. Carney's office did not immediately respond to Axios' request for comment. Catch"
+    },
+    {
+     "outlet": "zeteo",
+     "title": "First Draft: \ud83c\udf41 It\u2019s a Huge Scandal That Trump Is Plunging Us Into \u2018War\u2019 With Canada",
+     "url": "https://zeteo.com/p/its-a-huge-scandal-that-trump-is",
+     "author": "Asawin Suebsaeng",
+     "kind": "news",
+     "published": "2026-08-24T11:12:36+00:00",
+     "summary": "On this day in 2023, Donald Trump had his mugshot taken after surrendering in Fulton County, Georgia, on charges arising from his attempt to overturn the 2020 election. Trump monetized the mugshot. The case eventually collapsed. We made it to Monday! It\u2019s Swin again. If you\u2019re living in the U.S., you woke up this morning to our nation very much at war. No, I\u2019m not talking about that war . Or that one . Or that other one . Or this war \u2026 Nope, not that one , either. I\u2019m referring to the other insanely stupid war that President Donald Trump is forcing his fellow Americans to go along with \u2013 the one he\u2019s waging on our neighbors to the north. In today\u2019s \u2019 First Draft ,\u2019 we\u2019ll get right to the point about Trump\u2019s latest endless war; just because the bombs aren\u2019t falling in this one (yet?) does not make the damage any less substantial or consequential. Plus, Hakeem Jeffries takes more fire over a secret meeting with Jared Kushner and the Trump administration prepares for its \u201cEconomic D-Day\u201d with Iran. Let\u2019s read in. Subscribe now DON\u2019T Blame Canada US President Donald Trump meets with Canadian Prime Minister Mark Carney in the Oval Office on May 6, 2025. Photo by Jim Watson/AFP via Getty"
+    },
+    {
+     "outlet": "bbc",
+     "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+     "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-24T09:47:22+00:00",
+     "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up."
+    }
+   ]
+  },
+  {
    "id": "f86b467a21",
    "topic": "Politics",
    "summary": "California Gov. Gavin Newsom announced plans to sue the Trump administration over its push to restrict mail-in voting after the Supreme Court allowed the administration to enforce challenged provisions of President Donald Trump\u2019s executive order for \"election integrity\" while litigation continues. The announcement sets up the next phase of the legal fight after the Supreme Court (SCOTUS) ruled 6-3 in favor of the Trump administration Monday, lifting an injunction that had blocked the order in 23 states ahead of November's midterm elections. SCOTUS stressed that its decision addressed the injunction rather than the ultimate legality of the order, leaving the door open to additional challenges. Newsom criticized the decision in a statement released by his office. JACKSON RIPS INTO SUPREME COURT COLLEAGUES' 'SERIOUS LEGAL ERROR' ON TRUMP MAIL-IN VOTING ORDER \"The Supreme Court just let the\u2026",
    "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 2,
-    "big": [
-     "push",
-     "executive",
-     "fight",
-     "trump's"
-    ],
-    "indie": []
-   },
+   "emphasis": null,
    "people": [],
    "absent": [
     "coop",
@@ -1146,13 +1181,13 @@
    ],
    "headline": "Constitutional law professor explains Supreme Court's ruling on mail-in voting",
    "updated": "2026-08-25T22:45:45+00:00",
-   "outletCount": 8,
+   "outletCount": 7,
    "counts": {
-    "nonprofit": 2,
+    "nonprofit": 1,
     "family": 4,
     "corp": 2
    },
-   "newsCount": 7,
+   "newsCount": 6,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -1209,15 +1244,6 @@
      "kind": "news",
      "published": "2026-08-25T18:57:42+00:00",
      "summary": "An editorial collage features grayscale cutout portraits of Supreme Court Justice Ketanji Brown Jackson smiling on the left and Chief Justice John Roberts in profile on the right. They are framed against a dark background intercut with several purple classical architectural columns."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-     "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-     "author": "Martin Belam",
-     "kind": "news",
-     "published": "2026-08-25T12:31:53+00:00",
-     "summary": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes Don\u2019t already get First Thing in your inbox? Sign up here Good morning. The US supreme court has sided with Donald Trump in his effort to crack down on mail-in voting , though it is unclear whether or not his administration will be able to take action before the midterm elections in November. The court\u2019s justices voted 6-3 along ideological lines to lift an injunction that a judge in Massachusetts had placed in June on an executive order issued by the president. But a second injunction remains in place, and the ruling leaves room for legal challenges. Trump has repeatedly likened voting by mail to cheating, despite his own use of it and overwhelming evidence that the system is secure. In March he ordered the government to create a \u201cstate citizenship list\u201d of eligible voters, requiring that mail-in ballots only be delivered to people on that list. He also directed the justice department to prioritise investigations and prosecutions of state and local election officials who issue ballots to people deemed ineligible to"
     },
     {
      "outlet": "axios",
@@ -1320,9 +1346,9 @@
     "big": [
      "restrict",
      "nationwide",
+     "rules",
      "efforts",
-     "judge",
-     "rules"
+     "judge"
     ],
     "indie": [
      "decision"
@@ -1481,6 +1507,160 @@
    ]
   },
   {
+   "id": "7e8fae95b1",
+   "topic": "World",
+   "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Costanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Costanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more",
+   "summaryFrom": "zeteo",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "nonprofit"
+   ],
+   "headline": "Iran bets economic pain will pressure Trump in game of \u2018chicken\u2019",
+   "updated": "2026-08-26T05:20:17+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 1,
+    "family": 2,
+    "corp": 1,
+    "coop": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Iran bets economic pain will pressure Trump in game of \u2018chicken\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-26T05:20:17+00:00",
+     "summary": "Iran is betting global economic fallout and Republicans worried about the midterms will force Trump's retreat."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Bessent: Iran\u2019s Leadership \u2018Panicking\u2019 Under Trump Economic Offensive \u2014 Vows to Sever \u2018Every Economic Lifeline\u2019",
+     "url": "https://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/",
+     "author": "Joshua Klein",
+     "kind": "news",
+     "published": "2026-08-25T21:25:39+00:00",
+     "summary": "Treasury Secretary Scott Bessent declared Tuesday that Iran\u2019s leadership is already \u201cpanicking\u201d under President Donald Trump\u2019s mounting economic offensive \u2014 pointing to stark warnings from Tehran\u2019s own president and parliament speaker about the country\u2019s deteriorating economy while vowing to continue severing the regime\u2019s financial lifelines until it \u201cstands alone.\u201d The post Bessent: Iran\u2019s Leadership \u2018Panicking\u2019 Under Trump Economic Offensive \u2014 Vows to Sever \u2018Every Economic Lifeline\u2019 appeared first on Breitbart ."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Could Trump And Bessent's 'Operation Economic Outcast' Actually End The Iran War?",
+     "url": "https://www.forbes.com/sites/forbestv/2026/08/25/could-trump-and-bessents-operation-economic-outcast-actually-end-the-iran-war/",
+     "author": "ForbesTV, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-25T20:40:19+00:00",
+     "summary": "On \"Forbes Newsroom,\" Max Meizlish, research fellow at the Foundation for Defense of Democracies, discussed Operation Economic Outcast."
+    },
+    {
+     "outlet": "rollingstone",
+     "title": "Trump\u2019s Approval Rating Bottoms Out as Support For the Iran War Disintegrates",
+     "url": "https://www.rollingstone.com/politics/politics-news/trumps-approval-rating-bottoms-out-jack-crosbie-1235614651/",
+     "author": "Sean Woods",
+     "kind": "news",
+     "published": "2026-08-25T16:44:59+00:00",
+     "summary": "The president and his war are wildly unpopular \u2014 and there\u2019s no end in sight"
+    },
+    {
+     "outlet": "zeteo",
+     "title": "Trump Needs to Channel His Inner George Costanza to End His Disastrous Iran War",
+     "url": "https://zeteo.com/p/trump-iran-george-constanza-opposite-seinfeld",
+     "author": "Daniel DePetris",
+     "kind": "news",
+     "published": "2026-08-24T00:01:12+00:00",
+     "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Costanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Costanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more"
+    }
+   ]
+  },
+  {
+   "id": "e5aaa8034f",
+   "topic": "Politics",
+   "summary": "Alaska GOP Sen. Dan S. Sullivan can\u2019t shake his same-name challenger. Retired teacher Dan J. Sullivan punched a ticket out of the state\u2019s top-four, all-party primary early Wednesday morning. He could now play spoiler in a high-stakes Senate clash between the Republican senator and former Democratic Rep. Mary Peltola that could help swing control of the upper chamber. Republicans fought and failed to keep Dan J. Sullivan off the primary ballot , arguing he was a Democratic plant designed to boost Peltola. Both Dan J. Sullivan and Peltola\u2019s campaign have denied any coordination. The senator\u2019s allies have already taken steps to mitigate the second Sullivan\u2019s potential vote siphoning, in some cases running ads using the senator\u2019s middle initial to help differentiate between the same-named candidates. Supporters of the state\u2019s ranked-choice voting system, which kicks in for the general\u2026",
+   "summaryFrom": "politico",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "second",
+     "race",
+     "republicans",
+     "former",
+     "peltola",
+     "mary"
+    ],
+    "indie": [
+     "midterm"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Two Dan Sullivans to appear on Alaska\u2019s US Senate ballot in November\u2019s midterm elections",
+   "updated": "2026-08-26T05:02:46+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 1,
+    "nonprofit": 2,
+    "corp": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
+     "url": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
+     "author": "Tim Balk",
+     "kind": "news",
+     "published": "2026-08-26T05:02:46+00:00",
+     "summary": "A long-shot candidate with the same name as the incumbent Republican senator will be on the ballot in November. That could be a problem for the G.O.P."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Two Dan Sullivans to appear on Alaska\u2019s US Senate ballot in November\u2019s midterm elections",
+     "url": "https://www.theguardian.com/us-news/2026/aug/26/alaska-dan-sullivan-senate",
+     "author": "Chris Stein",
+     "kind": "news",
+     "published": "2026-08-26T04:48:55+00:00",
+     "summary": "The incumbent senator Dan S Sullivan has condemned ex-school teacher Dan J Sullivan, claiming he is running at the behest of Democrats to confuse supporters Republican senator Dan S Sullivan will be joined on the November ballot in Alaska by a challenger with a nearly identical name from the same party, election officials confirmed on Tuesday, adding a twist to what is expected to be one of the most hotly contested races of the midterms. The Republican senator is running for a third term against Democrat Mary Peltola , a former US House representative whom polls show is neck-and-neck with him in a state that hasn\u2019t sent a Democrat to the Senate since 2008. Continue reading..."
+    },
+    {
+     "outlet": "politico",
+     "title": "The other Dan Sullivan makes November ballot against Sen. Dan Sullivan",
+     "url": "https://www.politico.com/news/2026/08/26/dan-sullivan-alaska-senate-race-01050349",
+     "author": "By Lisa Kashinsky",
+     "kind": "news",
+     "published": "2026-08-26T04:11:26+00:00",
+     "summary": "Alaska GOP Sen. Dan S. Sullivan can\u2019t shake his same-name challenger. Retired teacher Dan J. Sullivan punched a ticket out of the state\u2019s top-four, all-party primary early Wednesday morning. He could now play spoiler in a high-stakes Senate clash between the Republican senator and former Democratic Rep. Mary Peltola that could help swing control of the upper chamber. Republicans fought and failed to keep Dan J. Sullivan off the primary ballot , arguing he was a Democratic plant designed to boost Peltola. Both Dan J. Sullivan and Peltola\u2019s campaign have denied any coordination. The senator\u2019s allies have already taken steps to mitigate the second Sullivan\u2019s potential vote siphoning, in some cases running ads using the senator\u2019s middle initial to help differentiate between the same-named candidates. Supporters of the state\u2019s ranked-choice voting system, which kicks in for the general election, argue the process helps curtail the spoiler effect. But the presence of other candidates could still skew the results of the battleground race. Outside groups flooded the primary with more than $2 million to boost myriad fringe candidates \u2014 and could do so again ahead of November. It\u2019s not smoot"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "The second Dan Sullivan makes the general election in Alaska\u2019s Senate race",
+     "url": "https://www.nbcnews.com/politics/2026-election/second-dan-sullivan-makes-general-election-alaskas-senate-race-rcna593464",
+     "author": "Scott Bland",
+     "kind": "news",
+     "published": "2026-08-26T04:07:39+00:00",
+     "summary": "NBC News projects that GOP Sen. Dan Sullivan and Republican Dan J. Sullivan will face off in the general election alongside former Rep. Mary Peltola, a Democrat."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Here\u2019s how to cast a ballot in Texas\u2019 midterm election on Nov. 3",
+     "url": "https://feeds.texastribune.org/link/16799/17428063/texas-general-election-november-2026-voter-guide",
+     "author": "By Mar\u00eda M\u00e9ndez, graphics by Apurva Mahajan",
+     "kind": "news",
+     "published": "2026-08-25T10:00:00+00:00",
+     "summary": "Voters will weigh in on dozens of races, including U.S. senator, governor and many other offices."
+    }
+   ]
+  },
+  {
    "id": "45c5e4c0a2",
    "topic": "Health",
    "summary": "Dolly Parton died Tuesday following a \u201cbrief battle with cancer,\u201d her representatives revealed after her death was announced and as fans gathered outside her Nashville home to mourn the loss of one of country music\u2019s most beloved stars. A spokesperson for the 80-year-old icon confirmed the previously undisclosed diagnosis in a statement to People Magazine. The specific type of cancer was not disclosed. \u201cOur beloved Dolly Parton spent her life and career bringing joy, laughter, hope and integrity into everything she touched. Her unmatched generosity reached the lives of countless people whom she would never meet, yet she was always there to offer a helping hand,\u201d the statement read. \u201cWhether it be the hundreds of millions of books donated through her invaluable Imagination Library or funding research that helped create a lifesaving vaccine used around the world, Dolly\u2019s unconditional\u2026",
@@ -1595,7 +1775,7 @@
      "outlet": "nypost",
      "title": "Taylor Swift honors Dolly Parton\u2019s \u2018everlasting\u2019 legacy in heartfelt tribute after country icon\u2019s death",
      "url": "https://pagesix.com/2026/08/25/entertainment/taylor-swift-honors-dolly-partons-everlasting-legacy-in-heartfelt-tribute/",
-     "author": "Carson Blackwelder, Sarah Jones",
+     "author": "Carson Blackwelder, Sarah Jones, Adam Silverstein",
      "kind": "news",
      "published": "2026-08-26T02:59:52+00:00",
      "summary": "Parton died Tuesday at the age of 80."
@@ -1640,9 +1820,9 @@
     "big": [
      "career",
      "ochs",
+     "getty",
      "michael",
-     "archives",
-     "getty"
+     "archives"
     ],
     "indie": []
    },
@@ -1711,151 +1891,133 @@
    ]
   },
   {
-   "id": "c4f2dc5586",
-   "topic": "World",
-   "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Costanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Costanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more",
-   "summaryFrom": "zeteo",
+   "id": "22efaaf13b",
+   "topic": "Other",
+   "summary": "This isn't the first time Target has found itself facing criticism over diversity issues. Justin Sullivan/Getty Images Target again finds itself in the cultural crosshairs \u2014 this time over an offensive Halloween costume. The retailer quickly apologized, but the episode marks a stumble in a turnaround year. The nature of Halloween merchandising can lead retailers to make embarrassing mistakes. Target is again facing a storm of criticism over an unforced error on diversity as it tries to navigate a challenging turnaround. The Minnesota-based retailer landed in the cultural crosshairs after it marketed a children's Halloween costume with imagery that bore a striking resemblance to racist minstrel show posters. The retailer pulled the merchandise and issued an apology on Monday, but critics on social media have not been so quick to let the issue go. \"It's astonishing that they found\u2026",
+   "summaryFrom": "businessinsider",
    "emphasis": {
-    "bigCount": 3,
+    "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "economic"
+     "offensive"
     ],
     "indie": [
-     "months"
+     "backlash"
     ]
    },
    "people": [],
    "absent": [
-    "pub"
+    "coop"
    ],
-   "headline": "Gold price hits three-month high amid fears over Iran war and Trump economy",
-   "updated": "2026-08-25T21:25:39+00:00",
-   "outletCount": 5,
+   "headline": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+   "updated": "2026-08-26T05:45:58+00:00",
+   "outletCount": 4,
    "counts": {
-    "family": 2,
-    "corp": 1,
     "nonprofit": 1,
-    "coop": 1
+    "corp": 1,
+    "pub": 1,
+    "family": 1
    },
-   "newsCount": 5,
-   "opinionCount": 0,
+   "newsCount": 3,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "Bessent: Iran\u2019s Leadership \u2018Panicking\u2019 Under Trump Economic Offensive \u2014 Vows to Sever \u2018Every Economic Lifeline\u2019",
-     "url": "https://www.breitbart.com/politics/2026/08/25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/",
-     "author": "Joshua Klein",
+     "outlet": "npr",
+     "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+     "url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+     "author": "The Associated Press",
      "kind": "news",
-     "published": "2026-08-25T21:25:39+00:00",
-     "summary": "Treasury Secretary Scott Bessent declared Tuesday that Iran\u2019s leadership is already \u201cpanicking\u201d under President Donald Trump\u2019s mounting economic offensive \u2014 pointing to stark warnings from Tehran\u2019s own president and parliament speaker about the country\u2019s deteriorating economy while vowing to continue severing the regime\u2019s financial lifelines until it \u201cstands alone.\u201d The post Bessent: Iran\u2019s Leadership \u2018Panicking\u2019 Under Trump Economic Offensive \u2014 Vows to Sever \u2018Every Economic Lifeline\u2019 appeared first on Breitbart ."
+     "published": "2026-08-26T05:45:58+00:00",
+     "summary": "Retailer Target pulled a children's Halloween costume from its shelves after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures. (Image credit: Charles Krupa)"
     },
     {
-     "outlet": "forbes",
-     "title": "Could Trump And Bessent's 'Operation Economic Outcast' Actually End The Iran War?",
-     "url": "https://www.forbes.com/sites/forbestv/2026/08/25/could-trump-and-bessents-operation-economic-outcast-actually-end-the-iran-war/",
-     "author": "ForbesTV, Forbes Staff",
+     "outlet": "businessinsider",
+     "title": "Target\u2019s offensive Halloween costume is a stumble at a key moment",
+     "url": "https://www.businessinsider.com/target-costume-offensive-stumble-key-moment-turnaround-2026-8",
+     "author": "Dominick Reuter,Sarah E. Needleman (dreuter@businessinsider.com)",
      "kind": "news",
-     "published": "2026-08-25T20:40:19+00:00",
-     "summary": "On \"Forbes Newsroom,\" Max Meizlish, research fellow at the Foundation for Defense of Democracies, discussed Operation Economic Outcast."
+     "published": "2026-08-25T20:54:17+00:00",
+     "summary": "This isn't the first time Target has found itself facing criticism over diversity issues. Justin Sullivan/Getty Images Target again finds itself in the cultural crosshairs \u2014 this time over an offensive Halloween costume. The retailer quickly apologized, but the episode marks a stumble in a turnaround year. The nature of Halloween merchandising can lead retailers to make embarrassing mistakes. Target is again facing a storm of criticism over an unforced error on diversity as it tries to navigate a challenging turnaround. The Minnesota-based retailer landed in the cultural crosshairs after it marketed a children's Halloween costume with imagery that bore a striking resemblance to racist minstrel show posters. The retailer pulled the merchandise and issued an apology on Monday, but critics on social media have not been so quick to let the issue go. \"It's astonishing that they found themselves in the situation yet again,\" former Target vice chairman Gerald Storch told Business Insider. On Tuesday, Target's stock closed nearly 4% below its price on Monday, before the story broke overnight. A company spokesperson declined to comment beyond the statement. \"It's a very unfortunate misstep "
     },
     {
-     "outlet": "rollingstone",
-     "title": "Trump\u2019s Approval Rating Bottoms Out as Support For the Iran War Disintegrates",
-     "url": "https://www.rollingstone.com/politics/politics-news/trumps-approval-rating-bottoms-out-jack-crosbie-1235614651/",
-     "author": "Sean Woods",
+     "outlet": "bbc",
+     "title": "Target apologises for 'offensive' children Halloween costume after backlash",
+     "url": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-25T16:44:59+00:00",
-     "summary": "The president and his war are wildly unpopular \u2014 and there\u2019s no end in sight"
+     "published": "2026-08-25T15:24:06+00:00",
+     "summary": "The retailer says the costume is \"hurtful for Black guests, team members and partners\", without providing further details."
     },
     {
-     "outlet": "guardian",
-     "title": "Gold price hits three-month high amid fears over Iran war and Trump economy",
-     "url": "https://www.theguardian.com/business/2026/aug/25/gold-price-high-iran-war-donald-trump-economy-us",
-     "author": "Joanna Partridge",
-     "kind": "news",
-     "published": "2026-08-25T08:18:52+00:00",
-     "summary": "Bitcoin rises above $80,000 for the first time since May amid uncertainty over US fiscal plans Gold prices hit their highest level in more than three months on Tuesday as continued conflict in the Middle East and ongoing political uncertainty fuelled the latest rally in the precious metal. Gold is viewed as a safe haven by investors and its price tends to rise at times of uncertainty. Continue reading..."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "Trump Needs to Channel His Inner George Costanza to End His Disastrous Iran War",
-     "url": "https://zeteo.com/p/trump-iran-george-constanza-opposite-seinfeld",
-     "author": "Daniel DePetris",
-     "kind": "news",
-     "published": "2026-08-24T00:01:12+00:00",
-     "summary": "Nearly six months into the U.S. war against Iran, one can\u2019t help but come to the conclusion that President Donald Trump doesn\u2019t know what he\u2019s doing, is completely out of his depth, or is basing his policy on incredibly flawed assumptions. It brings to mind one of George Costanza\u2019s famous quotes in \u2018 Seinfeld \u2019: \u201cEvery decision I\u2019ve ever made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have in every aspect of life, be it something to wear, something to eat, it\u2019s all been wrong.\u201d Subscribe now While this might seem overly hyperbolic, it doesn\u2019t take a genius to recognize that every decision Trump makes with respect to Iran has led to results he didn\u2019t expect. Much like the depressed Costanza sitting in the coffee shop, an angry Trump may now be sitting in the Oval Office wondering where it all went wrong. Read more"
+     "outlet": "dailywire",
+     "title": "Target Pulls Halloween Costume After Customers Call It \u2018Racist\u2019 \u2014 You Have to See It",
+     "url": "https://www.dailywire.com/news/target-pulls-halloween-costume-after-customers-call-it-racist-you-have-to-see-it",
+     "author": "Amanda Harding",
+     "kind": "opinion",
+     "published": "2026-08-25T08:41:39+00:00",
+     "summary": "Target removed a Halloween costume from its shelves and issued an apology after some customers deemed it \u201cracist.\u201d \u201cAn apology from us: We removed an offensive Halloween costume that should never have been part of our assortment,\u201d Target wrote in a statement on Monday. \u201cIt is no longer for sale. As a company, we got this wrong, and we are deeply sorry.\u201d \u201cWe know this is especially hurtful for our black guests, team members, and partners,\u201d the statement from Target continued. \u201cRemoving the costume is an important first step, and we are looking closely at how this happened and what needs to change to ensure this won\u2019t happen again.\u201d Photos of the costume, which was called \u201cKids\u2019 Glows under Blacklight Circus Clown,\u201d include a young black child modeling the outfit. The costume consisted of a black and orange printed bodysuit and hood with an oversized smile and mini top hat. Target issues an apology after being accused of selling a racist Halloween costume: \u201cWe pulled an offensive Halloween costume that should never have been part of our assortment. It is no longer for sale. As a company, we got this wrong, and we are deeply sorry. We know this is\u2026 pic.twitter.com/coWku7P6AF \u2014 evie (@"
     }
    ]
   },
   {
-   "id": "06ed38c336",
-   "topic": "Business & Economy",
-   "summary": "On Tuesday, Canadian officials announced funding to back businesses, workers, and industries, as they implement dollar-for-dollar counter-tariffs on the US in response to the Trump administration\u2019s newly imposed 50 percent tariffs on roughly $20 billion worth of Canadian imports. Senior members of Canada\u2019s government announced a support package worth $7.5 billion Canadian dollars, or about $5.4 billion US, including $3 million in non-repayable loans for every small business and a further $2 million in interest-free loans\u2014even for businesses only indirectly affected by tariffs. Small and medium-sized businesses directly affected will be able to apply for a further $5 million through Canada\u2019s business development bank, and the Canadian government has set aside $2 billion for medium-sized and large firms, more than half a billion dollars for retraining workers whose industries are affected\u2026",
-   "summaryFrom": "motherjones",
+   "id": "dff354a53b",
+   "topic": "Climate & Energy",
+   "summary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight \u2018A massacre\u2019: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti\u2019s capital at the weekend, the UN has said. A gang leader has threatened to kill the hostages if authorities kill any gang members as they try to secure the community of Kenscoff, nestled in the hills above Port-au-Prince. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "people": [],
    "absent": [
+    "corp",
     "family",
     "coop"
    ],
-   "headline": "Canada Is Spending Billions to Help Its Workers Survive Our Tariffs",
-   "updated": "2026-08-25T18:42:46+00:00",
-   "outletCount": 5,
+   "headline": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+   "updated": "2026-08-26T05:45:34+00:00",
+   "outletCount": 4,
    "counts": {
     "nonprofit": 2,
-    "pub": 2,
-    "corp": 1
+    "pub": 2
    },
-   "newsCount": 5,
+   "newsCount": 4,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "motherjones",
-     "title": "Canada Is Spending Billions to Help Its Workers Survive Our Tariffs",
-     "url": "https://www.motherjones.com/politics/2026/08/canada-us-trump-carney-tariff-aid-package-small-business/",
-     "author": "Alex Nguyen",
-     "kind": "news",
-     "published": "2026-08-25T18:42:46+00:00",
-     "summary": "On Tuesday, Canadian officials announced funding to back businesses, workers, and industries, as they implement dollar-for-dollar counter-tariffs on the US in response to the Trump administration\u2019s newly imposed 50 percent tariffs on roughly $20 billion worth of Canadian imports. Senior members of Canada\u2019s government announced a support package worth $7.5 billion Canadian dollars, or about $5.4 billion US, including $3 million in non-repayable loans for every small business and a further $2 million in interest-free loans\u2014even for businesses only indirectly affected by tariffs. Small and medium-sized businesses directly affected will be able to apply for a further $5 million through Canada\u2019s business development bank, and the Canadian government has set aside $2 billion for medium-sized and large firms, more than half a billion dollars for retraining workers whose industries are affected by tariffs, and a one-year extension on temporary employment insurance benefits Canada already issued in response to the start of Trump\u2019s trade war with Canada last year . The package, and Canada\u2019s reciprocal tariff plan, come after US-Canada trade negotiations collapsed late last week. According to"
-    },
-    {
-     "outlet": "france24",
-     "title": "Replay: Canada announces countermeasures to new US tariffs",
-     "url": "https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-25T15:42:36+00:00",
-     "summary": "Rewatch as Canadian ministers lay out a series of countermeasures as its trade war with the US deepens after the Trump administration imposed new tariffs on Canadian goods."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Canada announces new tariffs on the U.S. as trade tensions rise",
-     "url": "https://www.nbcnews.com/now/video/canada-announces-new-tariffs-on-the-u-s-as-trade-tensions-rise-268831301967",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T15:31:48+00:00",
-     "summary": "The Canadian government retaliated against President Donald Trump\u2019s latest wave of tariffs by raising tariffs on steel products and imposing a swath of new duties on $20 billion in U.S. products exported to Canada. NBC News' Christine Romans reports on the new tariffs unveiled by Canada as the trade war with the U.S. continues."
-    },
-    {
      "outlet": "npr",
-     "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-     "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-     "author": "Alex Leff",
+     "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+     "url": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+     "author": "The Associated Press",
      "kind": "news",
-     "published": "2026-08-25T15:20:18+00:00",
-     "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday. (Image credit: Cole Burston)"
+     "published": "2026-08-26T05:45:34+00:00",
+     "summary": "It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the hostages if authorities kill any gang members as they try to secure the community nestled in the hills above Port-au-Prince. (Image credit: Odelyn Joseph)"
     },
     {
      "outlet": "dw",
-     "title": "Canada announces retaliatory tariffs on US goods",
-     "url": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf",
+     "title": "Haiti: UN chief condemns Haiti attack that killed 47",
+     "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-25T15:17:00+00:00",
-     "summary": "Canada's government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carney."
+     "published": "2026-08-26T01:09:00+00:00",
+     "summary": "The UN Secretary General has condemned a violent attack that left at least 47 dead and saw over 50 more kidnapped."
+    },
+    {
+     "outlet": "guardian",
+     "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+     "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+     "author": "Associated Press in Port-au-Prince",
+     "kind": "news",
+     "published": "2026-08-25T17:35:16+00:00",
+     "summary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight \u2018A massacre\u2019: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti\u2019s capital at the weekend, the UN has said. A gang leader has threatened to kill the hostages if authorities kill any gang members as they try to secure the community of Kenscoff, nestled in the hills above Port-au-Prince. Continue reading..."
+    },
+    {
+     "outlet": "france24",
+     "title": "Anger mounts in Haiti as new attack shows power held by gang coalition",
+     "url": "https://www.france24.com/en/anger-mounts-in-haiti-as-new-attack-shows-power-held-by-gang-coalition",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-25T13:53:31+00:00",
+     "summary": "At least 47 people were killed in a farming community near Port-au-Prince after the area was attacked by a gang coalition. For the gang, the goal is to get their hands on a highly strategic area near the Haitian capital. But how could they have led such a violent attack? FRANCE 24's Catherine Norris-Trent tells us more."
     }
    ]
   },
@@ -2122,53 +2284,125 @@
    ]
   },
   {
-   "id": "1b2d4d3896",
+   "id": "38571410d2",
    "topic": "Politics",
-   "summary": "A recent memo claiming executive privilege over communications with private advisers invites corruption A recent office of legal counsel memo on executive privilege maintains that private advisers to a president can avoid responding to a subpoena by asserting the president\u2019s executive privilege. The ability of presidents to shield communications from public view through claims of executive privilege, whether their own or those of a senior adviser, was already a powerful tool for presidents to avoid accountability. But if courts accept the OLC\u2019s new interpretation of presidential privilege, it will be substantially harder to call witnesses to testify before Congress or in court proceedings regarding possible wrongdoing by the presidents. Equipping presidents with extensive power to block witnesses in legal proceedings is a dangerous practice that invites corruption by presidents and\u2026",
-   "summaryFrom": "guardian",
+   "summary": "President Donald Trump greats Chief Justice John Roberts, and Justices Elena Kagan, Brett Kavanaugh, and Amy Coney Barrett as he arrives for the State of the Union address on February 24, 2026. | Win McNamee/Getty Images In March, President Donald Trump issued a blatantly illegal executive order claiming that he had the power to unilaterally rewrite US election law. The order threatens prosecutions against state officials who allow certain people to vote, and it also requires states to include several federally mandated design elements in the envelopes that they use to mail ballots to voters. On Monday, the Supreme Court\u2019s Republican majority allowed that order to go into effect. All three of the Court\u2019s Democrats dissented. Yet while the Court\u2019s new decision in Trump v. California is troubling, it\u2019s not necessarily a sign that the justices will permit Trump\u2019s illegal order to take full\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
+   "updated": "2026-08-25T23:52:35+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 1,
+    "corp": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Trump\u2019s Efforts to Sow Election Doubts Get Boost from Initial Court Order",
+     "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-voting-doubt-mail-ballots.html",
+     "author": "Zolan Kanno-Youngs",
+     "kind": "news",
+     "published": "2026-08-25T23:52:35+00:00",
+     "summary": "A preliminary Supreme Court ruling could leave voters confused about casting ballots by mail, even as President Trump\u2019s executive order is being litigated in the lower courts, experts said."
+    },
+    {
+     "outlet": "vox",
+     "title": "The Supreme Court just revived Trump\u2019s attempt to sabotage the 2026 election",
+     "url": "https://www.vox.com/politics/500360/supreme-court-trump-executive-order-election-vote-by-mail",
+     "author": "Ian Millhiser",
+     "kind": "news",
+     "published": "2026-08-24T23:15:00+00:00",
+     "summary": "President Donald Trump greats Chief Justice John Roberts, and Justices Elena Kagan, Brett Kavanaugh, and Amy Coney Barrett as he arrives for the State of the Union address on February 24, 2026. | Win McNamee/Getty Images In March, President Donald Trump issued a blatantly illegal executive order claiming that he had the power to unilaterally rewrite US election law. The order threatens prosecutions against state officials who allow certain people to vote, and it also requires states to include several federally mandated design elements in the envelopes that they use to mail ballots to voters. On Monday, the Supreme Court\u2019s Republican majority allowed that order to go into effect. All three of the Court\u2019s Democrats dissented. Yet while the Court\u2019s new decision in Trump v. California is troubling, it\u2019s not necessarily a sign that the justices will permit Trump\u2019s illegal order to take full effect. The Court\u2019s actual holding in California is that two lower federal courts moved too quickly when they blocked the executive order. But California does not opine on whether the order is actually legal. The Supreme Court\u2019s decision reinstates Trump\u2019s order for now, but there are several active"
+    },
+    {
+     "outlet": "axios",
+     "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
+     "url": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-24T22:38:35+00:00",
+     "summary": "President Trump can implement an executive order restricting mail-in ballots just months before the midterm elections, the Supreme Court said Monday . Why it matters: It's a win for the president, who has opposed mail-in voting for years, but the legal battle is far from over, and the exact impact on November's elections is still unclear. Driving the news: The Supreme Court said in the unsigned order that states lack standing to challenge the executive order because it was an \"internal directive\" that didn't harm the states that sued. But the majority wrote that the administration was \"likely to suffer irreparable harm\" from the freeze. \"This internal directive does not regulate the States' voter registration processes,\" the court's order reads. \"Nor does it impinge on the States' authority 'to create and enforce a legal code' for elections.\" A federal appeals court previously found the order could impose \"unprecedented levels of involvement by federal officials in how states administer elections\" and could confuse and disenfranchise voters. \"The Court's disposition of this application does not mean that any measure taken by the Government to implement the Order will necessarily be"
+    },
+    {
+     "outlet": "npr",
+     "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
+     "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+     "author": "Hansi Lo Wang",
+     "kind": "news",
+     "published": "2026-08-24T20:53:45+00:00",
+     "summary": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide. (Image credit: Alex Wong)"
+    }
+   ]
+  },
+  {
+   "id": "8d97de90b8",
+   "topic": "Justice & Policing",
+   "summary": "Scaffolding and tarps cover the facade of the John F. Kennedy Center for the Performing Arts on June 30, 2026. | Al Drago/Washington Post via Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump is threatening that if he can\u2019t have the Kennedy Center, no one can. What\u2019s going on? Trump has been trying to get his name back on the John F. Kennedy Center for Performing Arts since June, when it was removed in response to a court order. On Monday night, the Justice Department revealed its latest ploy to make that happen. In a court filing , the DOJ argued that if its renovation plans for the Kennedy Center aren\u2019t allowed to go forward, \u201cthe center will deteriorate further into an unsafe, decrepit\u2026",
+   "summaryFrom": "vox",
    "emphasis": {
-    "bigCount": 2,
+    "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "renovations",
-     "court"
+     "daily",
+     "getty",
+     "images",
+     "renovations"
     ],
     "indie": []
    },
    "people": [],
    "absent": [
-    "coop"
+    "family",
+    "coop",
+    "pub"
    ],
-   "headline": "Trump administration: Kennedy Center may be demolished if repairs not made",
-   "updated": "2026-08-25T23:21:04+00:00",
+   "headline": "Trump threatens to demolish Kennedy Center if $250m renovation not done",
+   "updated": "2026-08-25T23:15:01+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 1,
-    "pub": 1,
-    "corp": 1,
-    "nonprofit": 1
+    "nonprofit": 2,
+    "corp": 3
    },
-   "newsCount": 3,
-   "opinionCount": 1,
+   "newsCount": 5,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "latimes",
-     "title": "Kennedy Center may need to be demolished if not renovated, Justice Department argues",
-     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-25/kennedy-center-demolished-if-not-renovated-trumps-justice-dept-argues",
-     "author": "Jessica Gelt",
+     "outlet": "guardian",
+     "title": "Trump threatens to demolish Kennedy Center if $250m renovation not done",
+     "url": "https://www.theguardian.com/us-news/2026/aug/25/trump-kennedy-center-demolish",
+     "author": "David Smith in Washington",
      "kind": "news",
-     "published": "2026-08-25T23:21:04+00:00",
-     "summary": "In a Monday court filing, lawyers for the Justice Department argued that the Kennedy Center may need to be torn down if it doesn't receive the renovations proposed by President Trump."
+     "published": "2026-08-25T23:15:01+00:00",
+     "summary": "US president\u2019s lawyers in court filing say Washington arts complex must undergo repairs or risk demolition The John F Kennedy Center for the Performing Arts could be demolished if repairs are not carried out, the Trump administration warned in a court filing on Monday. Lawyers for the US president said the national arts complex in Washington DC must undergo a $250m renovation or risk facing the wrecking ball. Continue reading..."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
-     "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
-     "author": null,
+     "outlet": "vox",
+     "title": "Trump threatens to demolish another DC landmark",
+     "url": "https://www.vox.com/the-logoff-newsletter-trump/500504/trump-kennedy-center-renaming-lawsuit-demolition-threat",
+     "author": "Cameron Peters",
      "kind": "news",
-     "published": "2026-08-25T20:08:33+00:00",
-     "summary": "Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help."
+     "published": "2026-08-25T22:35:00+00:00",
+     "summary": "Scaffolding and tarps cover the facade of the John F. Kennedy Center for the Performing Arts on June 30, 2026. | Al Drago/Washington Post via Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump is threatening that if he can\u2019t have the Kennedy Center, no one can. What\u2019s going on? Trump has been trying to get his name back on the John F. Kennedy Center for Performing Arts since June, when it was removed in response to a court order. On Monday night, the Justice Department revealed its latest ploy to make that happen. In a court filing , the DOJ argued that if its renovation plans for the Kennedy Center aren\u2019t allowed to go forward, \u201cthe center will deteriorate further into an unsafe, decrepit structure that will be required to be taken down\u201d and replaced by another structure, \u201csuch as a large outdoor amphitheater.\u201d Tied up in the proposed $250 million renovation are three new tributes to Trump, which the Kennedy Center board (stacked with Trump appointees ) voted to add earlier this month : the t"
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Trump Threatens to Demolish Kennedy Center if Name Is Removed",
+     "url": "https://www.thedailybeast.com/trump-threatens-to-demolish-kennedy-center-if-name-is-removed/",
+     "author": "Farrah Tomazin",
+     "kind": "news",
+     "published": "2026-08-25T21:20:30+00:00",
+     "summary": "Photo Illustration by Victoria Sunday/The Daily Beast/Getty Images/Reuters Donald Trump has raised the extraordinary prospect of demolishing the Kennedy Center if he isn\u2019t allowed to shut down the storied venue for renovations\u2014including putting his name back on the building. As the president moves to remake the performing arts center in his own image, Justice Department attorneys warned in a court filing that the current facility was \u201cstructurally unsound, fundamentally unsafe, and embarrassing to the Nation\u2019s Capital.\u201d Read more at The Daily Beast."
     },
     {
      "outlet": "nbcnews",
@@ -2181,12 +2415,12 @@
     },
     {
      "outlet": "guardian",
-     "title": "Trump\u2019s justice department has found a new way for presidents to avoid accountability | Claire Finkelstein",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/25/trump-justice-department-presidents-accountability",
-     "author": "Claire Finkelstein",
-     "kind": "opinion",
-     "published": "2026-08-25T10:00:33+00:00",
-     "summary": "A recent memo claiming executive privilege over communications with private advisers invites corruption A recent office of legal counsel memo on executive privilege maintains that private advisers to a president can avoid responding to a subpoena by asserting the president\u2019s executive privilege. The ability of presidents to shield communications from public view through claims of executive privilege, whether their own or those of a senior adviser, was already a powerful tool for presidents to avoid accountability. But if courts accept the OLC\u2019s new interpretation of presidential privilege, it will be substantially harder to call witnesses to testify before Congress or in court proceedings regarding possible wrongdoing by the presidents. Equipping presidents with extensive power to block witnesses in legal proceedings is a dangerous practice that invites corruption by presidents and their advisers. Consider the former White House counsel Don McGahn\u2019s 2019 refusal to testify in response to a subpoena by the House judiciary committee in connection with the special counsel Robert Mueller\u2019s investigation into Donald Trump. McGahn didn\u2019t come up with that idea on his own. It was the Trum"
+     "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
+     "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
+     "author": "Martin Belam",
+     "kind": "news",
+     "published": "2026-08-25T12:31:53+00:00",
+     "summary": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes Don\u2019t already get First Thing in your inbox? Sign up here Good morning. The US supreme court has sided with Donald Trump in his effort to crack down on mail-in voting , though it is unclear whether or not his administration will be able to take action before the midterm elections in November. The court\u2019s justices voted 6-3 along ideological lines to lift an injunction that a judge in Massachusetts had placed in June on an executive order issued by the president. But a second injunction remains in place, and the ruling leaves room for legal challenges. Trump has repeatedly likened voting by mail to cheating, despite his own use of it and overwhelming evidence that the system is secure. In March he ordered the government to create a \u201cstate citizenship list\u201d of eligible voters, requiring that mail-in ballots only be delivered to people on that list. He also directed the justice department to prioritise investigations and prosecutions of state and local election officials who issue ballots to people deemed ineligible to"
     }
    ]
   },
@@ -2260,66 +2494,74 @@
    ]
   },
   {
-   "id": "19d9647d74",
+   "id": "66a88b93d8",
    "topic": "World",
-   "summary": "The principal targets of a US effort to use economic leverage to end the Iran war largely shrugged off Washington\u2019s announcement. The US Treasury secretary yesterday threatened wide-ranging secondary sanctions against countries doing business with Iran, but he didn\u2019t outline any specific sanctions against Chinese banks: Beijing is the main buyer of Iran\u2019s oil, and the economic plan consequently had a \u201c China-sized hole ,\u201d Semafor\u2019s climate and energy editor noted. Beijing largely downplayed Washington\u2019s threats, saying it would \u201c safeguard its own rights and interests .\u201d Iran, too, dismissed the US measures, with its foreign minister saying American leaders \u201c are desperate .\u201d Markets, meanwhile, appeared \u201c largely unfazed \u201d by the announcement, ING said, with oil prices steady. \u2014 Prashant Rao",
-   "summaryFrom": "semafor",
+   "summary": "Secretary of State Marco Rubio has told several of his foreign counterparts in recent days that \"for the time being\" the U.S. is not expected to initiate new strikes against Iran , according to a U.S. official and a second source with knowledge of the matter. Instead, he's said the focus is on other means of pressure, including the sanctions initiative announced this week. Why it matters: Rubio's message to foreign ministers from several allied countries comes as the U.S. believes it's suffocating Iran with the naval blockade \u2014 while moving ever-increasing amounts of oil out of the Strait of Hormu z. It's also another sign that President Trump is exasperated with the war and wants it to be over, at least for now. The U.S. official said that while Rubio made clear that the U.S. isn't planning a return to major combat operations, he didn't rule out strikes if Iran attacks first. Another\u2026",
+   "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 2,
+    "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "countries",
-     "beijing",
-     "china",
-     "chinese"
+     "matters",
+     "foreign",
+     "financial",
+     "sweeping",
+     "system"
     ],
-    "indie": [
-     "pressure"
-    ]
+    "indie": []
    },
    "people": [],
    "absent": [
-    "corp",
     "coop"
    ],
-   "headline": "Middle East: Iran vows response to fresh US sanctions",
-   "updated": "2026-08-25T21:59:18+00:00",
+   "headline": "Oil prices fall for second day as US shifts from Iran strikes to sanctions",
+   "updated": "2026-08-25T21:57:55+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 2,
     "pub": 1,
+    "corp": 2,
+    "family": 1,
     "nonprofit": 1
    },
-   "newsCount": 4,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "China Seeks to Deepen Economic Footprint in Middle East as Its Bet on Iran Implodes",
-     "url": "https://www.breitbart.com/asia/2026/08/25/china-seeks-to-deepen-economic-footprint-in-middle-east-as-its-bet-on-iran-implodes/",
-     "author": "Frances Martel",
+     "outlet": "france24",
+     "title": "Oil prices fall for second day as US shifts from Iran strikes to sanctions",
+     "url": "https://www.france24.com/en/economy/20260825-oil-prices-fall-us-iran-strikes-sanctions",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-25T21:59:18+00:00",
-     "summary": "China's communist dictator Xi Jinping welcomed King Abdullah II of Jordan to Beijing on Monday, eagerly encouraging him to accept greater Chinese involvement in Jordan's economy and help promote trade deals with fellow Middle Eastern countries. The post China Seeks to Deepen Economic Footprint in Middle East as Its Bet on Iran Implodes appeared first on Breitbart ."
+     "published": "2026-08-25T21:57:55+00:00",
+     "summary": "Oil prices fell for a second straight day on Tuesday as traders saw a reduced risk of renewed US military strikes on Iran after Washington instead threatened broader economic sanctions. Treasury Secretary Scott Bessent declared an \u201ceconomic D-Day\u201d against Tehran but gave no timeline or details on countries that could face penalties."
     },
     {
-     "outlet": "semafor",
-     "title": "China, Iran shrug off US threats of economic war",
-     "url": "https://www.semafor.com/article/08/25/2026/beijing-tehran-shrug-off-us-new-economic-war-with-iran",
-     "author": "Prashant Rao",
+     "outlet": "axios",
+     "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
+     "url": "https://www.axios.com/2026/08/25/rubio-iran-war-hormuz-oil",
+     "author": "Barak Ravid",
      "kind": "news",
-     "published": "2026-08-25T10:41:34+00:00",
-     "summary": "The principal targets of a US effort to use economic leverage to end the Iran war largely shrugged off Washington\u2019s announcement. The US Treasury secretary yesterday threatened wide-ranging secondary sanctions against countries doing business with Iran, but he didn\u2019t outline any specific sanctions against Chinese banks: Beijing is the main buyer of Iran\u2019s oil, and the economic plan consequently had a \u201c China-sized hole ,\u201d Semafor\u2019s climate and energy editor noted. Beijing largely downplayed Washington\u2019s threats, saying it would \u201c safeguard its own rights and interests .\u201d Iran, too, dismissed the US measures, with its foreign minister saying American leaders \u201c are desperate .\u201d Markets, meanwhile, appeared \u201c largely unfazed \u201d by the announcement, ING said, with oil prices steady. \u2014 Prashant Rao"
+     "published": "2026-08-25T21:29:31+00:00",
+     "summary": "Secretary of State Marco Rubio has told several of his foreign counterparts in recent days that \"for the time being\" the U.S. is not expected to initiate new strikes against Iran , according to a U.S. official and a second source with knowledge of the matter. Instead, he's said the focus is on other means of pressure, including the sanctions initiative announced this week. Why it matters: Rubio's message to foreign ministers from several allied countries comes as the U.S. believes it's suffocating Iran with the naval blockade \u2014 while moving ever-increasing amounts of oil out of the Strait of Hormu z. It's also another sign that President Trump is exasperated with the war and wants it to be over, at least for now. The U.S. official said that while Rubio made clear that the U.S. isn't planning a return to major combat operations, he didn't rule out strikes if Iran attacks first. Another U.S. official said the clearing of mines from the Strait of Hormuz by the U.S. Navy is a watershed moment in the war, largely neutralizing one of Iran's main sources of leverage. Behind the scenes: The sources said Rubio outlined the Trump administration's current Iran policy in phone calls with sever"
     },
     {
-     "outlet": "dw",
-     "title": "Middle East: Iran vows response to fresh US sanctions",
-     "url": "https://www.dw.com/en/middle-east-iran-vows-response-to-fresh-us-sanctions/live-78492098?maca=en-rss-en-all-1573-rdf",
-     "author": null,
+     "outlet": "time",
+     "title": "Iran Vows Retaliation After U.S. Widens \u2018Economic D-Day\u2019 Sanctions",
+     "url": "https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/",
+     "author": "Tiago Ventura",
      "kind": "news",
-     "published": "2026-08-25T10:20:00+00:00",
-     "summary": "Iran vowed to push back against new US \"economic D-day,\" sanctions saying key trading partners would resist US pressure. Meanwhile, Pakistan reports progress in US-Iran mediation efforts."
+     "published": "2026-08-25T11:54:05+00:00",
+     "summary": "Motorists drive past an anti-U.S. billboard in Tehran on August 24, 2026. \u2014AFP\u2013\u2013Getty Images Iran has pledged to \u201cattack\u201d the U.S. financially after Washington unveiled a sweeping set of sanctions as part of \u2018Economic D-Day', an attempt to further isolate Tehran and curb its access to the global financial system as the war between the two countries drags on. Treasury Secretary Scott Bessent unveiled the measures as part of President Donald Trump \u2019s announcement of the \" most crushing economic operation \" against Tehran, labeled \u201c Operation Economic Outcast .\u201d \"D-Day marked a historic campaign with our allies,\u201d Bessent said Monday. \u201cToday, in that same spirit, we are launching an economic onslaught against Iran's financial connections around the globe.\" After the measures were announced, Tehran\u2019s Economy Minister Seyed Ali Madanizadeh said the government was prepared to counter the newly-unveiled U.S. sanctions. \u201cThey want to launch an economic terrorist attack against us. We also have our own tools, and we know the rules of this game,\u201d he said in response to Bessent\u2019s announcement during a televised interview with Iranian state media Monday. \u201cThis time, they shouldn't think that ou"
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump's Iran \"D-Day\" leaves sanctions hammer hanging",
+     "url": "https://www.axios.com/2026/08/25/trump-iran-dday-secondary-sanctions-china",
+     "author": "Zachary Basu",
+     "kind": "news",
+     "published": "2026-08-25T09:35:04+00:00",
+     "summary": "President Trump's \"economic D-Day\" for Iran came and went Monday with little of the shock or awe it promised, amounting instead to yet another extended ultimatum. Why it matters: Operation Economic Outcast will unfold not like the Allied invasion of Normandy, but as a sweeping, slow-burn sanctions campaign that could eventually lock Iran's foreign enablers out of the U.S. financial system. Zoom in: Treasury Secretary Scott Bessent kicked off the operation by blacklisting more than 60 Iran-linked targets and widening the reach of secondary sanctions. \"Every country has a defined timeline to shut down activities we have identified,\" he said. Bessent declined to name specific countries or deadlines, saying the administration preferred \"quiet diplomacy\" before resorting to \"the hammer of U.S. Treasury actions.\" \"Why would I want to blow up the global financial system?\" he told reporters when pressed on the gradual rollout, saying countries deserve a chance to change their behavior. Between the lines: The real test will be China , which accounts for roughly 90% of Iran's exported oil and remains one of the regime's most important economic lifelines. If Trump follows through on his threa"
     },
     {
      "outlet": "npr",
@@ -2333,77 +2575,124 @@
    ]
   },
   {
-   "id": "cb77cf3d70",
-   "topic": "World",
-   "summary": "N o sooner had Treasury Secretary Scott Bessent announced the latest tool for achieving what he said would be the \u201ceconomic asphyxiation\u201d of Iran than he revealed the reason he was reluctant to use it. Secondary sanctions\u2014penalties on countries, individuals, or entities that do business with Iran\u2014are ready to go, Bessent announced to reporters in the Treasury\u2019s ornate Cash Room yesterday. But he went out of his way not to name the chief offenders that help Tehran: China and Russia. So, Bessent was asked, why threaten rather than just do it, particularly after President Trump last week warned of economic warfare \u201con an unprecedented scale\u201d if Iran doesn\u2019t surrender to U.S. demands? \u201cWhy would I want to blow up the global financial system?\u201d Bessent responded, explaining that the administration is offering a bureaucratic grace period before the hammer falls. Secondary sanctions, he\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "treasury",
-     "bessent",
-     "scott",
-     "individuals",
-     "economic",
-     "latest"
-    ],
-    "indie": [
-     "isolate"
-    ]
-   },
+   "id": "06ed38c336",
+   "topic": "Business & Economy",
+   "summary": "On Tuesday, Canadian officials announced funding to back businesses, workers, and industries, as they implement dollar-for-dollar counter-tariffs on the US in response to the Trump administration\u2019s newly imposed 50 percent tariffs on roughly $20 billion worth of Canadian imports. Senior members of Canada\u2019s government announced a support package worth $7.5 billion Canadian dollars, or about $5.4 billion US, including $3 million in non-repayable loans for every small business and a further $2 million in interest-free loans\u2014even for businesses only indirectly affected by tariffs. Small and medium-sized businesses directly affected will be able to apply for a further $5 million through Canada\u2019s business development bank, and the Canadian government has set aside $2 billion for medium-sized and large firms, more than half a billion dollars for retraining workers whose industries are affected\u2026",
+   "summaryFrom": "motherjones",
+   "emphasis": null,
    "people": [],
    "absent": [
-    "corp",
+    "family",
     "coop"
    ],
-   "headline": "China denounces US threat of sanctions over trade with Iran",
-   "updated": "2026-08-25T17:11:21+00:00",
+   "headline": "Canada Is Spending Billions to Help Its Workers Survive Our Tariffs",
+   "updated": "2026-08-25T18:42:46+00:00",
    "outletCount": 4,
    "counts": {
-    "nonprofit": 1,
-    "family": 2,
-    "pub": 1
+    "nonprofit": 2,
+    "pub": 1,
+    "corp": 1
    },
    "newsCount": 4,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "China denounces US threat of sanctions over trade with Iran",
-     "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-     "author": "Julian Borger Senior international correspondent",
+     "outlet": "motherjones",
+     "title": "Canada Is Spending Billions to Help Its Workers Survive Our Tariffs",
+     "url": "https://www.motherjones.com/politics/2026/08/canada-us-trump-carney-tariff-aid-package-small-business/",
+     "author": "Alex Nguyen",
      "kind": "news",
-     "published": "2026-08-25T17:11:21+00:00",
-     "summary": "Beijing says it will take \u2018all necessary measures\u2019 to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions for its trade with Iran , saying any such measures would be illegal, and warned it would take \u201call necessary measures\u201d to protect its national interests. Beijing\u2019s rejection of the US threat of secondary sanctions for any country or entity continuing to trade with Tehran had been predicted. China buys an estimated 80% of Iran\u2019s oil exports and has defied previous US efforts to limit the flow of revenue to the Tehran regime. Continue reading..."
+     "published": "2026-08-25T18:42:46+00:00",
+     "summary": "On Tuesday, Canadian officials announced funding to back businesses, workers, and industries, as they implement dollar-for-dollar counter-tariffs on the US in response to the Trump administration\u2019s newly imposed 50 percent tariffs on roughly $20 billion worth of Canadian imports. Senior members of Canada\u2019s government announced a support package worth $7.5 billion Canadian dollars, or about $5.4 billion US, including $3 million in non-repayable loans for every small business and a further $2 million in interest-free loans\u2014even for businesses only indirectly affected by tariffs. Small and medium-sized businesses directly affected will be able to apply for a further $5 million through Canada\u2019s business development bank, and the Canadian government has set aside $2 billion for medium-sized and large firms, more than half a billion dollars for retraining workers whose industries are affected by tariffs, and a one-year extension on temporary employment insurance benefits Canada already issued in response to the start of Trump\u2019s trade war with Canada last year . The package, and Canada\u2019s reciprocal tariff plan, come after US-Canada trade negotiations collapsed late last week. According to"
     },
     {
-     "outlet": "theatlantic",
-     "title": "The Latest Empty Threat Against Iran",
-     "url": "https://www.theatlantic.com/national-security/2026/08/treasury-bessent-sanctions-iran-trump/688401/?utm_source=feed",
-     "author": "Vivian Salama",
+     "outlet": "france24",
+     "title": "Replay: Canada announces countermeasures to new US tariffs",
+     "url": "https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs",
+     "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-25T15:46:32+00:00",
-     "summary": "N o sooner had Treasury Secretary Scott Bessent announced the latest tool for achieving what he said would be the \u201ceconomic asphyxiation\u201d of Iran than he revealed the reason he was reluctant to use it. Secondary sanctions\u2014penalties on countries, individuals, or entities that do business with Iran\u2014are ready to go, Bessent announced to reporters in the Treasury\u2019s ornate Cash Room yesterday. But he went out of his way not to name the chief offenders that help Tehran: China and Russia. So, Bessent was asked, why threaten rather than just do it, particularly after President Trump last week warned of economic warfare \u201con an unprecedented scale\u201d if Iran doesn\u2019t surrender to U.S. demands? \u201cWhy would I want to blow up the global financial system?\u201d Bessent responded, explaining that the administration is offering a bureaucratic grace period before the hammer falls. Secondary sanctions, he insisted, \u201care a very powerful tool.\u201d Which is true. But the administration has repeatedly offered vivid explanations of what its powerful weapons can do, be they military or financial, and then declined to use them. Remember when Trump threatened to erase Iran as a civilization ? The warnings may be intend"
+     "published": "2026-08-25T15:42:36+00:00",
+     "summary": "Rewatch as Canadian ministers lay out a series of countermeasures as its trade war with the US deepens after the Trump administration imposed new tariffs on Canadian goods."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Canada announces new tariffs on the U.S. as trade tensions rise",
+     "url": "https://www.nbcnews.com/now/video/canada-announces-new-tariffs-on-the-u-s-as-trade-tensions-rise-268831301967",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T15:31:48+00:00",
+     "summary": "The Canadian government retaliated against President Donald Trump\u2019s latest wave of tariffs by raising tariffs on steel products and imposing a swath of new duties on $20 billion in U.S. products exported to Canada. NBC News' Christine Romans reports on the new tariffs unveiled by Canada as the trade war with the U.S. continues."
+    },
+    {
+     "outlet": "npr",
+     "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
+     "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+     "author": "Alex Leff",
+     "kind": "news",
+     "published": "2026-08-25T15:20:18+00:00",
+     "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday. (Image credit: Cole Burston)"
+    }
+   ]
+  },
+  {
+   "id": "8fa5d861d5",
+   "topic": "World",
+   "summary": "A makeshift road block prevents drivers from driving through downed utility lines stretching across a street on August 20, 2026 in Gary, Indiana. Photo by Scott Olson/Getty Images. Monday, August 24, 2026 \u2013 Israeli strikes kill six Palestinians on Monday. Palestinian man executed by Israel in Gaza, family says. Israeli forces kill Palestinian child, settler assaults elderly amputee as attacks continue across the West Bank. Israeli Defense Minister Israel Katz says Israeli military will act \u201cforcefully\u201d over kites from Gaza. Drop Site contributor Mohamed Awad to be detained without charge for months. Hamas tells U.S. envoy Jared Kushner that it will not abide by an unenforced deal. Hamas discusses electoral strategy. \u201cAnti-Netanyahu\u201d says there will be no Palestinian state if he controls government. U.S. to announce \u201ceconomic D-Day\u201d sanctions against Iran. Iran permits Iraqi tankers to\u2026",
+   "summaryFrom": "dropsite",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp"
+   ],
+   "headline": "Relief may be near for Indiana city after days without power",
+   "updated": "2026-08-25T17:00:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 1,
+    "pub": 1,
+    "coop": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "Most of northwestern Indiana now has power restored 13 days after storms",
+     "url": "https://www.washingtonpost.com/nation/2026/08/25/most-northwestern-indiana-now-has-power-restored-13-days-after-storms/",
+     "author": "Cole Reynolds",
+     "kind": "news",
+     "published": "2026-08-25T17:00:00+00:00",
+     "summary": "A derecho sent 99-mph winds through Gary on Aug. 11, cutting power to more than 300,000 residents in the area."
     },
     {
      "outlet": "bbc",
-     "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-     "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+     "title": "Relief may be near for Indiana city after days without power",
+     "url": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-25T11:53:36+00:00",
-     "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
+     "published": "2026-08-25T16:33:34+00:00",
+     "summary": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures."
     },
     {
-     "outlet": "semafor",
-     "title": "Latest Iran sanctions risk economic showdown with China",
-     "url": "https://www.semafor.com/article/08/25/2026/latest-iran-sanctions-risk-economic-showdown-with-china",
-     "author": "Tim McDonnell",
+     "outlet": "dropsite",
+     "title": "Gary, Indiana still without power; U.S. to unveil \u201ceconomic D-day\u201d sanctions against Iran; Israel bombs mosque, desalination plant in Gaza",
+     "url": "https://www.dropsitenews.com/p/gary-indiana-power-us-iran-sanctions-israel-gaza-mosque-desalination",
+     "author": "Drop Site News",
      "kind": "news",
-     "published": "2026-08-25T10:52:15+00:00",
-     "summary": "There\u2019s a China-sized hole in the Trump administration\u2019s plan to wage an \u201ceconomic D-Day\u201d against Iran. When US Treasury Secretary Scott Bessent announced new sanctions on Monday targeting a range of individuals and entities alleged to support Tehran, and threatened more to come, Beijing was conspicuously absent from the list. China is Iran\u2019s most important economic lifeline, and prior to the war, the two countries had a mutually beneficial oil arrangement: China bought nearly all the crude Iran managed to export at a significant discount, in exchange for ignoring Western sanctions. All told, Iranian oil provided about 12% of China\u2019s imports. \u201cWe are level-setting with every country to tell them our expectations,\u201d Bessent said. This year the US did step up sanctions on one of China\u2019s biggest refineries over its purchases of Iranian crude, and the American naval blockade in the Strait of Hormuz has for now effectively halted most Iranian crude exports. But with Chinese leader Xi Jinping due to meet with Trump in Washington next month, the administration is clearly aiming to avoid a full-on economic war with Beijing \u2014 and that puts its Iran strategy at risk. \u201cOnly measures that mater"
+     "published": "2026-08-24T16:22:32+00:00",
+     "summary": "A makeshift road block prevents drivers from driving through downed utility lines stretching across a street on August 20, 2026 in Gary, Indiana. Photo by Scott Olson/Getty Images. Monday, August 24, 2026 \u2013 Israeli strikes kill six Palestinians on Monday. Palestinian man executed by Israel in Gaza, family says. Israeli forces kill Palestinian child, settler assaults elderly amputee as attacks continue across the West Bank. Israeli Defense Minister Israel Katz says Israeli military will act \u201cforcefully\u201d over kites from Gaza. Drop Site contributor Mohamed Awad to be detained without charge for months. Hamas tells U.S. envoy Jared Kushner that it will not abide by an unenforced deal. Hamas discusses electoral strategy. \u201cAnti-Netanyahu\u201d says there will be no Palestinian state if he controls government. U.S. to announce \u201ceconomic D-Day\u201d sanctions against Iran. Iran permits Iraqi tankers to pass through Hormuz. Qatari spending is dramatically reduced by war. U.S. officials claim that 40 tankers crossed Hormuz on Friday; data shows none. Iranian refinery approaching full repair, official says. Pakistan army chief set to visit Iran on Monday. Iran announces it will choke \u201cshuttle\u201d trade th"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+     "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+     "author": "Ben Quinn Political correspondent",
+     "kind": "news",
+     "published": "2026-08-23T14:46:56+00:00",
+     "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down. The incident involved a small-scale energy generator, according to the UK government, which said that at no point was there a risk to the wider energy system. Continue reading..."
     }
    ]
   },
@@ -2535,6 +2824,58 @@
      "kind": "news",
      "published": "2026-08-24T10:00:00+00:00",
      "summary": "Energy regulators and industry experts warn that the state\u2019s delays to major projects amid backlash from residents could create rolling blackouts and strangle growth of other industries that need power."
+    }
+   ]
+  },
+  {
+   "id": "07711e0bfa",
+   "topic": "Other",
+   "summary": "The Chucky mask-wearing sicko who terrorized Philadelphia citizens, including a female jogger, was captured by US Marshals in Las Vegas following a two-week-long search for the suspect.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Chucky-masked sicko who terrorized Philadelphia citizens is captured in Vegas after 2-week manhunt",
+   "updated": "2026-08-26T05:33:42+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "corp": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Chucky-masked sicko who terrorized Philadelphia citizens is captured in Vegas after 2-week manhunt",
+     "url": "https://nypost.com/2026/08/26/us-news/chucky-masked-sicko-zymire-hughes-who-terrorized-philadelphia-citizens-is-captured-in-vegas-after-2-week-manhunt/",
+     "author": "Nicholas McEntyre",
+     "kind": "news",
+     "published": "2026-08-26T05:33:42+00:00",
+     "summary": "The Chucky mask-wearing sicko who terrorized Philadelphia citizens, including a female jogger, was captured by US Marshals in Las Vegas following a two-week-long search for the suspect."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Man seen in Philadelphia wearing creepy, Chucky-style mask is arrested in Las Vegas, authorities say",
+     "url": "https://www.nbcnews.com/news/us-news/philadelphia-chucky-mask-arrest-las-vegas-rcna594461",
+     "author": "Dennis Romero",
+     "kind": "news",
+     "published": "2026-08-26T04:16:31+00:00",
+     "summary": "An arrest warrant was issued in Philadelphia after a masked man chased a jogger there and said, \u201cAre you ready to die?\u201d Authorities say he wanted to boost his social media views."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Philadelphia's Chucky-style masked man arrested in Las Vegas",
+     "url": "https://www.cbsnews.com/news/zymire-hughes-chucky-mask-philadelphia-arrested-las-vegas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-26T03:26:27+00:00",
+     "summary": "U.S. Marshals say 22-year-old Zymire Hughes was arrested Tuesday night in Las Vegas, Nevada."
     }
    ]
   },
@@ -2851,58 +3192,6 @@
    ]
   },
   {
-   "id": "2e342bb28d",
-   "topic": "Climate & Energy",
-   "summary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight \u2018A massacre\u2019: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti\u2019s capital at the weekend, the UN has said. A gang leader has threatened to kill the hostages if authorities kill any gang members as they try to secure the community of Kenscoff, nestled in the hills above Port-au-Prince. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Haiti: UN chief condemns Haiti attack that killed 47",
-   "updated": "2026-08-26T01:09:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Haiti: UN chief condemns Haiti attack that killed 47",
-     "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-26T01:09:00+00:00",
-     "summary": "The UN Secretary General has condemned a violent attack that left at least 47 dead and saw over 50 more kidnapped."
-    },
-    {
-     "outlet": "guardian",
-     "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-     "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-     "author": "Associated Press in Port-au-Prince",
-     "kind": "news",
-     "published": "2026-08-25T17:35:16+00:00",
-     "summary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight \u2018A massacre\u2019: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti\u2019s capital at the weekend, the UN has said. A gang leader has threatened to kill the hostages if authorities kill any gang members as they try to secure the community of Kenscoff, nestled in the hills above Port-au-Prince. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Anger mounts in Haiti as new attack shows power held by gang coalition",
-     "url": "https://www.france24.com/en/anger-mounts-in-haiti-as-new-attack-shows-power-held-by-gang-coalition",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-25T13:53:31+00:00",
-     "summary": "At least 47 people were killed in a farming community near Port-au-Prince after the area was attacked by a gang coalition. For the gang, the goal is to get their hands on a highly strategic area near the Haitian capital. But how could they have led such a violent attack? FRANCE 24's Catherine Norris-Trent tells us more."
-    }
-   ]
-  },
-  {
    "id": "9435ef7c80",
    "topic": "Other",
    "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. Dolly Parton transcended. It almost didn\u2019t matter what: class, gender, region, musical genre, partisanship. She transcended boundaries in all of them. During an era when politicians act like pop stars, pop stars are expected to engage in politics, and politics divide fiercely, Parton was perhaps the only person in the United States who commanded nearly universal affection. Her death today, at 80, leaves an absence that no contemporary cultural figure could dream of filling. Parton\u2019s origin story was, in the most literal sense, a rags-to-riches tale. She was born in a one-room cabin in the Appalachian Mountains of East Tennessee, one of 12 children of an illiterate sharecropper father. She\u2026",
@@ -2951,110 +3240,6 @@
      "kind": "news",
      "published": "2026-08-25T21:12:00+00:00",
      "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. Dolly Parton transcended. It almost didn\u2019t matter what: class, gender, region, musical genre, partisanship. She transcended boundaries in all of them. During an era when politicians act like pop stars, pop stars are expected to engage in politics, and politics divide fiercely, Parton was perhaps the only person in the United States who commanded nearly universal affection. Her death today, at 80, leaves an absence that no contemporary cultural figure could dream of filling. Parton\u2019s origin story was, in the most literal sense, a rags-to-riches tale. She was born in a one-room cabin in the Appalachian Mountains of East Tennessee, one of 12 children of an illiterate sharecropper father. She memorialized her impoverished childhood in \u201cCoat of Many Colors,\u201d which tells of how her mother sewed a jacket from rags. When she wears it to school, \u201cwith patches on my britches / and holes in both my shoes,\u201d her classmates mock and laugh at her. Rather than a hard-luck story, this is a triumph. Parto"
-    }
-   ]
-  },
-  {
-   "id": "28f2d15c79",
-   "topic": "Politics",
-   "summary": "President Donald Trump greats Chief Justice John Roberts, and Justices Elena Kagan, Brett Kavanaugh, and Amy Coney Barrett as he arrives for the State of the Union address on February 24, 2026. | Win McNamee/Getty Images In March, President Donald Trump issued a blatantly illegal executive order claiming that he had the power to unilaterally rewrite US election law. The order threatens prosecutions against state officials who allow certain people to vote, and it also requires states to include several federally mandated design elements in the envelopes that they use to mail ballots to voters. On Monday, the Supreme Court\u2019s Republican majority allowed that order to go into effect. All three of the Court\u2019s Democrats dissented. Yet while the Court\u2019s new decision in Trump v. California is troubling, it\u2019s not necessarily a sign that the justices will permit Trump\u2019s illegal order to take full\u2026",
-   "summaryFrom": "vox",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump\u2019s Efforts to Sow Election Doubts Get Boost from Initial Court Order",
-   "updated": "2026-08-25T23:52:35+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Trump\u2019s Efforts to Sow Election Doubts Get Boost from Initial Court Order",
-     "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-voting-doubt-mail-ballots.html",
-     "author": "Zolan Kanno-Youngs",
-     "kind": "news",
-     "published": "2026-08-25T23:52:35+00:00",
-     "summary": "A preliminary Supreme Court ruling could leave voters confused about casting ballots by mail, even as President Trump\u2019s executive order is being litigated in the lower courts, experts said."
-    },
-    {
-     "outlet": "vox",
-     "title": "The Supreme Court just revived Trump\u2019s attempt to sabotage the 2026 election",
-     "url": "https://www.vox.com/politics/500360/supreme-court-trump-executive-order-election-vote-by-mail",
-     "author": "Ian Millhiser",
-     "kind": "news",
-     "published": "2026-08-24T23:15:00+00:00",
-     "summary": "President Donald Trump greats Chief Justice John Roberts, and Justices Elena Kagan, Brett Kavanaugh, and Amy Coney Barrett as he arrives for the State of the Union address on February 24, 2026. | Win McNamee/Getty Images In March, President Donald Trump issued a blatantly illegal executive order claiming that he had the power to unilaterally rewrite US election law. The order threatens prosecutions against state officials who allow certain people to vote, and it also requires states to include several federally mandated design elements in the envelopes that they use to mail ballots to voters. On Monday, the Supreme Court\u2019s Republican majority allowed that order to go into effect. All three of the Court\u2019s Democrats dissented. Yet while the Court\u2019s new decision in Trump v. California is troubling, it\u2019s not necessarily a sign that the justices will permit Trump\u2019s illegal order to take full effect. The Court\u2019s actual holding in California is that two lower federal courts moved too quickly when they blocked the executive order. But California does not opine on whether the order is actually legal. The Supreme Court\u2019s decision reinstates Trump\u2019s order for now, but there are several active"
-    },
-    {
-     "outlet": "axios",
-     "title": "Supreme Court upholds Trump's order to overhaul mail-in ballots",
-     "url": "https://www.axios.com/2026/08/24/supreme-court-mail-in-ballot-rules",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-24T22:38:35+00:00",
-     "summary": "President Trump can implement an executive order restricting mail-in ballots just months before the midterm elections, the Supreme Court said Monday . Why it matters: It's a win for the president, who has opposed mail-in voting for years, but the legal battle is far from over, and the exact impact on November's elections is still unclear. Driving the news: The Supreme Court said in the unsigned order that states lack standing to challenge the executive order because it was an \"internal directive\" that didn't harm the states that sued. But the majority wrote that the administration was \"likely to suffer irreparable harm\" from the freeze. \"This internal directive does not regulate the States' voter registration processes,\" the court's order reads. \"Nor does it impinge on the States' authority 'to create and enforce a legal code' for elections.\" A federal appeals court previously found the order could impose \"unprecedented levels of involvement by federal officials in how states administer elections\" and could confuse and disenfranchise voters. \"The Court's disposition of this application does not mean that any measure taken by the Government to implement the Order will necessarily be"
-    }
-   ]
-  },
-  {
-   "id": "8d97de90b8",
-   "topic": "Politics",
-   "summary": "Scaffolding and tarps cover the facade of the John F. Kennedy Center for the Performing Arts on June 30, 2026. | Al Drago/Washington Post via Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump is threatening that if he can\u2019t have the Kennedy Center, no one can. What\u2019s going on? Trump has been trying to get his name back on the John F. Kennedy Center for Performing Arts since June, when it was removed in response to a court order. On Monday night, the Justice Department revealed its latest ploy to make that happen. In a court filing , the DOJ argued that if its renovation plans for the Kennedy Center aren\u2019t allowed to go forward, \u201cthe center will deteriorate further into an unsafe, decrepit\u2026",
-   "summaryFrom": "vox",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump threatens to demolish Kennedy Center if $250m renovation not done",
-   "updated": "2026-08-25T23:15:01+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Trump threatens to demolish Kennedy Center if $250m renovation not done",
-     "url": "https://www.theguardian.com/us-news/2026/aug/25/trump-kennedy-center-demolish",
-     "author": "David Smith in Washington",
-     "kind": "news",
-     "published": "2026-08-25T23:15:01+00:00",
-     "summary": "US president\u2019s lawyers in court filing say Washington arts complex must undergo repairs or risk demolition The John F Kennedy Center for the Performing Arts could be demolished if repairs are not carried out, the Trump administration warned in a court filing on Monday. Lawyers for the US president said the national arts complex in Washington DC must undergo a $250m renovation or risk facing the wrecking ball. Continue reading..."
-    },
-    {
-     "outlet": "vox",
-     "title": "Trump threatens to demolish another DC landmark",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/500504/trump-kennedy-center-renaming-lawsuit-demolition-threat",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-25T22:35:00+00:00",
-     "summary": "Scaffolding and tarps cover the facade of the John F. Kennedy Center for the Performing Arts on June 30, 2026. | Al Drago/Washington Post via Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: President Donald Trump is threatening that if he can\u2019t have the Kennedy Center, no one can. What\u2019s going on? Trump has been trying to get his name back on the John F. Kennedy Center for Performing Arts since June, when it was removed in response to a court order. On Monday night, the Justice Department revealed its latest ploy to make that happen. In a court filing , the DOJ argued that if its renovation plans for the Kennedy Center aren\u2019t allowed to go forward, \u201cthe center will deteriorate further into an unsafe, decrepit structure that will be required to be taken down\u201d and replaced by another structure, \u201csuch as a large outdoor amphitheater.\u201d Tied up in the proposed $250 million renovation are three new tributes to Trump, which the Kennedy Center board (stacked with Trump appointees ) voted to add earlier this month : the t"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Trump Threatens to Demolish Kennedy Center if Name Is Removed",
-     "url": "https://www.thedailybeast.com/trump-threatens-to-demolish-kennedy-center-if-name-is-removed/",
-     "author": "Farrah Tomazin",
-     "kind": "news",
-     "published": "2026-08-25T21:20:30+00:00",
-     "summary": "Photo Illustration by Victoria Sunday/The Daily Beast/Getty Images/Reuters Donald Trump has raised the extraordinary prospect of demolishing the Kennedy Center if he isn\u2019t allowed to shut down the storied venue for renovations\u2014including putting his name back on the building. As the president moves to remake the performing arts center in his own image, Justice Department attorneys warned in a court filing that the current facility was \u201cstructurally unsound, fundamentally unsafe, and embarrassing to the Nation\u2019s Capital.\u201d Read more at The Daily Beast."
     }
    ]
   },
@@ -3215,63 +3400,54 @@
    ]
   },
   {
-   "id": "66a88b93d8",
+   "id": "19d9647d74",
    "topic": "World",
-   "summary": "Secretary of State Marco Rubio has told several of his foreign counterparts in recent days that \"for the time being\" the U.S. is not expected to initiate new strikes against Iran , according to a U.S. official and a second source with knowledge of the matter. Instead, he's said the focus is on other means of pressure, including the sanctions initiative announced this week. Why it matters: Rubio's message to foreign ministers from several allied countries comes as the U.S. believes it's suffocating Iran with the naval blockade \u2014 while moving ever-increasing amounts of oil out of the Strait of Hormu z. It's also another sign that President Trump is exasperated with the war and wants it to be over, at least for now. The U.S. official said that while Rubio made clear that the U.S. isn't planning a return to major combat operations, he didn't rule out strikes if Iran attacks first. Another\u2026",
-   "summaryFrom": "axios",
+   "summary": "There\u2019s a China-sized hole in the Trump administration\u2019s plan to wage an \u201ceconomic D-Day\u201d against Iran. When US Treasury Secretary Scott Bessent announced new sanctions on Monday targeting a range of individuals and entities alleged to support Tehran, and threatened more to come, Beijing was conspicuously absent from the list. China is Iran\u2019s most important economic lifeline, and prior to the war, the two countries had a mutually beneficial oil arrangement: China bought nearly all the crude Iran managed to export at a significant discount, in exchange for ignoring Western sanctions. All told, Iranian oil provided about 12% of China\u2019s imports. \u201cWe are level-setting with every country to tell them our expectations,\u201d Bessent said. This year the US did step up sanctions on one of China\u2019s biggest refineries over its purchases of Iranian crude, and the American naval blockade in the Strait of\u2026",
+   "summaryFrom": "semafor",
    "emphasis": null,
    "people": [],
    "absent": [
+    "corp",
     "coop",
     "nonprofit"
    ],
-   "headline": "Oil prices fall for second day as US shifts from Iran strikes to sanctions",
-   "updated": "2026-08-25T21:57:55+00:00",
+   "headline": "Middle East: Iran vows response to fresh US sanctions",
+   "updated": "2026-08-25T21:59:18+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 1,
-    "corp": 2,
-    "family": 1
+    "family": 2,
+    "pub": 1
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "france24",
-     "title": "Oil prices fall for second day as US shifts from Iran strikes to sanctions",
-     "url": "https://www.france24.com/en/economy/20260825-oil-prices-fall-us-iran-strikes-sanctions",
-     "author": "FRANCE 24",
+     "outlet": "breitbart",
+     "title": "China Seeks to Deepen Economic Footprint in Middle East as Its Bet on Iran Implodes",
+     "url": "https://www.breitbart.com/asia/2026/08/25/china-seeks-to-deepen-economic-footprint-in-middle-east-as-its-bet-on-iran-implodes/",
+     "author": "Frances Martel",
      "kind": "news",
-     "published": "2026-08-25T21:57:55+00:00",
-     "summary": "Oil prices fell for a second straight day on Tuesday as traders saw a reduced risk of renewed US military strikes on Iran after Washington instead threatened broader economic sanctions. Treasury Secretary Scott Bessent declared an \u201ceconomic D-Day\u201d against Tehran but gave no timeline or details on countries that could face penalties."
+     "published": "2026-08-25T21:59:18+00:00",
+     "summary": "China's communist dictator Xi Jinping welcomed King Abdullah II of Jordan to Beijing on Monday, eagerly encouraging him to accept greater Chinese involvement in Jordan's economy and help promote trade deals with fellow Middle Eastern countries. The post China Seeks to Deepen Economic Footprint in Middle East as Its Bet on Iran Implodes appeared first on Breitbart ."
     },
     {
-     "outlet": "axios",
-     "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
-     "url": "https://www.axios.com/2026/08/25/rubio-iran-war-hormuz-oil",
-     "author": "Barak Ravid",
+     "outlet": "semafor",
+     "title": "Latest Iran sanctions risk economic showdown with China",
+     "url": "https://www.semafor.com/article/08/25/2026/latest-iran-sanctions-risk-economic-showdown-with-china",
+     "author": "Tim McDonnell",
      "kind": "news",
-     "published": "2026-08-25T21:29:31+00:00",
-     "summary": "Secretary of State Marco Rubio has told several of his foreign counterparts in recent days that \"for the time being\" the U.S. is not expected to initiate new strikes against Iran , according to a U.S. official and a second source with knowledge of the matter. Instead, he's said the focus is on other means of pressure, including the sanctions initiative announced this week. Why it matters: Rubio's message to foreign ministers from several allied countries comes as the U.S. believes it's suffocating Iran with the naval blockade \u2014 while moving ever-increasing amounts of oil out of the Strait of Hormu z. It's also another sign that President Trump is exasperated with the war and wants it to be over, at least for now. The U.S. official said that while Rubio made clear that the U.S. isn't planning a return to major combat operations, he didn't rule out strikes if Iran attacks first. Another U.S. official said the clearing of mines from the Strait of Hormuz by the U.S. Navy is a watershed moment in the war, largely neutralizing one of Iran's main sources of leverage. Behind the scenes: The sources said Rubio outlined the Trump administration's current Iran policy in phone calls with sever"
+     "published": "2026-08-25T10:52:15+00:00",
+     "summary": "There\u2019s a China-sized hole in the Trump administration\u2019s plan to wage an \u201ceconomic D-Day\u201d against Iran. When US Treasury Secretary Scott Bessent announced new sanctions on Monday targeting a range of individuals and entities alleged to support Tehran, and threatened more to come, Beijing was conspicuously absent from the list. China is Iran\u2019s most important economic lifeline, and prior to the war, the two countries had a mutually beneficial oil arrangement: China bought nearly all the crude Iran managed to export at a significant discount, in exchange for ignoring Western sanctions. All told, Iranian oil provided about 12% of China\u2019s imports. \u201cWe are level-setting with every country to tell them our expectations,\u201d Bessent said. This year the US did step up sanctions on one of China\u2019s biggest refineries over its purchases of Iranian crude, and the American naval blockade in the Strait of Hormuz has for now effectively halted most Iranian crude exports. But with Chinese leader Xi Jinping due to meet with Trump in Washington next month, the administration is clearly aiming to avoid a full-on economic war with Beijing \u2014 and that puts its Iran strategy at risk. \u201cOnly measures that mater"
     },
     {
-     "outlet": "time",
-     "title": "Iran Vows Retaliation After U.S. Widens \u2018Economic D-Day\u2019 Sanctions",
-     "url": "https://time.com/article/2026/08/25/iran-vows-retaliation-after-u-s-widens-economic-d-day-sanctions/",
-     "author": "Tiago Ventura",
+     "outlet": "dw",
+     "title": "Middle East: Iran vows response to fresh US sanctions",
+     "url": "https://www.dw.com/en/middle-east-iran-vows-response-to-fresh-us-sanctions/live-78492098?maca=en-rss-en-all-1573-rdf",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-25T11:54:05+00:00",
-     "summary": "Motorists drive past an anti-U.S. billboard in Tehran on August 24, 2026. \u2014AFP\u2013\u2013Getty Images Iran has pledged to \u201cattack\u201d the U.S. financially after Washington unveiled a sweeping set of sanctions as part of \u2018Economic D-Day', an attempt to further isolate Tehran and curb its access to the global financial system as the war between the two countries drags on. Treasury Secretary Scott Bessent unveiled the measures as part of President Donald Trump \u2019s announcement of the \" most crushing economic operation \" against Tehran, labeled \u201c Operation Economic Outcast .\u201d \"D-Day marked a historic campaign with our allies,\u201d Bessent said Monday. \u201cToday, in that same spirit, we are launching an economic onslaught against Iran's financial connections around the globe.\" After the measures were announced, Tehran\u2019s Economy Minister Seyed Ali Madanizadeh said the government was prepared to counter the newly-unveiled U.S. sanctions. \u201cThey want to launch an economic terrorist attack against us. We also have our own tools, and we know the rules of this game,\u201d he said in response to Bessent\u2019s announcement during a televised interview with Iranian state media Monday. \u201cThis time, they shouldn't think that ou"
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump's Iran \"D-Day\" leaves sanctions hammer hanging",
-     "url": "https://www.axios.com/2026/08/25/trump-iran-dday-secondary-sanctions-china",
-     "author": "Zachary Basu",
-     "kind": "news",
-     "published": "2026-08-25T09:35:04+00:00",
-     "summary": "President Trump's \"economic D-Day\" for Iran came and went Monday with little of the shock or awe it promised, amounting instead to yet another extended ultimatum. Why it matters: Operation Economic Outcast will unfold not like the Allied invasion of Normandy, but as a sweeping, slow-burn sanctions campaign that could eventually lock Iran's foreign enablers out of the U.S. financial system. Zoom in: Treasury Secretary Scott Bessent kicked off the operation by blacklisting more than 60 Iran-linked targets and widening the reach of secondary sanctions. \"Every country has a defined timeline to shut down activities we have identified,\" he said. Bessent declined to name specific countries or deadlines, saying the administration preferred \"quiet diplomacy\" before resorting to \"the hammer of U.S. Treasury actions.\" \"Why would I want to blow up the global financial system?\" he told reporters when pressed on the gradual rollout, saying countries deserve a chance to change their behavior. Between the lines: The real test will be China , which accounts for roughly 90% of Iran's exported oil and remains one of the regime's most important economic lifelines. If Trump follows through on his threa"
+     "published": "2026-08-25T10:20:00+00:00",
+     "summary": "Iran vowed to push back against new US \"economic D-day,\" sanctions saying key trading partners would resist US pressure. Meanwhile, Pakistan reports progress in US-Iran mediation efforts."
     }
    ]
   },
@@ -3493,58 +3669,6 @@
    ]
   },
   {
-   "id": "5f4ffebf3a",
-   "topic": "Other",
-   "summary": "This isn't the first time Target has found itself facing criticism over diversity issues. Justin Sullivan/Getty Images Target again finds itself in the cultural crosshairs \u2014 this time over an offensive Halloween costume. The retailer quickly apologized, but the episode marks a stumble in a turnaround year. The nature of Halloween merchandising can lead retailers to make embarrassing mistakes. Target is again facing a storm of criticism over an unforced error on diversity as it tries to navigate a challenging turnaround. The Minnesota-based retailer landed in the cultural crosshairs after it marketed a children's Halloween costume with imagery that bore a striking resemblance to racist minstrel show posters. The retailer pulled the merchandise and issued an apology on Monday, but critics on social media have not been so quick to let the issue go. \"It's astonishing that they found\u2026",
-   "summaryFrom": "businessinsider",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Target apologises for 'offensive' children Halloween costume after backlash",
-   "updated": "2026-08-25T20:54:17+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "businessinsider",
-     "title": "Target\u2019s offensive Halloween costume is a stumble at a key moment",
-     "url": "https://www.businessinsider.com/target-costume-offensive-stumble-key-moment-turnaround-2026-8",
-     "author": "Dominick Reuter,Sarah E. Needleman (dreuter@businessinsider.com)",
-     "kind": "news",
-     "published": "2026-08-25T20:54:17+00:00",
-     "summary": "This isn't the first time Target has found itself facing criticism over diversity issues. Justin Sullivan/Getty Images Target again finds itself in the cultural crosshairs \u2014 this time over an offensive Halloween costume. The retailer quickly apologized, but the episode marks a stumble in a turnaround year. The nature of Halloween merchandising can lead retailers to make embarrassing mistakes. Target is again facing a storm of criticism over an unforced error on diversity as it tries to navigate a challenging turnaround. The Minnesota-based retailer landed in the cultural crosshairs after it marketed a children's Halloween costume with imagery that bore a striking resemblance to racist minstrel show posters. The retailer pulled the merchandise and issued an apology on Monday, but critics on social media have not been so quick to let the issue go. \"It's astonishing that they found themselves in the situation yet again,\" former Target vice chairman Gerald Storch told Business Insider. On Tuesday, Target's stock closed nearly 4% below its price on Monday, before the story broke overnight. A company spokesperson declined to comment beyond the statement. \"It's a very unfortunate misstep "
-    },
-    {
-     "outlet": "bbc",
-     "title": "Target apologises for 'offensive' children Halloween costume after backlash",
-     "url": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T15:24:06+00:00",
-     "summary": "The retailer says the costume is \"hurtful for Black guests, team members and partners\", without providing further details."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Target Pulls Halloween Costume After Customers Call It \u2018Racist\u2019 \u2014 You Have to See It",
-     "url": "https://www.dailywire.com/news/target-pulls-halloween-costume-after-customers-call-it-racist-you-have-to-see-it",
-     "author": "Amanda Harding",
-     "kind": "opinion",
-     "published": "2026-08-25T08:41:39+00:00",
-     "summary": "Target removed a Halloween costume from its shelves and issued an apology after some customers deemed it \u201cracist.\u201d \u201cAn apology from us: We removed an offensive Halloween costume that should never have been part of our assortment,\u201d Target wrote in a statement on Monday. \u201cIt is no longer for sale. As a company, we got this wrong, and we are deeply sorry.\u201d \u201cWe know this is especially hurtful for our black guests, team members, and partners,\u201d the statement from Target continued. \u201cRemoving the costume is an important first step, and we are looking closely at how this happened and what needs to change to ensure this won\u2019t happen again.\u201d Photos of the costume, which was called \u201cKids\u2019 Glows under Blacklight Circus Clown,\u201d include a young black child modeling the outfit. The costume consisted of a black and orange printed bodysuit and hood with an oversized smile and mini top hat. Target issues an apology after being accused of selling a racist Halloween costume: \u201cWe pulled an offensive Halloween costume that should never have been part of our assortment. It is no longer for sale. As a company, we got this wrong, and we are deeply sorry. We know this is\u2026 pic.twitter.com/coWku7P6AF \u2014 evie (@"
-    }
-   ]
-  },
-  {
    "id": "d8a06eccf7",
    "topic": "Politics",
    "summary": "NA Yesterday, Donald Trump imposed massive 50% tariffs on numerous Canadian imports after trade negotiations with Canada broke down, largely due to the Trump administration's insistence on maintaining earlier 50% tariffs on Canadian aluminum products and other goods. Section 338 was a part of the notorious Smoot-Hawley Tariff Act of 1930, which gravely exacerbated the Great Depression. In a previous post , I summarized the reasons why Section 338 tariffs are an illegal usurpation of congressional authority by the president. As Philip Zelikow of the conservative Hoover Institution explained in a guest post here at the VC blog, last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s. In a more recent guest post , Georgetown University trade law specialists\u2026",
@@ -3701,58 +3825,6 @@
    ]
   },
   {
-   "id": "105cf296e0",
-   "topic": "Politics",
-   "summary": "On Monday afternoon, President Trump\u2019s Treasury Secretary Scott Bessent announced that the US would impose all-encompassing sanctions on countries and institutions that conduct business with Iran, in an apparent attempt to end the war after most viable military options have failed. Bessent described the plan , dubbed Operation Economic Outcast, as an \u201ceconomic D-Day,\u201d in reference to the Allied invasion of Normandy during World War II, with the Iranian regime replacing Nazi Germany. Bessent vowed to \u201csever every economic lifeline\u201d that sustains Iran\u2014including digital assets, technology, gold, aviation, and shipping\u2014by enforcing a \u201czero-leakage approach\u201d that will shut down \u201cevery facilitator and every network\u201d that Iran has used to smuggle oil past existing sanctions . But Bessent did not disclose how that process would work, or on what timeline. When we don\u2019t know what to do, we\u2026",
-   "summaryFrom": "motherjones",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "New US sanctions signal Trump desperation on Iran, experts say",
-   "updated": "2026-08-25T20:34:49+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "New US sanctions signal Trump desperation on Iran, experts say",
-     "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-25T20:34:49+00:00",
-     "summary": "Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts."
-    },
-    {
-     "outlet": "nyt",
-     "title": "What\u2019s More Than \u2018Maximum\u2019? Trump Faces Limits on Iran Sanctions.",
-     "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html",
-     "author": "Michael Crowley",
-     "kind": "news",
-     "published": "2026-08-25T19:14:11+00:00",
-     "summary": "President Trump\u2019s \u201cEconomic D-Day\u201d is intended to break the stalemate with Iran. But decades of sanctions have done little to change the country\u2019s behavior."
-    },
-    {
-     "outlet": "motherjones",
-     "title": "Maybe Trump\u2019s Iran Sanctions Will Work This Time",
-     "url": "https://www.motherjones.com/politics/2026/08/bessent-trump-iran-sanctions-secondary-oil-d-day-uae/",
-     "author": "Alex Nguyen",
-     "kind": "news",
-     "published": "2026-08-24T20:02:51+00:00",
-     "summary": "On Monday afternoon, President Trump\u2019s Treasury Secretary Scott Bessent announced that the US would impose all-encompassing sanctions on countries and institutions that conduct business with Iran, in an apparent attempt to end the war after most viable military options have failed. Bessent described the plan , dubbed Operation Economic Outcast, as an \u201ceconomic D-Day,\u201d in reference to the Allied invasion of Normandy during World War II, with the Iranian regime replacing Nazi Germany. Bessent vowed to \u201csever every economic lifeline\u201d that sustains Iran\u2014including digital assets, technology, gold, aviation, and shipping\u2014by enforcing a \u201czero-leakage approach\u201d that will shut down \u201cevery facilitator and every network\u201d that Iran has used to smuggle oil past existing sanctions . But Bessent did not disclose how that process would work, or on what timeline. When we don\u2019t know what to do, we sanction Iran. In fact, the treasury secretary offered almost nothing in the way of details\u2014perhaps because, over roughly 47 years of US sanctions on Iran, there is little that the United States hasn\u2019t tried and even less indication that Iran has become more compliant. When we don\u2019t know what to do, we san"
-    }
-   ]
-  },
-  {
    "id": "488fd389c8",
    "topic": "World",
    "summary": "\ud83c\udf2a\ufe0f A tornado of rare intensity devastated the small village of Pomas in southern France, causing widespread destruction and leaving residents in shock on Tuesday, with the mayor describing the aftermath as resembling \"wartime\". At least 39 people were injured, including two severely.",
@@ -3801,6 +3873,67 @@
      "kind": "news",
      "published": "2026-08-25T08:52:17+00:00",
      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
+    }
+   ]
+  },
+  {
+   "id": "cb77cf3d70",
+   "topic": "World",
+   "summary": "Beijing says it will take \u2018all necessary measures\u2019 to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions for its trade with Iran , saying any such measures would be illegal, and warned it would take \u201call necessary measures\u201d to protect its national interests. Beijing\u2019s rejection of the US threat of secondary sanctions for any country or entity continuing to trade with Tehran had been predicted. China buys an estimated 80% of Iran\u2019s oil exports and has defied previous US efforts to limit the flow of revenue to the Tehran regime. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "China denounces US threat of sanctions over trade with Iran",
+   "updated": "2026-08-25T19:14:11+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "nonprofit": 2,
+    "pub": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "What\u2019s More Than \u2018Maximum\u2019? Trump Faces Limits on Iran Sanctions.",
+     "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html",
+     "author": "Michael Crowley",
+     "kind": "news",
+     "published": "2026-08-25T19:14:11+00:00",
+     "summary": "President Trump\u2019s \u201cEconomic D-Day\u201d is intended to break the stalemate with Iran. But decades of sanctions have done little to change the country\u2019s behavior."
+    },
+    {
+     "outlet": "guardian",
+     "title": "China denounces US threat of sanctions over trade with Iran",
+     "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+     "author": "Julian Borger Senior international correspondent",
+     "kind": "news",
+     "published": "2026-08-25T17:11:21+00:00",
+     "summary": "Beijing says it will take \u2018all necessary measures\u2019 to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions for its trade with Iran , saying any such measures would be illegal, and warned it would take \u201call necessary measures\u201d to protect its national interests. Beijing\u2019s rejection of the US threat of secondary sanctions for any country or entity continuing to trade with Tehran had been predicted. China buys an estimated 80% of Iran\u2019s oil exports and has defied previous US efforts to limit the flow of revenue to the Tehran regime. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+     "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-25T11:53:36+00:00",
+     "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Gold price hits three-month high amid fears over Iran war and Trump economy",
+     "url": "https://www.theguardian.com/business/2026/aug/25/gold-price-high-iran-war-donald-trump-economy-us",
+     "author": "Joanna Partridge",
+     "kind": "news",
+     "published": "2026-08-25T08:18:52+00:00",
+     "summary": "Bitcoin rises above $80,000 for the first time since May amid uncertainty over US fiscal plans Gold prices hit their highest level in more than three months on Tuesday as continued conflict in the Middle East and ongoing political uncertainty fuelled the latest rally in the precious metal. Gold is viewed as a safe haven by investors and its price tends to rise at times of uncertainty. Continue reading..."
     }
    ]
   },
@@ -3909,25 +4042,25 @@
    ]
   },
   {
-   "id": "8fd1f478b2",
-   "topic": "World",
-   "summary": "A makeshift road block prevents drivers from driving through downed utility lines stretching across a street on August 20, 2026 in Gary, Indiana. Photo by Scott Olson/Getty Images. Monday, August 24, 2026 \u2013 Israeli strikes kill six Palestinians on Monday. Palestinian man executed by Israel in Gaza, family says. Israeli forces kill Palestinian child, settler assaults elderly amputee as attacks continue across the West Bank. Israeli Defense Minister Israel Katz says Israeli military will act \u201cforcefully\u201d over kites from Gaza. Drop Site contributor Mohamed Awad to be detained without charge for months. Hamas tells U.S. envoy Jared Kushner that it will not abide by an unenforced deal. Hamas discusses electoral strategy. \u201cAnti-Netanyahu\u201d says there will be no Palestinian state if he controls government. U.S. to announce \u201ceconomic D-Day\u201d sanctions against Iran. Iran permits Iraqi tankers to\u2026",
-   "summaryFrom": "dropsite",
+   "id": "f905c8994b",
+   "topic": "Politics",
+   "summary": "On Monday afternoon, President Trump\u2019s Treasury Secretary Scott Bessent announced that the US would impose all-encompassing sanctions on countries and institutions that conduct business with Iran, in an apparent attempt to end the war after most viable military options have failed. Bessent described the plan , dubbed Operation Economic Outcast, as an \u201ceconomic D-Day,\u201d in reference to the Allied invasion of Normandy during World War II, with the Iranian regime replacing Nazi Germany. Bessent vowed to \u201csever every economic lifeline\u201d that sustains Iran\u2014including digital assets, technology, gold, aviation, and shipping\u2014by enforcing a \u201czero-leakage approach\u201d that will shut down \u201cevery facilitator and every network\u201d that Iran has used to smuggle oil past existing sanctions . But Bessent did not disclose how that process would work, or on what timeline. When we don\u2019t know what to do, we\u2026",
+   "summaryFrom": "motherjones",
    "emphasis": null,
    "people": [],
    "absent": [
     "corp",
+    "coop",
     "pub"
    ],
-   "headline": "US threatens severe sanctions against countries with economic ties to Iran",
+   "headline": "Maybe Trump\u2019s Iran Sanctions Will Work This Time",
    "updated": "2026-08-25T12:00:00+00:00",
    "outletCount": 3,
    "counts": {
     "family": 1,
-    "nonprofit": 2,
-    "coop": 1
+    "nonprofit": 2
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
@@ -3941,6 +4074,15 @@
      "summary": "Xi Jinping\u2019s government is sending a message of defiance to Donald Trump over China\u2019s economic ties with Iran."
     },
     {
+     "outlet": "motherjones",
+     "title": "Maybe Trump\u2019s Iran Sanctions Will Work This Time",
+     "url": "https://www.motherjones.com/politics/2026/08/bessent-trump-iran-sanctions-secondary-oil-d-day-uae/",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-24T20:02:51+00:00",
+     "summary": "On Monday afternoon, President Trump\u2019s Treasury Secretary Scott Bessent announced that the US would impose all-encompassing sanctions on countries and institutions that conduct business with Iran, in an apparent attempt to end the war after most viable military options have failed. Bessent described the plan , dubbed Operation Economic Outcast, as an \u201ceconomic D-Day,\u201d in reference to the Allied invasion of Normandy during World War II, with the Iranian regime replacing Nazi Germany. Bessent vowed to \u201csever every economic lifeline\u201d that sustains Iran\u2014including digital assets, technology, gold, aviation, and shipping\u2014by enforcing a \u201czero-leakage approach\u201d that will shut down \u201cevery facilitator and every network\u201d that Iran has used to smuggle oil past existing sanctions . But Bessent did not disclose how that process would work, or on what timeline. When we don\u2019t know what to do, we sanction Iran. In fact, the treasury secretary offered almost nothing in the way of details\u2014perhaps because, over roughly 47 years of US sanctions on Iran, there is little that the United States hasn\u2019t tried and even less indication that Iran has become more compliant. When we don\u2019t know what to do, we san"
+    },
+    {
      "outlet": "guardian",
      "title": "US threatens severe sanctions against countries with economic ties to Iran",
      "url": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
@@ -3948,76 +4090,6 @@
      "kind": "news",
      "published": "2026-08-24T18:57:57+00:00",
      "summary": "Washington launches campaign to isolate Tehran but it is unclear whether it will apply measures to China The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with Iran, hoping to achieve with economic measures what military means have so far failed to do. It is unclear, however, how far the Trump administration is prepared to go in confronting China, Iran\u2019s biggest trading partner, which has signalled its resistance to US economic pressure to cut off links with an ally. Continue reading..."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "Gary, Indiana still without power; U.S. to unveil \u201ceconomic D-day\u201d sanctions against Iran; Israel bombs mosque, desalination plant in Gaza",
-     "url": "https://www.dropsitenews.com/p/gary-indiana-power-us-iran-sanctions-israel-gaza-mosque-desalination",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-24T16:22:32+00:00",
-     "summary": "A makeshift road block prevents drivers from driving through downed utility lines stretching across a street on August 20, 2026 in Gary, Indiana. Photo by Scott Olson/Getty Images. Monday, August 24, 2026 \u2013 Israeli strikes kill six Palestinians on Monday. Palestinian man executed by Israel in Gaza, family says. Israeli forces kill Palestinian child, settler assaults elderly amputee as attacks continue across the West Bank. Israeli Defense Minister Israel Katz says Israeli military will act \u201cforcefully\u201d over kites from Gaza. Drop Site contributor Mohamed Awad to be detained without charge for months. Hamas tells U.S. envoy Jared Kushner that it will not abide by an unenforced deal. Hamas discusses electoral strategy. \u201cAnti-Netanyahu\u201d says there will be no Palestinian state if he controls government. U.S. to announce \u201ceconomic D-Day\u201d sanctions against Iran. Iran permits Iraqi tankers to pass through Hormuz. Qatari spending is dramatically reduced by war. U.S. officials claim that 40 tankers crossed Hormuz on Friday; data shows none. Iranian refinery approaching full repair, official says. Pakistan army chief set to visit Iran on Monday. Iran announces it will choke \u201cshuttle\u201d trade th"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-     "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-     "author": "Ben Quinn Political correspondent",
-     "kind": "news",
-     "published": "2026-08-23T14:46:56+00:00",
-     "summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down. The incident involved a small-scale energy generator, according to the UK government, which said that at no point was there a risk to the wider energy system. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "ab58d984ec",
-   "topic": "Justice & Policing",
-   "summary": "On July 27, 2026, the Solicitor General submitted an emergency application in Trump v. California . This case concerns proposed regulations for mail-in ballots. The government filed its reply brief on August 12. After a flurry of litigation in the lower court, and new action by the government, the Supreme Court finally decided the case on August 24. This emergency case took nearly a month. The majority opinion, at a brisk ten pages, finds the District Court lacked jurisdiction because the case was not yet ripe. Moreover, any alleged injuries were speculative under Clapper . The per curiam opinion reads a lot of Justice Kavanaugh's voice. I do like the word \"concretize.\" Justice Kavanuagh has taken the lead in writing some of the Court's more significant jurisdictional cases. One would think that a former federal courts professor in the majority would get these cases, but apparently not.\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "How Long Did Justice Jackson's \"Kafkaesque Nightmare\" Dissent Hold Up Trump v. California?",
-   "updated": "2026-08-25T02:01:08+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "How Long Did Justice Jackson's \"Kafkaesque Nightmare\" Dissent Hold Up Trump v. California?",
-     "url": "https://reason.com/volokh/2026/08/24/how-long-did-justice-jacksons-kafkaesque-nightmare-dissent-hold-up-trump-v-california/",
-     "author": "Josh Blackman",
-     "kind": "opinion",
-     "published": "2026-08-25T02:01:08+00:00",
-     "summary": "On July 27, 2026, the Solicitor General submitted an emergency application in Trump v. California . This case concerns proposed regulations for mail-in ballots. The government filed its reply brief on August 12. After a flurry of litigation in the lower court, and new action by the government, the Supreme Court finally decided the case on August 24. This emergency case took nearly a month. The majority opinion, at a brisk ten pages, finds the District Court lacked jurisdiction because the case was not yet ripe. Moreover, any alleged injuries were speculative under Clapper . The per curiam opinion reads a lot of Justice Kavanaugh's voice. I do like the word \"concretize.\" Justice Kavanuagh has taken the lead in writing some of the Court's more significant jurisdictional cases. One would think that a former federal courts professor in the majority would get these cases, but apparently not. Justice Sotomayor's pithy dissent covers all the bases in only four pages. Then there is Justice Jackson. She wrote a solo twenty-page dissent that discusses the merits of the case, even though the majority only addressed the jurisdictional issues. She also warns that the Court's precedents are crea"
-    },
-    {
-     "outlet": "slate",
-     "title": "KBJ Warns of \u201cKafkaesque Nightmare\u201d After Pro-Trump Supreme Court Ruling on Mail Voting. We\u2019ll Know Soon Enough.",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-supreme-court-mail-voting-kbj-warning.html?via=rss",
-     "author": "Richard L. Hasen",
-     "kind": "news",
-     "published": "2026-08-24T23:18:05+00:00",
-     "summary": "Trump looks like he's swimming in mail ballots."
-    },
-    {
-     "outlet": "npr",
-     "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
-     "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-     "author": "Hansi Lo Wang",
-     "kind": "news",
-     "published": "2026-08-24T20:53:45+00:00",
-     "summary": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide. (Image credit: Alex Wong)"
     }
    ]
   },
@@ -4074,10 +4146,53 @@
    ]
   },
   {
-   "id": "a4202c921a",
-   "topic": "Politics",
-   "summary": "NBC News projects that GOP Sen. Dan Sullivan and Republican Dan J. Sullivan will face off in the general election alongside former Rep. Mary Peltola, a Democrat.",
-   "summaryFrom": "nbcnews",
+   "id": "501b689dbd",
+   "topic": "Health",
+   "summary": "A fire broke out in the third floor of a maternity ward in Islamabad. Pakistani Prime Minister Shehbaz Sharif has called for an immediate investigation into the tragedy.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Pakistan: Islamabad hospital fire kills 15 infants",
+   "updated": "2026-08-26T05:23:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Pakistan: Islamabad hospital fire kills 15 infants",
+     "url": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-15-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-26T05:23:00+00:00",
+     "summary": "A fire broke out in the third floor of a maternity ward in Islamabad. Pakistani Prime Minister Shehbaz Sharif has called for an immediate investigation into the tragedy."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "At least 15 newborns killed in Pakistan hospital fire",
+     "url": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-26T04:27:15+00:00",
+     "summary": "Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports."
+    }
+   ]
+  },
+  {
+   "id": "0cd8bf6963",
+   "topic": "Other",
+   "summary": "The New England Patriots and star cornerback Christian Gonzalez have still yet to come to terms on a long-term contract extension.",
+   "summaryFrom": "newsweek",
    "emphasis": null,
    "people": [],
    "absent": [
@@ -4085,8 +4200,8 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
-   "updated": "2026-08-26T04:19:36+00:00",
+   "headline": "Christian Gonzalez gets real about \u2018frustrating\u2019 Patriots extension talks",
+   "updated": "2026-08-26T05:09:18+00:00",
    "outletCount": 2,
    "counts": {
     "family": 1,
@@ -4097,65 +4212,22 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
-     "url": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html",
-     "author": "Tim Balk",
+     "outlet": "nypost",
+     "title": "Christian Gonzalez gets real about \u2018frustrating\u2019 Patriots extension talks",
+     "url": "https://nypost.com/2026/08/26/sports/christian-gonzalez-gets-real-about-frustrating-patriots-extension-talks/",
+     "author": "Michael Blinn",
      "kind": "news",
-     "published": "2026-08-26T04:19:36+00:00",
-     "summary": "A long-shot candidate with the same name as the incumbent Republican senator will be on the ballot in November. That could be a problem for the G.O.P."
+     "published": "2026-08-26T05:09:18+00:00",
+     "summary": "Christian Gonzalez will have to wait for his future."
     },
     {
-     "outlet": "nbcnews",
-     "title": "The second Dan Sullivan makes the general election in Alaska\u2019s Senate race",
-     "url": "https://www.nbcnews.com/politics/2026-election/second-dan-sullivan-makes-general-election-alaskas-senate-race-rcna593464",
-     "author": "Scott Bland",
-     "kind": "news",
-     "published": "2026-08-26T04:07:39+00:00",
-     "summary": "NBC News projects that GOP Sen. Dan Sullivan and Republican Dan J. Sullivan will face off in the general election alongside former Rep. Mary Peltola, a Democrat."
-    }
-   ]
-  },
-  {
-   "id": "0c2d432683",
-   "topic": "Other",
-   "summary": "An arrest warrant was issued in Philadelphia after a masked man chased a jogger there and said, \u201cAre you ready to die?\u201d Authorities say he wanted to boost his social media views.",
-   "summaryFrom": "nbcnews",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Man seen in Philadelphia wearing creepy, Chucky-style mask is arrested in Las Vegas, authorities say",
-   "updated": "2026-08-26T04:16:31+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Man seen in Philadelphia wearing creepy, Chucky-style mask is arrested in Las Vegas, authorities say",
-     "url": "https://www.nbcnews.com/news/us-news/philadelphia-chucky-mask-arrest-las-vegas-rcna594461",
-     "author": "Dennis Romero",
-     "kind": "news",
-     "published": "2026-08-26T04:16:31+00:00",
-     "summary": "An arrest warrant was issued in Philadelphia after a masked man chased a jogger there and said, \u201cAre you ready to die?\u201d Authorities say he wanted to boost his social media views."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Philadelphia's Chucky-style masked man arrested in Las Vegas",
-     "url": "https://www.cbsnews.com/news/zymire-hughes-chucky-mask-philadelphia-arrested-las-vegas/",
+     "outlet": "newsweek",
+     "title": "Christian Gonzalez Admits Frustration With Patriots Contract Talks",
+     "url": "https://www.newsweek.com/sports/nfl/christian-gonzalez-admits-frustration-with-patriots-contract-talks-12367634",
      "author": null,
      "kind": "news",
-     "published": "2026-08-26T03:26:27+00:00",
-     "summary": "U.S. Marshals say 22-year-old Zymire Hughes was arrested Tuesday night in Las Vegas, Nevada."
+     "published": "2026-08-26T02:41:00+00:00",
+     "summary": "The New England Patriots and star cornerback Christian Gonzalez have still yet to come to terms on a long-term contract extension."
     }
    ]
   },
@@ -4199,58 +4271,6 @@
      "kind": "news",
      "published": "2026-08-26T01:43:21+00:00",
      "summary": "Daniel Flores, the LAPD officer who faced criminal charges after secretly recording racist, homophobic and sexist remarks by fellow cops, has spoken out publicly for the first time, detailing the toll that the prior year and a half had taken on him."
-    }
-   ]
-  },
-  {
-   "id": "91089c65f8",
-   "topic": "Politics",
-   "summary": "President Trump 's war of words with Canada continued Tuesday amid a dispute over trade negotiations. The big picture: U.S. and Canadian officials have swapped barbs since negotiations collapsed last week, but Trump took the spat to a new level when he threatened to rename Lake Ontario to \"Lake America\" and claimed Canada had lied about a sticking point in trade talks. What they're saying: \"The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don't expect to be doing much business with Ontario any longer.\" Trump wrote on Truth Social. Lake Ontario stretches across the U.S.-Canada border, with approximately 47% of the lake belonging to the U.S. Later in the morning, Trump posted a map of the lake, with \"Lake Ontario\" crossed out and \"Lake America\" in gold letters above it. The president then posted that he would \"never\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
-   "updated": "2026-08-26T04:06:42+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
-     "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
-     "author": "Peter Baker",
-     "kind": "opinion",
-     "published": "2026-08-26T04:06:42+00:00",
-     "summary": "While the president remains the most dominant figure in the world, other leaders and institutions are pushing back more vigorously than at the beginning of his second term."
-    },
-    {
-     "outlet": "axios",
-     "title": "\"Lake America\": Trump turns Canada feud toward Lake Ontario",
-     "url": "https://www.axios.com/2026/08/25/trump-french-language-canada-lake-ontario",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-25T14:01:29+00:00",
-     "summary": "President Trump 's war of words with Canada continued Tuesday amid a dispute over trade negotiations. The big picture: U.S. and Canadian officials have swapped barbs since negotiations collapsed last week, but Trump took the spat to a new level when he threatened to rename Lake Ontario to \"Lake America\" and claimed Canada had lied about a sticking point in trade talks. What they're saying: \"The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don't expect to be doing much business with Ontario any longer.\" Trump wrote on Truth Social. Lake Ontario stretches across the U.S.-Canada border, with approximately 47% of the lake belonging to the U.S. Later in the morning, Trump posted a map of the lake, with \"Lake Ontario\" crossed out and \"Lake America\" in gold letters above it. The president then posted that he would \"never interfere with Canadians speaking French!\" referencing comments Canadian Prime Minister Mark Carney made about U.S. threats to the French language . \"In fact, I have never even thought of doing such a stupid thing,\" Trump added. Carney's office did not immediately respond to Axios' request for comment. Catch"
-    },
-    {
-     "outlet": "axios",
-     "title": "Mark Carney's defiance of Trump has Canada cheering",
-     "url": "https://www.axios.com/2026/08/24/carney-trump-tariffs-us-canada-liberal-leader-support",
-     "author": "Rebecca Falconer",
-     "kind": "news",
-     "published": "2026-08-24T23:36:11+00:00",
-     "summary": "Canadian Prime Minister Mark Carney has turned his decision to hold firm against President Trump's tariff threats into a rallying point for Canadians as their trade clash escalates. Why it matters: The mild-mannered former Bank of Canada and Bank of England governor is holding firm against Trump despite the threat of further economic pain for Canadians. Context: Carney campaigned on standing up to Trump but has generally dealt with the unpredictable U.S. president with the measured temperament of his central banking days. That combination of restraint and resolve has made Carney Canada's \"man for the moment,\" Andrea Lawlor, an associate professor of political science at McMaster University in Ontario, tells Axios. Driving the news: Carney walked away from trade talks with the Trump administration Friday and vowed to match new 50% U.S. tariffs \"dollar for dollar,\" winning broad support at home. Corpay chief market strategist Karl Schamotta said Monday that Carney appears to be betting that November's midterms will blunt Trump's tariff drive, \"opening the way to a mutually beneficial deal.\" State of play: Lawlor notes Carney has enjoyed a \"very extended political honeymoon\" since his"
     }
    ]
   }
