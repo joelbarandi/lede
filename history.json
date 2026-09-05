@@ -279,16 +279,16 @@
   },
   {
    "date": "2026-09-05",
-   "articles": 277,
+   "articles": 257,
    "stories": 60,
    "share": {
-    "corp": 24.2,
-    "pub": 14.1,
-    "family": 40.1,
-    "nonprofit": 19.5,
-    "coop": 2.2
+    "corp": 23.7,
+    "nonprofit": 18.7,
+    "family": 37.7,
+    "pub": 18.3,
+    "coop": 1.6
    }
   }
  ],
- "updated": "2026-09-05T09:06:43.112413+00:00"
+ "updated": "2026-09-05T12:44:40.350789+00:00"
 }
