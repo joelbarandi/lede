@@ -363,16 +363,16 @@
   },
   {
    "date": "2026-09-12",
-   "articles": 244,
+   "articles": 256,
    "stories": 60,
    "share": {
-    "corp": 23.8,
-    "family": 33.6,
-    "pub": 15.2,
-    "nonprofit": 23.8,
-    "coop": 3.7
+    "pub": 15.6,
+    "family": 34.0,
+    "corp": 23.0,
+    "nonprofit": 23.4,
+    "coop": 3.9
    }
   }
  ],
- "updated": "2026-09-12T19:23:31.905772+00:00"
+ "updated": "2026-09-12T22:19:37.391109+00:00"
 }
