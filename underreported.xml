@@ -7,22 +7,30 @@
   <atom:link href="https://joelbarandi.github.io/lede/underreported.xml" rel="self" type="application/rss+xml"/>
   <description>Stories whose coverage is concentrated outside corporate and billionaire-owned media.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 29 Sep 2026 20:48:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 00:28:50 +0000</lastBuildDate>
+  <item>
+    <title>Morocco's king appoints Fatima Zahra Mansouri as country's 1st woman prime minister</title>
+    <link>https://joelbarandi.github.io/lede/#s/c08a22c533</link>
+    <guid isPermaLink="false">lede-c08a22c533</guid>
+    <pubDate>Tue, 29 Sep 2026 23:06:01 +0000</pubDate>
+    <category>Politics</category>
+    <description>The appointment of Fatima Zahra Mansouri comes after her center-right party won last week's parliamentary elections in Morocco. She had previously served as mayor of the city of Marrakesh.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 3 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, France 24, PBS NewsHour</description>
+  </item>
+  <item>
+    <title>Are Trump's US government funded ads illegal?</title>
+    <link>https://joelbarandi.github.io/lede/#s/1f732d7647</link>
+    <guid isPermaLink="false">lede-1f732d7647</guid>
+    <pubDate>Wed, 30 Sep 2026 00:02:00 +0000</pubDate>
+    <category>Politics</category>
+    <description>On Sunday, instead of ads for pizza deals from Papa John's or the latest insurance pitch from Jake at State Farm, fans watching their favorite NFL or college football teams were shown a 30-second, black-and-white video of President Donald Trump. The ad, nearly identical to an ad released by the Trump presidential campaign in 2024, shows the president silently walking down a hallway, while his voiceover warns of a &quot;final battle&quot; to &quot;cast out the communists, Marxists, and fascists&quot; and &quot;liberate America from these villains once and for all.&quot; There was one noticeable difference. The ad that aired Sunda y was &quot;Paid for by the U.S. Government,&quot; courtesy of American taxpayers. It's the latest of several ads the White House has recently published, including a minute-long ad with quotes and clips of old Trump speeches that began airing last Friday and a 30-second ad that debuted last week—set…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, CBS News, Reason</description>
+  </item>
   <item>
     <title>US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation</title>
     <link>https://joelbarandi.github.io/lede/#s/0201734442</link>
     <guid isPermaLink="false">lede-0201734442</guid>
     <pubDate>Tue, 29 Sep 2026 20:08:33 +0000</pubDate>
-    <category>Business &amp; Economy</category>
-    <description>The ban amounts to barely a ripple in $880 billion worth of annual two-way trade between the two northern neighbors. But it marks another ratcheting up of President Donald Trump's second-term trade war with America's longtime ally and trading partner.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 3 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Deutsche Welle, PBS NewsHour</description>
-  </item>
-  <item>
-    <title>Morocco: King appoints first woman prime minister</title>
-    <link>https://joelbarandi.github.io/lede/#s/5ad05ac295</link>
-    <guid isPermaLink="false">lede-5ad05ac295</guid>
-    <pubDate>Tue, 29 Sep 2026 19:56:00 +0000</pubDate>
     <category>Politics</category>
-    <description>The appointment of Fatima Zahra Mansouri comes after her center-right party won last week's parliamentary elections in Morocco. She had previously served as mayor of the city of Marrakesh.&lt;br&gt;&lt;br&gt;Covered by 4 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Deutsche Welle, France 24</description>
+    <description>Donald Trump's ban on nearly $1 billion worth of Canadian goods has come into force, further escalating a trade dispute between the longtime allies.&lt;br&gt;&lt;br&gt;Covered by 3 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Deutsche Welle</description>
   </item>
   <item>
     <title>Estonia blames Russia for arson at defence company supplying Ukraine</title>
@@ -33,76 +41,76 @@
     <description>Kristen Michal says attack ‘against Milrem Robotics was ordered by Russian special services’, after Kremlin denies involvement Rutte begins by recalling a drone shot down in Lithuanian airspace by Nato fighter jets two weeks ago. He says “the repeated drone incidents along our eastern flank showed the evolving nature of the threat, and we are strengthening our integrated air and missile defence.” “We are adapting and reinforcing our posture against drones.” Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, The Guardian</description>
   </item>
   <item>
-    <title>Homeland Security spending $20M in taxpayer funds for pro-Trump ads</title>
-    <link>https://joelbarandi.github.io/lede/#s/c045b0e29b</link>
-    <guid isPermaLink="false">lede-c045b0e29b</guid>
-    <pubDate>Tue, 29 Sep 2026 19:04:25 +0000</pubDate>
-    <category>Politics</category>
-    <description>The Department of Homeland Security has tapped $20 million to pay for the campaign-style ads glorifying President Donald Trump that have drawn widespread criticism from Republicans and Democrats as a blatant misuse of taxpayer dollars that likely runs afoul of anti-propaganda law.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 nonprofit.&lt;br&gt;Sources: NBC News, NPR, PBS NewsHour</description>
-  </item>
-  <item>
-    <title>OpenAI Cancels Its Advanced Model Launch, Then Heads to Lunch With Trump</title>
-    <link>https://joelbarandi.github.io/lede/#s/f7650afd26</link>
-    <guid isPermaLink="false">lede-f7650afd26</guid>
-    <pubDate>Tue, 29 Sep 2026 17:49:01 +0000</pubDate>
-    <category>Politics</category>
-    <description>OpenAI called off plans to launch its latest GPT-6.1 Astra model on Tuesday, after the system failed to meet the company’s safety standards. The model was scheduled to release sometime in October, but OpenAI’s head of safety systems, Saachi Jain, told The Wall Street Journal that GPT-6.1 Astra, as compared to the previous GPT-6 Astra, was less honest about notifying users of the steps it did or did not take to achieve a task. Jain described to the Journal that the models needed to strike a balance between proceeding with tasks on their own and taking shortcuts to provide an easy answer instead of doing a thorough job—a behavior Jain and others in the industry call “ laziness .” Astra is OpenAI’s top-tier model. The startup’s cancellation comes amid a series of security threat incidents—tens of thousands of which it is reportedly investigating, according to a Saturday Axios report .…&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, France 24, Mother Jones</description>
-  </item>
-  <item>
-    <title>Spain announces ban on evictions after protests over 87-year-old woman's removal from flat</title>
-    <link>https://joelbarandi.github.io/lede/#s/95e5625829</link>
-    <guid isPermaLink="false">lede-95e5625829</guid>
-    <pubDate>Tue, 29 Sep 2026 16:23:58 +0000</pubDate>
+    <title>Madrid residents feel the impact of Spain’s housing crisis</title>
+    <link>https://joelbarandi.github.io/lede/#s/a09a912bea</link>
+    <guid isPermaLink="false">lede-a09a912bea</guid>
+    <pubDate>Tue, 29 Sep 2026 18:57:52 +0000</pubDate>
     <category>Business &amp; Economy</category>
-    <description>Measures, which need to be approved in Congress, include extending ban on evictions of vulnerable people Spain’s Socialist Workers’ party-led coalition government has approved a range of measures aimed at easing the country’s housing crisis, including extending a ban on evictions of vulnerable tenants until 2030, after a public outcry over the eviction of an 87-year-old disabled woman from her Madrid apartment last week. Two decrees have been approved by cabinet but will need to be approved in Congress, where the coalition lacks a majority. The government has requested a special parliamentary session on Friday in the hope of getting the decrees passed as soon as possible. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, The Guardian</description>
+    <description>Measures, which need to be approved in Congress, include extending ban on evictions of vulnerable people Spain’s Socialist Workers’ party-led coalition government has approved a range of measures aimed at easing the country’s housing crisis, including extending a ban on evictions of vulnerable tenants until 2030, after a public outcry over the eviction of an 87-year-old disabled woman from her Madrid apartment last week. Two decrees have been approved by cabinet but will need to be approved in Congress, where the coalition lacks a majority. The government has requested a special parliamentary session on Friday in the hope of getting the decrees passed as soon as possible. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, Deutsche Welle, The Guardian</description>
   </item>
   <item>
-    <title>Trump's Iran War Is Losing With Everyone (Even Republicans)</title>
-    <link>https://joelbarandi.github.io/lede/#s/1803fe755c</link>
-    <guid isPermaLink="false">lede-1803fe755c</guid>
-    <pubDate>Tue, 29 Sep 2026 15:55:00 +0000</pubDate>
+    <title>OpenAI cancels release of newest model due to safety concerns</title>
+    <link>https://joelbarandi.github.io/lede/#s/782aa4eef4</link>
+    <guid isPermaLink="false">lede-782aa4eef4</guid>
+    <pubDate>Tue, 29 Sep 2026 17:02:25 +0000</pubDate>
+    <category>Tech</category>
+    <description>OpenAI will not release its newest artificial intelligence model, known as Astra 6.1, after internal testing by the ChatGPT-maker revealed it did not meet safety standards, the company confirmed Monday. Concerns about AI safety have escalated in recent months after models developed by OpenAI and rival lab Anthropic were involved in security incidents during testing.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 2 public.&lt;br&gt;Sources: BBC News, Breitbart News, France 24</description>
+  </item>
+  <item>
+    <title>Iran war live: Trump claims war will end ‘very soon’, gives no details</title>
+    <link>https://joelbarandi.github.io/lede/#s/7d6815d352</link>
+    <guid isPermaLink="false">lede-7d6815d352</guid>
+    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     <category>Politics</category>
-    <description>Smoke rises from the area surrounding Ali al-Tahir hill following an Israeli strike, on June 12, 2026, in Nabatieh, Lebanon. —Ramiz Dallah-Anadolu-Getty Images On Sept. 10, Israel destroyed Hezbollah’s underground command center and weapons stores beneath the Ali al-Tahir ridge in southern Lebanon, about 10 miles from the Lebanon-Israel border. The loss deprived Hezbollah of a fortified position and dealt another blow to Iran’s most important regional ally, which has lost senior commanders and much of its arsenal over the past two years. Farther south, another part of Iran’s regional network was gaining ground. In Yemen, the Houthis seized territory along the Red Sea coast, bringing them closer to controlling the approaches to Bab al-Mandab, the passage connecting the Red Sea to the Gulf of Aden. The fall of Bashar al-Assad in Syria in 2024 and Hezbollah’s weakening have diminished…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 worker-owned, 1 nonprofit.&lt;br&gt;Sources: Reason, TIME, Zeteo</description>
+    <description>Ashley Hinson (left). Mike Rogers (center). Susan Collins (right). Photos by Scott Olson/Getty Images; Bill Clark/CQ-Roll Call, Inc./Getty Images; CJ Gunther/ Getty Images. When President Donald Trump launched his failed, illegal war on Iran, Republicans quickly fell in line. Seven months later, the conflict seems primed to become the latest U.S. forever war. The resulting spikes in the prices of diesel and gas have put enormous pressure on American families who are paying more for basic necessities. A CNN/SSRS poll from this month shows that 73% of Americans disapprove of Trump’s handling of the war, underscoring how much of a political nightmare it has become for Republicans as the crucial midterm elections near. Subscribe now Coincidentally, several Republican politicians in tough races now want the war they once supported to end. Here’s what six of them said at the war’s start, and…&lt;br&gt;&lt;br&gt;Covered by 1 worker-owned, 1 public.&lt;br&gt;Sources: Al Jazeera English, Zeteo</description>
   </item>
   <item>
-    <title>Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened</title>
-    <link>https://joelbarandi.github.io/lede/#s/ad52d77524</link>
-    <guid isPermaLink="false">lede-ad52d77524</guid>
-    <pubDate>Tue, 29 Sep 2026 15:16:31 +0000</pubDate>
-    <category>Business &amp; Economy</category>
-    <description>One observer called the move a &quot;disaster for people’s health, the planet, and even U.S. automakers.” By Dennis Pillion The Trump administration Monday finalized the rollback of a major fuel economy standard for cars and trucks, a move critics say will cause more climate-warming pollution, human health problems and higher fuel costs for consumers.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 nonprofit.&lt;br&gt;Sources: Inside Climate News, NPR, Slate</description>
+    <title>Trump, top tech firms sign accord to ‘self-police’ AI development</title>
+    <link>https://joelbarandi.github.io/lede/#s/c8b861011e</link>
+    <guid isPermaLink="false">lede-c8b861011e</guid>
+    <pubDate>Tue, 29 Sep 2026 23:43:32 +0000</pubDate>
+    <category>Tech</category>
+    <description>President Donald Trump and leaders of major artificial intelligence companies signed a voluntary accord Tuesday to strengthen safety reviews as the technology faces growing public concern. The agreement calls for internal controls, independent audits and board oversight, while Trump rejected calls for government restrictions and urged rapid AI development.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, France 24</description>
   </item>
   <item>
-    <title>France intends to borrow record €340 billion as Covid-era debt comes due</title>
-    <link>https://joelbarandi.github.io/lede/#s/8086427309</link>
-    <guid isPermaLink="false">lede-8086427309</guid>
-    <pubDate>Tue, 29 Sep 2026 20:34:10 +0000</pubDate>
+    <title>Hundreds detained as student protests across France turn violent</title>
+    <link>https://joelbarandi.github.io/lede/#s/bb5427fcf1</link>
+    <guid isPermaLink="false">lede-bb5427fcf1</guid>
+    <pubDate>Tue, 29 Sep 2026 23:27:30 +0000</pubDate>
+    <category>Justice &amp; Policing</category>
+    <description>More than 400 detained as police and students clash over class sizes, exhausting timetables and staff shortages More than 400 people, most of them children, have been detained in France on Tuesday after teenagers across the country blockaded their schools in protest at class sizes, teacher shortages and long timetables. Interior minister Laurent Nunez told BFM TV: “440 were detained across national territory. We don’t have the final tally yet, but I’m told two-thirds led to police custody.” Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, The Guardian</description>
+  </item>
+  <item>
+    <title>Trump says AI companies agree to 'self-police'</title>
+    <link>https://joelbarandi.github.io/lede/#s/094a49a217</link>
+    <guid isPermaLink="false">lede-094a49a217</guid>
+    <pubDate>Tue, 29 Sep 2026 23:10:00 +0000</pubDate>
+    <category>Politics</category>
+    <description>Donald Trump said the US won't &quot;stifle&quot; the development of AI, which he sees as &quot;bigger than the Industrial Revolution.&quot; The agreement comes amid mounting concerns over AI safety after recent hacking incidents.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: Deutsche Welle, PBS NewsHour</description>
+  </item>
+  <item>
+    <title>Iraq begins high-stakes security balancing act as US troops withdraw</title>
+    <link>https://joelbarandi.github.io/lede/#s/fe7de028ad</link>
+    <guid isPermaLink="false">lede-fe7de028ad</guid>
+    <pubDate>Tue, 29 Sep 2026 23:06:53 +0000</pubDate>
     <category>World</category>
-    <description>A new study finds the world’s great surf breaks are vulnerable to climate change. In Malibu, the problem is more specific: a coast with few defenses, with a record El Niño winter closing in. By Kate Waxman On a clean summer swell, the wave at Malibu’s Surfrider Beach arrives from the south, wraps around a cobblestone point and unspools toward the pier in a long, shimmering wave that can carry a surfer for hundreds of feet. It breaks slowly, forgivingly, over rounded stones that were delivered by Malibu Creek across millennia.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: France 24, Inside Climate News</description>
+    <description>As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, Deutsche Welle</description>
   </item>
   <item>
-    <title>Utah death-row prisoner released after new DNA analysis of 1985 killing</title>
-    <link>https://joelbarandi.github.io/lede/#s/623b80f404</link>
-    <guid isPermaLink="false">lede-623b80f404</guid>
-    <pubDate>Tue, 29 Sep 2026 20:12:41 +0000</pubDate>
-    <category>Other</category>
-    <description>Douglas Carter, 71, who has spent more than four decades on death row, was released on bail until new trial begins A Utah man who has spent more than four decades on death row was released from jail after newly analyzed DNA evidence showed that he was not connected to a 1985 homicide. Douglas Stewart Carter, now 71, walked out of the Utah county jail late on Monday night after a judge ordered his release on bail. He will have to wear a GPS monitoring device until a new trial begins. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, The Guardian</description>
+    <title>California Bans ICE’s Favorite Shock Gloves</title>
+    <link>https://joelbarandi.github.io/lede/#s/d1d5b2713e</link>
+    <guid isPermaLink="false">lede-d1d5b2713e</guid>
+    <pubDate>Tue, 29 Sep 2026 22:19:14 +0000</pubDate>
+    <category>Justice &amp; Policing</category>
+    <description>On Tuesday, California Gov. Gavin Newsom signed into law a bill banning law enforcement officers in the state from using electrical shock gloves, a “pain compliance” tool and recent hit with ICE officers that function similarly to tasers at a lower voltage. ICE recently purchased about 6,000 pairs of the gloves, which have been roundly condemned by human rights groups as “inherently abusive equipment that facilitates torture”—for $16.7 million dollars. “This is about stepping up where the federal government has failed.” “Trump has put his political interests above the health, safety and livelihood of American families. California is taking action to strengthen transparency, accountability, and oversight around immigration enforcement in our state,” Newsom said in a statement that accompanied the bill’s signing. “This is about stepping up where the federal government has failed our…&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit.&lt;br&gt;Sources: Mother Jones, The Guardian</description>
   </item>
   <item>
-    <title>Journalist crowned king in Uganda after bitter succession dispute</title>
-    <link>https://joelbarandi.github.io/lede/#s/4eb87fe8ea</link>
-    <guid isPermaLink="false">lede-4eb87fe8ea</guid>
-    <pubDate>Tue, 29 Sep 2026 20:09:27 +0000</pubDate>
-    <category>Other</category>
-    <description>Edward Rukidi Kijanangoma has ascended to the throne after King Oyo died at the age of 34 due to a cancer battle. He previously worked for Ugandan broadcaster UBC as a TV anchor and editor.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: BBC News, Deutsche Welle</description>
-  </item>
-  <item>
-    <title>Jerusalem Daily: Israeli worshippers attack Palestinian man</title>
-    <link>https://joelbarandi.github.io/lede/#s/2048cd5a79</link>
-    <guid isPermaLink="false">lede-2048cd5a79</guid>
-    <pubDate>Tue, 29 Sep 2026 18:51:30 +0000</pubDate>
+    <title>Trump rules out joint US-China venture to develop AI</title>
+    <link>https://joelbarandi.github.io/lede/#s/85099320fc</link>
+    <guid isPermaLink="false">lede-85099320fc</guid>
+    <pubDate>Tue, 29 Sep 2026 21:45:01 +0000</pubDate>
     <category>Politics</category>
-    <description>Israeli soldiers walk by a Palestinian vendor in the Old City market in occupied East Jerusalem. Photo by Nasser Ishtayeh/SOPA Images/LightRocket via Getty Images. Monday, September 28, 2026 – Iran: President Donald Trump expects more Iran talks. Iran files International Civil Aviation Organization complaint over U.S. flight restrictions. Eight U.S. Marines injured in previously undisclosed Iranian missile attack in Strait of Hormuz. Five arrested near UK airbase used for U.S. strikes on Iran. IRGC claims seizure of U.S. underwater vehicle in Hormuz. Middle East oil exports rebound as Saudi shipments surge. Yemen: Seven killed, 40 injured in Saudi strike on Taiz. EU’s Kallas calls for more ships for Red Sea mission as Ansarallah expand control. Palestine: Israeli strike kills woman, wounds several others in Gaza City. Israeli settlers attack Palestinian olive harvest amid occupied West…&lt;br&gt;&lt;br&gt;Covered by 1 worker-owned, 1 public.&lt;br&gt;Sources: Al Jazeera English, Drop Site News</description>
+    <description>US President Donald Trump discussed AI development with dozens of tech bosses at the White House. Ahead of his &quot;superintelligence&quot; luncheon, Trump launched a new AI-powered website for government services vowing not to stifle the technology's growth. He also said he didn't want to work with Chinese President Xi Jinping on AI oversight. Plus, dozens of dogs were rescued from a breeding farm in South Korea as the country prepares for a complete phaseout of the dog meat industry.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: BBC News, France 24</description>
   </item>
 </channel>
 </rss>
