@@ -639,16 +639,16 @@
   },
   {
    "date": "2026-10-05",
-   "articles": 243,
+   "articles": 253,
    "stories": 60,
    "share": {
-    "pub": 18.9,
-    "nonprofit": 22.2,
-    "family": 34.6,
-    "corp": 23.5,
-    "coop": 0.8
+    "pub": 20.2,
+    "corp": 23.3,
+    "family": 37.2,
+    "nonprofit": 19.0,
+    "coop": 0.4
    }
   }
  ],
- "updated": "2026-10-05T00:56:49.192855+00:00"
+ "updated": "2026-10-05T07:04:19.091737+00:00"
 }
