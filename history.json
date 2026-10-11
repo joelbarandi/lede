@@ -711,16 +711,16 @@
   },
   {
    "date": "2026-10-11",
-   "articles": 302,
+   "articles": 244,
    "stories": 60,
    "share": {
-    "family": 34.1,
-    "corp": 27.2,
-    "nonprofit": 17.9,
-    "pub": 17.5,
-    "coop": 3.3
+    "corp": 22.1,
+    "nonprofit": 20.5,
+    "family": 33.6,
+    "pub": 20.9,
+    "coop": 2.9
    }
   }
  ],
- "updated": "2026-10-11T08:53:36.086878+00:00"
+ "updated": "2026-10-11T15:42:50.111205+00:00"
 }
