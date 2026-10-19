@@ -807,16 +807,16 @@
   },
   {
    "date": "2026-10-19",
-   "articles": 220,
+   "articles": 231,
    "stories": 60,
    "share": {
-    "corp": 24.1,
-    "nonprofit": 21.4,
-    "family": 32.7,
-    "pub": 18.6,
-    "coop": 3.2
+    "corp": 28.1,
+    "nonprofit": 19.0,
+    "family": 35.9,
+    "pub": 15.2,
+    "coop": 1.7
    }
   }
  ],
- "updated": "2026-10-19T15:37:54.147482+00:00"
+ "updated": "2026-10-19T21:04:40.164179+00:00"
 }
