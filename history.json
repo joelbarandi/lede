@@ -831,16 +831,16 @@
   },
   {
    "date": "2026-10-21",
-   "articles": 228,
+   "articles": 219,
    "stories": 60,
    "share": {
-    "family": 36.8,
-    "corp": 28.1,
-    "nonprofit": 19.7,
-    "pub": 13.6,
-    "coop": 1.8
+    "corp": 28.3,
+    "family": 35.2,
+    "nonprofit": 20.1,
+    "pub": 13.7,
+    "coop": 2.7
    }
   }
  ],
- "updated": "2026-10-21T04:50:20.750463+00:00"
+ "updated": "2026-10-21T10:11:30.059244+00:00"
 }
