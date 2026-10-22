@@ -7,94 +7,102 @@
   <atom:link href="https://joelbarandi.github.io/lede/underreported.xml" rel="self" type="application/rss+xml"/>
   <description>Stories whose coverage is concentrated outside corporate and billionaire-owned media.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 22 Oct 2026 15:18:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 20:08:09 +0000</lastBuildDate>
   <item>
     <title>Shamonda virus detected in human for first time in France</title>
     <link>https://joelbarandi.github.io/lede/#s/73aabe634e</link>
     <guid isPermaLink="false">lede-73aabe634e</guid>
-    <pubDate>Thu, 22 Oct 2026 15:07:01 +0000</pubDate>
+    <pubDate>Thu, 22 Oct 2026 15:21:13 +0000</pubDate>
     <category>Health</category>
-    <description>Eva Korinkova/Reuters A virus that usually affects livestock has been detected in a human for the first time. Authorities in France confirmed that a patient who died at a hospital in Lyon in early October had contracted the Shamonda virus, an insect-borne virus that typically affects cows and was previously considered non-transmissible to humans. Midges spread the disease, and the eastern French region where the patient fell ill had an outbreak among animals during the summer months. Officials believe the immunocompromised patient was being treated for an illness that made him more susceptible to infection. The virus was first detected in Nigeria in the mid-1960s, with the first-ever cases in Europe confirmed in late July. Authorities stress that they have not identified any health risks to the general population following the case. Investigations into whether the virus caused or…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family, 2 nonprofit, 4 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Deutsche Welle, France 24, New York Post, PBS NewsHour, The Daily Beast, The Guardian</description>
+    <description>Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with investigations under way to explore whether it contributed to his death. Shamonda virus is a type of bunyavirus and is spread by bites from infected midges. According to the Austrian Agency for Health and Food Safety , in animals such as cattle, sheep and goats it can cause diarrhoea, lack of appetite and a decline in milk yield, “as well as abortions and congenital abnormalities in newborn calves, lambs and kids”. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 2 nonprofit, 3 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, Forbes, France 24, PBS NewsHour, The Guardian</description>
   </item>
   <item>
-    <title>Macron blames ‘seditious’ far left for unrest as France bans some protests</title>
-    <link>https://joelbarandi.github.io/lede/#s/ec7cb7c2b5</link>
-    <guid isPermaLink="false">lede-ec7cb7c2b5</guid>
-    <pubDate>Thu, 22 Oct 2026 13:12:22 +0000</pubDate>
+    <title>Targeted by Trump, International Criminal Court wins top EU rights prize</title>
+    <link>https://joelbarandi.github.io/lede/#s/9fe964a1d5</link>
+    <guid isPermaLink="false">lede-9fe964a1d5</guid>
+    <pubDate>Thu, 22 Oct 2026 18:55:57 +0000</pubDate>
     <category>Politics</category>
-    <description>America seems to be on the precipice of a future technological golden age . Whether we take steps toward that future could depend on which political vision prevails over the next few election cycles. Speaking alongside President Donald Trump at the White House in September, Elon Musk predicted a world where artificial intelligence and advanced robotics create an &quot;age of abundance.&quot; Musk suggests these technologies could eventually provide your average person with better medical care than what today’s wealthiest individuals enjoy. TRUMP TO USHER IN ‘GOLDEN AGE’ OF AMERICAN TECH WITH DC BASH SHOWCASING POWERFUL NEW TOOL This optimistic vision aligns well with Trump’s repeated promises of a new American golden age. Yet, as his administration works to accelerate technological advancement, an increasingly influential wing on the far left appears determined to slam on the brakes. The Trump…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family, 4 public.&lt;br&gt;Sources: Al Jazeera English, Deutsche Welle, Fox News, France 24, NBC News</description>
+    <description>The first awarding marked the apex of Gianni Infantino’s hubris. A new version could highlight the good in the world of soccer Sign up for our free newsletter here Poor Fifa peace prize. Unloved, unliked, mocked, tainted by association with its first winner. And now demoted, too, after Fifa’s president, Gianni Infantino, dumped the thing on the global governing body’s “social responsibility committee” to look after. To redeem it, rather than to ditch it, to spare Infantino the embarrassment of acknowledging that his fake prize was really just a fake prize all along. Here is where we should probably acknowledge that, as fake prizes go, and in the context of what it was intended to accomplish, the first awarding of the Fifa peace prize was an unqualified success. It achieved exactly what it was meant to, made by Infantino to flatter Donald Trump, the man he needed to keep on his side to…&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit, 3 public.&lt;br&gt;Sources: Al Jazeera English, Deutsche Welle, France 24, The Guardian</description>
   </item>
   <item>
-    <title>Pope Leo will not need further cancer treatment — Vatican</title>
-    <link>https://joelbarandi.github.io/lede/#s/9cff9f992a</link>
-    <guid isPermaLink="false">lede-9cff9f992a</guid>
-    <pubDate>Wed, 21 Oct 2026 23:47:00 +0000</pubDate>
-    <category>Health</category>
-    <description>Pope Leo's lung cancer surgery last week was a success, the Vatican said. The pope broke with traditions of secrecy around papal health issues after announcing he needed surgery to remove a nodule on his lung.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 nonprofit, 2 public.&lt;br&gt;Sources: ABC News, BBC News, Deutsche Welle, PBS NewsHour</description>
-  </item>
-  <item>
-    <title>‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live</title>
-    <link>https://joelbarandi.github.io/lede/#s/329410a45c</link>
-    <guid isPermaLink="false">lede-329410a45c</guid>
-    <pubDate>Thu, 22 Oct 2026 14:35:47 +0000</pubDate>
-    <category>Tech</category>
-    <description>Security officials are sounding the alarm over two critical vulnerabilities in a programming language used to run millions of websites, marking one of the most consequential cybersecurity discoveries yet made with AI . Why it matters : The bugs, which researchers found partly with an OpenAI model, proves AI can uncover critical flaws humans missed for decades — raising the stakes for defenders racing to fix vulnerabilities before attackers can exploit them at machine speed. What they're saying : Matthew Prince, the CEO of Cloudflare, a global connectivity and internet security company, said the company saw thousands of attempts to exploit the flaws in the 10 hours before it was publicly announced. &quot;That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within 2 hours, and millions now,&quot; he wrote on X. What's happening: There are two problems hackers…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 nonprofit, 1 public.&lt;br&gt;Sources: Axios, BBC News, The Guardian</description>
-  </item>
-  <item>
-    <title>Is Iran ready for another major US attack after midterm elections?</title>
-    <link>https://joelbarandi.github.io/lede/#s/b0b43cb161</link>
-    <guid isPermaLink="false">lede-b0b43cb161</guid>
-    <pubDate>Thu, 22 Oct 2026 14:34:09 +0000</pubDate>
+    <title>Will Elon Musk Be the October Surprise?</title>
+    <link>https://joelbarandi.github.io/lede/#s/d23f5427a2</link>
+    <guid isPermaLink="false">lede-d23f5427a2</guid>
+    <pubDate>Thu, 22 Oct 2026 18:12:54 +0000</pubDate>
     <category>Politics</category>
-    <description>Iranian officials say the goal is to keep the regime in power and threaten enough regional costs to make a prolonged campaign unattractive. US media reports indicate that Trump is considering strikes after the midterms.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: Deutsche Welle, NPR, The New York Times</description>
+    <description>A version of the below article first appeared in David Corn’s newsletter, Our Land . The newsletter comes out twice a week (most of the time) and provides behind-the-scenes stories and articles about politics, media, and culture. Subscribing costs just $5 a month—but you can sign up for a free 30-day trial . As I’ve noted in previous issues, I’m now co-hosting a pop-up video podcast on the midterms called Stress Test with award-winning video producer Garrison Hayes. (You can catch the latest episode here .) The name refers to the challenge American democracy is currently facing. With an authoritarian demagogue in the White House, can the United States conduct free and fair elections that produce results that will be widely respected? Can the US political system reject the Donald Trump virus that undermines the rule of law and threatens the constitutional republic? Will it survive the…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 3 nonprofit.&lt;br&gt;Sources: Mother Jones, NPR, Reason, The Hill</description>
+  </item>
+  <item>
+    <title>'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother</title>
+    <link>https://joelbarandi.github.io/lede/#s/084c821401</link>
+    <guid isPermaLink="false">lede-084c821401</guid>
+    <pubDate>Thu, 22 Oct 2026 19:27:57 +0000</pubDate>
+    <category>Politics</category>
+    <description>Republican Vivek Ramaswamy is closing out one of the nastiest races of the 2026 cycle by suggesting that Democrat Amy Acton, his opponent in the Ohio governor’s race, has lied about the well-documented childhood sexual abuse she experienced for political gain. In a contest marked by sharp personal attacks and partisan rancor, Ramaswamy’s latest attempt to paint Acton as unfit for office came in the form of a minute-long ad that began circulating Monday night featuring Donna Arthur, Acton’s estranged mother. It was widely condemned on both sides of the political aisle. President Donald Trump and Vice President JD Vance, however, both defended the ad as an appropriate one to run in the closing days of a campaign. Arthur lost custody of Acton and her younger brother in 1978 after her second husband, Cledith Arthur, was arrested, charged and indicted for raping then 12-year-old Acton. In…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, NBC News, The 19th</description>
+  </item>
+  <item>
+    <title>Vance tells Republicans to 'stop whining' after Ramaswamy attack ad in Ohio governor's race</title>
+    <link>https://joelbarandi.github.io/lede/#s/9080999bd1</link>
+    <guid isPermaLink="false">lede-9080999bd1</guid>
+    <pubDate>Thu, 22 Oct 2026 19:05:18 +0000</pubDate>
+    <category>Politics</category>
+    <description>US Vice President JD Vance on Wednesday defended an explosive attack ad by Republican Vivek Ramaswamy’s campaign against his Democratic rival in the Ohio governor’s race, telling fellow Republicans to &quot;stop whining&quot; about it and go win the race. The ad features Democrat Amy Acton’s ‌estranged mother, Donna Arthur, disputing Acton’s account of a childhood she says involved a period of homelessness and sexual abuse. ⁠Arthur, whom Acton says she has not seen since 1978, urges Ohioans not to vote for her daughter. Acton has said she was sexually abused by her stepfather when she was 12. Her mother stayed with the ‌stepfather, who was charged with rape but fled the state and was never tried. He died in 2004. Acton said she ⁠and her brother were removed from her mother's custody for severe abuse, neglect and sexual abuse. Acton's brother has supported her account. FRANCE 24's Catherine Viette…&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, France 24, NPR</description>
+  </item>
+  <item>
+    <title>Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'</title>
+    <link>https://joelbarandi.github.io/lede/#s/6be2a90390</link>
+    <guid isPermaLink="false">lede-6be2a90390</guid>
+    <pubDate>Thu, 22 Oct 2026 16:36:26 +0000</pubDate>
+    <category>Politics</category>
+    <description>Jean-Emile Jammine is pleased to welcome Federico Donelli, Associate Professor of International Relations in the Department of Political and Social Sciences at the University of Trieste in Italy. Can another three days of military strikes achieve what eight months of confrontation have failed to deliver? Donelli challenges the assumption that a short, intensive offensive would necessarily produce a decisive political outcome. He argues, &quot;the real question is whether military pressure is intended to constrain Iran's capacity, or to pressure Iran to sit on the table.&quot; And whether they can translate that capacity into a sustainable political outcome without provoking a wider regional crisis. Regardless, Donelli reminds us that &quot;Iran still has leverage over the US.&quot;&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: Deutsche Welle, France 24, NPR</description>
   </item>
   <item>
     <title>AI discovered a software vulnerability that could impact 70% of websites worldwide. The rush is on to patch it</title>
     <link>https://joelbarandi.github.io/lede/#s/911febbc72</link>
     <guid isPermaLink="false">lede-911febbc72</guid>
-    <pubDate>Thu, 22 Oct 2026 12:51:30 +0000</pubDate>
+    <pubDate>Thu, 22 Oct 2026 16:01:35 +0000</pubDate>
     <category>Tech</category>
-    <description>Governments and businesses in Kenya, the Netherlands and elsewhere were scrambling to prevent hackers from exploiting a vulnerability in PHP, a widely used programming language.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, PBS NewsHour, The New York Times</description>
+    <description>Prime Minister Rob Jetten of the Netherlands in Brussels last week. He said that his cabinet was closely monitoring the online vulnerability caused by a security flaw in PHP.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, PBS NewsHour, The New York Times</description>
   </item>
   <item>
-    <title>Ukraine: Life near the front line in Sloviansk</title>
-    <link>https://joelbarandi.github.io/lede/#s/f3a1f36994</link>
-    <guid isPermaLink="false">lede-f3a1f36994</guid>
-    <pubDate>Thu, 22 Oct 2026 11:44:00 +0000</pubDate>
-    <category>World</category>
-    <description>—Photo-Illustration by TIME (Source Image: Antenna/Getty Images) Wait a second. You’ve been standing in line for 20 minutes, famished and desperate to order one of the viral bagels that keep selling out—or for six hours outside a concert venue, determined to claim a spot at the barricade to see your favorite band. And then someone strolls up and slips in line ahead of you. Apparently, the rest of you have been standing around for the ambiance. How much of a sin are line-cutters committing? “You are ripping the fabric of society apart,” says Nick Leighton, an etiquette expert and co-host of the podcast Were You Raised by Wolves? Queue-jumpers have to live with that, he adds. “But worse, we have to live with you.” Here’s exactly how to handle this maddening situation—including when and how best to speak up. When to speak up about someone cutting in line If a stranger jumping ahead of you…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 2 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, TIME</description>
-  </item>
-  <item>
-    <title>Trump praises man who punched protester at rally in South Carolina</title>
-    <link>https://joelbarandi.github.io/lede/#s/52ccb4a718</link>
-    <guid isPermaLink="false">lede-52ccb4a718</guid>
-    <pubDate>Thu, 22 Oct 2026 10:58:20 +0000</pubDate>
+    <title>Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff</title>
+    <link>https://joelbarandi.github.io/lede/#s/dba2a5b8e3</link>
+    <guid isPermaLink="false">lede-dba2a5b8e3</guid>
+    <pubDate>Thu, 22 Oct 2026 15:49:16 +0000</pubDate>
     <category>Politics</category>
-    <description>President Donald Trump will visit South Carolina on Wednesday to boost Graham, whose stumbles in her first campaign since replacing her late brother have Democratic voters hopeful — but not necessarily optimistic — that their candidate can break Republicans' grip on the state.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, PBS NewsHour, The New York Times</description>
+    <description>Editor’s Note: We thought you might find this Zeteo UK essay a worthwhile read, so we are republishing it at Zeteo . If you want to receive more essays like this from Zeteo UK , in addition to everything Zeteo offers, you can always take advantage of our bundle option . And if you’re not already a paid subscriber , consider upgrading today so you never see a paywall again. A free press isn’t free! Subscribe now Flávio Bolsonaro and Luiz Inácio Lula da Silva during a debate ahead of the presidential election runoff. Photo by Nelson Almeida/AFP via Getty Images Last year, Senator Flávio Bolsonaro said in an interview that Brazil’s next president would have to commit to pardoning his father, former President Jair Bolsonaro, who is under house arrest for having attempted a coup d’état in 2022. And more: When the Supreme Court ruled the pardon unconstitutional, as it inevitably would, he…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 worker-owned, 1 nonprofit.&lt;br&gt;Sources: Bloomberg, The Guardian, Zeteo</description>
   </item>
   <item>
-    <title>🔴 International Criminal Court wins EU's Sakharov human rights prize</title>
-    <link>https://joelbarandi.github.io/lede/#s/e750aa7288</link>
-    <guid isPermaLink="false">lede-e750aa7288</guid>
-    <pubDate>Thu, 22 Oct 2026 10:11:23 +0000</pubDate>
-    <category>Politics</category>
-    <description>Here’s what we need to do to stand up for international law Many applauded when Navi Pillay was awarded the Nobel peace prize. The South African human rights lawyer had chaired the UN commission of inquiry that found Israel to have committed genocide in Gaza and served for five years as a judge on the international criminal court (ICC). Donald Trump responded a few hours later by imposing sanctions on the ICC. He chose a moment for celebrating the rule of law to try to undermine it. Kenneth Roth is a Guardian US columnist, a senior fellow at Yale University and a former executive director of Human Rights Watch. He is the author of Righting Wrongs: Three Decades on the Front Lines Battling Abusive Governments Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: Deutsche Welle, France 24, The Guardian</description>
-  </item>
-  <item>
-    <title>Germany arrests Ukrainian man accused of spying for Russia</title>
-    <link>https://joelbarandi.github.io/lede/#s/ea8f42aa04</link>
-    <guid isPermaLink="false">lede-ea8f42aa04</guid>
-    <pubDate>Thu, 22 Oct 2026 14:36:06 +0000</pubDate>
-    <category>World</category>
-    <description>The suspect is thought to have gathered defense-related information on the production of tanks and munitions, as well as details about NATO's eastern flank.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, Deutsche Welle</description>
-  </item>
-  <item>
-    <title>Two European women held captive for more than a year in Niger freed in Libya</title>
-    <link>https://joelbarandi.github.io/lede/#s/691c391987</link>
-    <guid isPermaLink="false">lede-691c391987</guid>
-    <pubDate>Thu, 22 Oct 2026 13:22:39 +0000</pubDate>
+    <title>Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say</title>
+    <link>https://joelbarandi.github.io/lede/#s/fe16ed313e</link>
+    <guid isPermaLink="false">lede-fe16ed313e</guid>
+    <pubDate>Thu, 22 Oct 2026 13:46:33 +0000</pubDate>
     <category>Other</category>
-    <description>An Austrian woman and a Swiss woman kidnapped in Niger have been freed after 18 months in captivity, local reports say.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: BBC News, Deutsche Welle</description>
+    <description>Similar withdrawals from UAE, Jordan, Qatar and Bahrain reported as concerns grow about restart of war on Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia as the gulf kingdom faces a barrage of near-daily attacks, with at least three people killed at an airport and oilfield. Attacks on “civilian airports and other critical infrastructure” by the Iranian-supported Houthis in Yemen were highlighted as the reason for the drawdown. The state department spokesperson, Tommy Pigott, said: “The safety and security of department personnel and their families remain our highest priority.” Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, The Guardian</description>
+  </item>
+  <item>
+    <title>How is the US economy really doing under President Trump?</title>
+    <link>https://joelbarandi.github.io/lede/#s/72863146c1</link>
+    <guid isPermaLink="false">lede-72863146c1</guid>
+    <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+    <category>Politics</category>
+    <description>Photographs by Lynsey Addario I. We drifted past abandoned drilling platforms, ghostly remnants of better days. Cormorants perched on the metal bars of broken oil rigs, drying their wings in the sun. When we reached a swirling, brown-green oil slick, Carlos slowed his motor. Raw oil could damage the engine, he said, and we’d already had to return to shore once that day to swap boats. We floated for a bit. Carlos, who makes his living as a fisherman on Lake Maracaibo, pointed out some surface bubbles, evidence of a leaky pipeline beneath the water. There was a strong smell of gas. He lit a cigarette anyway and laughed. That morning, Carlos and his team had caught about 30 pounds of fish in the lake, a brackish estuary where oil was discovered more than a century ago. The subsequent boom built the cities of Caracas and Maracaibo, three generations of wealth, and four decades of democracy.…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 worker-owned, 1 public.&lt;br&gt;Sources: Aftermath, BBC News, The Atlantic</description>
+  </item>
+  <item>
+    <title>Paris extends curfew as Marseille and Lyon ban protests after riots</title>
+    <link>https://joelbarandi.github.io/lede/#s/1107937f64</link>
+    <guid isPermaLink="false">lede-1107937f64</guid>
+    <pubDate>Thu, 22 Oct 2026 19:25:26 +0000</pubDate>
+    <category>Other</category>
+    <description>Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: BBC News, France 24</description>
+  </item>
+  <item>
+    <title>Cool story</title>
+    <link>https://joelbarandi.github.io/lede/#s/32f59f57f4</link>
+    <guid isPermaLink="false">lede-32f59f57f4</guid>
+    <pubDate>Thu, 22 Oct 2026 19:01:43 +0000</pubDate>
+    <category>Other</category>
+    <description>Today: Josephine Riesman , New York Times bestselling author of Ringmaster and True Believer and, most recently, The Last Temptation of Beck: The Untold Story of a Pop Messiah . Issue No. 674 Art always wins Josephine Riesman Art always wins by Josephine Riesman The following is an excerpt from the author’s new book, The Last Temptation of Beck: The Untold Story of a Pop Messiah . I want to tell you a story about a falling piano. The year is 1946. It’s springtime, but you’d hardly know that from looking around. The Heddernheim neighborhood of Frankfurt is a moonscape of bombed-out ruins and rubble. To Pvt. Al Hansen, an eccentric, nineteen-year-old, five-foot-nine soldier from New York City—a paratrooper in the Allied occupation force—it is a wasteland. He and his fellow soldiers are tasked with mopping up resistance, but there is little to be found. Indeed, there isn’t much of anything…&lt;br&gt;&lt;br&gt;Covered by 2 worker-owned.&lt;br&gt;Sources: Defector, Flaming Hydra</description>
   </item>
 </channel>
 </rss>
