@@ -855,16 +855,16 @@
   },
   {
    "date": "2026-10-23",
-   "articles": 211,
+   "articles": 202,
    "stories": 60,
    "share": {
-    "family": 34.6,
-    "corp": 26.1,
-    "nonprofit": 19.0,
-    "pub": 19.4,
-    "coop": 0.9
+    "pub": 19.3,
+    "nonprofit": 19.3,
+    "family": 33.2,
+    "corp": 26.2,
+    "coop": 2.0
    }
   }
  ],
- "updated": "2026-10-23T10:05:23.434200+00:00"
+ "updated": "2026-10-23T15:05:36.479199+00:00"
 }
