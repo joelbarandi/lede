@@ -963,16 +963,16 @@
   },
   {
    "date": "2026-11-01",
-   "articles": 244,
+   "articles": 276,
    "stories": 60,
    "share": {
-    "family": 30.7,
-    "corp": 30.3,
-    "pub": 15.6,
-    "nonprofit": 20.9,
-    "coop": 2.5
+    "nonprofit": 18.5,
+    "corp": 30.8,
+    "family": 35.1,
+    "pub": 13.4,
+    "coop": 2.2
    }
   }
  ],
- "updated": "2026-11-01T19:41:57.037450+00:00"
+ "updated": "2026-11-01T23:37:25.254607+00:00"
 }
