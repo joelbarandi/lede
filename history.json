@@ -1023,16 +1023,16 @@
   },
   {
    "date": "2026-11-06",
-   "articles": 247,
+   "articles": 347,
    "stories": 60,
    "share": {
-    "nonprofit": 24.3,
-    "pub": 16.2,
-    "corp": 28.3,
-    "family": 29.1,
-    "coop": 2.0
+    "corp": 21.9,
+    "family": 37.2,
+    "nonprofit": 22.2,
+    "pub": 15.6,
+    "coop": 3.2
    }
   }
  ],
- "updated": "2026-11-06T17:59:45.987574+00:00"
+ "updated": "2026-11-06T23:10:18.330729+00:00"
 }
