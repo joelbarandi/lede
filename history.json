@@ -1107,16 +1107,16 @@
   },
   {
    "date": "2026-11-13",
-   "articles": 315,
+   "articles": 273,
    "stories": 60,
    "share": {
-    "family": 37.1,
-    "pub": 13.0,
-    "corp": 30.8,
-    "nonprofit": 16.5,
-    "coop": 2.5
+    "corp": 31.1,
+    "nonprofit": 17.9,
+    "family": 32.2,
+    "coop": 3.7,
+    "pub": 15.0
    }
   }
  ],
- "updated": "2026-11-13T08:00:20.115953+00:00"
+ "updated": "2026-11-13T16:26:19.104545+00:00"
 }
