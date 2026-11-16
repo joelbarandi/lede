@@ -7,78 +7,46 @@
   <atom:link href="https://joelbarandi.github.io/lede/underreported.xml" rel="self" type="application/rss+xml"/>
   <description>Stories whose coverage is concentrated outside corporate and billionaire-owned media.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 16 Nov 2026 02:10:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 09:46:07 +0000</lastBuildDate>
   <item>
-    <title>US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash</title>
-    <link>https://joelbarandi.github.io/lede/#s/5d2bcd5d88</link>
-    <guid isPermaLink="false">lede-5d2bcd5d88</guid>
-    <pubDate>Sun, 15 Nov 2026 23:20:59 +0000</pubDate>
-    <category>Other</category>
-    <description>Thirty-two people are in local hospitals and all passengers and crew are accounted for after a tanker collided with a Mississippi River cruise ship near the Port of New Orleans , officials said Friday. The big picture: With approximately 180 people on the ship, the rescue of all aboard is &quot;truly is a miracle on the Mississippi,&quot; New Orleans Mayor Helena Moreno said at a press conference. What they're saying: While the investigation remains ongoing, officials said the Atlantic Asphalt tanker appeared to have lost control, causing it to collide with the cruise ship. As passengers were disembarking after the collision, the cruise ship began to sink and eventually toppled over and flipped — leaving people in the cold water. Video from the scene shows passengers, in life preservers, swimming in the river toward safety. The first 87 passengers got off while the ship was still afloat, Harbor…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family, 3 nonprofit, 1 public.&lt;br&gt;Sources: Axios, BBC News, NPR, PBS NewsHour, The Daily Wire, The Guardian</description>
-  </item>
-  <item>
-    <title>Estonia to close all border crossings with Russia after attack on drone maker</title>
-    <link>https://joelbarandi.github.io/lede/#s/9a2c7b43f3</link>
-    <guid isPermaLink="false">lede-9a2c7b43f3</guid>
-    <pubDate>Sun, 15 Nov 2026 22:17:09 +0000</pubDate>
-    <category>World</category>
-    <description>Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which authorities said was ordered by Russia’s GRU military intelligence service. On Saturday morning, eight people were detained during an attempted attack on Threod Systems, a defence company that manufactures long-range attack and reconnaissance drones. No injuries or damage were reported after the company’s security team responded to the incident. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 3 public.&lt;br&gt;Sources: Al Jazeera English, Bloomberg, Deutsche Welle, France 24, The Guardian</description>
-  </item>
-  <item>
-    <title>Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says</title>
-    <link>https://joelbarandi.github.io/lede/#s/e6a1b76c62</link>
-    <guid isPermaLink="false">lede-e6a1b76c62</guid>
-    <pubDate>Mon, 16 Nov 2026 01:47:57 +0000</pubDate>
-    <category>World</category>
-    <description>Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Get our breaking news email , free app or daily news podcast Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025. The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence”. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 2 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, PBS NewsHour, The Guardian, The New York Times</description>
-  </item>
-  <item>
-    <title>Nearly 2,200 migrants reach Spain's Canary Islands in two days</title>
-    <link>https://joelbarandi.github.io/lede/#s/6f68e807c7</link>
-    <guid isPermaLink="false">lede-6f68e807c7</guid>
-    <pubDate>Sun, 15 Nov 2026 21:06:01 +0000</pubDate>
-    <category>Other</category>
-    <description>Nearly 2,200 migrants have reached the Canary Islands over the past two days, Spain’s coastguard said Sunday, continuing a recent surge of arrivals from West African countries to the Spanish archipelago, where the authorities declared a migration emergency earlier this week.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 3 public.&lt;br&gt;Sources: Al Jazeera English, Breitbart News, Deutsche Welle, France 24</description>
-  </item>
-  <item>
-    <title>Why the Nvidia scandal is bad news for Europe’s AI ambitions</title>
-    <link>https://joelbarandi.github.io/lede/#s/04e711dd1d</link>
-    <guid isPermaLink="false">lede-04e711dd1d</guid>
-    <pubDate>Sun, 15 Nov 2026 19:47:01 +0000</pubDate>
-    <category>Politics</category>
-    <description>US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions. Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed export restrictions on certain Nvidia chips to China. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, France 24, The Guardian, Washington Post</description>
-  </item>
-  <item>
-    <title>Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon</title>
-    <link>https://joelbarandi.github.io/lede/#s/594a872a3d</link>
-    <guid isPermaLink="false">lede-594a872a3d</guid>
-    <pubDate>Mon, 16 Nov 2026 01:52:12 +0000</pubDate>
+    <title>Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025</title>
+    <link>https://joelbarandi.github.io/lede/#s/7c898c7b16</link>
+    <guid isPermaLink="false">lede-7c898c7b16</guid>
+    <pubDate>Mon, 16 Nov 2026 06:02:06 +0000</pubDate>
     <category>Tech</category>
-    <description>On the penultimate day of his visit to his adopted homeland, Leo channeled Pope Francis by emphasizing Catholic teaching that links care for the most vulnerable with care for God's creation.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, PBS NewsHour</description>
+    <description>Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025. The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence”. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family, 2 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, PBS NewsHour, The Guardian, The New York Times, The Verge</description>
   </item>
   <item>
-    <title>Czechs rally against gov’t threat to media independence</title>
-    <link>https://joelbarandi.github.io/lede/#s/6074871c7e</link>
-    <guid isPermaLink="false">lede-6074871c7e</guid>
-    <pubDate>Mon, 16 Nov 2026 00:26:32 +0000</pubDate>
-    <category>Other</category>
-    <description>Hundreds of thousands of Czechs protested in Prague against the plan of Prime Minister Andrej Babis’s government to overhaul the financing of public broadcasters.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 2 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Bloomberg</description>
+    <title>Third US aircraft carrier arrives in Middle East amid tensions with Iran</title>
+    <link>https://joelbarandi.github.io/lede/#s/bd3eed61fb</link>
+    <guid isPermaLink="false">lede-bd3eed61fb</guid>
+    <pubDate>Mon, 16 Nov 2026 09:31:36 +0000</pubDate>
+    <category>Politics</category>
+    <description>Iran targeted Bahrain for the second time in three days, the first spate of direct attacks on the Persian Gulf state in weeks. Meanwhile the USS Theodore Roosevelt aircraft carrier arrived in the Central Command area of responsibility on Sunday, an Axios reporter said in a post on X, citing a US official. Bloomberg's Stuart Livingstone-Wallace reports. (Source: Bloomberg)&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, Bloomberg, PBS NewsHour</description>
   </item>
   <item>
-    <title>Yemen: Anti-Houthi forces pull back as rebels advance</title>
-    <link>https://joelbarandi.github.io/lede/#s/58890a94e9</link>
-    <guid isPermaLink="false">lede-58890a94e9</guid>
-    <pubDate>Sun, 15 Nov 2026 23:29:00 +0000</pubDate>
-    <category>Other</category>
-    <description>Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday. The embattled government earlier announced it was pulling back its last forces from the Bab el-Mandeb Strait to defend its temporary capital on the southern coast of Yemen.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 2 public.&lt;br&gt;Sources: Deutsche Welle, France 24, The New York Times</description>
-  </item>
-  <item>
-    <title>Israel kills senior member of Hamas's military wing in Gaza strike</title>
-    <link>https://joelbarandi.github.io/lede/#s/34fad7e1d5</link>
-    <guid isPermaLink="false">lede-34fad7e1d5</guid>
-    <pubDate>Sun, 15 Nov 2026 16:41:48 +0000</pubDate>
+    <title>Russia out of IIHF World Junior Ice Hockey as Canada refuses entry</title>
+    <link>https://joelbarandi.github.io/lede/#s/6ed464ad77</link>
+    <guid isPermaLink="false">lede-6ed464ad77</guid>
+    <pubDate>Mon, 16 Nov 2026 08:20:17 +0000</pubDate>
     <category>World</category>
-    <description>Throughout Israel’s war on Palestine, doctors Thaer Ahmad and Feroze Sidhwa spent months at Nasser Hospital in the southern Gaza city of Khan Younis, where they provided care as volunteers and survived a raid and an airstrike on the complex. On Wednesday evening, they were in an Uber in New York headed to a screening of their film about their time in Gaza when they realized Nasser was the target of another Israeli airstrike. “They just hit Nasser again,” Ahmad said, turning from the front seat toward Sidhwa. “I think Rizk is dead.” He was referring to Dr. Rizk Abu Shaaira, an experienced surgeon and fixture of the Palestinian medical community whom both had worked alongside at the hospital and who appears in their film “ American Doctor .” When Israel attacked Nasser Hospital on Wednesday — for at least the seventh time since the genocide escalated in 2023 — Abu Shaaira was one of the…&lt;br&gt;&lt;br&gt;Covered by 1 worker-owned, 1 nonprofit, 1 public.&lt;br&gt;Sources: France 24, The Intercept, Zeteo</description>
+    <description>Two weeks after the CAS ordered ice hockey's governing body to reintegrate Russia into international play, a solution remains elusive. Now Russia has threatened to take legal action against two tournament hosts.&lt;br&gt;&lt;br&gt;Covered by 3 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Deutsche Welle</description>
+  </item>
+  <item>
+    <title>Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals</title>
+    <link>https://joelbarandi.github.io/lede/#s/68eb7936c5</link>
+    <guid isPermaLink="false">lede-68eb7936c5</guid>
+    <pubDate>Mon, 16 Nov 2026 07:13:00 +0000</pubDate>
+    <category>World</category>
+    <description>Russian teenager claims end of season title Sabalenka apologizes to Svitolina after outburst First set: Andreeva* 1-0 Svitolina (*next server) Svitolina quickly drops two points and then sprays a shot wide to give Andreeva three break opportunities. Andreeva hits long on the first. Svitolina misses her first serve, takes her second one despite an emergency vehicle siren in the distance, and it’s a let. She lands the second one, and we have our longest rally so far. Svitolina slowly but surely takes control, and the 19-year-old Andreeva hits just wide. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, Forbes, The Guardian</description>
+  </item>
+  <item>
+    <title>2 planes collide on the ground in Miami, only minor injuries reported</title>
+    <link>https://joelbarandi.github.io/lede/#s/e6a52edf88</link>
+    <guid isPermaLink="false">lede-e6a52edf88</guid>
+    <pubDate>Sun, 15 Nov 2026 22:16:01 +0000</pubDate>
+    <category>Other</category>
+    <description>Two people injured after wingtip of Copa Airlines Boeing 737 struck nose of United Parcel Service Boeing 767 Two planes collided with one another on a taxiway at Miami’s international airport on Saturday night – a day after the Federal Aviation Administration (FAA) issued an hours-long nationwide ground stop due to communication issues affecting multiple air traffic control centers. In a statement, the Trump administration-led FAA said the wingtip of a Copa Airlines Boeing 737 struck the nose of a United Parcel Service Boeing 767 “while the airplanes were taxiing at Miami International Airport”. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 nonprofit.&lt;br&gt;Sources: NBC News, PBS NewsHour, The Guardian</description>
   </item>
   <item>
     <title>SpaceX’s Starship returns to launch pad from orbit – video</title>
@@ -89,52 +57,52 @@
     <description>SpaceX made history by catching the upper stage of the largest and most powerful rocket ever built as a pivotal step for the company in its aim to create the first fully reusable rocket. Starship Flight 15, which launched at 5:47 p.m. ET Friday from Starbase in South Texas, achieved the monumental feat of catching the upper stage — called Starship, or “Ship” — of the rocket using the launch tower’s “chopstick” arms on its return to Earth at 4:20 p.m. ET Saturday. Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement! https://t.co/YJzmGUZb2B — SpaceX (@SpaceX) November 14, 2026 Despite the unprecedented maneuver to retrieve the Ship, the 15th flight of the megarocket did not go completely as planned. The first-stage Super Heavy booster was supposed to push the Ship through the densest parts of the atmosphere, and then make its way to the…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 2 nonprofit.&lt;br&gt;Sources: PBS NewsHour, The Daily Wire, The Guardian</description>
   </item>
   <item>
-    <title>‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon</title>
-    <link>https://joelbarandi.github.io/lede/#s/2423a61d93</link>
-    <guid isPermaLink="false">lede-2423a61d93</guid>
-    <pubDate>Mon, 16 Nov 2026 01:13:44 +0000</pubDate>
-    <category>Tech</category>
-    <description>Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining. On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon and channelled one of Pope Francis’s core teachings that links care for the most vulnerable with care for God’s creation. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: Deutsche Welle, The Guardian</description>
-  </item>
-  <item>
-    <title>Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling</title>
-    <link>https://joelbarandi.github.io/lede/#s/38818ddebc</link>
-    <guid isPermaLink="false">lede-38818ddebc</guid>
-    <pubDate>Mon, 16 Nov 2026 00:01:45 +0000</pubDate>
-    <category>Politics</category>
-    <description>Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime minister, Benjamin Netanyahu, accused Arab parties of electoral fraud without evidence. Netanyahu has repeatedly targeted Arab parties and Palestinian citizens of Israel after his party received a disappointing electoral showing, accusing them of manipulating the election and being linked to Hamas. Israeli electoral authorities have rejected these claims as not being backed by evidence. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, The Guardian</description>
-  </item>
-  <item>
-    <title>Mexican drug lord Miguel Angel Felix Gallardo dies age 80</title>
-    <link>https://joelbarandi.github.io/lede/#s/d22078760d</link>
-    <guid isPermaLink="false">lede-d22078760d</guid>
-    <pubDate>Sun, 15 Nov 2026 23:52:10 +0000</pubDate>
+    <title>'You're going to win the war': Harry praises war veterans on surprise Ukraine visit</title>
+    <link>https://joelbarandi.github.io/lede/#s/c93a98890f</link>
+    <guid isPermaLink="false">lede-c93a98890f</guid>
+    <pubDate>Mon, 16 Nov 2026 09:21:31 +0000</pubDate>
     <category>World</category>
-    <description>Miguel Angel Felix Gallardo, a founder of Mexico’s Guadalajara cartel known as the “boss of bosses”, died in hospital on Sunday aged 80 after suffering multiple organ failure, Jalisco state’s security ministry said. Imprisoned since 1989, he had been transferred from prison to the hospital two days before his death.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: BBC News, France 24</description>
+    <description>Duke of Sussex meets wounded veterans in city and says country could one day host Invictus Games Prince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country. The Duke of Sussex met wounded veterans and medics in the city of Lviv, in the west of Ukraine, as he addressed a conference on treating those injured in war. He said he had taken a risk in travelling to the country, but that he had felt “warmth” when arriving on Saturday. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, The Guardian</description>
   </item>
   <item>
-    <title>Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter</title>
-    <link>https://joelbarandi.github.io/lede/#s/db0d422bbe</link>
-    <guid isPermaLink="false">lede-db0d422bbe</guid>
-    <pubDate>Sun, 15 Nov 2026 22:28:02 +0000</pubDate>
-    <category>World</category>
-    <description>Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”. The four countries released a joint statement on Monday morning, urging Israel to allow 150,000 tents and other vital supplies being held at the border into Gaza ahead of winter. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, The Guardian</description>
-  </item>
-  <item>
-    <title>Ebola outbreak remains out of control in Congo 6 months into response</title>
-    <link>https://joelbarandi.github.io/lede/#s/a11fd6378d</link>
-    <guid isPermaLink="false">lede-a11fd6378d</guid>
-    <pubDate>Sun, 15 Nov 2026 21:07:00 +0000</pubDate>
-    <category>Health</category>
-    <description>More than 11,000 cases have been recorded, and nearly half of those infected have died, according to government data. It is the deadliest of Congo's 17 outbreaks and is on track to surpass the death toll from the West African outbreak that killed 11,000 people between 2014 and 2016.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, PBS NewsHour</description>
-  </item>
-  <item>
-    <title>Jordan sentences three men to death over deadly church attack in Karak</title>
-    <link>https://joelbarandi.github.io/lede/#s/2e2916d511</link>
-    <guid isPermaLink="false">lede-2e2916d511</guid>
-    <pubDate>Sun, 15 Nov 2026 20:12:38 +0000</pubDate>
+    <title>NSW halts new law to crack down on underquoting by real estate agents at 11th hour</title>
+    <link>https://joelbarandi.github.io/lede/#s/54f6a04704</link>
+    <guid isPermaLink="false">lede-54f6a04704</guid>
+    <pubDate>Mon, 16 Nov 2026 08:53:22 +0000</pubDate>
     <category>Other</category>
-    <description>The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, BBC News</description>
+    <description>In summary A Sonoma County lawsuit alleges that one of northern California’s largest real estate brokerages shunted buyers into “dual agency” contracts. Claudia Ochoa and Cesar Gonzalez thought it was odd when they were told to ditch their real estate agent. Before the married couple could make an offer on the newly built single-family home on the west side of Santa Rosa, they were told that they would instead need to accept the services of a new agent who worked for W Real Estate. That’s the same brokerage, one of the largest in Northern California, that was representing the developer in the sale. But Ochoa and Gonzalez, first time buyers with full-time jobs and three young kids, were new to this. Having the same team of real estate agents represent both sides of the sale must just be another quirk of California’s mystifying home-buying process, they figured. Plus, this was the only…&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit.&lt;br&gt;Sources: CalMatters, The Guardian</description>
+  </item>
+  <item>
+    <title>Open Thread</title>
+    <link>https://joelbarandi.github.io/lede/#s/4d295be196</link>
+    <guid isPermaLink="false">lede-4d295be196</guid>
+    <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+    <category>Other</category>
+    <description>As we do every Friday, we're turning Racket over to you, the readers.&lt;br&gt;&lt;br&gt;Covered by 1 worker-owned, 3 nonprofit.&lt;br&gt;Sources: Racket, Reason</description>
+  </item>
+  <item>
+    <title>Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway</title>
+    <link>https://joelbarandi.github.io/lede/#s/ce860be964</link>
+    <guid isPermaLink="false">lede-ce860be964</guid>
+    <pubDate>Mon, 16 Nov 2026 07:23:23 +0000</pubDate>
+    <category>Other</category>
+    <description>Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, BBC News</description>
+  </item>
+  <item>
+    <title>MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation</title>
+    <link>https://joelbarandi.github.io/lede/#s/1eae581a58</link>
+    <guid isPermaLink="false">lede-1eae581a58</guid>
+    <pubDate>Mon, 16 Nov 2026 05:05:07 +0000</pubDate>
+    <category>Health</category>
+    <description>Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanks Australians for charity donations Get our daily political email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in Victoria resulting in the amputation of both her legs. In a statement, Haines said she had moved to the rehabilitation stage of her recovery, which would continue in Melbourne. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, The Guardian</description>
+  </item>
+  <item>
+    <title>Pope Leo flies to mass in the Papacoptero</title>
+    <link>https://joelbarandi.github.io/lede/#s/62a81ffd1b</link>
+    <guid isPermaLink="false">lede-62a81ffd1b</guid>
+    <pubDate>Mon, 16 Nov 2026 03:54:04 +0000</pubDate>
+    <category>Other</category>
+    <description>The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, BBC News</description>
   </item>
 </channel>
 </rss>
