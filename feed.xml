@@ -7,14 +7,38 @@
   <atom:link href="https://joelbarandi.github.io/lede/feed.xml" rel="self" type="application/rss+xml"/>
   <description>News grouped by who owns the outlets covering it.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 16 Nov 2026 20:30:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 03:55:13 +0000</lastBuildDate>
   <item>
-    <title>China says Xi, Trump, Putin to discuss 'world peace'</title>
-    <link>https://joelbarandi.github.io/lede/#s/54987463a8</link>
-    <guid isPermaLink="false">lede-54987463a8</guid>
-    <pubDate>Mon, 16 Nov 2026 19:32:36 +0000</pubDate>
-    <category>World</category>
-    <description>President Donald Trump teased a possible meeting with North Korean dictator Kim Jong Un as he set off for Asia early on Monday. Trump was headed first to the Philippines to attend the 49th Association of Southeast Asian Nations (ASEAN) summit, after which he will travel to China for the Asia-Pacific Economic Cooperation summit. While in China, Trump had already planned to meet privately with President Xi Jinping and Russian President Vladimir Putin — but as he prepared to leave the White House on Monday, he suggested that a private meeting with the North Korean leader could also be in the offing. “We’re making it a big trip,” he told reporters before he boarded Marine One at the White House. “We’re going to the Philippines for a big meeting, mostly on economics, but a lot of other things will be discussed. And economically, we’re leading every country in the world by a lot, so they want…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 6 billionaire/family, 2 nonprofit, 1 public.&lt;br&gt;Sources: ABC News, Bloomberg, Breitbart News, Deutsche Welle, Newsweek, Slate, TIME, The Daily Wire, The Guardian, The New York Times, Washington Post</description>
+    <title>United Airlines says ‘widespread’ system outage resolved</title>
+    <link>https://joelbarandi.github.io/lede/#s/42f4aec3d4</link>
+    <guid isPermaLink="false">lede-42f4aec3d4</guid>
+    <pubDate>Tue, 17 Nov 2026 02:57:06 +0000</pubDate>
+    <category>Tech</category>
+    <description>United Airlines said Monday that it resolved what it called a &quot;widespread system outage&quot; that delayed departing flights for about 90 minutes. Why it matters: It was a quick resolution to yet another issue affecting the U.S.' beleaguered airspace, which spent days digging itself out of thousands of flight delays and cancellations following Friday's hours-long ground stop . What they're saying: &quot;We sincerely apologize for the inconvenience. We're aware of the widespread system outage, and our teams are working hard to get things back up and running as soon as possible,&quot; United Airlines wrote on X in reply to a customer. &quot;We appreciate your patience while we work through this. Please check back with us for updates, and keep an eye on your flight status through the United app or at http://united.com . Thanks for bearing with us!&quot; The customer said the issue stemmed from planes being unable…&lt;br&gt;&lt;br&gt;Covered by 5 corporate, 5 billionaire/family, 2 nonprofit, 1 public.&lt;br&gt;Sources: ABC News, Axios, Bloomberg, Breitbart News, Business Insider, CBS News, Deutsche Welle, Forbes, NBC News, PBS NewsHour, The Daily Wire, The Guardian, The New York Times</description>
+  </item>
+  <item>
+    <title>US moves to block China’s remote access to AI chips amid Nvidia scandal</title>
+    <link>https://joelbarandi.github.io/lede/#s/5cb93d5cc6</link>
+    <guid isPermaLink="false">lede-5cb93d5cc6</guid>
+    <pubDate>Tue, 17 Nov 2026 02:52:56 +0000</pubDate>
+    <category>Tech</category>
+    <description>President Donald Trump is bringing two powerful Cabinet officials divided over restrictions on China's access to advanced American AI chips on his high-stakes Asia trip, as controversy over the issue follows them into talks with Chinese President Xi Jinping. Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick are both accompanying Trump on the four-day trip despite reports of a dispute over whether to blacklist a company suspected of helping China obtain restricted American AI technology. Trump acknowledged their competing views Monday and suggested Lutnick may have delayed action to avoid worsening relations with Beijing. &quot;He might have delayed it, but he was doing that because you could have if you didn't delay it. If you didn't do something, you could have a blow up with China. We're having a very good relationship with China right now, and I understand both sides…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 5 billionaire/family, 3 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, Axios, Bloomberg, CBS News, Deutsche Welle, Fox News, NPR, PBS NewsHour, Semafor, Washington Times</description>
+  </item>
+  <item>
+    <title>Chase outage disrupts online banking and Zelle payments in United States</title>
+    <link>https://joelbarandi.github.io/lede/#s/3eeb37eeea</link>
+    <guid isPermaLink="false">lede-3eeb37eeea</guid>
+    <pubDate>Tue, 17 Nov 2026 01:09:38 +0000</pubDate>
+    <category>Business &amp; Economy</category>
+    <description>Customers of major US banks reported difficulty accessing their accounts Monday, as United Airlines also reported a widespread system outage, elevating concerns about the durability of US digital infrastructure days after a tech failure grounded commercial flights nationwide. United said later on Monday that it was able to quickly resolve the outage, which the airline clarified was not “a cybersecurity-related issue.” A JPMorgan Chase spokesperson told the Associated Press that its own problem resulted from a “ temporary issue related to a software bug in an on-premise hardware system” and was “not cyber-related.” The reports come as widespread integration of AI into digital architecture exposes new cyber vulnerabilities, and as experts and government agencies warn of adversarial governments and non-state actors seeking to exploit those vulnerabilities. Asked about the disruptions…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 4 billionaire/family, 2 nonprofit, 1 public.&lt;br&gt;Sources: Breitbart News, CBS News, France 24, PBS NewsHour, Semafor, TIME, The Guardian, The Hill, The Verge, Washington Post</description>
+  </item>
+  <item>
+    <title>California sues OpenAI over Hugging Face attack</title>
+    <link>https://joelbarandi.github.io/lede/#s/73a60b78a8</link>
+    <guid isPermaLink="false">lede-73a60b78a8</guid>
+    <pubDate>Mon, 16 Nov 2026 23:12:24 +0000</pubDate>
+    <category>Tech</category>
+    <description>California Attorney General Rob Bonta Christina House / Los Angeles Times via Getty Images OpenAI is facing a new lawsuit from California over its rogue AI agents' hack of Hugging Face, POLITICO reports . The suit alleges OpenAI endangered the public by testing its advanced models without having adequate safeguards in place. &quot;In California, we value innovation, but we demand innovation that follows the law,&quot; California AG Rob Bonta said. California Attorney General Rob Bonta is suing OpenAI over the cyberattack a group of its rogue models launched against the AI platform Hugging Face in July. The lawsuit , filed in San Francisco Superior Court on Monday, alleges that OpenAI, one of the world's leading AI developers, endangered the public by testing its advanced models without having adequate safeguards in place. The suit asserts that the incident was foreseeable and preventable, and…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 2 billionaire/family, 2 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, Business Insider, CalMatters, Forbes, France 24, NBC News, NPR, The Verge, Washington Times</description>
   </item>
   <item>
     <title>U.S. Supreme Court rejects Trump’s effort to impose DEI policies on UC researchers</title>
@@ -22,239 +46,231 @@
     <guid isPermaLink="false">lede-b3539ca985</guid>
     <pubDate>Mon, 16 Nov 2026 19:43:08 +0000</pubDate>
     <category>Justice &amp; Policing</category>
-    <description>In summary The U.S. Supreme Court denied the Trump administration’s appeal of lower court decisions ordering it to restore roughly a billion dollars in UC research grants. UC researchers said their First Amendment rights were violated because Trump cancelled the grants over DEI. The U.S. Supreme Court rejected the White House’s bid to have the high court review a case that forced the Trump administration to return hundreds of research grants to academics at the University of California. The court issued the decision today. No justice filed a brief explaining the decision, which is common. Lawyers for the U.S. Department of Justice argued that federal agencies had the right to terminate the grants because they ran afoul of the Trump administration’s executive orders on defunding so-called Diversity, Equity and Inclusion efforts, plus research on the effects of global warming. But…&lt;br&gt;&lt;br&gt;Covered by 4 corporate, 3 billionaire/family, 3 nonprofit.&lt;br&gt;Sources: ABC News, Axios, CBS News, CalMatters, Los Angeles Times, Mother Jones, NBC News, Reason, The New York Times, Washington Post</description>
+    <description>In summary The U.S. Supreme Court denied the Trump administration’s appeal of lower court decisions ordering it to restore roughly a billion dollars in UC research grants. UC researchers said their First Amendment rights were violated because Trump cancelled the grants over DEI. The U.S. Supreme Court rejected the White House’s bid to have the high court review a case that forced the Trump administration to return hundreds of research grants to academics at the University of California. The court issued the decision today. No justice filed a brief explaining the decision, which is common. Lawyers for the U.S. Department of Justice argued that federal agencies had the right to terminate the grants because they ran afoul of the Trump administration’s executive orders on defunding so-called Diversity, Equity and Inclusion efforts, plus research on the effects of global warming. But…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 4 billionaire/family, 3 nonprofit.&lt;br&gt;Sources: ABC News, CalMatters, Los Angeles Times, Mother Jones, NBC News, Reason, The New York Times, Washington Post, Washington Times</description>
+  </item>
+  <item>
+    <title>Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO</title>
+    <link>https://joelbarandi.github.io/lede/#s/e8d831a94e</link>
+    <guid isPermaLink="false">lede-e8d831a94e</guid>
+    <pubDate>Tue, 17 Nov 2026 02:37:53 +0000</pubDate>
+    <category>Politics</category>
+    <description>Bill Ackman said he'd want to clarify the legal uncertainties around Jensen Huang's affairs before launching an activist campaign to restore him as Nvidia CEO. Godofredo A. Vásquez/AFP via Getty Images Investor Bill Ackman has defended Jensen Huang amid the scandals surrounding the former Nvidia CEO. Ackman said he believes there would be ample investor support for reinstating Huang. The case could be made if the legal uncertainties around Huang's affairs are cleared, he said. Bill Ackman said there could be a case for reinstating Jensen Huang as Nvidia CEO — that is, only if Huang is cleared of any wrongdoing related to putting his company's national security obligations at risk. At a conference hosted by Semafor on Monday, the billionaire activist investor was asked what strategy he would use to pressure the board into reinstating Huang. Huang resigned from his role on Thursday…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 3 billionaire/family, 2 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, Bloomberg, Business Insider, Mother Jones, NBC News, PBS NewsHour, Semafor, The New York Times</description>
+  </item>
+  <item>
+    <title>When will we see Robert Pattinson as Bond in cinemas?</title>
+    <link>https://joelbarandi.github.io/lede/#s/514224ff1b</link>
+    <guid isPermaLink="false">lede-514224ff1b</guid>
+    <pubDate>Tue, 17 Nov 2026 01:47:15 +0000</pubDate>
+    <category>Other</category>
+    <description>Picking a new James Bond has long followed a tried-and-tested formula: Don’t go too famous. The secret agent has nearly always been played by an up-and-coming, well-regarded talent who looks good in a tux. So for years, as the debate has dragged on over who would replace Daniel Craig in the role, dozens of names along those lines have bubbled up; these most recently included Jack Lowden, Callum Turner, and Josh O’Connor. Some possible candidates aged out of the role while waiting for it to open up, in the same way that potential popes find themselves hitting retirement age before their chance at the papacy arrives. But the final choice for the new Bond, Robert Pattinson, completely defies that established logic: By casting someone who’s already globally popular, the franchise is somehow taking the risky version of a typically very safe bet. Pattinson makes plenty of sense on paper as…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 3 billionaire/family, 4 public.&lt;br&gt;Sources: BBC News, CBS News, Deutsche Welle, France 24, Los Angeles Times, NBC News, The Atlantic, The New York Times</description>
   </item>
   <item>
     <title>Trump says he 'would not mind' if Jensen Huang returns to Nvidia – video</title>
     <link>https://joelbarandi.github.io/lede/#s/3572eb3e46</link>
     <guid isPermaLink="false">lede-3572eb3e46</guid>
-    <pubDate>Mon, 16 Nov 2026 19:09:18 +0000</pubDate>
+    <pubDate>Tue, 17 Nov 2026 02:15:56 +0000</pubDate>
     <category>Politics</category>
-    <description>Photo Illustration by Thomas Levinson/The Daily Beast/Getty Donald Trump has been defending former Nvidia CEO and close ally Jensen Huang amid the fallout from revelations that he had an affair with an alleged Chinese spy. But it turns out the president has a significant personal financial stake in the chip giant. Trump, who has bought and sold thousands of stocks at a furious pace since returning to office, is believed to hold between $13 million and $62 million in Nvidia stock as of the end of August. The Washington Post first reported the staggering sum, based on a review of the president’s financial disclosures. Read more at The Daily Beast.&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 3 billionaire/family, 1 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, Bloomberg, CBS News, Forbes, France 24, NBC News, The Daily Beast, The Guardian, The New York Times</description>
+    <description>Altimeter Capital CEO Brad Gerstner urged Nvidia’s board on Monday to reconsider Jensen Huang’s ouster, saying the board needs “to get this right.” Gerstner said at Semafor’s Silicon Valley &amp; The World that he wasn’t calling for Huang’s immediate reinstatement as Nvidia CEO but that “everyone is rushing to judgment…and I simply don’t know the facts.” Gerstner acknowledged that Huang “engaged in personal behavior that was pretty bad,” but that he’s messaged the former CEO to express his support. He told Semafor Editor-in-Chief Ben Smith that Nvidia’s success is “too critical to the future security of our country” for the board to make a wrong decision. People familiar with the matter have told Semafor that Huang is mulling a comeback as CEO but that the board isn’t considering a return. Huang resigned last week following reports that he had multiple extramarital affairs, including with…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 3 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: ABC News, Business Insider, Forbes, Semafor, The Guardian, The New York Times, Vox</description>
   </item>
   <item>
-    <title>British actor Robert Pattinson named as new James Bond</title>
-    <link>https://joelbarandi.github.io/lede/#s/f0eaf5097e</link>
-    <guid isPermaLink="false">lede-f0eaf5097e</guid>
-    <pubDate>Mon, 16 Nov 2026 18:58:58 +0000</pubDate>
-    <category>Culture &amp; Sport</category>
-    <description>Daniel Craig, Sean Connery and Pierce Brosnan as James Bond. MGM Robert Pattinson is the newest James Bond. Before he gets his license to kill, let's celebrate who came before him. Business Insider ranked all seven actors who have portrayed Bond in film. Over 60 years and 25 movies, seven actors have played the legendary spy James Bond on screen. Daniel Craig was the latest to take on the character created by novelist Ian Fleming, bringing a darker, grittier tone to the franchise. His run came to an end in 2021's &quot; No Time To Die ,&quot; when his Bond, well, died. Now a new 007 has emerged. Robert Pattinson is officially the next James Bond . Before he debuts his version of Bond, here's where all the best Bonds rank. Zac Ntim, Eammon Jacobs, and Ayomikun Adekaiyero contributed to previous versions of this story. David Niven (1967-1967) David Niven as James Bond in 1967's &quot;Casino Royale.&quot;…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 3 billionaire/family, 4 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Business Insider, Deutsche Welle, France 24, Los Angeles Times, NBC News, The Daily Wire, The New York Times</description>
-  </item>
-  <item>
-    <title>Customers at major banks are experiencing issues accessing their accounts</title>
-    <link>https://joelbarandi.github.io/lede/#s/48dfd4e184</link>
-    <guid isPermaLink="false">lede-48dfd4e184</guid>
-    <pubDate>Mon, 16 Nov 2026 20:18:44 +0000</pubDate>
-    <category>Business &amp; Economy</category>
-    <description>PATRICK T. FALLON/AFP via Getty Images Major US banks were facing widespread outage reports on Monday. Outage reports on DownDetector showed disruptions with Chase, Bank of America, and Wells Fargo. Chase told Business Insider that the bank was dealing with a technical bug, not a cyber attack. Some of the country's largest banks were experiencing widespread outages on Monday. Customers of Chase, Bank of America, Wells Fargo and US Bank reported thousands of combined outages as of the afternoon, according to the third-party website DownDetector.com . Some customers reported issues with being unable to access information on their accounts. DownDetector also showed reports of outages with Zelle and Capital One. The site showed a much smaller spike in outage reports across Citibank and TD Bank. A Chase spokesperson told Business Insider that the bank was dealing with a technical bug, not a…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 2 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, Business Insider, CBS News, Forbes, Fox News, NBC News, PBS NewsHour</description>
-  </item>
-  <item>
-    <title>Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched</title>
-    <link>https://joelbarandi.github.io/lede/#s/57a30fbcae</link>
-    <guid isPermaLink="false">lede-57a30fbcae</guid>
-    <pubDate>Mon, 16 Nov 2026 20:02:04 +0000</pubDate>
+    <title>Trump administration seeks to deflect responsibility for nationwide ground stop</title>
+    <link>https://joelbarandi.github.io/lede/#s/a09bfbb70b</link>
+    <guid isPermaLink="false">lede-a09bfbb70b</guid>
+    <pubDate>Tue, 17 Nov 2026 02:06:34 +0000</pubDate>
     <category>Politics</category>
-    <description>Altimeter Capital CEO Brad Gerstner urged Nvidia’s board on Monday to reconsider Jensen Huang’s ouster, saying the board needs “to get this right.” Gerstner said at Semafor’s Silicon Valley &amp; The World that he wasn’t calling for Huang’s immediate reinstatement as Nvidia CEO but that “everyone is rushing to judgment…and I simply don’t know the facts.” Gerstner acknowledged that Huang “engaged in personal behavior that was pretty bad,” but that he’s messaged the former CEO to express his support. He told Semafor Editor-in-Chief Ben Smith that Nvidia’s success is “too critical to the future security of our country” for the board to make a wrong decision. People familiar with the matter have told Semafor that Huang is mulling a comeback as CEO but that the board isn’t considering a return. Huang resigned last week following reports that he had multiple extramarital affairs, including with…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 3 billionaire/family, 1 public.&lt;br&gt;Sources: BBC News, Bloomberg, Business Insider, Forbes, Semafor, The Verge, Vox</description>
+    <description>A newly installed router is at the center of the investigation into the Federal Aviation Administration's nationwide ground stop last Friday, which disrupted thousands of flights nationwide. Why it matters: The technical failure exposes vulnerabilities in the FAA's aging telecommunications network, raising questions about how a technical failure could trigger a nationwide ground stop and disrupt air travel. Catch up quick: More than 12,000 flights were canceled Friday after the telecommunications failure, the FAA said , with thousands more delayed. &quot;I do think the worst is behind us, but we still do have a significant amount of recovery work to do,&quot; FAA Administrator Bryan Bedford said Sunday. Read more below. What caused the nationwide groundstop? What they're saying: The FAA says its network was flooded with data &quot;at a rate of 1,000 connection attempts every 4 to 5 seconds,&quot; causing…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 3 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, Axios, Breitbart News, CBS News, PBS NewsHour, The Daily Wire, Washington Post</description>
   </item>
   <item>
-    <title>Raye leads 2027 Grammy nominations as women dominate top categories</title>
-    <link>https://joelbarandi.github.io/lede/#s/aac3e038ec</link>
-    <guid isPermaLink="false">lede-aac3e038ec</guid>
-    <pubDate>Mon, 16 Nov 2026 19:37:32 +0000</pubDate>
-    <category>Culture &amp; Sport</category>
-    <description>The 2027 Grammy Awards nominations have arrived, and Page Six has the biggest surprises, snubs and which stars are sure to dominate music’s biggest night. In the Grammys announcement, Taylor Swift was given the honor of announcing the biggest two categories, Song of the Year and Album of the Year, both of which she is...&lt;br&gt;&lt;br&gt;Covered by 6 billionaire/family, 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, Forbes, Los Angeles Times, New York Post, PBS NewsHour, The New York Times</description>
-  </item>
-  <item>
-    <title>Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war</title>
-    <link>https://joelbarandi.github.io/lede/#s/f587cf2d8f</link>
-    <guid isPermaLink="false">lede-f587cf2d8f</guid>
-    <pubDate>Mon, 16 Nov 2026 20:28:18 +0000</pubDate>
-    <category>World</category>
-    <description>Ukraine launched what Russia described as the largest overnight drone attack of the war Monday, striking President Vladimir Putin's prized Crimea bridge and setting industrial facilities ablaze, as separate reports revealed a covert French military mission in Ukraine and preparations in Moscow for a possible return of Russian troops. The developments came days before President Donald Trump is expected to meet Putin and Chinese President Xi Jinping in China, amid renewed U.S.-brokered efforts to end the nearly five-year conflict. &quot;The sheer scale and effectiveness of these drone attacks are remarkable,&quot; retired Air Force Lt. Gen. Richard Newton told Fox News Digital. &quot;Ukraine has developed the capability to produce large numbers of drones and strike targets once considered a safe haven deep inside Russia.&quot; UKRAINE TARGETS RUSSIA WITH OVER 1,000 DRONES, KILLING 2 AS MOSCOW HOLDS LAST DAY…&lt;br&gt;&lt;br&gt;Covered by 4 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, Bloomberg, Fox News, New York Post, The Daily Wire, The Guardian</description>
-  </item>
-  <item>
-    <title>Inside the Fight to Bring Jensen Huang Back to Nvidia</title>
-    <link>https://joelbarandi.github.io/lede/#s/efe3bfa547</link>
-    <guid isPermaLink="false">lede-efe3bfa547</guid>
-    <pubDate>Mon, 16 Nov 2026 20:11:37 +0000</pubDate>
+    <title>Trump to embark on Asia trip in apparent foreign policy push before end of term</title>
+    <link>https://joelbarandi.github.io/lede/#s/5ac4e8942a</link>
+    <guid isPermaLink="false">lede-5ac4e8942a</guid>
+    <pubDate>Tue, 17 Nov 2026 01:29:43 +0000</pubDate>
     <category>Politics</category>
-    <description>Jensen Huang, chief executive of Nvidia. Bloomberg/Getty Images Jensen Huang's boosters are trying to get Nvidia to reinstate its former CEO. There's some pattern recognition here: In 2023, OpenAI fired Sam Altman, and he returned days later. But there are real differences in the two stories. Which is why it's not surprising that Nvidia is saying — for now — that Huang won't come back . Sam Altman came back . Can Jensen Huang do it, too? After all, it was just three years ago when the leader of an enormously important AI company was pushed out by his board, then returned days later after an outcry from employees and Silicon Valley power players. But Huang in 2026 is not Altman in 2023. That doesn't mean we won't see the same story played out. It does mean it seems less likely: Right now, Nvidia's position is that it's not happening . To understand why, we need a brief recap: The story…&lt;br&gt;&lt;br&gt;Covered by 4 corporate, 2 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: ABC News, Business Insider, CBS News, Mother Jones, New York Post, Semafor</description>
+    <description>President Donald Trump’s flight to Asia took a detour Monday as extreme weather forced Air Force One to change its Alaska refueling stop before continuing to the Philippines. Air Force One switched from Anchorage to Fairbanks to refuel under better weather conditions, a White House official confirmed to Fox News. The aircraft has since departed for Manila. The president landed in Alaska at 4:28 p.m. ET for what was expected to be a roughly 90-minute refueling stop, according to the traveling White House press pool. Reporters were not expected to see Trump during the stop, with their next anticipated appearance with the president upon his arrival in Manila. TRUMP BRINGS TWO DIVIDED CABINET HEAVYWEIGHTS TO CHINA AS CONTROVERSY HANGS OVER HIGH-STAKES TALKS Trump’s four-day Asia trip includes stops in the Philippines and China , regional economic and security summits and high-stakes…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 3 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Breitbart News, Fox News, Slate, The Daily Beast, The Daily Wire, The Guardian, The Hill</description>
   </item>
   <item>
-    <title>Lindsay Clancy to face retrial next year for deaths of her three children</title>
-    <link>https://joelbarandi.github.io/lede/#s/fd244e3eb6</link>
-    <guid isPermaLink="false">lede-fd244e3eb6</guid>
-    <pubDate>Mon, 16 Nov 2026 19:50:33 +0000</pubDate>
+    <title>Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children</title>
+    <link>https://joelbarandi.github.io/lede/#s/a9c9135b09</link>
+    <guid isPermaLink="false">lede-a9c9135b09</guid>
+    <pubDate>Tue, 17 Nov 2026 00:23:23 +0000</pubDate>
     <category>Justice &amp; Policing</category>
-    <description>Greg Derr / Getty Images The Massachusetts mother accused of strangling her three young children will face a second murder trial after a single juror prevented the first from reaching a verdict. Lindsay Clancy and her legal team appeared in court Monday for a status hearing, where a judge set a new trial date of March 29, 2027. The announcement comes after Judge William Sullivan decided last week not to rule on defense attorney Kevin Reddington’s motion to dismiss all charges against Clancy following a mistrial caused by a lone holdout juror. Reddington argued that the judge failed to question holdout juror Michael Desronvil about his impartiality after Desronvil publicly discussed his Catholic faith, raising concerns that his religious beliefs may have influenced his vote. Clancy is accused of strangling her three children—Cora, 5, Dawson, 3, and Callan, 8 months—with exercise bands at…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 1 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: BBC News, NBC News, The Daily Beast, The Daily Wire, The Guardian, The Hill</description>
-  </item>
-  <item>
-    <title>FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia</title>
-    <link>https://joelbarandi.github.io/lede/#s/b59bae2e3e</link>
-    <guid isPermaLink="false">lede-b59bae2e3e</guid>
-    <pubDate>Mon, 16 Nov 2026 16:50:27 +0000</pubDate>
-    <category>Politics</category>
-    <description>A communications failure brought departures across the country to a halt Friday, stranding travelers, disrupting professional sports teams and sending federal officials scrambling to restore flights and determine what went wrong. The longest nationwide ground stop in 25 years ended after more than four hours, but the fallout stretched through the weekend as airlines worked through cancellations and investigators zeroed in on routers tied to the outage. Here’s a timeline of the shutdown and the federal response. All times are Eastern. 4 CRITICAL TRAVEL ISSUES FOR THOSE DELAYED AND DISRUPTED BY FAA NATIONWIDE GROUND STOP Transportation Secretary Sean Duffy said officials detected instability in radar data and communications at 3:36 p.m., affecting facilities that guide planes approaching airports and traveling between them. The Federal Aviation Administration (FAA) halted departures…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 4 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Axios, CBS News, Fox News, NPR, The Atlantic, The New York Times</description>
-  </item>
-  <item>
-    <title>The Announcement of Who Will Play the Next James Bond Has Left Me Both Shaken and Stirred</title>
-    <link>https://joelbarandi.github.io/lede/#s/372eeb8392</link>
-    <guid isPermaLink="false">lede-372eeb8392</guid>
-    <pubDate>Mon, 16 Nov 2026 20:19:49 +0000</pubDate>
-    <category>Other</category>
-    <description>2026 has been the year of Robert Pattinson. Between gritty black comedies like The Drama or Primetime , and big-budget movie events like The Odyssey , plus the soon-to-be-released Dune: Part Three , Pattinson has fully put his foot down as the actor of his era. What better way to cap off such a successful year than by taking the crown in the James Bond competition? https://twitter.com/007/status/2122343950308540474?s=20 For those not in the know: Amazon MGM Studios took over creative control of the Bond franchise in 2025, and their first play was acquiring the directing talents of Denis Villeneuve. He was brought in to offer a fresh, auteur-driven approach to the Bond universe following the end of Daniel Craig's storyline—and now the director will be joined by his Dune star Pattinson, coming in as the seventh actor to officially play Bond in what will be the 26th 007 movie.&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 1 billionaire/family, 1 worker-owned.&lt;br&gt;Sources: CBS News, Defector, Forbes, Newsweek, Slate</description>
-  </item>
-  <item>
-    <title>Failed UK asylum seekers to lose five-day grace period and face immediate removal</title>
-    <link>https://joelbarandi.github.io/lede/#s/5a75d34912</link>
-    <guid isPermaLink="false">lede-5a75d34912</guid>
-    <pubDate>Mon, 16 Nov 2026 20:06:24 +0000</pubDate>
-    <category>Justice &amp; Policing</category>
-    <description>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 2 nonprofit, 3 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Bloomberg, Deutsche Welle, The Guardian</description>
-  </item>
-  <item>
-    <title>Trump administration moves to block China from indirect access to American AI tech</title>
-    <link>https://joelbarandi.github.io/lede/#s/2c8c8630d8</link>
-    <guid isPermaLink="false">lede-2c8c8630d8</guid>
-    <pubDate>Mon, 16 Nov 2026 18:51:20 +0000</pubDate>
-    <category>Tech</category>
-    <description>President Trump speaks to members of the media on the South Lawn of the White House on Nov. 16, 2026, ahead of a fraught meeting this week with President Xi Jinping of China where A.I. chips could be a key issue. —Bonnie Cash—UPI/Bloomberg via Getty Images The Trump administration on Monday announced it was tightening a loophole that has allowed Chinese tech firms to bypass U.S. restrictions on accessing the most advanced A.I. chips through third countries. The move comes just days ahead of President Trump’s meeting this week with Chinese President Xi Jinping, and in the wake of Nvidia, the creator of the most advanced AI chips, becoming enmeshed in an international scandal that prompted the resignation of CEO and President Jensen Huang and a fresh round of scrutiny over the company’s ties to China. The new rule released by the Commerce Department will require that buyers of advanced…&lt;br&gt;&lt;br&gt;Covered by 4 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Breitbart News, PBS NewsHour, Semafor, TIME, The New York Times</description>
-  </item>
-  <item>
-    <title>Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP</title>
-    <link>https://joelbarandi.github.io/lede/#s/da16151003</link>
-    <guid isPermaLink="false">lede-da16151003</guid>
-    <pubDate>Mon, 16 Nov 2026 17:55:23 +0000</pubDate>
-    <category>Politics</category>
-    <description>President Donald Trump is bringing two powerful Cabinet officials divided over restrictions on China's access to advanced American AI chips on his high-stakes Asia trip, as controversy over the issue follows them into talks with Chinese President Xi Jinping. Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick are both accompanying Trump on the four-day trip despite reports of a dispute over whether to blacklist a company suspected of helping China obtain restricted American AI technology. Trump acknowledged their competing views Monday and suggested Lutnick may have delayed action to avoid worsening relations with Beijing. &quot;He might have delayed it, but he was doing that because you could have if you didn't delay it. If you didn't do something, you could have a blow up with China. We're having a very good relationship with China right now, and I understand both sides…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 3 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Fox News, PBS NewsHour, The Daily Wire, Vox, Washington Post</description>
+    <description>Lindsay Clancy learned on Monday that she will face a second murder trial for killing her three young children. Clancy, 36, returned to a Massachusetts courtroom where it was determined that jury selection for a new murder trial would begin on March 29, 2027. A status hearing was set for late December, and a final pre-trial hearing for February 18, 2027. Prosecutors from Plymouth County District Attorney Timothy Cruz’s office confirmed as the hearing began on Monday that they would once again bring the case to trial — and that they were prepared to set a date for jury selection — but stopped short of declaring outright that she would again be tried on first-degree murder charges. Clancy’s defense attorney Kevin Reddington read between the lines, however, saying that because the prosecution wanted to move ahead with jury selection it was clear that the murder charges would stand. “The…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 2 billionaire/family, 2 nonprofit, 1 public.&lt;br&gt;Sources: ABC News, BBC News, NBC News, NPR, PBS NewsHour, The Daily Wire, Washington Post</description>
   </item>
   <item>
     <title>Chris Van Hollen says he can beat Chuck Schumer. Here's his case</title>
     <link>https://joelbarandi.github.io/lede/#s/be9844b18f</link>
     <guid isPermaLink="false">lede-be9844b18f</guid>
-    <pubDate>Mon, 16 Nov 2026 12:19:14 +0000</pubDate>
+    <pubDate>Mon, 16 Nov 2026 23:33:00 +0000</pubDate>
     <category>Politics</category>
-    <description>📱 If our emails sometimes get buried in your inbox, we’ve got another way for you to keep up to date: the new Zeteo app . Read our latest reporting, watch exclusive interviews and original shows, listen to podcasts, get alerts, and save content for later – including offline viewing. Download now: iOS | Android . Good morning – Martin here, delighted as ever to bring you the news you need for a happy Monday . It’s the start of another week in DC and beyond that promises all the usual madness. In today’s ‘ First Draft ,’ we’ll take a look at a confident start to Maryland Senator Chris Van Hollen’s challenge to Chuck Schumer of New York for the position of majority leader. Faced with sneering dismissals from Schumer’s camp, Van Hollen is calling for realism about what the midterms tsunami really meant: Voters want progressive change, not more of the centrist same. We’ll also take a look at…&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family, 1 worker-owned, 2 nonprofit.&lt;br&gt;Sources: NPR, The Guardian, The New York Times, Washington Post, Zeteo</description>
+    <description>📱 If our emails sometimes get buried in your inbox, we’ve got another way for you to keep up to date: the new Zeteo app . Read our latest reporting, watch exclusive interviews and original shows, listen to podcasts, get alerts, and save content for later – including offline viewing. Download now: iOS | Android . Good morning – Martin here, delighted as ever to bring you the news you need for a happy Monday . It’s the start of another week in DC and beyond that promises all the usual madness. In today’s ‘ First Draft ,’ we’ll take a look at a confident start to Maryland Senator Chris Van Hollen’s challenge to Chuck Schumer of New York for the position of majority leader. Faced with sneering dismissals from Schumer’s camp, Van Hollen is calling for realism about what the midterms tsunami really meant: Voters want progressive change, not more of the centrist same. We’ll also take a look at…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 3 billionaire/family, 1 worker-owned, 1 nonprofit.&lt;br&gt;Sources: ABC News, Breitbart News, NPR, The Hill, The New York Times, Washington Post, Zeteo</description>
   </item>
   <item>
-    <title>Nationwide ground stop could cost US airlines hundreds of millions</title>
-    <link>https://joelbarandi.github.io/lede/#s/a67f06ec52</link>
-    <guid isPermaLink="false">lede-a67f06ec52</guid>
-    <pubDate>Mon, 16 Nov 2026 20:05:06 +0000</pubDate>
-    <category>Politics</category>
-    <description>A newly installed router is at the center of the investigation into the Federal Aviation Administration's nationwide ground stop last Friday, which disrupted thousands of flights nationwide. Why it matters: The technical failure exposes vulnerabilities in the FAA's aging telecommunications network, raising questions about how a technical failure could trigger a nationwide ground stop and disrupt air travel. Catch up quick: More than 12,000 flights were canceled Friday after the telecommunications failure, the FAA said , with thousands more delayed. &quot;I do think the worst is behind us, but we still do have a significant amount of recovery work to do,&quot; FAA Administrator Bryan Bedford said Sunday. Read more below. What caused the nationwide groundstop? What they're saying: The FAA says its network was flooded with data &quot;at a rate of 1,000 connection attempts every 4 to 5 seconds,&quot; causing…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 2 billionaire/family, 1 public.&lt;br&gt;Sources: Al Jazeera English, Axios, NBC News, Washington Post</description>
-  </item>
-  <item>
-    <title>Saudi Arabia dismisses commander of coalition forces fighting Houthis</title>
-    <link>https://joelbarandi.github.io/lede/#s/2f1dc6d197</link>
-    <guid isPermaLink="false">lede-2f1dc6d197</guid>
-    <pubDate>Mon, 16 Nov 2026 19:19:21 +0000</pubDate>
+    <title>Trump heads to Asia for historic nuclear talks with China and Russia</title>
+    <link>https://joelbarandi.github.io/lede/#s/96fa309656</link>
+    <guid isPermaLink="false">lede-96fa309656</guid>
+    <pubDate>Tue, 17 Nov 2026 03:07:59 +0000</pubDate>
     <category>World</category>
-    <description>Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait and pulled back forces from parts of Marib in the central part of the country. The Saudi-backed government explained the repositioning by saying the strategic priority was to break the attritional siege on Taiz , Yemen’s third city, and to protect Aden, the southern port city in which the Saudi-backed and UN-recognised government is now based. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, France 24, PBS NewsHour, The Guardian</description>
+    <description>U.S. President Donald Trump greets Russian President Vladimir Putin at Joint Base Elmendorf-Richardson in Anchorage, Alaska, on Aug. 15, 2025, ahead of talks on the war in Ukraine. —Andrew Harnik—Getty Images In 1945, with Nazi Germany in its death throes, the leaders of the world’s three most powerful nations gathered in the seaside resort of Yalta. There, on the Black Sea’s pebbled shore, the Soviet Union, Great Britain, and the U.S. held negotiations that would eventually split the planet into competing spheres of influence. Little wonder Kremlin propagandists are clamoring to portray the proposed meeting between Vladimir Putin, Xi Jinping, and Donald Trump on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen on Thursday as Yalta 2.0. At first blush, there are parallels: Putin is a more than adequate stand-in for Joseph Stalin, while the fact the…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 1 billionaire/family, 1 nonprofit, 2 public.&lt;br&gt;Sources: ABC News, Al Jazeera English, CBS News, France 24, PBS NewsHour, TIME</description>
   </item>
   <item>
-    <title>Third U.S. aircraft carrier in Middle East as Trump keeps options open in Iran war</title>
-    <link>https://joelbarandi.github.io/lede/#s/5bf7195fb5</link>
-    <guid isPermaLink="false">lede-5bf7195fb5</guid>
-    <pubDate>Mon, 16 Nov 2026 19:02:29 +0000</pubDate>
-    <category>World</category>
-    <description>President Donald Trump criticized CBS' &quot;60 Minutes&quot; on Monday, following correspondent Norah O’Donnell’s report on a deadly Iranian attack against American troops in Kuwait — accusing the program of omitting U.S. defensive successes. &quot;The new people running 60 Minutes are even worse than their predecessors. A recent study on an attack in the early stages of Iran was not correctly stated,&quot; Trump said in a post on Truth Social. A CBS insider defended its investigation and pointed to reports of another Iranian drone attack targeting an American base in Bahrain. &quot;The Truth Social post on U.S. drone capabilities (despite reports of an Iranian drone strike on another US base in Bahrain yesterday) is an attempt to distract from 60 MINUTES’ 8-month investigation that revealed U.S. military failures surrounding the deadliest attack against U.S. troops in the war with Iran,&quot; a CBS insider told…&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family, 2 nonprofit.&lt;br&gt;Sources: Bloomberg, Fox News, Mother Jones, PBS NewsHour</description>
-  </item>
-  <item>
-    <title>French film star Depardieu drops appeal against sexual conviction</title>
-    <link>https://joelbarandi.github.io/lede/#s/417f1e0965</link>
-    <guid isPermaLink="false">lede-417f1e0965</guid>
-    <pubDate>Mon, 16 Nov 2026 15:51:39 +0000</pubDate>
-    <category>Culture &amp; Sport</category>
-    <description>French film star Gérard Depardieu on Monday dropped his appeal against a conviction for sexually assaulting two women during the filming of a movie in 2021 and issued &quot;sincere apologies&quot; for his past behaviour on set. &quot;For a long time on film sets, I hid behind provocation and ribald humour,&quot; Depardieu, 77, said in the statement, withdrawing his appeal on the day it was set to go to trial. &quot;I believed my remarks and some of my gestures would be without consequences&quot; for those involved, he said. &quot;They were not, particularly coming from a powerful figure such as I once was.&quot;&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, Breitbart News, France 24, The Guardian</description>
-  </item>
-  <item>
-    <title>At least 17 killed in two South Africa mass shootings</title>
-    <link>https://joelbarandi.github.io/lede/#s/dc16352a9f</link>
-    <guid isPermaLink="false">lede-dc16352a9f</guid>
-    <pubDate>Mon, 16 Nov 2026 15:26:39 +0000</pubDate>
-    <category>World</category>
-    <description>At least 17 people were killed in two mass shootings on the same day in South Africa. Motives have not been immediately established for the crimes some 530 kilometers (330 miles) apart, police said Monday.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 3 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Deutsche Welle, PBS NewsHour</description>
-  </item>
-  <item>
-    <title>Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday</title>
-    <link>https://joelbarandi.github.io/lede/#s/ec0708e9ca</link>
-    <guid isPermaLink="false">lede-ec0708e9ca</guid>
-    <pubDate>Sun, 15 Nov 2026 19:30:43 +0000</pubDate>
+    <title>Kim Jong Un’s Top Aide Meets Putin as Trump Floats Diplomacy</title>
+    <link>https://joelbarandi.github.io/lede/#s/be97b18f69</link>
+    <guid isPermaLink="false">lede-be97b18f69</guid>
+    <pubDate>Tue, 17 Nov 2026 01:37:22 +0000</pubDate>
     <category>Politics</category>
-    <description>The Truth Social logo is displayed on the final day of the Great American State Fair on July 10, 2026, in Washington, D.C. —Al Drago—Getty Images President Donald Trump faced a legal setback on Saturday when a federal judge temporarily blocked the planned closure of a public golf course and surrounding parkland in Washington, D.C. Among the evidence undermining his Administration’s justification: his own Truth Social posts. On Oct. 18, Trump announced that the Department of Interior had developed a “plan to build a World Class Championship Golf Course on the site of the current East Potomac Golf Links.” He went on to say that the course would close on Nov. 15 to undergo renovations, which would take 15 months to complete. Read more: Trump's East Potomac Golf Course Renovations Face a Growing Legal Fight In her 30-page decision , District Court Judge Ana Reyes said the post demonstrated…&lt;br&gt;&lt;br&gt;Covered by 3 billionaire/family, 1 public.&lt;br&gt;Sources: BBC News, Breitbart News, TIME, The New York Times</description>
+    <description>President Donald Trump offered a brief, unexpected response about North Korea during a White House gaggle Monday, adding a new wrinkle to his closely watched trip to Asia this week. Trump suggested North Korean leader Kim Jong Un could make an appearance during his China trip, telling reporters, &quot;We might have Kim Jong Un. He may come, I don’t know. That’s up to President Xi.&quot; The comment came in response to a reporter's question about the upcoming high-stakes meetings between Trump, Chinese President Xi Jinping , and Russian President Vladimir Putin at the sidelines of the Asia-Pacific Economic Cooperation (APEC) Leaders' Meeting in Shenzhen, China, and whether the trio planned to discuss North Korean nuclear capabilities. PRESIDENT TRUMP TO HOLD HISTORIC TRILATERAL SUMMIT WITH XI AND PUTIN Trump and Kim last met in 2019, when their Hanoi summit ended without an agreement on North…&lt;br&gt;&lt;br&gt;Covered by 6 billionaire/family.&lt;br&gt;Sources: Bloomberg, Breitbart News, Fox News, The Daily Wire, Washington Post, Washington Times</description>
   </item>
   <item>
-    <title>National ground stop response highlights critical errors in public reassurance – saying ‘nothing nefarious’ did the opposite of quelling public concern</title>
-    <link>https://joelbarandi.github.io/lede/#s/9710c67e7e</link>
-    <guid isPermaLink="false">lede-9710c67e7e</guid>
-    <pubDate>Sun, 15 Nov 2026 16:07:00 +0000</pubDate>
+    <title>FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia</title>
+    <link>https://joelbarandi.github.io/lede/#s/b59bae2e3e</link>
+    <guid isPermaLink="false">lede-b59bae2e3e</guid>
+    <pubDate>Tue, 17 Nov 2026 01:11:52 +0000</pubDate>
     <category>Politics</category>
-    <description>An information board at the Chicago O'Hare International Airport on Nov.13, 2026, after the Federal Aviation Administration ordered a nationwide ground stop on all departing flights. Jacek Boczarski/Anadolu via Getty Images Thousands of travelers were stranded on Nov. 13, 2026, when the Federal Aviation Administration grounded all domestic flights in the U.S. because of what they said were failures in decades-old air traffic communications systems . Crisis communications expert Shannon A. Bowen , a scholar at the University of South Carolina’s College of Information and Communications, spoke with The Conversation’s Politics and Legal Affairs Editor, Naomi Schalit, about how the Trump administration handled the first day of the crisis. This interview has been edited for length and clarity. Is there a first principle in crisis communications? The first principle would be to react quickly…&lt;br&gt;&lt;br&gt;Covered by 3 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Breitbart News, The Conversation, The New York Times, Washington Post</description>
-  </item>
-  <item>
-    <title>US data centers now burn more electricity than a midsized country</title>
-    <link>https://joelbarandi.github.io/lede/#s/8680653c75</link>
-    <guid isPermaLink="false">lede-8680653c75</guid>
-    <pubDate>Mon, 16 Nov 2026 20:27:58 +0000</pubDate>
-    <category>Tech</category>
-    <description>An aerial shows a 49.5 megawatt three-level data center under construction on Oct. 29, 2026 in Vernon, California. —Mario Tama—Getty Images America’s hyperscale data centers together use as much electricity as some entire U.S. states and produce millions of metric tons of carbon dioxide over the course of a year, according to a new study published Monday in Nature Sustainability . The number of hyperscale data centers, which are larger and more powerful than traditional data centers, and are often used to train and run large-scale AI models , has exploded in recent years. Between 2019 and 2024, the number of data centers around the world doubled from a little over 500 to over 1,100, with more than half located in the United States. That number is only expected to grow: the research firm Synergy estimates that the total capacity of U.S. data centers will double in the next three years,…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 1 billionaire/family.&lt;br&gt;Sources: NBC News, TIME, The Verge</description>
+    <description>White House cyber director Sean Cairncross said Monday that a cyberattack was not behind the Trump administration’s nationwide ground stop of air traffic or other outages reported on Monday, attributing the problems to upgrades of old technology. “No, this is not any sort of coordinated, nefarious cyberattack from a malicious actor,” Cairncross told Semafor. “What we are seeing, and frankly I’d expect to see more of it, are service disruptions coming from updating and modernizing legacy systems.” He said the US government is tracking all recent software outages in the last few days. Cairncross told Semafor in an earlier interview that the Trump administration has no plans to release, or require compliance with, its voluntary framework for review of new advanced AI models — adding that frontier labs have cooperated. “The labs have been extremely good about being in communication with us…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 5 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: ABC News, NPR, Semafor, The Daily Wire, Washington Post, Washington Times</description>
   </item>
   <item>
     <title>Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout</title>
     <link>https://joelbarandi.github.io/lede/#s/90dd312da0</link>
     <guid isPermaLink="false">lede-90dd312da0</guid>
-    <pubDate>Mon, 16 Nov 2026 20:10:58 +0000</pubDate>
+    <pubDate>Tue, 17 Nov 2026 01:05:00 +0000</pubDate>
     <category>Politics</category>
-    <description>Then-Nvidia CEO Jensen Huang (left) and U.S. Commerce Secretary Howard Lutnick (right) in the Oval Office on July 29, 2026. Photo by Chip Somodevilla/Getty Images. A week after a midterms “ bloodbath ” throttled the GOP and humiliated the president, the Trump administration has been plunged into another intense round of chaotic backbiting, bitter infighting at the highest levels of the U.S. government, and international scandal that even has Republican lawmakers demanding answers and accountability. In the wake of the 2026 electoral “blue tsunami,” the Trumpland elite had already begun eating itself alive , in an escalating series of blame games, turf battles, and highly personal, petty blood feuds. Now, MAGAworld is self-cannibalizing over yet another colossal, shambolic mess of their own making. In recent days, the Nvidia sex scandal and alleged spying and chip-smuggling debacle have…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 worker-owned, 1 nonprofit.&lt;br&gt;Sources: NPR, The Hill, Zeteo</description>
+    <description>President Donald Trump left the door open Monday to raising the explosive Jensen Huang spy scandal with Chinese leader Xi Jinping, even as he downplayed whether the woman at the center of it was actually an agent for Beijing. Asked why he wasn’t planning to confront Xi about the alleged Chinese spy linked to Nvidia, Trump replied , “I may.” The president is heading to the region for stops including the Philippines and China. The president also made clear he has no hard feelings toward the ousted Nvidia chief. When asked if he wanted Huang back in the top job, Trump said he “would not mind that.” Huang had “learned a big lesson” from the scandal, he added. Trump previously floated former Apple boss Tim Cook as a possible replacement. Huang stepped down after reports of multiple extramarital affairs, including one with Alice Huang, an executive at a Singapore-based Nvidia client. U.S.…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 3 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: NPR, The Daily Beast, The Daily Wire, The Hill, The New York Times, Washington Post</description>
   </item>
   <item>
-    <title>Lindsay Clancy to face a new trial in spring of 2027 over children's killing</title>
-    <link>https://joelbarandi.github.io/lede/#s/3fb4190caf</link>
-    <guid isPermaLink="false">lede-3fb4190caf</guid>
-    <pubDate>Mon, 16 Nov 2026 20:10:32 +0000</pubDate>
+    <title>What went wrong with air traffic control and will more FAA funding fix it?</title>
+    <link>https://joelbarandi.github.io/lede/#s/c8acbf7529</link>
+    <guid isPermaLink="false">lede-c8acbf7529</guid>
+    <pubDate>Mon, 16 Nov 2026 23:50:53 +0000</pubDate>
+    <category>Politics</category>
+    <description>This week, editors Peter Suderman , Katherine Mangu-Ward , and Nick Gillespie are joined by Reason reporter Reem Ibrahim to discuss the nationwide air traffic ground stop caused by a failed Federal Aviation Administration (FAA) equipment upgrade. With the agency still using decades-old technology, they examine why efforts to modernize the system have stalled and whether privatization would be more effective than another $50 billion in federal funding. The panel contrasts the FAA's failures with SpaceX's historic achievement of catching Starship after an orbital flight and debate what private companies do differently. They also discuss the scandal surrounding Nvidia's Jensen Huang, allegations of Chinese espionage, and the dangers of concentrating economic power. The conversation then turns to Washington, D.C.'s decision to block self-driving taxis amid union opposition. Finally, a…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 billionaire/family, 2 nonprofit, 1 public.&lt;br&gt;Sources: France 24, PBS NewsHour, Reason, Vox, Washington Post, Washington Times</description>
+  </item>
+  <item>
+    <title>Mamdani to disband NYPD unit deployed at Columbia protests</title>
+    <link>https://joelbarandi.github.io/lede/#s/5341b98eba</link>
+    <guid isPermaLink="false">lede-5341b98eba</guid>
+    <pubDate>Tue, 17 Nov 2026 00:44:19 +0000</pubDate>
     <category>Justice &amp; Policing</category>
-    <description>Lindsay Clancy prosecutors face an uphill battle taking the killer mom's case in front of a jury again -- but legal experts said there is one tactic they should change as they head to a retrial.&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: NPR, New York Post, Washington Post</description>
+    <description>Multiple police groups condemned NYC Mayor Zohran Mamdani's order disbanding an elite unit on Monday. Mamdani's order eliminated the Strategic Response Group and established new &quot;citizen-led&quot; teams that will handle protests in the city. NYC Police Benevolent Association President Patrick Hendry said the move is proof that Mamdani is siding against police and with disruptive protesters. &quot;Today is not a good day for New Yorkers who just want a safe and orderly city,&quot; Hendry said in a statement. &quot;Mayor Mamdani is showing his true colors: He's willing to put our safety and police officers' safety at risk to appease his radical base. So the next time your life is disrupted by demonstrators who are blocking bridges and roadways or causing chaos on our streets, remember: Mayor Mamdani is on their side, not yours.&quot; MAMDANI CLASHES WITH DEMOCRATIC SOCIALISTS' PUSH TO ABOLISH POLICE AND PRISONS…&lt;br&gt;&lt;br&gt;Covered by 3 billionaire/family, 1 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, Breitbart News, Fox News, The Guardian, Washington Post</description>
   </item>
   <item>
-    <title>Patriots reporter slams Ian Rapoport for ‘botched’ Drake Maye flight info</title>
-    <link>https://joelbarandi.github.io/lede/#s/b0a8dd8f81</link>
-    <guid isPermaLink="false">lede-b0a8dd8f81</guid>
-    <pubDate>Mon, 16 Nov 2026 20:03:14 +0000</pubDate>
-    <category>Other</category>
-    <description>This article was written by Matt Foley and published on Sport &amp; State , a new media company founded by Clay Travis that is built around sports, culture, original voices, and live conversation. * * * * * As a player and a coach, Mike Vrabel has built his reputation on being the toughest guy in the room. But as the New England Patriots’ season spirals toward disaster, his tough-guy act is starting to wear thin. And taking criticism doesn’t seem to be one of his strong suits. Fresh off a 35-10 beatdown by the Detroit Lions in Munich — a game that saw New England’s star QB Drake Maye go down with a serious leg injury — Vrabel raised eyebrows Sunday when he explained that winners find ways to win, while losers “bitch and complain.” Vrabel pushed back when asked whether he was suggesting his own players were complaining, but the whole display felt more like an emotional outburst with truth…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 billionaire/family.&lt;br&gt;Sources: New York Post, Newsweek, The Daily Wire</description>
-  </item>
-  <item>
-    <title>Why the Shock James Bond Casting Is Making Fans So Angry</title>
-    <link>https://joelbarandi.github.io/lede/#s/4704c542ea</link>
-    <guid isPermaLink="false">lede-4704c542ea</guid>
-    <pubDate>Mon, 16 Nov 2026 19:54:13 +0000</pubDate>
-    <category>Other</category>
-    <description>Kristina Bumphrey / Kristina Bumphrey/Variety via Getty Images) The thought of what thrillingly eclectic actor Robert Pattinson’s performance as James Bond might be like has me shaken, stirred, and intrigued in every other way one can use to describe how they take their booze. I’m straight up on the rocks about it! All in a twist! Got me feeling extra dirty! (Have I exhausted this bit yet?!) The news of Pattinson’s casting , however, is arriving a bit like a warm martini that’s been sitting out too long in a sweaty glass: There are a lot of people who aren’t exactly eager to drink it up. Read more at The Daily Beast.&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 1 billionaire/family.&lt;br&gt;Sources: Breitbart News, CBS News, The Daily Beast</description>
-  </item>
-  <item>
-    <title>Iran blocks UN nuclear site visits until war ends</title>
-    <link>https://joelbarandi.github.io/lede/#s/4cb38939d5</link>
-    <guid isPermaLink="false">lede-4cb38939d5</guid>
-    <pubDate>Mon, 16 Nov 2026 19:48:29 +0000</pubDate>
+    <title>Third US aircraft carrier brings thousands more troops to Middle East</title>
+    <link>https://joelbarandi.github.io/lede/#s/2d3033959f</link>
+    <guid isPermaLink="false">lede-2d3033959f</guid>
+    <pubDate>Mon, 16 Nov 2026 23:28:57 +0000</pubDate>
     <category>World</category>
-    <description>The USS Roosevelt aircraft carrier on Sunday reportedly entered the region overseen by U.S. Central Command, which means that the American military now has three carriers positioned in the region again. &quot;The USS Roosevelt aircraft carrier has arrived in the U.S. military central command (CENTCOM) area of responsibility earlier on Sunday, a U.S. official tells me,&quot; Israeli journalist Barak Ravid wrote in a Sunday post on X. &quot;The U.S. military now has three air craft carrier strike groups in CENTCOM.&quot; In a Monday post on X, CENTCOM shared a photo and wrote, &quot;USS Theodore Roosevelt (CVN 71) transits the Indian Ocean, Nov. 15. The aircraft carrier is currently operating in the CENTCOM area of responsibility as part of a scheduled deployment.&quot; IRAN VOWS 'WE WILL FIND YOU' TO 2 US NAVY OFFICERS THE DAY WARSHIP RETURNS FROM MIDDLE EAST The news comes as the U.S.-Iran war continues more than…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family, 1 public.&lt;br&gt;Sources: CBS News, Fox News, France 24</description>
+    <description>The USS Roosevelt aircraft carrier on Sunday reportedly entered the region overseen by U.S. Central Command, which means that the American military now has three carriers positioned in the region again. &quot;The USS Roosevelt aircraft carrier has arrived in the U.S. military central command (CENTCOM) area of responsibility earlier on Sunday, a U.S. official tells me,&quot; Israeli journalist Barak Ravid wrote in a Sunday post on X. &quot;The U.S. military now has three air craft carrier strike groups in CENTCOM.&quot; In a Monday post on X, CENTCOM shared a photo and wrote, &quot;USS Theodore Roosevelt (CVN 71) transits the Indian Ocean, Nov. 15. The aircraft carrier is currently operating in the CENTCOM area of responsibility as part of a scheduled deployment.&quot; IRAN VOWS 'WE WILL FIND YOU' TO 2 US NAVY OFFICERS THE DAY WARSHIP RETURNS FROM MIDDLE EAST The news comes as the U.S.-Iran war continues more than…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 billionaire/family, 2 nonprofit.&lt;br&gt;Sources: Breitbart News, Fox News, PBS NewsHour, The Guardian, The Hill</description>
   </item>
   <item>
-    <title>Mamdani disbands NYPD unit accused of using excessive force</title>
-    <link>https://joelbarandi.github.io/lede/#s/c6b606e0e0</link>
-    <guid isPermaLink="false">lede-c6b606e0e0</guid>
-    <pubDate>Mon, 16 Nov 2026 19:36:53 +0000</pubDate>
-    <category>Justice &amp; Policing</category>
-    <description>Multiple police groups condemned NYC Mayor Zohran Mamdani's order disbanding an elite unit on Monday. Mamdani's order eliminated the Strategic Response Group and established new &quot;citizen-led&quot; teams that will handle protests in the city. NYC Police Benevolent Association President Patrick Hendry said the move is proof that Mamdani is siding against police and with disruptive protesters. &quot;Today is not a good day for New Yorkers who just want a safe and orderly city,&quot; Hendry said in a statement. &quot;Mayor Mamdani is showing his true colors: He's willing to put our safety and police officers' safety at risk to appease his radical base. So the next time your life is disrupted by demonstrators who are blocking bridges and roadways or causing chaos on our streets, remember: Mayor Mamdani is on their side, not yours.&quot; MAMDANI CLASHES WITH DEMOCRATIC SOCIALISTS' PUSH TO ABOLISH POLICE AND PRISONS…&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Fox News, The Guardian, Washington Post</description>
+    <title>Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’</title>
+    <link>https://joelbarandi.github.io/lede/#s/a345e516c9</link>
+    <guid isPermaLink="false">lede-a345e516c9</guid>
+    <pubDate>Tue, 17 Nov 2026 02:59:31 +0000</pubDate>
+    <category>Politics</category>
+    <description>President of Iraq Nizar Amedi told Breitbart News that President Donald Trump is a “very significantly important man” in the scheme of history who can bring peace and prosperity not just to the Middle East but to the whole world by formally ending the war in Iran. The post Exclusive — Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man’ in History Who Can Bring Peace, Prosperity to World with End of Iran War appeared first on Breitbart .&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 1 billionaire/family, 1 public.&lt;br&gt;Sources: Al Jazeera English, Breitbart News, NBC News, Newsweek</description>
   </item>
   <item>
-    <title>California is suing OpenAI over its ‘rogue’ AI agent hack</title>
-    <link>https://joelbarandi.github.io/lede/#s/003bb1f95c</link>
-    <guid isPermaLink="false">lede-003bb1f95c</guid>
-    <pubDate>Mon, 16 Nov 2026 18:52:09 +0000</pubDate>
+    <title>Grammy Awards: Raye and Rosalia lead nominations</title>
+    <link>https://joelbarandi.github.io/lede/#s/7899179b12</link>
+    <guid isPermaLink="false">lede-7899179b12</guid>
+    <pubDate>Tue, 17 Nov 2026 01:24:55 +0000</pubDate>
+    <category>Culture &amp; Sport</category>
+    <description>The Grammy nominations were announced on Monday, and Raye led the charge with 11 nods. She's up for record and song of the year for &quot;Where Is My Husband&quot; and album of the year for &quot;This Music May Contain Hope.&quot; Entertainment Tonight correspondent Denny Directo breaks down the nominations and discusses Robert Pattinson landing the role of James Bond.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family, 2 public.&lt;br&gt;Sources: BBC News, CBS News, Deutsche Welle, Los Angeles Times</description>
+  </item>
+  <item>
+    <title>WATCH: Meet the rental car manager going viral for keeping customers calm during ground stop</title>
+    <link>https://joelbarandi.github.io/lede/#s/7c842f15a1</link>
+    <guid isPermaLink="false">lede-7c842f15a1</guid>
+    <pubDate>Tue, 17 Nov 2026 00:53:24 +0000</pubDate>
+    <category>Other</category>
+    <description>The chaos from the FAA's nationwide ground stop lingered into early Saturday morning, with thousands of flights cancelled as airlines played catch-up. Why it matters: Millions of travelers will find themselves inconvenienced over what the government says was simply old technology that couldn't keep up with modern upgrades. Driving the news: As of 5:15 a.m. ET Saturday, nearly 3,300 flights into, out of, or within the United States were already cancelled for the day, per FlightAware . Nearly 1,000 flights already had delays. Between the lines: The most heavily impacted airports were Atlanta's Hartsfield-Jackson, New York's JFK and Boston Logan. Among the major airlines, FlightAware's data showed Delta more affected than United or American. Zoom in : The ground stop wreaked havoc on college football in particular, with many schools unable to travel to their game locations. ESPN reported a…&lt;br&gt;&lt;br&gt;Covered by 4 corporate.&lt;br&gt;Sources: ABC News, Axios, CBS News, NBC News</description>
+  </item>
+  <item>
+    <title>US loses measles elimination status – an epidemiologist explains what it will take to regain it</title>
+    <link>https://joelbarandi.github.io/lede/#s/bcaa8f1284</link>
+    <guid isPermaLink="false">lede-bcaa8f1284</guid>
+    <pubDate>Tue, 17 Nov 2026 00:53:00 +0000</pubDate>
+    <category>Other</category>
+    <description>Outbreaks caused by falling vaccination rates led to the loss of a public health achievement attained in 2000. wildpixel/iStock via Getty Images The United States has lost its measles elimination status – an international designation reflecting an absence of local measles transmission for at least 12 months – a public health achievement held since 2000 . A commission of the Pan American Health Organization, a regional office of the World Health Organization that oversees the Americas, reached that conclusion in November 2026, with a formal announcement expected Nov. 17 . Canada lost its measles elimination status in 2025 , as did the United Kingdom and other countries in Europe and central Asia in early 2026. These losses of status are no mystery. Measles is one of the most contagious diseases and still circulates in much of the world . What keeps the disease in check is herd immunity –…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 1 nonprofit.&lt;br&gt;Sources: Axios, CBS News, NBC News, The Conversation</description>
+  </item>
+  <item>
+    <title>T-Mobile Black Friday deals: Get an iPhone 18 Pro for $0 upfront and $500 off Google Pixel Watch 5</title>
+    <link>https://joelbarandi.github.io/lede/#s/798fa1e5ca</link>
+    <guid isPermaLink="false">lede-798fa1e5ca</guid>
+    <pubDate>Mon, 16 Nov 2026 22:37:23 +0000</pubDate>
     <category>Tech</category>
-    <description>In summary California Attorney General Rob Bonta sued OpenAI, saying its lack of safeguards led to the Hugging Face hack. California’s attorney general is suing OpenAI, saying a high-profile cybersecurity incident could have been avoided had the company installed proper safeguards. In July 2026, OpenAI, the maker of ChatGPT, was evaluating internal research models when it discovered that its agents had compromised OpenAI systems and hacked their way into Hugging Face , an online platform where users can submit tools and data related to artificial intelligence. The incident sparked public debate over the dangers of AI, with some calling the incident a landmark in the development of the tools. Commentators have long worried that incidents involving so-called “rogue” AI agents could damage critical infrastructure or compromise military weapon systems, and some pointed to the incident to…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: CalMatters, Los Angeles Times, NBC News</description>
+    <description>Give the tech lover on your list something they’ll use every day with T-Mobile’s limited-time Black Friday offers. Score up to $500 off a Google Pixel Watch , add a new line starting at $15 and unlock perks such as DoorDash and Xbox Game Pass. You can also save on iPhones, Apple Watches and other popular gifts while the deal lasts. Check two names off your holiday shopping list with T-Mobile’s Apple Watch Ultra 4 BOGO deal. Buy one for $799.99 and get a second for $250 off when you add qualifying watch lines, bringing the total to $1,349.98 before taxes and line costs. Built for active lifestyles, the Apple Watch Ultra 4 offers multi-day battery life and health and fitness tracking that provides insights into metrics such as heart rate, stress, recovery and readiness. It’s a thoughtful gift for anyone who wants to stay connected, track workouts or better understand their daily activity.…&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 1 billionaire/family.&lt;br&gt;Sources: Fox News, NBC News, The Daily Beast, The Verge</description>
+  </item>
+  <item>
+    <title>Read the full White House memo requiring agencies to get approval before testifying in front of Congress</title>
+    <link>https://joelbarandi.github.io/lede/#s/4a6ee70eb9</link>
+    <guid isPermaLink="false">lede-4a6ee70eb9</guid>
+    <pubDate>Mon, 16 Nov 2026 21:00:32 +0000</pubDate>
+    <category>Politics</category>
+    <description>The White House counsel has instructed all executive branch agencies to get permission from their chief legal counsel and legislative affairs offices before allowing any employee to testify before Congress, according to a memo obtained by Axios. Why it matters: Monday's memo from White House Counsel Will Scharf is the latest sign President Trump is ready to fight the many investigations being promised by Democrats, who will have significant majorities in both chambers of Congress in January. &quot;The Trump administration will not be extorted, intimidated, or threatened into submission by politically motivated baseless investigations,&quot; a White House official said. Zoom in: Scharf's memo to staffers follows a letter he sent last week to the incoming chair of the House Oversight Committee, Rep. Robert Garcia (D-Calif). In that letter, Scharf warned Democrats to limit their investigations to…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Axios, Forbes, PBS NewsHour, Washington Times</description>
+  </item>
+  <item>
+    <title>Mauricio Pochettino sends coaches to Manchester to help prepare for United job</title>
+    <link>https://joelbarandi.github.io/lede/#s/6afce7b9c9</link>
+    <guid isPermaLink="false">lede-6afce7b9c9</guid>
+    <pubDate>Tue, 17 Nov 2026 03:27:51 +0000</pubDate>
+    <category>Culture &amp; Sport</category>
+    <description>Americans are used to dominating just about every sport we care about, which makes our ongoing mediocrity in men’s soccer tough to swallow. As former USMNT coach Mauricio Pochettino heads to Manchester United after 26 months in charge, his takeaways from running U.S. soccer are a bad look for the program. Coming from European football, trying to build a winner inside a system that cushions failure was a problem from day one. He summed up America's dilemma with soccer to Spanish newspaper El País during the 2026 World Cup. &quot;American sports reward losers,&quot; he said. THE CRAIG CARTON SHOW–UNFILTERED, UNAPOLOGETIC AND UNMISSABLE. DOWNLOAD HIS DAILY PODCAST NOW! Over in Europe, losing gets your club relegated and puts jobs on the line. In Major League Soccer , nobody gets booted out of the league, and finishing in the cellar just gets you rewarded with a top draft pick. That setup completely…&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Fox News, New York Post, The Guardian</description>
+  </item>
+  <item>
+    <title>Comer announces bid for Kentucky governor</title>
+    <link>https://joelbarandi.github.io/lede/#s/29a96c41da</link>
+    <guid isPermaLink="false">lede-29a96c41da</guid>
+    <pubDate>Tue, 17 Nov 2026 03:07:31 +0000</pubDate>
+    <category>Politics</category>
+    <description>House Oversight Committee Chairman James Comer, R-Ky., is launching a campaign for governor on Monday night. &quot;Serving this state is a calling for me,&quot; Comer said during a tele-townhall. &quot;Kentucky needs a leader whose policies will lead to growth and good-paying jobs. We need a leader whose priority will be to reduce taxes so Kentuckians can keep more of what they earn.&quot; Comer teased a &quot;major announcement&quot; for Monday night earlier in the day. A source familiar with his plans told Fox News Digital it would be his long-awaited campaign to lead the commonwealth of Kentucky. REDISTRICTING EFFORTS BLOW UP IN REPUBLICANS' FACES AMID HISTORIC HOUSE LOSSES Comer spent the majority of his announcement fielding questions from Kentuckians on topics like education, small business, and high prices. Among the policies he advocated for was reducing Kentucky's income tax to zero. &quot;We all talk about…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 1 billionaire/family.&lt;br&gt;Sources: Fox News, NBC News, The Hill</description>
+  </item>
+  <item>
+    <title>Brits Get the James Bond They Deserve</title>
+    <link>https://joelbarandi.github.io/lede/#s/810cf5d3b3</link>
+    <guid isPermaLink="false">lede-810cf5d3b3</guid>
+    <pubDate>Tue, 17 Nov 2026 02:46:55 +0000</pubDate>
+    <category>Other</category>
+    <description>It’s perhaps the closest thing the UK has to a papal conclave. Guessing the identity of the next James Bond has been Britain’s national pastime for years now, ever since Daniel Craig hung up his tux. Today, the game ended, and Britain exploded with opinions, even as the royal family’s official X account welcomed the winner to “His Majesty’s Secret Service, Mr. Bond.” Every generation of Brits get the Bond it deserves. Sean Connery was the 007 of a nation that still believed in itself—a suave Scotsman in tailored suits, seducing his way across a shrinking empire with the fearlessness of a man who had never been told no. Roger Moore was a spy for the ’70s, raising an eyebrow at strikes and decline while prancing around in questionable safari suits. Timothy Dalton was grim and Thatcherite. Pierce Brosnan was Cool Britannia with a sparkling new BMW deal and a dazzling smile. Daniel Craig,…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 billionaire/family.&lt;br&gt;Sources: Breitbart News, CBS News, The Free Press</description>
+  </item>
+  <item>
+    <title>The Enraging Hypocrisy at the Heart of the Nvidia Scandal</title>
+    <link>https://joelbarandi.github.io/lede/#s/9ce2d0bdc4</link>
+    <guid isPermaLink="false">lede-9ce2d0bdc4</guid>
+    <pubDate>Tue, 17 Nov 2026 02:10:54 +0000</pubDate>
+    <category>Politics</category>
+    <description>US government pressure on Nvidia mounted over whether the chip giant knowingly allowed the sale of restricted technology to China, as the scandal resulting from its ousted CEO Jensen Huang’s affair with a suspected Chinese intelligence asset widened. The ex-Nvidia boss has agreed to testify behind closed doors before US lawmakers; the Treasury secretary, meanwhile, questioned whether the firm pursued sales to China in order to boost revenues, demanding a “ dramatic shakeup ” at the company as reports circulated of Huang seeking a path back to his job . Supporters of Huang who focus solely on his infidelity, however, risk underestimating the scale of the crisis he faces, four experts wrote in Fortune: “ There is no comeback here ,” they warned. — Prashant Rao&lt;br&gt;&lt;br&gt;Covered by 3 billionaire/family.&lt;br&gt;Sources: Semafor, The New York Times, Washington Post</description>
+  </item>
+  <item>
+    <title>Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions</title>
+    <link>https://joelbarandi.github.io/lede/#s/4cf4e533e0</link>
+    <guid isPermaLink="false">lede-4cf4e533e0</guid>
+    <pubDate>Tue, 17 Nov 2026 02:02:57 +0000</pubDate>
+    <category>Business &amp; Economy</category>
+    <description>PATRICK T. FALLON/AFP via Getty Images Chase says a software bug is to blame for widespread online banking issues on Monday. Reports on DownDetector showed disruptions with Chase, Bank of America, and Wells Fargo. &quot;Where we were party to a transaction involving other banks, those banks may have been impacted,&quot; Chase said. A JPMorgan Chase software bug is wreaking havoc on online banking services on Monday, leading to delayed transactions. The company said it was working to resolve the issue — which impacted transactions with other banks — by the end of the day. &quot;JPMorganChase has experienced a temporary issue related to a software bug in on-premise hardware systems — there is no evidence this is cyber-related,&quot; the bank said in a statement posted online . &quot;It is taking longer than usual to service some customers.&quot; &quot;Where we were party to a transaction involving other banks, those banks…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 billionaire/family.&lt;br&gt;Sources: Business Insider, The New York Times, Washington Post</description>
+  </item>
+  <item>
+    <title>Grammys 2027: Rosalía Earns 10 Nods, Full List Of Latin Music Nominees</title>
+    <link>https://joelbarandi.github.io/lede/#s/dc43378683</link>
+    <guid isPermaLink="false">lede-dc43378683</guid>
+    <pubDate>Tue, 17 Nov 2026 01:41:54 +0000</pubDate>
+    <category>Culture &amp; Sport</category>
+    <description>Rosalía picked up the second-most nominations in a top field led by women. From returning winners like Karol G to first-time nominees, see all the Latin music nominees.&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 1 billionaire/family.&lt;br&gt;Sources: ABC News, Forbes, NBC News</description>
+  </item>
+  <item>
+    <title>Trump closes an AI loophole</title>
+    <link>https://joelbarandi.github.io/lede/#s/9f2eff3eb3</link>
+    <guid isPermaLink="false">lede-9f2eff3eb3</guid>
+    <pubDate>Mon, 16 Nov 2026 22:50:00 +0000</pubDate>
+    <category>Tech</category>
+    <description>President Donald Trump departs the White House on November 16, 2026, ahead of a trip to China and the Philippines. | Kent Nishimura/AFP via Getty Images This story appeared in The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here . Welcome to The Logoff: The Trump administration is closing a global AI chip loophole that the Jensen Huang scandal put in the spotlight. What’s changing? The Commerce Department is trying to make it harder for China to access top-of-the-line AI microchips like those made by Nvidia. Currently, China is able to dodge export rules by renting computing power from third-country data centers, which can legally buy American-made chips that China can’t. But under the rule issued Monday, which is set to take effect in 90 days, data centers in a handful of countries…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 billionaire/family.&lt;br&gt;Sources: TIME, The New York Times, Vox</description>
+  </item>
+  <item>
+    <title>France's Philippe Diallo to challenge Infantino for FIFA presidency</title>
+    <link>https://joelbarandi.github.io/lede/#s/028d1c0cd3</link>
+    <guid isPermaLink="false">lede-028d1c0cd3</guid>
+    <pubDate>Mon, 16 Nov 2026 20:24:00 +0000</pubDate>
+    <category>Politics</category>
+    <description>European football's governing body UEFA has given its &quot;unanimous&quot; backing to French Football Federation chief Philippe Diallo to stand against incumbent Gianni Infantino in March's FIFA presidential election, it said in a statement Monday. Under its Slovenian president Aleksander Ceferin, UEFA has led the opposition to Infantino since his announcement in late July of a project to sell stakes in the World Cup to private investors. FRANCE 24's Selina Sykes speaks with Dr. Emanuel Macedo de Medeiros, Co-founder and Global CEO of the Sport Integrity Global Alliance.&lt;br&gt;&lt;br&gt;Covered by 3 public.&lt;br&gt;Sources: Al Jazeera English, Deutsche Welle, France 24</description>
   </item>
   <item>
     <title>Senate Dem challenging Sen Chuck Schumer for leadership post backs Hakeem Jeffries for House speaker</title>
@@ -273,220 +289,204 @@
     <description>Senator Elizabeth Warren holds a discussion at the National Press Building on Jan. 12, 2026, in Washington, D.C. —Heather Diehl––Getty Images The Department of Justice (DOJ) has warned Democratic Senator Elizabeth Warren of Massachusetts that she could face &quot;significant legal consequences&quot; if she fails to preserve records related to potential Congressional investigations involving allies of President Donald Trump . The warning came in a letter from Aaron Reitz, the U.S. Attorney for the Southern District of Texas, who accused Warren, the likely incoming chair of the Senate Banking Committee, of appearing &quot;eager to wield your future gavel like a tomahawk, hunting for the scalps of President Trump's private associates.&quot; The letter, shared by Reitz on social media Sunday and later reposted by Trump on Truth Social, is the latest warning directed at Congressional Democrats over their plans…&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Fox News, TIME, The Guardian</description>
   </item>
   <item>
-    <title>US loses measles elimination status – an epidemiologist explains what it will take to regain it</title>
-    <link>https://joelbarandi.github.io/lede/#s/bcaa8f1284</link>
-    <guid isPermaLink="false">lede-bcaa8f1284</guid>
-    <pubDate>Mon, 16 Nov 2026 18:27:29 +0000</pubDate>
-    <category>Health</category>
-    <description>Outbreaks caused by falling vaccination rates led to the loss of a public health achievement attained in 2000. wildpixel/iStock via Getty Images The United States has lost its measles elimination status – an international designation reflecting an absence of local measles transmission for at least 12 months – a public health achievement held since 2000 . A commission of the Pan American Health Organization, a regional office of the World Health Organization that oversees the Americas, reached that conclusion in November 2026, with a formal announcement expected Nov. 17 . Canada lost its measles elimination status in 2025 , as did the United Kingdom and other countries in Europe and central Asia in early 2026. These losses of status are no mystery. Measles is one of the most contagious diseases and still circulates in much of the world . What keeps the disease in check is herd immunity –…&lt;br&gt;&lt;br&gt;Covered by 2 corporate, 1 nonprofit.&lt;br&gt;Sources: Axios, The Conversation, The Hill</description>
-  </item>
-  <item>
-    <title>The Feds Own a $1 Billion Stake in the Military Contractor Being Blamed for the Air Traffic Meltdown</title>
-    <link>https://joelbarandi.github.io/lede/#s/92dacabbd2</link>
-    <guid isPermaLink="false">lede-92dacabbd2</guid>
-    <pubDate>Mon, 16 Nov 2026 17:05:35 +0000</pubDate>
-    <category>Business &amp; Economy</category>
-    <description>The Trump administration has been blaming a contractor for Friday's air traffic control outage. That accusation should raise new questions about the administration's habit of buying shares in American companies—including that very contractor. That company is L3Harris Technologies, which among other things operates communication infrastructure for the Federal Aviation Administration (FAA). It was selected to retrofit the Boeing 747 that the government of Qatar gifted to President Donald Trump. About 75 percent of the company's revenue comes from the government, according to The New York Times . At a press conference on Saturday, Transportation Secretary Sean Duffy said L3Harris &quot;didn't meet the moment.&quot; He promised to investigate whether &quot;incompetence&quot; was to blame. &quot;And frankly, we're going to hold people accountable,&quot; Duffy said . Meanwhile, Pentagon officials have already invested $1…&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Reason, TIME, The New York Times</description>
-  </item>
-  <item>
-    <title>WATCH: Grammy nominees for Album of the Year, Song of the Year</title>
-    <link>https://joelbarandi.github.io/lede/#s/58b6e8336e</link>
-    <guid isPermaLink="false">lede-58b6e8336e</guid>
-    <pubDate>Mon, 16 Nov 2026 16:32:46 +0000</pubDate>
-    <category>Culture &amp; Sport</category>
-    <description>Raye led the 2027 Grammy Award nominations and is tied with Beyoncé's record for the most nominations in a single year by a female artist. Here's the complete list of nominees.&lt;br&gt;&lt;br&gt;Covered by 3 corporate, 1 billionaire/family.&lt;br&gt;Sources: ABC News, Los Angeles Times, NBC News</description>
-  </item>
-  <item>
-    <title>Oil tankers hit sea mines in the Strait of Hormuz</title>
-    <link>https://joelbarandi.github.io/lede/#s/aabbbdd321</link>
-    <guid isPermaLink="false">lede-aabbbdd321</guid>
-    <pubDate>Mon, 16 Nov 2026 16:04:50 +0000</pubDate>
+    <title>Trump Administration Divide on China Policy Breaks Into Public View</title>
+    <link>https://joelbarandi.github.io/lede/#s/03092b5590</link>
+    <guid isPermaLink="false">lede-03092b5590</guid>
+    <pubDate>Tue, 17 Nov 2026 03:48:50 +0000</pubDate>
     <category>Politics</category>
-    <description>The Panama-flagged vessel Ten Neptune transits the Gulf of Oman on October 13, 2026. Photo by AFP via Getty Images. Monday, November 16, 2026 – Iran: Iran claims six-drone strike on U.S. radar system in Bahrain. U.S. deploys third aircraft carrier to Middle East. Six oil tankers struck mines, caught fire in Strait of Hormuz, Iran says. IRGC claims capture of eighth intact U.S. drone in Hormuz. Israel reportedly warns U.S. of Iranian drone plot targeting President Donald Trump; Tehran denounces “disinformation.” Bahrain sentences convicts 69 defendants over alleged ties to Iran, confiscates $21.2 million. Palestine: Israeli forces kill one Palestinian, wound five others across Gaza. Israeli forces detain 13 Palestinians in occupied West Bank raids. Palestinian prisoners suffer severe weight loss and scabies in Israeli prison. Australia, Canada, UK, and Italy demand Israel allow 150,000…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 worker-owned, 1 public.&lt;br&gt;Sources: Al Jazeera English, Drop Site News, The Daily Beast</description>
+    <description>President Trump acknowledged on Monday that the Treasury and commerce secretaries had been at odds over how hard to crack down on a loophole that has allowed China to access advanced A.I. chips through data centers in other countries.&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family.&lt;br&gt;Sources: The New York Times, Washington Times</description>
   </item>
   <item>
-    <title>Who is Scott Colom? The Background of Mississippi’s New Dem. Senator</title>
-    <link>https://joelbarandi.github.io/lede/#s/9b36fc0130</link>
-    <guid isPermaLink="false">lede-9b36fc0130</guid>
-    <pubDate>Mon, 16 Nov 2026 14:07:44 +0000</pubDate>
-    <category>Politics</category>
-    <description>Rep. Bennie Thompson (D-MS) speaks during a victory celebration for Mississippi Sen.-elect Scott Colom at Tougaloo College in Tougaloo, Mississippi, on November 11, 2026. | Aron Smith/Jackson State University via Getty Images On Wednesday, Mississippi’s Senate race was officially called for Democrat Scott Colom, who will become the first Black person to represent the state in the US Senate since Reconstruction, more than 140 years ago. Colom’s win is a stunning, historic upset — and for many Black Democrats, like Rep. Bennie Thompson, it’s been a long time coming. Thompson, who also won his race last week, has represented Mississippi’s majority-Black Second Congressional District since 1993. Over the years, the 78-year-old lawmaker has frequently invoked the story of his father, who was never able to cast a vote because of racist Jim Crow laws that enforced segregation until the…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 billionaire/family.&lt;br&gt;Sources: Breitbart News, Vox, Washington Post</description>
-  </item>
-  <item>
-    <title>Big Nuclear isn’t worried about the Democrats stopping data centers</title>
-    <link>https://joelbarandi.github.io/lede/#s/335e8abc2b</link>
-    <guid isPermaLink="false">lede-335e8abc2b</guid>
-    <pubDate>Mon, 16 Nov 2026 20:29:37 +0000</pubDate>
-    <category>Tech</category>
-    <description>The last several days have not been good for big tech. On Thursday, Microsoft Outlook, which handles most of the business email in America, suddenly shut down. Then, on Friday, the FAA grounded every flight in the country, apparently because of technical upgrades that went wrong. These fiber-optic faceplants happen to come at a moment when much of the country, mostly at the local level, is seeing fierce opposition to data centers, not only because of environmental concerns and energy prices but also because of real concerns that tech is becoming too big a part of our lives. In Maryland, the story of Taylor Frazier-McCollum, a community activist who helped block a $5 billion data center project planned for the site of an abandoned mall, went viral, with the left praising the power and bravery of the individual and the right mocking her alternative idea for the site: a trampoline park.…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: Fox News, The Verge</description>
-  </item>
-  <item>
-    <title>France's Philippe Diallo to challenge Infantino for FIFA presidency</title>
-    <link>https://joelbarandi.github.io/lede/#s/028d1c0cd3</link>
-    <guid isPermaLink="false">lede-028d1c0cd3</guid>
-    <pubDate>Mon, 16 Nov 2026 20:24:00 +0000</pubDate>
-    <category>Politics</category>
-    <description>Philippe Diallo is the second candidate to stand against incumbent Gianni Infantino. He is backed by European football's governing body UEFA, known to be critical of Infantino.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, Deutsche Welle</description>
-  </item>
-  <item>
-    <title>Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds</title>
-    <link>https://joelbarandi.github.io/lede/#s/788e45c1cc</link>
-    <guid isPermaLink="false">lede-788e45c1cc</guid>
-    <pubDate>Mon, 16 Nov 2026 20:11:32 +0000</pubDate>
-    <category>Climate &amp; Energy</category>
-    <description>‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows The frantic buildout of “hyperscaler” datacenters in the US has collectively caused planet-heating emissions of about the same scale as Denmark emits in a year, new research has found. In that period, 403 “hyperscalers” – the largest datacenters used primarily to handle the growth of artificial intelligence – emitted about 25.7m metric tons of carbon dioxide, according to the study. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 nonprofit.&lt;br&gt;Sources: The Guardian, The Hill</description>
-  </item>
-  <item>
-    <title>Scouted: Score Up to 70% Off Premium Sex Toys During Lovense’s Early Black Friday Sale</title>
-    <link>https://joelbarandi.github.io/lede/#s/1d70d0736f</link>
-    <guid isPermaLink="false">lede-1d70d0736f</guid>
-    <pubDate>Mon, 16 Nov 2026 20:10:08 +0000</pubDate>
-    <category>Other</category>
-    <description>Lovense Scouted selects products independently. If you purchase something from our posts, we may earn a small commission. Black Friday used to mean in-person doorbuster deals on TVs, air fryers, and cozy sweaters—and waiting in never-ending lines in the cold just to get in. Fortunately, now you can score most of the same deals online from the comfort of your couch... and before Thanksgiving week even begins. This year, Lovense is turning up the heat with a blowout sale on its luxe sex toys . Shoppers can enjoy up to 70 percent off across a range of toys, from vibrators to couples’ devices. Whether you’re a curious newbie or a seasoned sex toy connoisseur, Lovense’s sale offers new, exciting ways to explore pleasure. One of Lovense’s bestsellers is the Lush 4 , which proves great things come in small packages. This little egg vibrator teases the clit and G-spot simultaneously with 7,000…&lt;br&gt;&lt;br&gt;Covered by 2 corporate.&lt;br&gt;Sources: NBC News, The Daily Beast</description>
-  </item>
-  <item>
-    <title>High court rejects challenge to Maryland gun ban in sensitive places</title>
-    <link>https://joelbarandi.github.io/lede/#s/422b5fbc44</link>
-    <guid isPermaLink="false">lede-422b5fbc44</guid>
-    <pubDate>Mon, 16 Nov 2026 20:10:03 +0000</pubDate>
-    <category>Justice &amp; Policing</category>
-    <description>WASHINGTON — The Supreme Court on Monday declined to hear a broad challenge to Maryland’s restrictions on people carrying firearms in a broad range of public areas.&lt;br&gt;&lt;br&gt;Covered by 2 corporate.&lt;br&gt;Sources: CBS News, NBC News</description>
-  </item>
-  <item>
-    <title>Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live</title>
-    <link>https://joelbarandi.github.io/lede/#s/04bec3daa5</link>
-    <guid isPermaLink="false">lede-04bec3daa5</guid>
-    <pubDate>Mon, 16 Nov 2026 20:07:50 +0000</pubDate>
-    <category>Politics</category>
-    <description>President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Bloomberg, The Guardian</description>
-  </item>
-  <item>
-    <title>A Florida City Says It Will Stop Sponsoring a St. Patrick's Day Parade, Citing a New Anti-DEI Law</title>
-    <link>https://joelbarandi.github.io/lede/#s/c99989c234</link>
-    <guid isPermaLink="false">lede-c99989c234</guid>
-    <pubDate>Mon, 16 Nov 2026 19:45:33 +0000</pubDate>
-    <category>Other</category>
-    <description>Last week, the city of Delray Beach, Florida, announced that it will not organize or sponsor next year's St. Patrick's Day parade, citing a state law that takes effect on January 1. That law, S.B. 1134 , says local governments may not &quot;promote or provide preferential treatment or special benefits to a person or group based on that person's or group's race, color, sex, ethnicity, gender identity, or sexual orientation.&quot; Delray Beach Mayor Tom Carney, a Republican, says the parade decision illustrates the &quot;unintended consequences&quot; of S.B. 1134, which targets diversity, equity, and inclusion (DEI) policies that offend Gov. Ron DeSantis. The governor accuses Carney of trying to discredit the new law by engaging in &quot;malicious compliance.&quot; Whatever you make of that spat, the upshot seems like a win for taxpayers, since Carney says the parade can still proceed with private funding, as it has…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Reason, Washington Post</description>
-  </item>
-  <item>
-    <title>Two public safety officers shot at NYC housing complex; suspect dead</title>
-    <link>https://joelbarandi.github.io/lede/#s/3e18d8a769</link>
-    <guid isPermaLink="false">lede-3e18d8a769</guid>
-    <pubDate>Mon, 16 Nov 2026 19:44:06 +0000</pubDate>
-    <category>Justice &amp; Policing</category>
-    <description>Two public safety officers at a New York City housing complex were shot Monday before the suspect barricaded himself inside an apartment and took his own life, police said. New York Police Department (NYPD) officers responded to a wellness check at a building in the Co-op City complex just before 11: 45 a.m., the NYPD told Fox News Digital. Upon arriving at the scene, officers found two Co-op City public safety officers suffering from gunshot wounds . TWO POLICE OFFICERS SHOT, SUSPECT 'ACTIVELY FIRING AT POLICE' IN SYRACUSE STANDOFF LASTING HOURS: REPORT Both were transported to a local hospital in stable condition. The suspected shooter had barricaded himself inside a nearby apartment. When NYPD officers breached the unit, they found him dead from an apparent self-inflicted gunshot wound, according to police. NYPD OFFICERS FATALLY SHOOT MAN ARMED WITH BUTCHER KNIFE AFTER HE ADVANCED…&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family.&lt;br&gt;Sources: Breitbart News, Fox News</description>
-  </item>
-  <item>
-    <title>OpenAI wants to stop deepfakes from overwhelming child abuse tiplines</title>
-    <link>https://joelbarandi.github.io/lede/#s/f03a8dca4e</link>
-    <guid isPermaLink="false">lede-f03a8dca4e</guid>
-    <pubDate>Mon, 16 Nov 2026 19:23:45 +0000</pubDate>
-    <category>Tech</category>
-    <description>OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can aid their investigations. The news comes as policymakers and others are pushing for more safety restrictions on AI tools, accusing OpenAI and other co … Read the full story at The Verge.&lt;br&gt;&lt;br&gt;Covered by 2 corporate.&lt;br&gt;Sources: The Hill, The Verge</description>
-  </item>
-  <item>
-    <title>Canada could work with Chinese automakers if US trade talks fail, says Carney</title>
-    <link>https://joelbarandi.github.io/lede/#s/41d54fef5f</link>
-    <guid isPermaLink="false">lede-41d54fef5f</guid>
-    <pubDate>Mon, 16 Nov 2026 19:23:14 +0000</pubDate>
+    <title>Macron visits Malaysia as France seeks closer defence and rare earths ties</title>
+    <link>https://joelbarandi.github.io/lede/#s/81d4e20092</link>
+    <guid isPermaLink="false">lede-81d4e20092</guid>
+    <pubDate>Tue, 17 Nov 2026 03:40:31 +0000</pubDate>
     <category>World</category>
-    <description>Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where auto manufacturing is expected to be discussed. The two leaders reached an agreement in January allowing tens of thousands of Chinese electric vehicles into Canada at reduced tariffs. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 nonprofit.&lt;br&gt;Sources: The Guardian, The Hill</description>
+    <description>French President Emmanuel Macron will meet Malaysian Prime Minister Anwar Ibrahim in Kuala Lumpur on Tuesday to discuss strengthening defence, trade, energy and critical minerals co-operation. Macron's two-day visit, his first since 2017, comes ahead of the countries' 70th anniversary of diplomatic relations, with both sides seeking a strategic partnership.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, France 24</description>
   </item>
   <item>
-    <title>Fernando Mendoza Thanks Raiders Fans for Touching Tribute to His Mom</title>
-    <link>https://joelbarandi.github.io/lede/#s/cd015f4111</link>
-    <guid isPermaLink="false">lede-cd015f4111</guid>
-    <pubDate>Mon, 16 Nov 2026 19:22:28 +0000</pubDate>
-    <category>Culture &amp; Sport</category>
-    <description>This article was written by Karen Crouse and published on Sport &amp; State , a new media company founded by Clay Travis that is built around sports, culture, original voices, and live conversation. * * * * * After the Raiders traded Kirk Cousins to Minnesota and announced that Fernando Mendoza , their No. 1 overall pick in this year’s draft, would make his first start at quarterback Sunday against the reigning Super Bowl champion Seattle Seahawks, Tom Joanides made a proposal on X, directed at his fellow Raiders season-ticket holders: Listen, everyone going to Allegiant Stadium this Sunday. Stay seated when Fernando scores his first touchdown. Will be an epic gesture from fans to player. Pass it along. — Tom Joanides (@TJoanides) November 11, 2026 Joanides, who lives in Southern California with his wife and two sons, accompanied his father to Raiders games as a child when they were based…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: Newsweek, The Daily Wire</description>
-  </item>
-  <item>
-    <title>Person of interest in custody after device found at Illinois plant</title>
-    <link>https://joelbarandi.github.io/lede/#s/3c29bee2c2</link>
-    <guid isPermaLink="false">lede-3c29bee2c2</guid>
-    <pubDate>Mon, 16 Nov 2026 19:21:41 +0000</pubDate>
+    <title>Ray Tintori, filmmaker and boyfriend of 'SNL' alum Heidi Gardner, has died at 43</title>
+    <link>https://joelbarandi.github.io/lede/#s/411a94e835</link>
+    <guid isPermaLink="false">lede-411a94e835</guid>
+    <pubDate>Tue, 17 Nov 2026 03:27:46 +0000</pubDate>
     <category>Other</category>
-    <description>Dozens of people within a mile of the facility in Peoria were evacuated, and hours later law enforcement officers were still extensively searching the building.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: ABC News, Washington Post</description>
+    <description>The late filmmaker shared loving pics with the SNL star in a tribute that has taken on a heartbreaking meaning following his sudden death.&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family.&lt;br&gt;Sources: Los Angeles Times, New York Post</description>
   </item>
   <item>
-    <title>Is Israel’s Eisenkot bloc less right wing than Netanyahu?</title>
-    <link>https://joelbarandi.github.io/lede/#s/aaccd1b7be</link>
-    <guid isPermaLink="false">lede-aaccd1b7be</guid>
-    <pubDate>Mon, 16 Nov 2026 19:09:09 +0000</pubDate>
+    <title>Accused drunk driver who plowed into beloved street vendor, killing 3, faces judge</title>
+    <link>https://joelbarandi.github.io/lede/#s/e718ada487</link>
+    <guid isPermaLink="false">lede-e718ada487</guid>
+    <pubDate>Tue, 17 Nov 2026 03:26:58 +0000</pubDate>
+    <category>Justice &amp; Policing</category>
+    <description>Ihor Demianenko, accused of crashing a minivan outside a North Hollywood Metro station while under the influence, killing three food vendors, appeared in court.&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family.&lt;br&gt;Sources: Los Angeles Times, New York Post</description>
+  </item>
+  <item>
+    <title>Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field</title>
+    <link>https://joelbarandi.github.io/lede/#s/c5506c807c</link>
+    <guid isPermaLink="false">lede-c5506c807c</guid>
+    <pubDate>Tue, 17 Nov 2026 03:12:54 +0000</pubDate>
+    <category>World</category>
+    <description>Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 public.&lt;br&gt;Sources: ABC News, Al Jazeera English</description>
+  </item>
+  <item>
+    <title>Vance says he will decide 'sometime next year' about 2028 US presidential run</title>
+    <link>https://joelbarandi.github.io/lede/#s/6e725d7b75</link>
+    <guid isPermaLink="false">lede-6e725d7b75</guid>
+    <pubDate>Tue, 17 Nov 2026 03:07:23 +0000</pubDate>
     <category>Politics</category>
-    <description>Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime minister, Benjamin Netanyahu, accused Arab parties of electoral fraud without evidence. Netanyahu has repeatedly targeted Arab parties and Palestinian citizens of Israel after his party received a disappointing electoral showing, accusing them of manipulating the election and being linked to Hamas. Israeli electoral authorities have rejected these claims as not being backed by evidence. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, The Guardian</description>
+    <description>Vice President J.D. Vance speaks at the 2nd Marine Aircraft Wing's annual Marine Corps Birthday Ball on Nov. 12, 2026 in New Bern, North Carolina. —Matt Rourke-Pool—Getty Images Democrats’ sweeping wins in the midterm elections have dealt a devastating blow to President Donald Trump, and could spell trouble for the speculated presidential ambitions of his second-in-command, Vice President J.D. Vance , as the contest to succeed Trump on the Republican ticket and in the Oval Office looms. Vance is widely considered to be one of the top potential Republican contenders for the 2028 presidential election , though he has previously dismissed suggestions that he intends to run for the White House in two years. (Vance’s office did not respond to a request for comment on this article.) Still, many people have predicted that Vance will ultimately throw his hat in the ring, along with other…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 public.&lt;br&gt;Sources: BBC News, TIME</description>
   </item>
   <item>
-    <title>U.S. tightens controls on remote access to AI technology amid Nvidia fallout</title>
-    <link>https://joelbarandi.github.io/lede/#s/435bb2c926</link>
-    <guid isPermaLink="false">lede-435bb2c926</guid>
-    <pubDate>Mon, 16 Nov 2026 18:49:26 +0000</pubDate>
-    <category>Politics</category>
-    <description>The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China. (Image credit: Taryn Ng)&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: NPR, The New York Times</description>
+    <title>Ukraine: Russian strikes hit bridges in Kyiv, mayor says</title>
+    <link>https://joelbarandi.github.io/lede/#s/29e4f1bed8</link>
+    <guid isPermaLink="false">lede-29e4f1bed8</guid>
+    <pubDate>Tue, 17 Nov 2026 02:28:00 +0000</pubDate>
+    <category>World</category>
+    <description>Russian strikes hit two major bridges in Kyiv late Monday, part of an overnight attack that damaged critical infrastructure and disrupted heating and water in parts of the capital, its mayor said. Ukraine's President Volodymyr Zelensky had warned of an attack by Russia in the coming days even as negotiators representing Kyiv as well as Europe and the United States held talks on future negotiations with Russia aimed at finding a path to end the war.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Deutsche Welle, France 24</description>
   </item>
   <item>
-    <title>Dan Dakich rips into Lane Kiffin after LSU's loss to Texas eliminates Tigers from CFB Playoff picture</title>
-    <link>https://joelbarandi.github.io/lede/#s/677d1edb4d</link>
-    <guid isPermaLink="false">lede-677d1edb4d</guid>
-    <pubDate>Mon, 16 Nov 2026 18:41:08 +0000</pubDate>
+    <title>Can We Still Trust American Air Travel?</title>
+    <link>https://joelbarandi.github.io/lede/#s/f607c8e60c</link>
+    <guid isPermaLink="false">lede-f607c8e60c</guid>
+    <pubDate>Tue, 17 Nov 2026 02:11:03 +0000</pubDate>
     <category>Other</category>
-    <description>Lane Kiffin left Ole Miss a season ago in unprecedented fashion to take over an LSU program that he's described as &quot;just different.&quot; Part of what makes coaching the Tigers different is the expectations, and Kiffin has failed to meet a single one in his first season in Baton Rouge. During Monday's edition of ' Don't @ Me with Dan Dakich ,' the OutKick host agreed with Kiffin's assessment that LSU is 'just different,' but not in a positive way. &quot;Kiffin told us all that LSU is different,&quot; Dakich explained. &quot;I know it's different; it's the best college football program in the country they tell us when it goes to history, tradition, money, fan support, facility. That's what they tell me. Different. &quot;Different how now? It's got four losses. That's different for an elite school. Not sure very many elite football programs have four losses: first year of a coach, second year of a coach, or 20th…&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family.&lt;br&gt;Sources: Breitbart News, Fox News</description>
+    <description>The FAA grounded every departing flight in the U.S. on Friday, only the second nationwide ground stop since 9/11. CBS News senior transportation correspondent Kris Van Cleave on why anyone would swap out equipment at 4 p.m. on a Friday, what doesn't add up in the official story, and why he's still flying. If you'd like to share your own great question, email us at greatquestion@cbsnews.com.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: CBS News, Fox News</description>
   </item>
   <item>
-    <title>Shocking Detail of Trump’s Response to Air Travel Fiasco Revealed</title>
-    <link>https://joelbarandi.github.io/lede/#s/ac0a569666</link>
-    <guid isPermaLink="false">lede-ac0a569666</guid>
-    <pubDate>Mon, 16 Nov 2026 18:30:58 +0000</pubDate>
+    <title>Lane Kiffin Details Strong Reaction to Last-Second Loss vs Texas</title>
+    <link>https://joelbarandi.github.io/lede/#s/1b4f4bc4cd</link>
+    <guid isPermaLink="false">lede-1b4f4bc4cd</guid>
+    <pubDate>Tue, 17 Nov 2026 02:09:35 +0000</pubDate>
+    <category>Other</category>
+    <description>This article was written by Gus Wilson and published on Sport &amp; State , a new media company founded by Clay Travis that is built around sports, culture, original voices, and live conversation. * * * * * Lane Kiffin doesn’t seem to be taking Saturday’s last-second loss to Texas very well. In fact, it seems to be taking quite the toll on him. In his first year as head coach of the LSU Tigers , Kiffin has not lived up to the sky-high expectations he brought with him to Baton Rouge after spending the previous six seasons turning Ole Miss into a contender. The Tigers are currently 6-4 and sitting firmly outside the College Football Playoff picture after back-to-back losses against Alabama and Texas. Going from national championship expectations to four losses in the SEC is quite the turn of events for LSU, and the pressure Kiffin is facing, especially after Saturday’s performance, is…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: Newsweek, The Daily Wire</description>
+  </item>
+  <item>
+    <title>Democrat Mary Peltola leads ongoing Alaska Senate race</title>
+    <link>https://joelbarandi.github.io/lede/#s/76c236d753</link>
+    <guid isPermaLink="false">lede-76c236d753</guid>
+    <pubDate>Tue, 17 Nov 2026 02:07:04 +0000</pubDate>
     <category>Politics</category>
-    <description>After a major telecommunications glitch grounded all flights across the United States on Friday, investigators traced the problem to one faulty router in Arkansas. The Wall Street Journal reported late on Saturday that a router at the Federal Aviation Administration radio site in El Dorado, Arkansas, caused Friday’s major outage, which left travelers stranded at airports coast to coast. Rebecca Guy, the FAA’s technology chief, explained during a Saturday press conference that the initial investigation had flagged two sites as potential problems: one in Arkansas and a radar site in Amarillo, Texas. “We saw two places that were actually pinging our network at a very high rate, a thousand connections over every four to five seconds,” she said — and that had ultimately overloaded the system. The resulting system overload halted departures nationwide while about 3,500 aircraft were in the…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: The Daily Beast, The Daily Wire</description>
+    <description>Nearly two weeks after the midterms, the only Senate race that hasn't been called is in Alaska. CBS News' Anthony Salvanto has the latest.&lt;br&gt;&lt;br&gt;Covered by 2 corporate.&lt;br&gt;Sources: CBS News, NBC News</description>
   </item>
   <item>
-    <title>Several companies are using Trump tariff refunds for corporate bonuses</title>
-    <link>https://joelbarandi.github.io/lede/#s/06a942383e</link>
-    <guid isPermaLink="false">lede-06a942383e</guid>
-    <pubDate>Mon, 16 Nov 2026 17:52:13 +0000</pubDate>
+    <title>Band of baby sea turtles swims into ocean after historic California nesting</title>
+    <link>https://joelbarandi.github.io/lede/#s/a722ed7b7b</link>
+    <guid isPermaLink="false">lede-a722ed7b7b</guid>
+    <pubDate>Tue, 17 Nov 2026 01:36:39 +0000</pubDate>
+    <category>Other</category>
+    <description>Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have hatched – and California’s first group of 75 native-born olive ridley sea turtles have been released into the Pacific. The eggs incubated at the Aquarium of the Pacific in Long Beach after the historic discovery of two separate nests in September at southern California beaches, a shift likely driven by this year’s El Niño conditions. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: The Guardian, The New York Times</description>
+  </item>
+  <item>
+    <title>EU countries announce migrant deportation centre in Rwanda</title>
+    <link>https://joelbarandi.github.io/lede/#s/b35fdfe58f</link>
+    <guid isPermaLink="false">lede-b35fdfe58f</guid>
+    <pubDate>Tue, 17 Nov 2026 01:12:28 +0000</pubDate>
+    <category>Justice &amp; Policing</category>
+    <description>Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.&lt;br&gt;&lt;br&gt;Covered by 2 public.&lt;br&gt;Sources: Al Jazeera English, BBC News</description>
+  </item>
+  <item>
+    <title>Two camps emerge in Silicon Valley: For Jensen Huang, or against</title>
+    <link>https://joelbarandi.github.io/lede/#s/142e3240e2</link>
+    <guid isPermaLink="false">lede-142e3240e2</guid>
+    <pubDate>Tue, 17 Nov 2026 00:58:56 +0000</pubDate>
+    <category>Other</category>
+    <description>Lisi Niesner/Reuters; BI Silicon Valley is divided over Jensen Huang, following his resignation over his infidelity. Some tech leaders, such as former Uber CEO Travis Kalanick, want Huang back in charge at Nvidia. Huang is more controversial in the AI community, and with some women in tech. Where do you stand on Jensen ? That question is roiling Silicon Valley as it reckons with the tech titan's fall from grace. Venture capitalists, tech founders, and Nvidia employees are rallying to his defense — and some are pushing to bring him back. But others see the rush to forgive him as a familiar Silicon Valley reflex: excusing a powerful man's conduct while minimizing the damage to the people and institutions around him. The Nvidia cofounder and CEO resigned last week following reports that he had multiple affairs, including with an alleged Chinese spy and a subordinate. To some, that's…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: Business Insider, Semafor</description>
+  </item>
+  <item>
+    <title>Trump appeals to state and federal courts to erase hush money criminal conviction</title>
+    <link>https://joelbarandi.github.io/lede/#s/445b58baca</link>
+    <guid isPermaLink="false">lede-445b58baca</guid>
+    <pubDate>Tue, 17 Nov 2026 00:48:19 +0000</pubDate>
     <category>Politics</category>
-    <description>President Donald Trump announces tariffs at the White House in April 2025. Brendan Smialowski/AFP via Getty Images When Stanley Black &amp; Decker, one of the world’s largest tool companies, got hit with President Donald Trump’s tariffs last year, the firm made clear that it would be sharing the pain with its customers. The Connecticut-based company raised prices again and again, moves its executives said were necessary because of the new fees on imports. Now, after the Supreme Court struck down Trump’s most sweeping tariffs earlier this year, the company is getting at least $298 million refunded. Instead of sharing that bounty with its customers, however, the firm has chosen different recipients: Its own leaders. The company is one of at least nine that have disclosed that they are using their refunds not to pay back the cash-strapped consumers who generally covered much of the tariff…&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit.&lt;br&gt;Sources: ProPublica, The Guardian</description>
+    <description>Donald Trump’s lawyers asked a US appeals court Monday to move his so-called hush-money case, in which he was convicted of 34 felony counts, to a federal court where they argue that presidents enjoy broader immunity from prosecution.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Bloomberg, PBS NewsHour</description>
   </item>
   <item>
-    <title>The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit</title>
-    <link>https://joelbarandi.github.io/lede/#s/1e556af0a7</link>
-    <guid isPermaLink="false">lede-1e556af0a7</guid>
-    <pubDate>Mon, 16 Nov 2026 17:50:59 +0000</pubDate>
+    <title>Protesters at Rutgers shout down former Border Patrol chief Greg Bovino</title>
+    <link>https://joelbarandi.github.io/lede/#s/328053caa8</link>
+    <guid isPermaLink="false">lede-328053caa8</guid>
+    <pubDate>Tue, 17 Nov 2026 00:26:23 +0000</pubDate>
+    <category>Politics</category>
+    <description>New Jersey Gov. Mikie Sherrill (D) criticized the Republican club at Rutgers University for inviting retired Border Patrol Chief and former Customs and Border Protection (CBP) Commander Gregory Bovino to speak, stating that she was &quot;deeply disappointed.&quot; The post NJ Gov. Mikie Sherrill on Rutgers Republican Club Inviting Greg Bovino to Speak: ‘Deeply Disappointed’ appeared first on Breitbart .&lt;br&gt;&lt;br&gt;Covered by 2 billionaire/family.&lt;br&gt;Sources: Breitbart News, Washington Times</description>
+  </item>
+  <item>
+    <title>Paraguay ex-president moved to military jail amid special treatment reports</title>
+    <link>https://joelbarandi.github.io/lede/#s/a821765e76</link>
+    <guid isPermaLink="false">lede-a821765e76</guid>
+    <pubDate>Tue, 17 Nov 2026 00:23:50 +0000</pubDate>
+    <category>Politics</category>
+    <description>Ecuadorian President Daniel Noboa denied that the United States operates a military base in his country after an Agence France-Presse ( AFP ) investigation signaled an expanded U.S. military presence at an air base near the port city of Guayaquil. &quot;Sometimes there's a specific mission. Sometimes there's a specific operation,&quot; Noboa told the news outlet Altavoz , describing U.S. personnel at Taura Air Base as carrying out &quot;temporary activities&quot; under a bilateral security agreement, including intelligence-gathering drone flights. &quot;We work together. It's not an American base. It's an Ecuadoran base,&quot; he commented. THE UNLIKELY SOUTH AMERICAN ALLY HELPING LEAD TRUMP'S DRUG CARTEL CRACKDOWN Noboa's remarks came about a month after AFP had documented an unusual deployment of U.S. military aircraft, dozens of tents and construction of new infrastructure at the air base. The investigation…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 public.&lt;br&gt;Sources: Al Jazeera English, Fox News</description>
+  </item>
+  <item>
+    <title>Sanctuary Connecticut: Illegal Alien Accused of Killing 21-Year-Old College Hockey Player Ryan O'Shea</title>
+    <link>https://joelbarandi.github.io/lede/#s/822d531ec2</link>
+    <guid isPermaLink="false">lede-822d531ec2</guid>
+    <pubDate>Tue, 17 Nov 2026 00:12:12 +0000</pubDate>
+    <category>Justice &amp; Policing</category>
+    <description>A Guyanese citizen living in the United States illegally remains at large after being released from custody in New York City earlier this month, despite facing multiple violent felony charges and an active federal immigration detainer, according to the Department of Homeland Security (DHS). DHS officials stated that Delon Raymond Jaundoo was arrested in Brooklyn on charges including attempted murder, first- and second-degree assault, criminal use of a firearm, and multiple counts of criminal possession of a loaded weapon. His prior criminal record also includes an arrest for third-degree assault. U.S. Immigration and Customs Enforcement (ICE) lodged an immigration detainer for Jaundoo on April 29, which the New York City Department of Correction declined to honor, allowing him to be released from Rikers Island. MANHUNT UNDERWAY FOR VIOLENT ILLEGAL IMMIGRANT WHO WAS RELEASED UNDER NYC…&lt;br&gt;&lt;br&gt;Covered by 3 billionaire/family.&lt;br&gt;Sources: Breitbart News, Fox News</description>
+  </item>
+  <item>
+    <title>Pope bids 'hasta luego' to Peru as he wraps up marathon South America trip</title>
+    <link>https://joelbarandi.github.io/lede/#s/85c19888e5</link>
+    <guid isPermaLink="false">lede-85c19888e5</guid>
+    <pubDate>Tue, 17 Nov 2026 00:09:49 +0000</pubDate>
+    <category>Health</category>
+    <description>Pope Leo XIV finished Monday his 12-day tour of Uruguay, Argentina and Peru reiterating his advocacy for social justice, environmental protection and the importance of community. Just a month after undergoing lung cancer surgery, the 71-year-old pontiff drew millions of faithful across South America, where he spent nearly two decades as a missionary.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: France 24, PBS NewsHour</description>
+  </item>
+  <item>
+    <title>One of the victims of the Washington, D.C., gym shooting is a gun control activist</title>
+    <link>https://joelbarandi.github.io/lede/#s/e91c10dff6</link>
+    <guid isPermaLink="false">lede-e91c10dff6</guid>
+    <pubDate>Mon, 16 Nov 2026 23:47:54 +0000</pubDate>
+    <category>Other</category>
+    <description>One of the people wounded in last week’s Washington, D.C., shooting is an anti-gun activist from Minnesota who was walking her daughter’s dog at the time, the daughter said Monday.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: NBC News, Washington Post</description>
+  </item>
+  <item>
+    <title>Hacker behind 2022 GTA VI leaks pleads guilty</title>
+    <link>https://joelbarandi.github.io/lede/#s/16c4b8bf55</link>
+    <guid isPermaLink="false">lede-16c4b8bf55</guid>
+    <pubDate>Mon, 16 Nov 2026 23:35:58 +0000</pubDate>
     <category>Tech</category>
-    <description>Well before reports emerged that former Nvidia CEO Jensen Huang was having an affair with a suspected Chinese spy, the advanced chips made by his company were at the center of the race between the U.S. and China to dominate artificial intelligence.&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: Deutsche Welle, PBS NewsHour</description>
+    <description>Arion Kurtaj, the 21-year-old hacker who posted tons of Grand Theft Auto VI clips online after breaching Rockstar Games' servers, pleaded guilty Monday at the Woolwich Crown Court after being arrested in 2022, according to the BBC . He pleaded guilty to all counts, including those attached to hacks at Uber and others that he carried out while a teenager out on bail (and being housed in a hotel &quot;to protect him from rival hackers&quot;), when he used an Amazon Fire Stick plugged into a hotel television to gain access to the clips and publish them online. In 2022, Kurtaj got into Rockstar Games' Slack to threaten to release Grand Theft Auto VI code. When Rockstar Games did not cooperate, Kurtaj posted the clips and source code. Rockstar Games said it spent $5 million to &quot;recover from the hack, plus thousands of hours of staff time,&quot; BBC reported. The clips Kurtaj posted in 2022 were the…&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 worker-owned.&lt;br&gt;Sources: Aftermath, The Verge</description>
   </item>
   <item>
-    <title>US flights returning to normal levels after weekend of disruption</title>
-    <link>https://joelbarandi.github.io/lede/#s/dc611c820a</link>
-    <guid isPermaLink="false">lede-dc611c820a</guid>
-    <pubDate>Mon, 16 Nov 2026 17:34:22 +0000</pubDate>
+    <title>Tamara Keith and Amy Walter on Trump's summit with Xi and Putin</title>
+    <link>https://joelbarandi.github.io/lede/#s/f457313f2f</link>
+    <guid isPermaLink="false">lede-f457313f2f</guid>
+    <pubDate>Mon, 16 Nov 2026 23:35:35 +0000</pubDate>
     <category>Other</category>
-    <description>Airlines said they expected to operate a largely normal flight schedule on Monday, after Friday’s nationwide ground stop led to widespread delays.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 public.&lt;br&gt;Sources: BBC News, Washington Post</description>
+    <description>NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump's trip to Asia, his planned meetings with the leaders of China and Russia, what the summit might accomplish, Trump blaming Biden for the FAA's problems and the battle over Democratic leadership in Congress.&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: PBS NewsHour, Washington Times</description>
   </item>
   <item>
-    <title>Commerce Department moves to curb remote access to AI chips</title>
-    <link>https://joelbarandi.github.io/lede/#s/a69285eed6</link>
-    <guid isPermaLink="false">lede-a69285eed6</guid>
-    <pubDate>Mon, 16 Nov 2026 17:30:18 +0000</pubDate>
-    <category>Tech</category>
-    <description>The Trump administration moved to limit several countries from providing Chinese companies remote access to advanced artificial intelligence chips and servers, following increased scrutiny over its handling of curbs on semiconductor exports after an alleged espionage scandal involving Nvidia Corp.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: Bloomberg, CBS News</description>
+    <title>11/16: CBS Evening News</title>
+    <link>https://joelbarandi.github.io/lede/#s/e6b66cd52c</link>
+    <guid isPermaLink="false">lede-e6b66cd52c</guid>
+    <pubDate>Mon, 16 Nov 2026 23:30:00 +0000</pubDate>
+    <category>Other</category>
+    <description>Outages hit major U.S. banks, including Chase and Bank of America; United Airlines experienced a &quot;widespread system outage.&quot;&lt;br&gt;&lt;br&gt;Covered by 2 corporate.&lt;br&gt;Sources: ABC News, CBS News</description>
   </item>
   <item>
-    <title>How Many Congressional Democrats Is Trump Planning to Prosecute?</title>
-    <link>https://joelbarandi.github.io/lede/#s/233b9459e3</link>
-    <guid isPermaLink="false">lede-233b9459e3</guid>
-    <pubDate>Mon, 16 Nov 2026 17:07:10 +0000</pubDate>
+    <title>New Travel Chaos as Major U.S. Airline Grounds to a Halt</title>
+    <link>https://joelbarandi.github.io/lede/#s/13a649709b</link>
+    <guid isPermaLink="false">lede-13a649709b</guid>
+    <pubDate>Mon, 16 Nov 2026 23:25:22 +0000</pubDate>
     <category>Politics</category>
-    <description>When the next Congress convenes in January, Democrats will hold large majorities on Capitol Hill—likely 56 seats in the Senate and about 260 in the House of Representatives. For Donald Trump, the numbers seem to pose an existential question: Exactly how many of those lawmakers will he try to put in jail? If the administration’s recent online posting is any indication, that figure could be very high indeed. Let’s start with the president himself. “Will the Seditious Six ever be prosecuted?” he demanded on Truth Social last week. “What they did was a great violation to our Country and its Constitution!” That’s a reference to Democratic Sens. Elissa Slotkin and Mark Kelly, and Reps. Jason Crow, Chris Deluzio, Maggie Goodlander, and Chrissy Houlahan, who last year released a viral video encouraging members of the military and intelligence community to refuse to carry out illegal orders. The…&lt;br&gt;&lt;br&gt;Covered by 1 billionaire/family, 1 nonprofit.&lt;br&gt;Sources: Forbes, Mother Jones</description>
+    <description>Kylie Cooper / REUTERS United Airlines grounded planes on Monday due to what it called a “widespread system outage.” The airline said in a statement that it was “troubleshooting a technology issue affecting departing flights.” Flights in progress were unaffected, it said, as were flights on its regional network, United Express. “We sincerely apologize for the inconvenience,” the airline said separately in a social media post just before 5 p.m. “We’re aware of the widespread system outage, and our teams are working hard to get things back up and running as soon as possible.” Read more at The Daily Beast.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 billionaire/family.&lt;br&gt;Sources: The Daily Beast, Washington Post</description>
   </item>
   <item>
-    <title>What has changed in James Bond films over the decades</title>
-    <link>https://joelbarandi.github.io/lede/#s/e199868c23</link>
-    <guid isPermaLink="false">lede-e199868c23</guid>
-    <pubDate>Mon, 16 Nov 2026 17:07:00 +0000</pubDate>
-    <category>Culture &amp; Sport</category>
-    <description>YouTube/screengrab Robert Pattinson will take his martini shaken, not stirred. Amazon MGM and director Denis Villeneuve have officially chosen the Odyssey star, 40, as the next James Bond after months of casting speculation . Names including frontrunners Callum Turner , Jack Lowden , Josh O’Connor , and Nicholas Hoult , along with Tom Francis, Aaron Taylor-Johnson, and Harris Dickinson, circulated before Pattinson nabbed the iconic role. “James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honor of a lifetime,” Pattinson said in a statement, adding, “To say this role is a dream come true is an understatement. I couldn’t be more excited about this partnership and the work ahead with this fantastic team.” Read more at The Daily Beast.&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 1 public.&lt;br&gt;Sources: Deutsche Welle, The Daily Beast</description>
+    <title>New documentary explores history of crime and punishment in America</title>
+    <link>https://joelbarandi.github.io/lede/#s/4ff353dda7</link>
+    <guid isPermaLink="false">lede-4ff353dda7</guid>
+    <pubDate>Mon, 16 Nov 2026 23:20:00 +0000</pubDate>
+    <category>Other</category>
+    <description>A new four-episode PBS documentary series, Crime and Punishment in America , debuts tonight and offers a deeply researched and engaging history of the country's efforts to create a fair and humane justice system. Written, directed, and produced by Lynn Novick and executive produced by Ken Burns, the documentary explores one of the most interesting but lesser-explored angles of our country's history. Like Reason 's recent cover story on the history of American prisons, the documentary recognizes that the question of what criminal punishment in a constitutional republic should look like has been, outside of the problem of race, perhaps the country's most consequential and enduring debate over the last 250 years. America was in fact where the modern penitentiary was created in the early 19th century, in an effort to move away from the public punishments and frequent executions that the…&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit.&lt;br&gt;Sources: PBS NewsHour, Reason</description>
+  </item>
+  <item>
+    <title>Ukraine hits key Crimea bridge with drones</title>
+    <link>https://joelbarandi.github.io/lede/#s/4027424cef</link>
+    <guid isPermaLink="false">lede-4027424cef</guid>
+    <pubDate>Mon, 16 Nov 2026 23:13:06 +0000</pubDate>
+    <category>World</category>
+    <description>Traffic temporarily restricted on key connection after bridge targeted during overnight drone barrage by Ukraine Ukraine has hit the Kerch bridge connecting occupied Crimea with Russia, in a symbolic blow that temporarily paralysed road traffic and left thousands of drivers stranded. A Ukrainian kamikaze drone crashed into one of the bridge’s arches at 5.38am local time, local channels reported. Earlier drones could be heard buzzing above the structure, as Russian air defence units opened fire. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 nonprofit, 1 public.&lt;br&gt;Sources: France 24, The Guardian</description>
   </item>
 </channel>
 </rss>
