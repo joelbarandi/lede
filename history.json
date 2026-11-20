@@ -1191,16 +1191,16 @@
   },
   {
    "date": "2026-11-20",
-   "articles": 288,
+   "articles": 265,
    "stories": 60,
    "share": {
-    "corp": 22.6,
-    "family": 39.9,
-    "nonprofit": 19.4,
-    "pub": 14.2,
-    "coop": 3.8
+    "corp": 24.5,
+    "nonprofit": 16.6,
+    "family": 40.8,
+    "coop": 5.7,
+    "pub": 12.5
    }
   }
  ],
- "updated": "2026-11-20T11:54:20.562598+00:00"
+ "updated": "2026-11-20T20:22:56.210425+00:00"
 }
