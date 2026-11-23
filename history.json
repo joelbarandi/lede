@@ -1227,16 +1227,16 @@
   },
   {
    "date": "2026-11-23",
-   "articles": 224,
+   "articles": 233,
    "stories": 60,
    "share": {
-    "nonprofit": 20.1,
-    "corp": 22.3,
-    "family": 38.4,
-    "pub": 17.4,
-    "coop": 1.8
+    "family": 37.3,
+    "corp": 21.9,
+    "nonprofit": 21.0,
+    "pub": 17.2,
+    "coop": 2.6
    }
   }
  ],
- "updated": "2026-11-23T02:46:37.189158+00:00"
+ "updated": "2026-11-23T12:44:14.864204+00:00"
 }
